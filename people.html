@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">People</h1>
+
+  <ul class="post-list">
+    {% for person in site.people %}
+      <li>
+        {{person.name}}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <hr>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
