@@ -9,67 +9,7 @@
 
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.1.2/foundation.min.css">
-  <link href='http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
-
-  <style>
-    .title-bar {
-      background: #333;
-      padding: 0.9rem;
-    }
-
-    .top-bar {
-      background: #333;
-    }
-
-    .top-bar ul {
-      background: #333;
-    }
-
-    .top-bar ul li {
-      background: #333;
-    }
-
-    .top-bar ul li a {
-      color: #fff;
-    }
-
-    .menu-text {
-      color: #fff;
-    }
-
-    @media only screen and (max-width: 40em) {
-      .menu-text {
-        display: none !important;
-      }
-    }
-
-    @media only screen and (min-width: 40em) {
-      .top-bar .menu:last-child {
-        border-left: 1px solid #4e4e4e;
-      }
-      .top-bar .menu:first-child {
-        border-left: none;
-      }
-      .top-bar .menu li:not(:last-child) {
-        border-right: 1px solid #4e4e4e;
-      }
-    }
-
-    .dropdown.menu .submenu {
-      border: none;
-    }
-
-    .dropdown.menu .is-dropdown-submenu-parent.is-right-arrow > a::after {
-      border-color: #fff transparent transparent;
-    }
-
-    .is-drilldown-submenu-parent > a::after {
-      border-color: transparent transparent transparent #fff;
-    }
-
-    .js-drilldown-back::before {
-      border-color: transparent #fff transparent transparent;
-    }
-  </style>
+  <link rel="stylesheet" type='text/css' href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.1.2/foundation.min.css">
+  <link rel="stylesheet" type='text/css' href='http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css'>
+  <link rel="stylesheet" type='text/css' href="{{ "/css/main.css" | prepend: site.baseurl }}">
 </head>
