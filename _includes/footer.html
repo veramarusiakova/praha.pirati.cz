@@ -1,38 +1,98 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
+<footer>
+  <div class="row expanded callout secondary">
+    <div class="large-2 columns">
+      <h5>Lidé</h5>
+      <ul class="no-bullet">
+        <li><a href="#">Magistrát</a></li>
+        <li><a href="#">Městské části</a></li>
+        <li><a href="#">Senát</a></li>
+        <li><a href="#">Předsednictvo</a></li>
+      </ul>
     </div>
-
+    <div class="large-2 columns">
+      <h5>Program</h5>
+      <ul class="no-bullet">
+        <li><a href="#">Vize Prahy</a></li>
+        <li><a href="#">Celostátní</a></li>
+        <li><a href="#">Transparence</a></li>
+      </ul>
+    </div>
+    <div class="large-2 columns">
+      <h5>Makáme</h5>
+      <ul class="no-bullet">
+        <li><a href="#">Novinky</a></li>
+        <li><a href="#">Kalendář</a></li>
+        <li><a href="#">Užitečné tipy</a></li>
+        <li><a href="#">Pro členy</a></li>
+      </ul>
+    </div>
+    <div class="large-2 columns">
+      <h5>Podpoř nás</h5>
+      <ul class="no-bullet">
+        <li><a href="#">Přispěj</a></li>
+        <li><a href="#">Volná místa</a></li>
+        <li><a href="#">Příručka Piráta</a></li>
+      </ul>
+    </div>
+    <div class="large-2 columns">
+      <h5>Kontakt</h5>
+      <dl>
+        <dt>Media:</dt>
+        <dd>Mikuláš Ferjenčík, mikulas.ferjencik@pirati.cz</dd>
+        <dt>Občané:</dt>
+        <dd>Adam Zábranský, adam.zabransky@pirati.cz</dd>
+      </dl>
+    </div>
+    <div class="large-2 columns">
+      <h5>Facebook</h5>
+    </div>
   </div>
-
+  <div class="row expanded">
+    <div class="medium-6 columns">
+      <ul class="menu">
+        <li><a href="http://pirati.cz">Pirati.cz</a></li>
+      </ul>
+    </div>
+    <div class="medium-6 columns">
+      <span style="-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-o-transform:rotate(180deg);-khtml-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg);display:inline-block;font-size:1em">©</span> Copyleft
+      Piráti, 2014. Všechna práva vyhlazena. Kopírování je aktem lásky. Obsah této stránky můžete volně šířit podle licence <a href="http://creativecommons.org/licenses/by/4.0/">Creative commons Uveďte autora 4.0</a>.
+    </div>
+  </div>
 </footer>
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
+<script>
+  $(document).foundation();
+</script>
+
+<!-- Twitter -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));
+</script>
+<!-- / Twitter -->
+
+<!-- Facebook -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v2.5&appId=129007503976841";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--  / Facebook -->
