@@ -7,13 +7,11 @@
 
 # Site settings
 title: Piráti Praha
-email: your-email@domain.com
+email: ondrej.profant@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+    Piráti Praha jsou krajské sdružení Pirátské strany v Praze. Klub Pirátů v zastupitelstvu hl. m. Prahy. Nezávisle kontrolujeme práci vládnoucích politiků. Naši zastupitelé vás informují a hájí!
+baseurl: "/webpraha2" # the subpath of your site, e.g. /blog  http://stackoverflow.com/questions/16316311/github-pages-and-relative-paths/19173888#19173888
+url: "http://praha.pirati.cz" # the base hostname & protocol for your site
 collections:
   - people
 title_page:
@@ -22,7 +20,7 @@ title_page:
 gems:
   - jekyll-paginate
 paginate: 3
-paginate_path: "/blog/page:num"
+paginate_path: "/clanky/page:num"
 
 # Build settings
 markdown: kramdown
