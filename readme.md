@@ -19,6 +19,11 @@ Nový web Pirátů v Praze. Toto readme je čistě technické a metodické.
 └── index.html        - úvodní stránka
 ```
 
+## Náhled
+
+Stránka je k vidění na `http://pirati-cz.github.io/webpraha2/`,
+lokálně je třeba kompilovat: `jekyll serve --baseurl ''`
+
 ## Standardizace tagů
 
 Městské části: praha-1, praha-2, ..., praha-10, ..., praha-22, praha-Běchovice, ...
