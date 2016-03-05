@@ -3,4 +3,14 @@
 # only Main files contain this front matter, not partials.
 ---
 
+/*
 @import "black-menu";
+*/
+@import "article-card";
+
+.black-bar {
+  background-color: black;
+  color: white;
+  padding-top: 17px;
+  padding-bottom: 8px;
+}

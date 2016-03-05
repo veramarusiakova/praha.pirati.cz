@@ -1,36 +1,43 @@
 <header>
   <div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium">
     <button class="menu-icon" type="button" data-toggle></button>
-    <div class="title-bar-title">Menu</div>
+    <div class="title-bar-title">Piráti Praha: menu</div>
   </div>
-  <div class="top-bar" id="main-menu">
-    <div class="top-bar-left">
-      <ul class="menu">
-        <li class="menu-text">
-          <a href="{{site.baseurl}}">
-            <img src="{{site.baseurl}}/assets/img/layout/logo-praha.png">
-          </a>
-        </li>
-      </ul>
+
+  <div data-sticky-container>
+    <div class="small-12 sticky" data-sticky data-options="marginTop: 0">
+        <!-- <div class="top-bar" id="main-menu"> -->
+        <div id="main-menu">
+        <div class="top-bar-right" style="background-color: white;">
+          <nav>
+            <ul class="menu vertical medium-horizontal medium-text-center" data-responsive-menu="drilldown small-dropdown">
+              <li><a href="clanky.html">Aktuality</a></li>
+              <li><a href="lide.html">O nás</a></li>
+              <li><a href="program.html">Program</a></li>
+              <li><a href="zapojeni.html">Zapoj se</a></li>
+              <li><a href="transparence.html">Transparence</a></li>
+              <li><a href="kontakt.html">Kontakt</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
     </div>
-    <div class="top-bar-right">
-      <nav>
-        <ul class="menu vertical medium-horizontal medium-text-center" data-responsive-menu="drilldown medium-dropdown">
-          <li><a href="clanky.html">Aktuality</a></li>
-          <li><a href="lide.html">Lidé</a></li>
-          <li><a href="program.html">Program</a></li>
-          <li><a href="zapojeni.html">Podpořte nás</a></li>
-          <li><a href="transparence.html">Transparence</a></li>
-          <li><a href="kontakt.html">Kontakt</a></li>
-          <li class="divided show-for-large">
-          <li class="show-for-large">
-            <input type="search" placeholder="mail@email.cz">
-          </li>
-          <li class="show-for-large">
-            <button type="button" class="button small">Přihlásit</button>
-          </li>
-        </ul>
-      </nav>
+  </div>
+
+  <div class="expanded row hide-for-small-only black-bar">
+    <div class="medium-4 columns">
+      <img src="{{site.baseurl}}assets/img/layout/logo-praha.png" alt="Piráti logo"/>
+    </div>
+    <div class="medium-8 columns">
+      <div class="medium-2 columns medium-offset-4">
+      Přihlaste se k odběru novinek:
+      </div>
+      <div class="medium-4 columns">
+      <input type="search" placeholder="jan.novak@email.cz">
+      </div>
+      <div class="medium-2 columns">
+      <button type="button" class="button small">Přihlásit</button>
+      </div>
     </div>
   </div>
 </header>

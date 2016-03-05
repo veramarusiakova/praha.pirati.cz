@@ -1,6 +1,8 @@
 # Web Praha
 
-Nový web Pirátů v Praze. Toto readme je čistě technické a metodické.
+Nový web Pirátů v Praze. Web je zamýšlen pro celé krajské sdružení - zastupitele (magistrát i mč), veřejnost, členy i pracovníky. Náhled je k dispozici na: http://pirati-cz.github.io/webpraha2/
+
+Toto readme je čistě technické a metodické.
 
 ## Adresařova struktura
 
@@ -16,10 +18,14 @@ Nový web Pirátů v Praze. Toto readme je čistě technické a metodické.
 ├── _posts            - příspěvky pro blog v markdownu
 ├── _sass             - sass styly (konvertované do css)
 ├── _site             - vygenerovaná stránka
+├── assets            - přílohy (obrázky, pdf etc.)
+│   └── img           
+├── blog              - složka blog
+│   └── index.html    -- Stránka /blog
 └── index.html        - úvodní stránka
 ```
 
-## Náhled
+## Náhled a kompilace
 
 Stránka je k vidění na `http://pirati-cz.github.io/webpraha2/`,
 lokálně je třeba kompilovat: `jekyll serve --baseurl ''`
@@ -38,3 +44,4 @@ Praha jako celek: Praha, ZHMP
   - [Integrace FB](https://365tipu.wordpress.com/2015/07/04/tip185-co-je-to-open-graph-a-proc-je-potreba-aby-designeri-webu-vedeli-o-co-jde/)
   - [Ladění FB](https://365tipu.wordpress.com/2015/04/13/tip103-co-delat-kdyz-facebook-odmita-vlozit-odkaz-na-web/)
 - [Disqus a Google analytics, Twitter light share](http://joshualande.com/jekyll-github-pages-poole)
+- [Responsibilita](http://design.google.com/resizer/)
