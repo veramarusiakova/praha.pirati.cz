@@ -6,17 +6,17 @@
 
   <div data-sticky-container>
     <div class="small-12 sticky" data-sticky data-options="marginTop: 0">
-        <!-- <div class="top-bar" id="main-menu"> -->
-        <div id="main-menu">
+      <!-- <div class="top-bar" id="main-menu"> -->
+      <div id="main-menu">
         <div class="top-bar-right" style="background-color: white;">
           <nav>
             <ul class="menu vertical medium-horizontal medium-text-center" data-responsive-menu="drilldown small-dropdown">
-              <li><a href="clanky.html">Aktuality</a></li>
-              <li><a href="lide.html">O nás</a></li>
-              <li><a href="program.html">Program</a></li>
-              <li><a href="zapojeni.html">Zapoj se</a></li>
-              <li><a href="transparence.html">Transparence</a></li>
-              <li><a href="kontakt.html">Kontakt</a></li>
+              <li><a href="{{" /blog/ " | prepend: site.baseurl}}">Aktuality</a></li>
+              <li><a href="{{" /o-nas/ " | prepend: site.baseurl}}">O nás</a></li>
+              <li><a href="{{" /program/ " | prepend: site.baseurl}}">Program</a></li>
+              <li><a href="{{" /zapoj-se/ " | prepend: site.baseurl}}">Zapoj se</a></li>
+              <li><a href="{{" /transparence/ " | prepend: site.baseurl}}">Transparence</a></li>
+              <li><a href="{{" /kontakt/ " | prepend: site.baseurl}}">Kontakt</a></li>
             </ul>
           </nav>
         </div>
@@ -24,20 +24,54 @@
     </div>
   </div>
 
+<!--
   <div class="expanded row hide-for-small-only black-bar">
     <div class="medium-4 columns">
-      <img src="{{ "/assets/img/layout/logo-praha.png" | prepend: site.baseurl}}" alt="Piráti logo"/>
+      <img src="{{"/assets/img/layout/logo-praha.png" | prepend: site.baseurl}}" alt="Piráti logo" />
     </div>
     <div class="medium-8 columns">
       <div class="medium-4 large-3 columns medium-offset-2 large-offset-3">
-      Přihlaste se k odběru novinek:
+        Přihlaste se k odběru novinek:
       </div>
       <div class="medium-4 large-4 columns">
-      <input type="search" placeholder="jan.novak@email.cz">
+        <input type="search" placeholder="jan.novak@email.cz">
       </div>
       <div class="medium-2 large-2 columns">
-      <button type="button" class="button small">Přihlásit</button>
+        <button type="button" class="button small">Přihlásit</button>
       </div>
     </div>
+  </div>
+
+  <br>
+-->
+
+  <div id="mc_embed_signup">
+    <form action="//pirati.us9.list-manage.com/subscribe/post?u=7e063d6dffdb0316b906e1351&amp;id=5b1243a65b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true" class="hide">
+        <input type="text" name="b_7e063d6dffdb0316b906e1351_5b1243a65b" tabindex="-1" value="">
+      </div>
+      <!-- / -->
+      <div class="row align-middle black-bar expanded">
+        <div id="mc_embed_signup_scroll">
+          <div class="large-2 columns">
+            <img src="{{"/assets/img/layout/logo-praha.png" | prepend: site.baseurl}}" alt="Piráti logo" />
+          </div>
+          <div class="large-1 columns large-offset-4 text-right">
+            <label for="mce-EMAIL" style="color: white;">Novinky do mailu:</label>
+          </div>
+          <div class="large-2 columns">
+            <input type="email" value="" name="EMAIL" placeholder="jan.novak@email.cz" class="required email small" id="mce-EMAIL">
+          </div>
+          <div class="large-2 columns">
+            <input type="submit" value="Přihlásit se" name="subscribe" class="button small" id="mc-embedded-subscribe">
+          </div>
+        </div>
+      </div>
+      <div id="mce-responses" class="row">
+        <div class="alert label" id="mce-error-response" style="display:none"></div>
+        <div class="success label" id="mce-success-response" style="display:none"></div>
+      </div>
+    </form>
   </div>
 </header>

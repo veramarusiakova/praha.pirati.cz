@@ -1,0 +1,121 @@
+---
+layout: default
+---
+
+<br >
+
+<article class="row small-up-2">
+  {% for post in paginator.posts %}
+  <div class="column">
+    <div class="media-object">
+      <div class="media-object-section">
+        <div class="thumbnail" style="max-width: 250px">
+          <img src="{{ post.image | prepend: site.baseurl}}" width="100%">
+          <p>
+            <span><i class="fi-calendar">&nbsp;{{ post.date | date: "%d.%m.%Y" }}&nbsp;&nbsp;</i></span>
+            <span><i class="fi-torso">&nbsp;{{ post.author }}&nbsp;</i></span>
+          </p>
+        </div>
+      </div>
+      <div class="media-object-section main-section">
+        <h4>{{post.title}}</h4>
+        <p>{{post.excerpt | truncatewrods: 18}}</p>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</article>
+
+
+<br >
+
+<article class="row small-up-2">
+  {% for post in paginator.posts %}
+  <div class="column text-center">
+    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <div class="large-7 columns">
+      <img src="{{ post.image | prepend: site.baseurl}}" class="thumbnail" alt="{{ post.title }}">
+      <p>
+        <span><i class="fi-calendar">&nbsp;{{ post.date | date: "%d.%m.%Y" }}&nbsp;&nbsp;</i></span>
+        <span><i class="fi-torso">&nbsp;{{ post.author }}&nbsp;</i></span>
+      </p>
+    </div>
+    <div class="large-5 columns">
+      <p>
+        {{ post.excerpt | truncatewords: 34 }}
+        <a href="{{ post.url | prepend: site.baseurl }}">více</a>.
+      </p>
+    </div>
+  </div>
+  {% endfor %}
+</article>
+
+<br >
+
+<article class="row small-up-2">
+  {% for post in paginator.posts %}
+  <div class="column text-center">
+    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <div class="float-left" style="max-width: 330px">
+      <img src="{{ post.image | prepend: site.baseurl}}" class="thumbnail" alt="{{ post.title }}">
+      <p>
+        <span><i class="fi-calendar">&nbsp;{{ post.date | date: "%d.%m.%Y" }}&nbsp;&nbsp;</i></span>
+        <span><i class="fi-torso">&nbsp;{{ post.author }}&nbsp;</i></span>
+      </p>
+    </div>
+      <p>
+        {{ post.excerpt | truncatewords: 34 }}
+        <a href="{{ post.url | prepend: site.baseurl }}">více</a>.
+      </p>
+
+  </div>
+  {% endfor %}
+</article>
+
+<hr>
+
+<article class="row small-up-2">
+  {% for post in paginator.posts %}
+  <div class="column">
+    <img src="{{ post.image | prepend: site.baseurl}}" class="thumbnail" alt="{{ post.title }}">
+    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <p>
+      <span><i class="fi-calendar">&nbsp;{{ post.date | date: "%d.%m.%Y" }}&nbsp;&nbsp;</i></span>
+      <span><i class="fi-torso">&nbsp;{{ post.author }}&nbsp;</i></span>
+    </p>
+    <p>
+      {{ post.excerpt | truncatewords: 34 }}
+      <a href="{{ post.url | prepend: site.baseurl }}">více</a>.
+    </p>
+  </div>
+  {% endfor %}
+</article>
+
+
+<div class="row">
+  <ul class="pagination" role="navigation" aria-label="Pagination">
+    <li>
+      <a href="{{ paginator.previous_page_path }}" aria-label="Previous page">
+      Previous <span class="show-for-sr">page</span>
+    </a>
+    </li>
+    {% for page in (1..paginator.total_pages) %}
+    <li>
+      {% if forloop.index == 1 %}
+      <a href="{{ site.baseurl }}/" aria-label="Page {{ forloop.index }}" {% if page == paginator.page %} class="current" {% endif %}>
+    {% else %}
+      <a href="{{site.baseurl}}/blog/page{{forloop.index}}" aria-label="Page {{ forloop.index }}"{% if page == paginator.page %} class="current"{% endif %}>
+    {% endif %}
+      {{ forloop.index }}
+    </a>
+    </li>
+    {% endfor %}
+    <li>
+      <a href="{{ paginator.next_page_path}}" aria-label="Next page">
+      Next <span class="show-for-sr">page</span>
+    </a>
+    </li>
+  </ul>
+</div>
+
+<br />

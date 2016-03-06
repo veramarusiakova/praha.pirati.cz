@@ -7,87 +7,79 @@ layout: default
 <div class="row">
   <div class="medium-6 columns">
     <p>
-      <a href="#"><img src="{{site.baseurl}}/assets/img/posts/reditel.jpg" alt="main article image"></a>
+      <a href="#"><img src="{{" /assets/img/posts/reditel.jpg " | prepend: site.baseurl}}" alt="main article image"></a>
     </p>
   </div>
   <div class="medium-3 columns">
-    <p><img src="{{site.baseurl}}/assets/img/layout/mapa.png" alt="Mapa"></p>
-    <p><img src="{{site.baseurl}}/assets/img/layout/tips.png" alt="Tipy a triky"></p>
+    <p><img src="{{" /assets/img/layout/mapa.png " | prepend: site.baseurl}}" alt="Mapa"></p>
+    <p><img src="{{" /assets/img/layout/tips.png " | prepend: site.baseurl}}" alt="Tipy a triky"></p>
   </div>
   <div class="medium-3 columns">
-    <p><img src="{{site.baseurl}}/assets/img/layout/shop.png" alt="Shop"></p>
-    <p><img src="{{site.baseurl}}/assets/img/layout/lide.jpg" alt="Hledáme posily"></p>
+    <p><img src="{{" /assets/img/layout/shop.png " | prepend: site.baseurl}}" alt="Shop"></p>
+    <p><img src="{{" /assets/img/layout/lide.jpg " | prepend: site.baseurl}}" alt="Hledáme posily"></p>
   </div>
 </div>
 
 <hr>
 
 <div class="row">
-
-
-<!-- AKTUALITY -->
-{% assign posts = site.posts | limit: 4 %}
-<div class="large-7 columns" style="border-right: 1px solid #E3E5E8;">
-  <article>
-    {% for post in posts %}
-    <div class="row">
-      <div class="large-6 columns">
-        <p><img src="{{ post.image | prepend: site.baseurl}}" alt="{{ post.title }}"></p>
-        <p>
-          <span><i class="fi-calendar">&nbsp;{{ post.date | date: "%d.%m.%Y" }}&nbsp;&nbsp;</i></span>
-          <span><i class="fi-torso">&nbsp;{{ post.author }}&nbsp;</i></span>
-        </p>
-      </div>
-      <div class="large-6 columns">
-        <h5><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
-        <p>
-          {% if post.excerpt %}{{ post.excerpt | truncatewords: 30 }}
-          {% else %}
-          {{ post.content | strip_html | truncatewords: 35 }}
-          {% endif %}
-          <a href="{{ post.url | prepend: site.baseurl }}">více</a>.
-        </p>
-      </div>
-    </div>
-    <hr>
-    {% endfor %}
-
-    <a href="clanky.html" class="button">Další články</a>
-
-  </article>
-</div>
-
-<!-- /AKTUALITY -->
-
-
-<div class="large-5 columns">
-  <aside>
-    <div class="row column">
-      <iframe src="{{ site.title_page.calendar }}" style="border-width:0" width="100%" height="420" frameborder="0" scrolling="no"></iframe>
-    </div>
-
-    <br>
-
-    <div class="row column">
-      <p class="lead">Lidé</p>
-      {% for person in (site.people | limit: 3 )%}
-      <div class="media-object">
-        <div class="media-object-section">
-          <img class="thumbnail" src="http://placehold.it/100">
+  <!-- AKTUALITY -->
+  <div class="large-7 columns" style="border-right: 1px solid #E3E5E8;">
+    <article>
+      {% for post in site.posts limit: 4 %}
+      <div class="row">
+        <div class="large-6 columns">
+          <p><img src="{{ post.image | prepend: site.baseurl}}" alt="{{ post.title }}"></p>
+          <p>
+            <span><i class="fi-calendar">&nbsp;{{ post.date | date: "%d.%m.%Y" }}&nbsp;&nbsp;</i></span>
+            <span><i class="fi-torso">&nbsp;{{ post.author }}&nbsp;</i></span>
+          </p>
         </div>
-        <div class="media-object-section">
-          <h5>{{ person.name }}</h5>
-          <p>{{ person.description }}</p>
+        <div class="large-6 columns">
+          <h5><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
+          <p>
+            {{ post.excerpt | truncatewords: 33 }}
+            <a href="{{ post.url | prepend: site.baseurl }}">více</a>.
+          </p>
         </div>
       </div>
-      {% endfor %}
+      <hr> {% endfor %}
+
+      <a href="{{" /blog/ " | prepend: site.baseurl }}" class="button">Další články</a>
+
+    </article>
+  </div>
+  <!-- /AKTUALITY -->
+
+
+  <div class="large-5 columns">
+    <aside>
+      <div class="row column">
+        <iframe src="{{ site.title_page.calendar }}" style="border-width:0" width="100%" height="420" frameborder="0" scrolling="no"></iframe>
+      </div>
 
       <br>
 
       <div class="row column">
-        <p class="lead">Video</p>
-        <iframe width="400" height="225" src="{{ site.title_page.video }}" frameborder="0" allowfullscreen></iframe>
-      </div>
-  </aside>
+        <p class="lead">Lidé</p>
+        {% for person in (site.people | limit: 3 )%}
+        <div class="media-object">
+          <div class="media-object-section">
+            <img class="thumbnail" src="http://placehold.it/100">
+          </div>
+          <div class="media-object-section">
+            <h5>{{ person.name }}</h5>
+            <p>{{ person.description }}</p>
+          </div>
+        </div>
+        {% endfor %}
+
+        <br>
+
+        <div class="row column">
+          <p class="lead">Video</p>
+          <iframe width="400" height="225" src="{{ site.title_page.video }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </aside>
+    </div>
   </div>
-</div>
