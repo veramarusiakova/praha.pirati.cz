@@ -18,8 +18,31 @@ layout: default
   </header>
 
   <div itemprop="articleBody">
-    <img src="{{ page.image | prepend: site.baseurl}}" alt="{{ page.title }}" class="float-right thumbnail">
+    <img src="{{ page.image | prepend: site.baseurl}}" alt="{{ page.title }}" class="float-right thumbnail" style="margin: 10px;">
     {{ content }}
   </div>
-
 </article>
+
+<hr>
+
+<div class="row">
+    <div class="large-3 large-offset-2 columns">
+      <p><i class="fi-heart"></i> Sdílení je aktem lásky:</p>
+    </div>
+    <div class="large-1 columns">
+      <p><a class="twitter-share-button"
+        href="https://twitter.com/intent/tweet?text={{ "Piráti Praha: " | cgi_escape}}{{ page.title | cgi_escape}}">
+      Tweet</a></p>
+    </div>
+    <div class="large-3 columns">
+      <div
+        class="fb-like"
+        data-share="true"
+        data-width="450"
+        data-show-faces="true">
+      </div>
+    </div>
+    <div class="large-3 columns"></div>
+</div>
+
+<br>
