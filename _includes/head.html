@@ -11,7 +11,7 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   {% if page.layout == "post" %}
   <meta property="og:type" content="article" />
-  <meta property="og:image" content="{{page.image | prepend: site.baseurl}}" />
+  <meta property="og:image" content="{{page.image | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:description" content="{{ post.excerpt | truncatewords: 34 }}" />
   <meta property="og:locale" content="cs_CZ" />
   {% endif %}
