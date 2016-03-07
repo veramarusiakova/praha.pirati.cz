@@ -7,7 +7,14 @@
 
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <meta property="og:site_name" content="Piráti Praha" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  {% if page.layout == "post" %}
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="{{page.image | prepend: site.baseurl}}" />
+  <meta property="og:description" content="{{ post.excerpt | truncatewords: 34 }}" />
+  <meta property="og:locale" content="cs_CZ" />
+  {% endif %}
 
   <link rel="icon" type="image/png" href="{{ "/assets/img/layout/favicon.png" | prepend: site.baseurl }}" />
   <link rel="stylesheet" type='text/css' href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.1.2/foundation.min.css">
