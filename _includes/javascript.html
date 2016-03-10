@@ -4,9 +4,9 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.0/foundation.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.2/motion-ui.min.js"></script>
 {% else %}
-<script type='text/javascript' src="assets/offline/jquery.min.js"></script>
-<script type='text/javascript' src="assets/offline/foundation.min.js"></script>
-<script type='text/javascript' src="assets/offline/motion-ui.min.js"></script>
+<script type='text/javascript' src="{{ "assets/offline/jquery.min.js" | prepend: site.baseurl }}"></script>
+<script type='text/javascript' src="{{ "assets/offline/foundation.min.js" | prepend: site.baseurl }}"></script>
+<script type='text/javascript' src="{{ "assets/offline/motion-ui.min.js" | prepend: site.baseurl }}"></script>
 {% endif %}
 <script>
   $(document).foundation();
@@ -16,7 +16,7 @@
 {% if site.cdn %}
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 {% else %}
-<script type='text/javascript' src='assets/offline/mc-validate.js'></script>
+<script type='text/javascript' src="{{ "assets/offline/mc-validate.js" | prepend: site.baseurl }}"></script>
 {% endif %}
 <script type='text/javascript'>
 (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);

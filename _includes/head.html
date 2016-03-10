@@ -24,9 +24,9 @@
   <link rel='stylesheet' type='text/css' href="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.1.1/motion-ui.min.css" />
   <link rel='stylesheet' type='text/css' href="{{ "/css/main.css" | prepend: site.baseurl }}">
   {% else %}
-  <link rel='stylesheet' type='text/css' href="assets/offline/foundation.min.css" />
-  <link rel='stylesheet' type='text/css' href="assets/offline/foundation-icons.css" />
-  <link rel='stylesheet' type='text/css' href="assets/offline/motion-ui.min.css" />
+  <link rel='stylesheet' type='text/css' href="{{ "assets/offline/foundation.min.css" | prepend: site.baseurl }}" />
+  <link rel='stylesheet' type='text/css' href="{{ "assets/offline/foundation-icons.css" | prepend: site.baseurl }}" />
+  <link rel='stylesheet' type='text/css' href="{{ "assets/offline/motion-ui.min.css" | prepend: site.baseurl }}" />
   <link rel='stylesheet' type='text/css' href="{{ "/css/main.css" | prepend: site.baseurl }}" />
   {% endif %}
 </head>
