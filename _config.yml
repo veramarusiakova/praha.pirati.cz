@@ -24,3 +24,5 @@ paginate: 3
 
 # Build settings
 markdown: kramdown
+
+cdn: true
