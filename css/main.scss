@@ -8,6 +8,14 @@
 */
 @import "article-card";
 
+/* Menu text */
+.menu a {
+  text-transform: uppercase;
+  font-weight: 560;
+  color: black;
+}
+
+/* Black bar at the top of the page */
 .black-bar {
   background-color: black;
   color: white;
