@@ -8,7 +8,9 @@ layout: default
   {% for post in paginator.posts %}
   <div class="column">
     <div style="min-height: 560px;">
-      <img src="{{ post.image | prepend: site.baseurl}}" class="thumbnail" alt="{{ post.title }}">
+      <img src="{{ post.image | prepend: "/assets/img/posts/" | prepend: site.baseurl}}"
+        class="thumbnail"
+        alt="{{ post.title }}">
       <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
       <p>
         <span><i class="fi-calendar">&nbsp;{{ post.date | date: "%d.%m.%Y" }}&nbsp;&nbsp;</i></span>
@@ -27,7 +29,7 @@ layout: default
 
 <!-- Stránkování / pagination -->
 <div class="row">
-  <div class="large-2 large-centered">
+  <div class="large-8 large-centered">
     <ul class="pagination" role="navigation" aria-label="Pagination">
       <li>
         <a href="{{ paginator.previous_page_path }}" aria-label="Previous page">
