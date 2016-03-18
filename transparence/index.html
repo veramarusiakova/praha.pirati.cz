@@ -5,6 +5,96 @@ layout: default
 <br>
 
 <div class="row">
+  <div class="medium-6 large-4 columns">
+    <article class="article-card">
+      <img src="{{"/assets/img/zapoj-se/lode-2.png" | prepend: site.baseurl}}">
+      <div class="card-content">
+        <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" | prepend: site.baseurl}}" alt="P">
+        <h4 class="post-author">Transparentní účet</h4>
+        <p>Poznej nás a zjisti, kdo prosazuje pirátské myšlenky v Praze.</p>
+        <p class="post-author">
+          <a href="#ucty" class="button">Poznej nás</a>
+        </p>
+      </div>
+    </article>
+  </div>
+
+  <div class="medium-6 large-4 columns">
+    <article class="article-card">
+      <img src="{{"/assets/img/zapoj-se/clenstvi-2.jpg" | prepend: site.baseurl}}">
+      <div class="card-content">
+        <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" | prepend: site.baseurl}}" alt="P">
+        <h4 class="post-author">Evidence lobbistů</h4>
+        <p>Zastoupení máme v různých městských částech. Převážně P6, P10 a P13.</p>
+        <p class="post-author">
+          <a href="#lobby" class="button">Chceš se dozvědět víc?</a>
+        </p>
+      </div>
+    </article>
+  </div>
+
+  <div class="medium-6 large-4 end columns">
+    <article class="article-card">
+      <img src="{{"/assets/img/zapoj-se/staze-2b.jpg" | prepend: site.baseurl}}">
+      <div class="card-content">
+        <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" | prepend: site.baseurl}}" alt="P">
+        <h4 class="post-author">Udělali jsme pro vás</h4>
+        <p>Přečti si víc o našich nápadech jak změnit Prahu v živé a moderní město.</p>
+        <p class="post-author">
+          <a href="#vykaz" class="button">Přečíst</a>
+        </p>
+      </div>
+    </article>
+  </div>
+</div>
+
+<br />
+
+<div class="row">
+  <div class="medium-6 large-4 columns">
+    <article class="article-card">
+      <div class="card-content">
+        <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" | prepend: site.baseurl}}" alt="P">
+        <h4 class="post-author">Registr smluv</h4>
+        <p><a href="https://www.pirati.cz/hudba/start">Svobodná hudba</a>, <a href="https://www.pirati.cz/ttip">TTIP</a>, Pirátské listy, Video tým, ... Pomoz konkrétní věci!</p>
+        <p class="post-author">
+          <a href="#smlouvy" class="button">Podpoř nás finančně</a>
+        </p>
+      </div>
+    </article>
+  </div>
+
+  <div class="medium-6 large-4 end columns">
+    <article class="article-card">
+      <div class="card-content">
+        <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" | prepend: site.baseurl}}" alt="P">
+        <h4 class="post-author">Technické systémy</h4>
+        <p>Snažíme se, aby již nikdo nemusel znovu vynalézat kolo, proto sdílíme zkušenosti. </p>
+        <p class="post-author">
+          <a href="#prirucka" class="button">Přečíst</a>
+        </p>
+      </div>
+    </article>
+  </div>
+  <!-- / ROW -->
+
+  <div class="medium-6 large-4 columns">
+    <article class="article-card">
+      <div class="card-content">
+        <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" | prepend: site.baseurl}}" alt="P">
+        <h4 class="post-author">Otevřená setkání</h4>
+        <p>Komu přijde práce Pirátů v Praze důležitá a proč?</p>
+        <p class="post-author">
+          <a href="#" class="button">Přečíst víc</a>
+        </p>
+      </div>
+    </article>
+  </div>
+</div>
+
+<hr />
+
+<div class="row">
   <div class="large-6 column">
     <h2>Naše práce</h2>
     <div style="border-right: 1px solid #E3E5E8;">
@@ -41,13 +131,16 @@ layout: default
     <h2>Evidence</h2>
 
     <div>
-      <h3>Registr smluv</h3>
+      <h3 id="smlouvy">Registr smluv</h3>
       <p>Veškeré smlouvy jsou evidovány na adrese: <a href="http://smlouvy.pirati.cz">smlouvy.pirati.cz</a>.</p>
 
-      <h3>Majetková přiznání</h3>
+      <h3 id="ucty">Transparentní účet</h3>
+      <p>Všechny pohyby na <a href="https://ucet.pirati.cz">účtech</a> jsou zcela veřejné a můžete je porovnat s našim <a href="https://ucto.pirati.cz">otevřeným účetnictvím</a>.</p>
+
+      <h3 id="priznani">Majetková přiznání</h3>
       <p><a href="https://github.com/pirati-cz/KlubPraha/tree/master/priznani">Majetková přiznání</a> všech členů zastupitelského klubu.</p>
 
-      <h3>Evidence lobbistických kontaktů</h3>
+      <h3 id="lobby">Evidence lobbistických kontaktů</h3>
       <p>Zastupitelský klub lobbistické kontakty <a href="https://redmine.pirati.cz/projects/praha/issues?utf8=%E2%9C%93&set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=13&f[]=&c[]=tracker&c[]=status&c[]=priority&c[]=subject&c[]=assigned_to&c[]=updated_on&group_by=">zveřejňuje v Redmine</a>. Centrální <a href="http://evidence.pirati.cz">evidence lobbistických kontaktů</a> Pirátské strany. Tato evidence se řídí <a href="https://www.pirati.cz/rules/prl">Předpisem o lobbingu</a>.</p>
     </div>
   </div>
