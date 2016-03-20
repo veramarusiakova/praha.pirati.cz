@@ -13,7 +13,7 @@ layout: default
         <h4 class="post-author">Projekty</h4>
         <p><a href="https://www.pirati.cz/hudba/start">Svobodná hudba</a>, <a href="https://www.pirati.cz/ttip">TTIP</a>, Pirátské listy, Video tým, ... Pomoz konkrétní věci!</p>
         <p class="post-author">
-          <a href="#projekty" class="button">To se mi líbí!</a>
+          <a href="{{ '/o-nas/#projekty' | prepend: site.baseurl }}" class="button">To se mi líbí!</a>
         </p>
       </div>
     </article>
@@ -41,7 +41,7 @@ layout: default
         <h4 class="post-author">Stáže</h4>
         <p>Přečti si, jak probhala stáž <a href="#">Petra</a> nebo <a href="#">Alex</a> na magistrátu. Zkus to i Ty!</p>
         <p class="post-author">
-          <a href="#projekty" class="button">Hlásím se!</a>
+          <a href="#staze" class="button">Hlásím se!</a>
         </p>
       </div>
     </article>
@@ -71,7 +71,7 @@ layout: default
         <h4 class="post-author">Příručka Piráta</h4>
         <p>Snažíme se, aby již nikdo nemusel znovu vynalézat kolo, proto sdílíme zkušenosti. </p>
         <p class="post-author">
-          <a href="#prirucka" class="button">Přečíst</a>
+          <a href="{{ '/o-nas/#prirucka' | prepend: site.baseurl }}" class="button">Přečíst</a>
         </p>
       </div>
     </article>
@@ -85,7 +85,7 @@ layout: default
         <h4 class="post-author">Nezávislý aktivista</h4>
         <p>Baví Tě měnit svět správným směrem a ještě se u toho bavit? Jsi na správném místě.</p>
         <p class="post-author">
-          <a href="#" class="button">Chci to zkusit!</a>
+          <a href="#aktivista" class="button">Chci to zkusit!</a>
         </p>
       </div>
     </article>
@@ -95,9 +95,42 @@ layout: default
 <hr />
 
 <div class="row">
-  <h2 id="projekty">Projekty a stáže</h2>
-  <p>Pracujeme na mnoho samostaných projektech jako jsou: <a href="https://www.pirati.cz/hudba/start">Svobodná hudba</a>, <a href="https://www.pirati.cz/ttip">TTIP</a>, Pirátské listy, Video tým.</p>
-  <p>Chcete se zapojit? Kontaktuje me vás.</p>
+  <h2 id="clenstvi">Členství</h2>
+
+  <p>Svůj názor či návrh můžeš nejenom nahlas vyslovit, můžeš jím dokonce skutečně mnohé ovlivnit. Je tvůj nesouhlas se současným netransparentním chodem věcí natolik hluboký, že se chceš na vzniku programu a rozhodnutí sám podílet? Staň se členem!</p>
+
+  <h2 id="prispej">Přispěj</h2>
+
+  <p>Pohon pro pirátskou bárku něco stojí. Třeba právě náš boj za svobodný a neplacený přístup k informacím paradoxně vyžaduje finanční investice, stejně jako další projekty. Záleží ti na svobodě Internetu, ochraně soukromí? Považuješ současnou správu za nedostatečně transparentní? Podpoř boj s cenzurními tendencemi nebo úsilí změnit drogovou legislativu příspěvkem na náš transparentní účet.</p>
+  <p>Dary zašlete na náš <a href="https://ucet.pirati.cz">transparentní účet</a>. Do poznámky nezapomeňte uvést jméno, přijmení, datum narození a bydliště. Popřípadě se řiďte <a href="https://www.pirati.cz/fo/dary">podrobným návodem</a>.</p>
+
+  <p>
+    <table style="width: 400px">
+      <thead>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Číslo účtu</td>
+          <td>2100048174 / 2010</td>
+        </tr>
+        <tr>
+          <td>Variabilní symbol</td>
+          <td>110100</td>
+        </tr>
+        <tr>
+          <td>Do poznámky</td>
+          <td>Jméno Přijmení</td>
+        </tr>
+      </tbody>
+    </table>
+  </p>
+
+  <h2 id="aktivista">Nezávislý aktivista</h2>
+
+  <p>Nadávání na systém změnu rozpohybuje těžko. Nelíbí se ti něco ze současného chodu věcí? Nesvěřuj se půllitru v hospodě, ale aktivně se zapoj! Třeba právě díky tvé pomoci konečně změníme autorský zákon nebo pokusy legitimně špehovat uživatele Internetu!</p>
+
+  <h2 id="staze">Stáže</h2>
+  <p>Mladá krev aktivně vpřed! Na pirátské bárce můžeš nabít cenné zkušenosti. Ohlížíš se zrovna po příležitosti se nějakým způsobem angažovat a zároveň získat praxi? Přečti si dojmy bývalých stážistů Petra nebo Alexe a vyzkoušej si stáž u Pirátů na vlastní tělo!</p>
 </div>
 
 
@@ -179,50 +212,6 @@ layout: default
 
   <p>Odteď už Ti neuniknou informace o stávajících ani nových projektech, do kterých se můžeš pustit s Piráty ještě dnes!</p>
 
-  <h2 id="prispej">Přispěj</h2>
-
-  <p>Dary zašlete na náš <a href="https://ucet.pirati.cz">transparentní účet</a>. Do poznámky nezapomeňte uvést jméno, přijmení, datum narození a bydliště. Popřípadě se řiďte <a href="https://www.pirati.cz/fo/dary">podrobným návodem</a>.</p>
-
-  <p>
-    <table style="width: 400px">
-      <thead>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Číslo účtu</td>
-          <td>2100048174 / 2010</td>
-        </tr>
-        <tr>
-          <td>Variabilní symbol</td>
-          <td>110100</td>
-        </tr>
-        <tr>
-          <td>Do poznámky</td>
-          <td>Jméno Přijmení</td>
-        </tr>
-      </tbody>
-    </table>
-  </p>
-  <br>
-
-
-  <h2 id="prirucka">Příručka Piráta</h2>
-
-  <ul>
-    <li>Aktivista
-      <ul>
-        <li>Svobodný přístup k informacím</li>
-        <li>Územní plán</li>
-      </ul>
-    </li>
-    <li>Člen
-      <ul>
-        <li>Mysli globálně, jednej lokálně</li>
-        <li>Schůze</li>
-        <li>Hlasování</li>
-      </ul>
-    </li>
-  </ul>
 </div>
 
 <br>
