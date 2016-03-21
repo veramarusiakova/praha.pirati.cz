@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div class="row">
-  <img src="{{"/assets/img/mestske-casti/praha-statutarni.svg" | prepend: site.baseurl}}" width="700px">
+  <img src="{{"/assets/img/mestske-casti/praha-rozdeleni.jpg" | prepend: site.baseurl}}">
 </div>
 
-<!-- http://www.image-maps.com-->
+<!-- http://www.image-maps.com
 <div class="row">
 <img id="Image-Maps-Com-image-maps-2016-03-18-190617"
   src="{{"/assets/img/mestske-casti/praha-ms.png" | prepend: site.baseurl}}"
@@ -23,6 +23,8 @@ layout: default
   <area  alt="" title="P16 Radotín" href="p16" shape="poly" coords="399,995,406,952,439,863,428,851,421,825,452,753,439,694,439,653,462,609,417,617,401,610,386,642,364,658,354,699,315,706,316,695,305,693,235,697,208,731,263,747,258,772,265,808,224,838,278,835,272,862,239,852,204,905,237,919,243,949,305,950,326,942,345,971,375,950" style="outline:none;" />
 </map>
 </div>
+-->
+<hr>
 
 <div class="row">
   <div class="columns large-6">
@@ -61,7 +63,7 @@ layout: default
     <ul>
     {% for post in site.posts %}
         {% if post.tags contains 'p6' %}
-            <li> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+            <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
     {% endfor %}
     </ul>
@@ -81,13 +83,14 @@ layout: default
 <div class="row">
   <div class="columns large-6">
     <h2 id="#p10">Praha jihovýchod<br><small>10, 11, 15, 22</small></h2>
+    <p>Olga Richterová, předsedkyně MS</p>
     <p>Pavel Hájek, místopředseda KS Praha</p>
     <p>Veškeré informace jsou na separátním webu: <a href="http://www.pirati10.cz/">praha10.pirati.cz</a></p>
 
   </div>
   <div class="columns large-6">
     <h2 id="#p16">Praha jihozápad<br><small>Radotín, Zbraslav, Velká Chuchle, Lipence, Lochkov</small></h2>
-    Michaela Krausová, předsedkyně MS
+    <p><a href="{{ '/lide/michaela-krausova/' | prepend: site.baseurl }}">Michaela Krausová</a>, předsedkyně MS
   </div>
 </div>
 
