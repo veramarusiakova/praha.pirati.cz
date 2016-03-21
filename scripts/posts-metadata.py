@@ -2,6 +2,7 @@
 
 import sh # http://amoffat.github.io/sh/
 import re
+import sys
 from glob import glob
 from pprint import pprint
 from os.path import (join, basename, split)
@@ -80,8 +81,9 @@ def process_meta_data(meta, rules, name = ''):
 		raise e
 	return meta
 
-def run(test=False):
-	files = glob( join(input_dir, '*.md') )
+def run(files=None, test=False):
+	if not files:
+		files = glob( join(input_dir, '*.md') )
 	for f in files:
 		if test:
 			print('Procces file: %s' % f)
@@ -95,4 +97,5 @@ def run(test=False):
 		else:
 			write_file(nf, meta, data.lines, data.references)
 
-run()
+files = sys.argv[1:]
+run(files)

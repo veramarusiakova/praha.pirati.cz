@@ -25,11 +25,70 @@ layout: default
 </div>
 
 <div class="row">
-  <h2 id="#centrum">Praha centrum: 1, 2, 3, 7, 8</h2>
-  <h2 id="#p5">Praha 4, 12 <small>Libuš, Kunratice</small></h2>
-  <h2 id="#p5">Praha 5, 13, 17 <small>Slivenec, Zličín, Řeporyje</small></h2>
-  <h2 id="#p6">Praha 6 <small>Suchdol, Lysolaje</small></h2>
-  <h2 id="#p9">Praha 9, 14, 18, 19, 21 <small></small></h2>
-  <h2 id="#p10">Praha 10, 11, 15, 22</h2>
-  <h2 id="#p16">Praha 16 <small>Radotín, Zbraslav, Velká Chuchle, Lipence, Lochkov</small></h2>
+  <div class="columns large-6">
+    <h2>Krajské sdružení</h2>
+    <p>Krajské sdružení Praha (KS) se dělí na 7 místních sdružení (MS).</p>
+  </div>
+
+  <div class="columns large-6">
+    <h2 id="#centrum">Praha centrum <small>1, 2, 3, 7, 8</small></h2>
+    <p>Kontaktní osoba: <a href="{{ '/lide/ondrej-profant/' | prepend: site.baseurl }}">Ondřej Profant</a>, předseda KS Praha</p>
+    <p>V obdvodě je za nás zvolen senátor <a href="http://libormichalek.cz/">Libor Michálek</a></p>
+    <ul>
+    {% for post in site.posts %}
+        {% if post.tags contains 'p1' or post.tags contains 'p7' or post.tags contains 'p8' %}
+            <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
 </div>
+<div class="row">
+  <div class="columns large-6">
+    <h2 id="#p4">Praha jih<br><small>4, 12 , Libuš, Kunratice</small></h2>
+    <p>Lukáš Findeis, místopředseda KS Praha</p>
+  </div>
+  <div class="columns large-6">
+    <h2 id="#p5">Praha západ<br><small>5, 13, 17, Slivenec, Zličín, Řeporyje</small></h2>
+    <p>Tomáš Murňák, předseda MS</p>
+    <p>V obdvodě je s naší spolúčastí zvolen senátor <a href="http://www.vaclavlaska.cz/">Václav Láska</a>, jsme v zastupitelstvu Prahy 5 i Prahy 13.</p>
+  </div>
+</div>
+<div class="row">
+  <div class="columns large-6">
+    <h2 id="#p6">Praha severozápad<br><small>6, Suchdol, Lysolaje</small></h2>
+    <p><a href="{{ '/lide/viktor-mahrik/' | prepend: site.baseurl }}">Viktor Mahrik</a>, místopředseda KS Praha</p>
+    <ul>
+    {% for post in site.posts %}
+        {% if post.tags contains 'p6' %}
+            <li> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
+  <div class="columns large-6">
+    <h2 id="#p9">Praha severovýchod<br><small>9, 14, 18, 19, 21</small></h2>
+    <p><a href="{{ '/lide/dana-balcarova/' | prepend: site.baseurl }}">Dana Balcarová</a>, zastupitelka P9</p>
+    <ul>
+    {% for post in site.posts %}
+        {% if post.tags contains 'p9' %}
+            <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
+</div>
+<div class="row">
+  <div class="columns large-6">
+    <h2 id="#p10">Praha jihovýchod<br><small>10, 11, 15, 22</small></h2>
+    <p>Pavel Hájek, místopředseda KS Praha</p>
+    <p>Veškeré informace jsou na separátním webu: <a href="http://www.pirati10.cz/">praha10.pirati.cz</a></p>
+
+  </div>
+  <div class="columns large-6">
+    <h2 id="#p16">Praha jihozápad<br><small>Radotín, Zbraslav, Velká Chuchle, Lipence, Lochkov</small></h2>
+    Michaela Krausová, předsedkyně MS
+  </div>
+</div>
+
+<br>
