@@ -9,10 +9,12 @@
 @import "article-card";
 
 /* Menu text */
-.menu a {
+.menu {
   text-transform: uppercase;
   font-weight: 570;
   color: #363230;
+  border: 1px;
+  border-bottom-style: solid;
 }
 
 /* Black bar at the top of the page */

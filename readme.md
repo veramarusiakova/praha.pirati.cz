@@ -12,9 +12,7 @@ Celý web bude vyvíjen agilně, čili spustíme první funkční verzi. Mnoho t
 Věci, které jsou hotové (pro verzi 1):
 
 - technologie (jekyll, template etc.)
-- design:
-  - front page
-  - zapoj se
+- design
 - články
   - výpis
   - paginace
@@ -22,9 +20,20 @@ Věci, které jsou hotové (pro verzi 1):
 
 TODO:
 
-- integrace soc. sítí
 - integrace Disqus
-- design / texty "o nás"
+
+
+## Náhled a kompilace
+
+Stránka je k vidění na `http://pirati-cz.github.io/webpraha2/`,
+lokálně je třeba kompilovat: `jekyll serve --baseurl ''`
+
+
+## Standardizace tagů
+
+Městské části: praha-1, praha-2, ..., praha-10, ..., praha-22, praha-Běchovice, ...
+
+Praha jako celek: Praha, ZHMP
 
 
 ## Adresařova struktura
@@ -62,17 +71,6 @@ TODO:
 └── index.html        - úvodní stránka
 ```
 
-## Náhled a kompilace
-
-Stránka je k vidění na `http://pirati-cz.github.io/webpraha2/`,
-lokálně je třeba kompilovat: `jekyll serve --baseurl ''`
-
-
-## Standardizace tagů
-
-Městské části: praha-1, praha-2, ..., praha-10, ..., praha-22, praha-Běchovice, ...
-
-Praha jako celek: Praha, ZHMP
 
 
 ## Použité technologie

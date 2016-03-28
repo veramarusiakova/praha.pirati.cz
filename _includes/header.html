@@ -7,10 +7,17 @@
   <div data-sticky-container class="row">
     <div class="small-12 sticky" data-sticky data-options="marginTop: 0">
       <!-- <div class="top-bar" id="main-menu"> -->
-      <div id="main-menu">
+      <div id="main-menu" data-responsive-menu="drilldown small-dropdown">
+        <div class="top-bar-left" style="background-color: white;">
+          <nav>
+            <ul class="menu vertical medium-horizontal medium-text-center">
+              <li class="menu-text">Piráti Praha</li>
+            </ul>
+          </nav>
+        </div>
         <div class="top-bar-right" style="background-color: white;">
-          <nav style="border: 1px; border-bottom-style: solid;">
-            <ul class="menu vertical medium-horizontal medium-text-center" data-responsive-menu="drilldown small-dropdown">
+          <nav>
+            <ul class="menu vertical medium-horizontal medium-text-center">
               <li><a href="{{"/blog/" | prepend: site.baseurl}}">Aktuality</a></li>
               <li><a href="{{"/o-nas/" | prepend: site.baseurl}}">O nás</a></li>
               <li><a href="{{"/program/" | prepend: site.baseurl}}">Program</a></li>
@@ -20,6 +27,7 @@
             </ul>
           </nav>
         </div>
+      </div>
       </div>
     </div>
   </div>
