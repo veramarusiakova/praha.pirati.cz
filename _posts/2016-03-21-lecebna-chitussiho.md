@@ -1,5 +1,5 @@
 ---
-image:	presun.jpg
+image:	brevnov.jpg
 tags:	praha 6, p6
 category:	blog
 author:	Jan Lipavský
