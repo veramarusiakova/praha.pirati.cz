@@ -24,7 +24,7 @@ collections:
 
 gems:
   - jekyll-paginate
-paginate_path: "/blog/page:num/"
+paginate_path: "/blog/:num/"
 paginate: 14
 
 # Build settings

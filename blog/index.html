@@ -29,11 +29,11 @@ layout: default
 
 <!-- Stránkování / pagination -->
 <div class="row">
-  <div class="large-8 large-centered">
+  <div class="large-12 text-center">
     <ul class="pagination" role="navigation" aria-label="Pagination">
       <li>
         <a href="{{ paginator.previous_page_path }}" aria-label="Previous page">
-        Previous <span class="show-for-sr">page</span>
+        Předchozí <span class="show-for-sr">page</span>
       </a>
       </li>
       {% for page in (1..paginator.total_pages) %}
@@ -41,7 +41,7 @@ layout: default
         {% if forloop.index == 1 %}
         <a href="{{ site.baseurl }}/" aria-label="Page {{ forloop.index }}" {% if page == paginator.page %} class="current" {% endif %}>
       {% else %}
-        <a href="{{site.baseurl}}/blog/page{{forloop.index}}" aria-label="Page {{ forloop.index }}"{% if page == paginator.page %} class="current"{% endif %}>
+        <a href="{{site.baseurl}}/blog/{{forloop.index}}" aria-label="Page {{ forloop.index }}"{% if page == paginator.page %} class="current"{% endif %}>
       {% endif %}
         {{ forloop.index }}
       </a>
@@ -49,7 +49,7 @@ layout: default
       {% endfor %}
       <li>
         <a href="{{ paginator.next_page_path}}" aria-label="Next page">
-        Next <span class="show-for-sr">page</span>
+        Další <span class="show-for-sr">page</span>
       </a>
       </li>
     </ul>
