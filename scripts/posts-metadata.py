@@ -3,12 +3,13 @@
 import sh # http://amoffat.github.io/sh/
 import re
 import sys
+import argparse
 from glob import glob
 from pprint import pprint
 from os.path import (join, basename, split)
 from markdown import Markdown
 
-__version__ = "0.8.0"
+__version__ = "0.9.0"
 __author__ = "Ondřej Profant"
 __doc__ = """
 Manipulation with blog posts metadata
@@ -24,8 +25,6 @@ rules = {
         ('date',  lambda v, n: re.match('\d{4}-\d{2}-\d{2}', n).group() )
         ]
 }
-input_dir = "../../old"
-output_dir = "new/"
 
 
 def files_info(files):
@@ -81,9 +80,7 @@ def process_meta_data(meta, rules, name = ''):
 		raise e
 	return meta
 
-def run(files=None, test=False):
-	if not files:
-		files = glob( join(input_dir, '*.md') )
+def run(files, output_dir, test=False):
 	for f in files:
 		if test:
 			print('Procces file: %s' % f)
@@ -97,5 +94,13 @@ def run(files=None, test=False):
 		else:
 			write_file(nf, meta, data.lines, data.references)
 
-files = sys.argv[1:]
-run(files)
+if __name__ == "__main__":
+	p = argparse.ArgumentParser(
+		description=__doc__,
+		epilog="Version: " + __version__ + ", Authors: " + str(__author__)
+		)
+	p.add_argument('-t', '--test', action='store_true', help="Run only test (not modify files)")
+	p.add_argument('-o', '--out', default=".", help="Directory with converted files")
+	p.add_argument('inputs', metavar='input files', nargs='*', help='Input files')
+	args = p.parse_args()
+	run(args.inputs, args.out, args.test)
