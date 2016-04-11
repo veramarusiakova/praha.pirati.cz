@@ -32,37 +32,25 @@ layout: default
     <h2 id="centrum">Praha sever <small>1, 2, 3, 7, 8</small></h2>
     <p>Kontaktní osoba: <a href="{{ '/lide/ondrej-profant/' | prepend: site.baseurl }}">Ondřej Profant</a>, předseda KS Praha</p>
     <p>V obdvodě je za nás zvolen senátor <a href="http://libormichalek.cz/">Libor Michálek</a></p>
-    <ul>
-    {% for post in site.posts %}
-        {% if post.tags contains 'p1' or post.tags contains 'p7' or post.tags contains 'p8' %}
+    <ul>{% for post in site.posts %}{% if post.tags contains 'p1' or post.tags contains 'p7' or post.tags contains 'p8' %}
             <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-        {% endif %}
-    {% endfor %}
-    </ul>
+    {% endif %}{% endfor %}</ul>
   </div>
 </div>
 <div class="row">
   <div class="columns large-6">
     <h2 id="p6">Praha severozápad<br><small>6, Suchdol, Lysolaje</small></h2>
     <p><a href="{{ '/lide/viktor-mahrik/' | prepend: site.baseurl }}">Viktor Mahrik</a>, místopředseda KS Praha</p>
-    <ul>
-    {% for post in site.posts %}
-        {% if post.tags contains 'p6' %}
+    <ul>{% for post in site.posts %}{% if post.tags contains 'p6' %}
             <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-        {% endif %}
-    {% endfor %}
-    </ul>
+    {% endif %}{% endfor %}</ul>
   </div>
   <div class="columns large-6">
     <h2 id="p9">Praha severovýchod<br><small>9, 14, 18, 19, 21</small></h2>
     <p><a href="{{ '/lide/dana-balcarova/' | prepend: site.baseurl }}">Dana Balcarová</a>, zastupitelka P9</p>
-    <ul>
-    {% for post in site.posts %}
-        {% if post.tags contains 'p9' %}
+    <ul>{% for post in site.posts %}{% if post.tags contains 'p9' %}
             <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-        {% endif %}
-    {% endfor %}
-    </ul>
+    {% endif %}{% endfor %}</ul>
   </div>
 </div>
 <div class="row">
@@ -74,6 +62,9 @@ layout: default
   <div class="columns large-6">
     <h2 id="p4">Praha jih<br><small>4, 12 , Libuš, Kunratice</small></h2>
     <p>Lukáš Findeis, místopředseda KS Praha</p>
+    <ul>{% for post in site.posts %}{% if post.tags contains 'p12' %}
+        <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}{% endfor %}</ul>
   </div>
 </div>
 

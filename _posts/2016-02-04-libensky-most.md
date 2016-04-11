@@ -1,5 +1,5 @@
 ---
-title:	Piráti nesouhlasí s demolicí Libeňského mostu
+title: "Piráti nesouhlasí s demolicí Libeňského mostu"
 layout:	post
 category:	blog
 author:	Ondřej Profant, Jan Loužek

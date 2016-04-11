@@ -1,10 +1,10 @@
 ---
-title:	Stamilionová louka v Komořanech
+title: "Stamilionová louka v Komořanech"
 layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	cenova-mapa.png
-tags:	Praha, územní plán, změna, developer, parcela
+tags:	Praha, p12, developer, parcela
 date:	2015-05-21
 ---
 
@@ -24,12 +24,10 @@ Výbor pro územní rozvoj se usnesl na přerušení projednávání změny, aby
 
 *Mikuláš Ferjenčík doplňuje: "Mám radost, že na jednání výboru jasně zaznělo z úst předsedy výboru Jana Slezáka (ČSSD), že developer nemá na schválení změny ani případné odškodné žádný právní nárok. Věřím, že zastupitelstvo Prahy 12 se nyní svobodně rozhodne, zda schválení změny podpoří. Osobně jim doporučuji dát přednost louce."*
 
-odkazy:
+Odkazy:
 
 [Celý příběh této změny územního plánu na Pirátských listech](http://www.piratskelisty.cz/clanek-1419-chcete-byt-milionarem-kupte-si-louku)
 
 [Cenová mapa pozemků v Praze](http://mpp.praha.eu/app/map/cenova-mapa/)
 
 [Katalog změn](http://wgp.urm.cz/app/tms/aplk/db/zmenyup/zmeny/index.php)
-
-
