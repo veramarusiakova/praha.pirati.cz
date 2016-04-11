@@ -41,7 +41,7 @@ layout: default
         {% if forloop.index == 1 %}
         <a href="{{ site.baseurl }}/" aria-label="Page {{ forloop.index }}" {% if page == paginator.page %} class="current" {% endif %}>
       {% else %}
-        <a href="{{site.baseurl}}/blog/{{forloop.index}}" aria-label="Page {{ forloop.index }}"{% if page == paginator.page %} class="current"{% endif %}>
+        <a href="{{site.baseurl}}/blog/{{forloop.index}}/" aria-label="Page {{ forloop.index }}"{% if page == paginator.page %} class="current"{% endif %}>
       {% endif %}
         {{ forloop.index }}
       </a>
