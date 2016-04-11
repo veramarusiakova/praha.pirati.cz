@@ -16,7 +16,7 @@ title_page:
   video: https://www.youtube.com/embed/pWK515EHyG0
   calendar:  https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague
 
-permalink: /:title/
+permalink: /:title.html
 collections:
   people:
     output: true
@@ -25,7 +25,7 @@ collections:
 gems:
   - jekyll-paginate
 paginate_path: "/blog/:num/"
-paginate: 14
+paginate: 12
 
 # Build settings
 markdown: kramdown
