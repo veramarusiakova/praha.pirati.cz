@@ -1,8 +1,21 @@
 ---
 name:        Jakub Michálek
+title: Jakub Michálek
+fullname: Mgr. Bc. Jakub Michálek
 layout:      lide
-img:         jakub-michalek.jpg
+image: jakub-michalek.jpg
 description: Mgr. Bc. Jakub Michálek je předseda klubu Pirátů v pražském zastupitelstvu. Jako právník se zaměřuje na svobodný přístup k informacím a autorské právo, vedle toho vystudoval též obecnou fyziku. V minulosti organizoval protesty proti ACTA a podal žalobu na Václava Klause za utajování informací o amnestií.
+sub: předseda zastupitelského klubu
+anotation: Pro tento systém jsou dostupné aktualizace
+priznani: https://github.com/pirati-cz/KlubPraha/blob/master/priznani/jakub-michalek.md
+telefon: + 420 775 978 550
+mail: jakub.michalek@pirati.cz
+twitter: ""
+facebook: https://www.facebook.com/smidak
+vykaz: https://redmine.pirati.cz/activity?show_time_entries=1&user_id=4
+foto: https://www.flickr.com/search/?text=Jakub%20Michalek&sort=relevance&user_id=68741528%40N03
+github: https://github.com/jmichalek
+
 ---
 
 **Mgr. Bc. Jakub Michálek** (* 6. února 1989 Louny) je předseda klubu Pirátů v zastupitelstvu hl. m. Prahy. Zaměřuje se na svobodný přístup k informacím a autorské právo.

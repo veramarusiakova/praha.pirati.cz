@@ -1,8 +1,21 @@
 ---
 name:        Dana Balcarová
+title: Dana Balcarová
+fullname: Ing. Dana Balcarová
 layout:      lide
 img:         dana-balcarova.jpg
 description: Opoziční zastupitelka na Praze 9.
+sub: zastupitelka na Praze 9
+anotation: Magistrát bez megaztrát
+mail: dana.balcarova.cz
+twitter: ""
+facebook: "https://www.facebook.com/dana.balcarova"
+priznani: ""
+telefon: "+420 732 103 330"
+vykaz: ""
+
+
+
 ---
 
 **Aktuálně** ::: Od října 2015 **jsem členkou Pirátské strany**. Moje rozhodnutí vystoupit do PS zrálo postupně, i přes odpor k politickým stranám, který jsem si vypěstovala za minulého režimu a utužila v režimu současném. **A proč teda?** Jako příznivec PS, registrovaný od prosince 2013, jsem se účastnila mnoha pirátských sešlostí, od těch celostátních až po operativní pražské, … líbí se mi jak strana vnitřně funguje. Sdílím nastavení PS směrem k otevřenosti a sdíleni. Na úrovni Krajského sdružení Pirátů Praha oceňuji profesionální a věcný přístup v řešení konkrétních kauz. Ve své práci zastupitelky MČ Praha 9 se opírám o podporu, znalosti a vstřícnost ostatních pražských členů, příznivců a sympatizantů PS.
