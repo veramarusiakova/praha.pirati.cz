@@ -1,8 +1,21 @@
 ---
 name:        Ondřej Profant
-img:         ondrej-profant.jpg
+title: Ondřej Profant
+fullname: Ondřej Profant
 layout:      lide
+img:         ondrej-profant.jpg
 description: Informatik specializovaný na svobodný software. Zaměřuje se na IT systémy, technologické inovace a analýzu zavedení bezplatné MHD.
+sub: zastupitel se zaměřením na informatiku
+image: ondrej-profant.jpg
+anotation: Zeptejte se svých dětí, proč volí Piráty
+mail: ondrej.profant@pirati.cz
+twitter: ""
+facebook: "https://www.facebook.com/ondrej.profant"
+priznani: https://github.com/pirati-cz/KlubPraha/blob/master/priznani/ondrej-profant.md
+telefon: + 420 607 580 015
+vykaz: https://redmine.pirati.cz/activity?show_time_entries=1&user_id=3
+foto: https://www.flickr.com/search/?text=Ondřej%20Profant&sort=relevance&user_id=68741528%40N03
+github: https://github.com/Kedrigern
 ---
 
 **Ondřej Profant** (2. května 1988) je předsedou krajského sdružení Pirátů v Praze a garantem programového bodu o svobodě informací. Byl již členem přípravného výboru České pirátské strany. Pochází a žije v Praze. Vystudoval všeobecné gymnázium. Dále studoval Matematicko-fyzikální fakultu UK, obor Obecná informatika, ale školu nedokončil. V průběhu studia se však blíže seznámil s principy open source softwaru, což ho přivedlo ke Svobodné kultuře obecně a následně i k pirátství.
