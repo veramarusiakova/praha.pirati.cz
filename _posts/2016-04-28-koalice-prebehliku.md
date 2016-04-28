@@ -8,7 +8,7 @@ image:	zhmp-shora.jpg
 author:	Jakub Michálek
 ---
 
-Piráti nebudou nebudou hlasovat ani pro nové radní Daniela Hodka, Karla Grabein-Procházku a Irenu Ropkovou. Naprosto nepřijatelné je zvolení Karla Březiny, Jana Slezáka a přeběhlice Moniky Krobové Hášové do čela výborů.
+Piráti nebudou nebudou hlasovat ani pro nové radní Daniela Hodka, Karla Grabein-Procházku a Irenu Ropkovou. Naprosto nepřijatelné je zvolení Karla Březiny, Jana Slezáka a přeběhlice Moniky Krobové Hášové do čela výborů Zastupitelstva.
 
 Důvody, proč Piráti **nepodporují novou Radu**, jsou následující:
 
