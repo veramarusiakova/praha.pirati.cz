@@ -18,7 +18,7 @@ Až v červnu 2012 byl Březina pravomocně zproštěn obžaloby a poté se změ
 
 Tady se ovšem návrh i zastavil, protože se potvrdily obavy komise, že změna je nežádoucí, Chybí kapacita čističky odpadních vod, zhoršilo by se vsakování vody v lokalitě, zbytečně by se rozšířilo zastavěné území ve městě a nesouhlasí ani hygienická stanice. 
 
-Piráti proto na Karla Březinu a Jana Slezáka [podali](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/zmena-v-cakovicich/k-27-podani-statnimu-zastupitelstvi.PDF) trestní oznámení, které bohužel policie [odložila]https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2016/072-havlin-brezina/2-opatreni-uofk/vyrozumeni.pdf a navrhli jsme zastupitelstvu příslušnou změnu zamítnout. To se bohužel také nepodařilo. Povedlo se alespoň zajistit, že v tuto chvíli nepokračuje její schvalování (změna je přerušená). 
+Piráti proto na Karla Březinu a Jana Slezáka [podali](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/zmena-v-cakovicich/k-27-podani-statnimu-zastupitelstvi.PDF) trestní oznámení, které bohužel policie [odložila](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2016/072-havlin-brezina/2-opatreni-uofk/vyrozumeni.pdf) a navrhli jsme zastupitelstvu příslušnou změnu zamítnout. To se bohužel také nepodařilo. Povedlo se alespoň zajistit, že v tuto chvíli nepokračuje její schvalování (změna je přerušená). 
 
 ## Odkazy
 
