@@ -3,7 +3,7 @@ date:	2016-05-03
 category:	blog
 tags:	Praha
 layout:	post
-title:	"Piráti zveřejnili připravovaný územní plán Prahy a žádají město – zveřejňujte ho průběžně sami!" 
+title:	"Piráti zveřejnili připravovaný územní plán Prahy a žádají město: zveřejňujte ho průběžně sami!" 
 image:	metroplan.pdf
 author:	Mikuláš Ferjenčík
 ---
