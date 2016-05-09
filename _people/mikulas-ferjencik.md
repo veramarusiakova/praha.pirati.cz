@@ -3,7 +3,7 @@ name:        Mikuláš Ferjenčík
 title: Mikuláš Ferjenčík
 fullname: Mikuláš Ferjenčík
 layout:      lide
-image: mikulas-ferjencik.jpg
+img: mikulas-ferjencik.jpg
 description: Protikorupční aktivista, lektor kroužků logiky a překladatel. Zaměřuje se na komunikaci města a obyvatel, podezřelé kauzy, konkrétní dopravní zlepšení.
 sub: zastupitel a mluvčí klubu
 anotation: Každý chce být trochu jako Johnny Depp
@@ -14,8 +14,6 @@ telefon: + 420 737 943 770
 vykaz: https://redmine.pirati.cz/activity?show_time_entries=1&user_id=17
 foto: https://www.flickr.com/search/?text=Mikuláš%20Ferjenčík&sort=relevance&user_id=68741528%40N03
 github: https://github.com/mifer
-
-
 ---
 
 **Mikuláš Ferjenčík** se narodil v Českých Budějovicích, brzy se ale s rodiči přestěhoval do Choltic, malé obce nedaleko Pardubic. V současnosti žije s manželkou v Praze a v Pardubicích dává do pořádku byt po babičce.
