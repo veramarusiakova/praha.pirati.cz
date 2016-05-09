@@ -19,7 +19,7 @@
       <div class="top-bar-right" style="background-color: white;">
         <nav>
           <ul class="menu vertical medium-horizontal medium-text-center">
-            <li {% if page.url == "/blog/" %}class="active"{% endif %}>
+            <li {% if page.url == "/blog/" or page.layout == "post" %}class="active"{% endif %}>
               <a href="{{"/blog/" | prepend: site.baseurl}}" >Aktuality</a>
             </li>
             <li {% if page.url == "/o-nas/" or page.url == "/mestske-casti/" or page.layout == "lide" %}class="active"{% endif %}>
