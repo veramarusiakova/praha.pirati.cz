@@ -10,7 +10,7 @@ sub: zastupitel se zaměřením na informatiku
 image: ondrej-profant.jpg
 anotation: Zeptejte se svých dětí, proč volí Piráty
 mail: ondrej.profant@pirati.cz
-twitter: ""
+twitter: "https://twitter.com/ondrej_profant"
 facebook: "https://www.facebook.com/ondrej.profant"
 priznani: https://github.com/pirati-cz/KlubPraha/blob/master/priznani/ondrej-profant.md
 telefon: + 420 607 580 015

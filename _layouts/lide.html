@@ -58,6 +58,23 @@ layout: default
       {{ content }}
 
       {% if page.name != 'index.html' %}
+
+      <hr>
+
+      <p>Kontakty:
+        {% if page.telefon %}{{ page.telefon }},{% endif %}
+        {% if page.mail %}{{ page.mail }}{% endif %}
+      </p>
+      <p>Sociální sítě:
+         {% if page.facebook %}<a href="{{page.facebook}}">Facebook</a>,{% endif %}
+         {% if page.twitter %}<a href="{{page.twitter}}">Twitter</a>,{% endif %}
+         {% if page.github %}<a href="{{page.github}}">Github</a>{% endif %}
+     </p>
+     <p>Další informace:
+         {% if page.priznani %}<a href="{{page.priznani}}">majetkové přiznání</a>,{% endif %}
+         {% if page.vykaz %}<a href="{{page.vykaz}}">výkaz práce</a>.{% endif %}
+         </p>
+
       <hr>
 
       <h3>Napsal:</h3>
