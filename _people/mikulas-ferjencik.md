@@ -1,4 +1,5 @@
 ---
+order: 3
 name:        Mikuláš Ferjenčík
 title: Mikuláš Ferjenčík
 fullname: Mikuláš Ferjenčík
