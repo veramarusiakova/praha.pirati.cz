@@ -2,6 +2,8 @@
 
 Web Pirátů v Praze. Web je zamýšlen pro celé krajské sdružení - zastupitele (magistrát i mč), veřejnost, členy i pracovníky. Běží na adrese: http://praha.pirati.cz
 
+Pro psaní článků je třeba umět [markdown](https://daringfireball.net/projects/markdown/). Pro zbylé úpravy html a css framework [Foundation 6](http://foundation.zurb.com/). T06 je třeba seznámit se alespoň se základy gitu.
+
 TODO:
 
 - drobné opravy
@@ -40,19 +42,18 @@ Správný commit vždy:
 3. Po nahrání na web stránku vyzkoušíme v anonymním okně prohlížeče
 4. Zkusíme dát `ctrl+f5`
 5. Správná kompilace i tak může trvat např. 5 minut
-6. Poslední možností je zaslat prázdný commit, který by měl vynutit přegenerování stránky:
-   ```
-   git commit -m 'rebuild pages' --allow-empty
-   git push
-   ```
+6. Poslední možností je zaslat prázdný commit, který by měl vynutit přegenerování stránky:  
+    ```
+    git commit -m 'rebuild pages' --allow-empty  
+    git push
+    ```
 
 ### Standardizace tagů
 
 Články obsahují tagy podle, kterých se následně řadí do rubrik:
 
-Městské části: praha-1, praha-2, ..., praha-10, ..., praha-22, praha-Běchovice, ...   
-Praha jako celek: Praha, ZHMP
-
+Městské části: `praha-1`, `praha-2`, ..., `praha-10`, ..., `praha-22`, `praha-Běchovice`, ...   
+Praha jako celek: `Praha`, `ZHMP`
 
 ### Adresařova struktura
 
@@ -90,6 +91,18 @@ Praha jako celek: Praha, ZHMP
 │   └── index.html       
 └── index.html        - úvodní stránka
 ```
+
+## Pokročilé
+
+### Výkon
+
+Základním nástrojem pro měření výkonu kompilace: `jekyll build --profile`
+
+TODO:
+
+- dopsat skript pro kontrolu velikosti obrázků
+- lépe sladit javascript
+- otestovat provoz na vlastním serveru
 
 ## Použité technologie
 
