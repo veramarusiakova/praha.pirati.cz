@@ -113,3 +113,10 @@ TODO:
   - [Ladění FB](https://365tipu.wordpress.com/2015/04/13/tip103-co-delat-kdyz-facebook-odmita-vlozit-odkaz-na-web/)
 - [Disqus a Google analytics, Twitter light share](http://joshualande.com/jekyll-github-pages-poole)
 - [Responsibilita](http://design.google.com/resizer/)
+
+## Instalace Jekyll na čistou Fedora 23
+```
+sudo dnf install gem rubygems-devel.noarch gcc ruby-devel
+dnf install rpm-build
+sudo gem install jekyll  jekyll-paginate
+```
