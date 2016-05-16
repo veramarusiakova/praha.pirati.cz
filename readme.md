@@ -1,42 +1,63 @@
 # Web Praha
 
-Nový web Pirátů v Praze. Web je zamýšlen pro celé krajské sdružení - zastupitele (magistrát i mč), veřejnost, členy i pracovníky. Náhled je k dispozici na: http://pirati-cz.github.io/webpraha2/
+Web Pirátů v Praze. Web je zamýšlen pro celé krajské sdružení - zastupitele (magistrát i mč), veřejnost, členy i pracovníky. Běží na adrese: http://praha.pirati.cz
 
-Toto readme je čistě technické a metodické.
-
-
-## Funkcionality
-
-Celý web bude vyvíjen agilně, čili spustíme první funkční verzi. Mnoho textů, designových prvků se ještě jistě bude měnit.
-
-Věci, které jsou hotové (pro verzi 1):
-
-- technologie (jekyll, template etc.)
-- design
-- články
-  - výpis
-  - paginace
-- mailchimp integrace
+Pro psaní článků je třeba umět [markdown](https://daringfireball.net/projects/markdown/). Pro zbylé úpravy html a css framework [Foundation 6](http://foundation.zurb.com/). T06 je třeba seznámit se alespoň se základy gitu.
 
 TODO:
 
+- drobné opravy
+- podrobnější stránky s MČ
 - integrace Disqus
 
 
-## Náhled a kompilace
+## Jak přispívat?
 
-Stránka je k vidění na `http://pirati-cz.github.io/webpraha2/`,
-lokálně je třeba kompilovat: `jekyll serve --baseurl ''`
+Používáme technologii [Jekyll](http://jekyllrb.com/), která tvoří web ze statických [šablonovaných (Liquid)](https://shopify.github.io/liquid/) stránek. Díky tomu je vše velmi jednoduché:
 
+- články jsou markdown soubory v adresaři `_posts`
+- profily lidí z týmu jsou markdown soubory v adresaři `_pepople`
+- stránky jsou klasické html soubory (mohou být i markdown)
 
-## Standardizace tagů
+### Lokální test
 
-Městské části: praha-1, praha-2, ..., praha-10, ..., praha-22, praha-Běchovice, ...
+V adresaři s repozitářem spustíme příkaz:
+`jekyll serve --incremental --baseurl '' `
+což spustí server s webem a my si ho můžeme prohlédnout.
 
-Praha jako celek: Praha, ZHMP
+### Správný commit
 
+Pro upload se používá git. Ten rozděluje "uploady" na commity.
 
-## Adresařova struktura
+Správný commit vždy:
+
+- zachová funkčnost
+- dodává 1 funcionalitu (např. nové menu)
+- obsahuje popis z kterého je zřejmé, co mění (např.: *Rewrite main menu from Foundation 5 to Foundation 6*)
+
+### Debug cache
+
+1. Stránku vždy vyzkoušíme [lokálně](#lokálni-test) (tím předejdeme chybám jako špatné cesty)
+2. Pokud by stránka lokálně nefungovala dobře, tak smažte `_site` a zkuste to znovu
+3. Po nahrání na web stránku vyzkoušíme v anonymním okně prohlížeče
+4. Zkusíme dát `ctrl+f5`
+5. Správná kompilace i tak může trvat např. 5 minut
+6. Poslední možností je zaslat prázdný commit, který by měl vynutit přegenerování stránky:  
+    ```
+    git commit -m 'rebuild pages' --allow-empty  
+    git push
+    ```
+
+### Standardizace tagů
+
+Články obsahují tagy podle, kterých se následně řadí do rubrik:
+
+Městské části: `praha-1`, `praha-2`, ..., `praha-10`, ..., `praha-22`, `praha-Běchovice`, ...   
+Praha jako celek: `Praha`, `ZHMP`
+
+### Adresařova struktura
+
+ Základní schéma:
 
 ```
 ├── _config.yml       - konfigurační soubor
@@ -71,7 +92,17 @@ Praha jako celek: Praha, ZHMP
 └── index.html        - úvodní stránka
 ```
 
+## Pokročilé
 
+### Výkon
+
+Základním nástrojem pro měření výkonu kompilace: `jekyll build --profile`
+
+TODO:
+
+- dopsat skript pro kontrolu velikosti obrázků
+- lépe sladit javascript
+- otestovat provoz na vlastním serveru
 
 ## Použité technologie
 

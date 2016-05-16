@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% assign sorted_people = (site.people | sort:"order") %}
 
 <div class="row">
   <div class="large-5 columns">
@@ -12,7 +13,7 @@ layout: default
           <ul class="orbit-container">
             <button class="orbit-previous"><span class="show-for-sr">Předchozí</span>&#9664;&#xFE0E;</button>
             <button class="orbit-next"><span class="show-for-sr">Další</span>&#9654;&#xFE0E;</button>
-            {% for person in site.people %}
+            {% for person in sorted_people %}
               <li class="orbit-slide{% if forloop.first %} is-active{% endif %}">
                 <a href="{{person.url}}">
                   <img class="orbit-image" src="{{person.img | prepend: "/assets/img/people/" | prepend: site.baseurl }}" alt="{{person.name}}">
@@ -28,7 +29,7 @@ layout: default
         {% endif %}
       </div>
     </div>
-    {% for person in site.people %}
+    {% for person in sorted_people %}
     <div class="row" {% if page.url == person.url %}style="background:yellow;"{% endif %}>
       <div class="large-3 column">
           <a href="{{person.url | prepend: site.baseurl }}">
@@ -57,6 +58,23 @@ layout: default
       {{ content }}
 
       {% if page.name != 'index.html' %}
+
+      <hr>
+
+      <p>Kontakty:
+        {% if page.telefon %}{{ page.telefon }},{% endif %}
+        {% if page.mail %}{{ page.mail }}{% endif %}
+      </p>
+      <p>Sociální sítě:
+         {% if page.facebook %}<a href="{{page.facebook}}">Facebook</a>,{% endif %}
+         {% if page.twitter %}<a href="{{page.twitter}}">Twitter</a>,{% endif %}
+         {% if page.github %}<a href="{{page.github}}">Github</a>{% endif %}
+     </p>
+     <p>Další informace:
+         {% if page.priznani %}<a href="{{page.priznani}}">majetkové přiznání</a>,{% endif %}
+         {% if page.vykaz %}<a href="{{page.vykaz}}">výkaz práce</a>.{% endif %}
+         </p>
+
       <hr>
 
       <h3>Napsal:</h3>
@@ -64,7 +82,7 @@ layout: default
       <ul class="posts">
       {% for post in site.posts %}
           {% if post.author contains page.name %}
-              <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+              <li><span>{{ post.date | date: "%-d. %-m. %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
           {% endif %}
       {% endfor %}
       </ul>
