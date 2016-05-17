@@ -61,6 +61,6 @@ Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) �
 
 ## Související odkazy
 
-* [Pravidla výběrového řízení](pravidla.md)
-* [Schválené usnesení](usneseni.md) 
+* [Pravidla výběrového řízení](https://github.com/pirati-cz/KlubPraha/blob/master/vyberka/asistent-senatora/zadani/pravidla.md)
+* [Schválené usnesení](https://github.com/pirati-cz/KlubPraha/blob/master/vyberka/asistent-senatora/zadani/usneseni.md) 
 
