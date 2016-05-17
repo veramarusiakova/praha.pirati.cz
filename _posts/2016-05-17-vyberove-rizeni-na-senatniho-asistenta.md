@@ -1,7 +1,7 @@
 ---
 date:	2016-05-17
 category:	blog
-tags:	výběrová řízení
+tags:	výběrka
 layout:	post
 title:	"Staň se asistentem pirátského senátora Libora Michálka" 
 image:	libor-michalek.png
