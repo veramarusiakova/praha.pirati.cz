@@ -4,7 +4,7 @@ name:        Ivan Bartoš
 title: Ivan Bartoš
 fullname: PhDr. Ivan Bartoš, PhD.
 layout:      lide
-img:         ivan-bartos.jpg
+img:         ivan-bartos.png
 description: Předseda Pirátské strany. Systémový architekt a antisystémový aktivista
 sub: předseda Pirátské strany
 image: ivan-b.jpg

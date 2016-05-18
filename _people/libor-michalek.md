@@ -4,7 +4,7 @@ name:        Libor Michálek
 title: Jakub Michálek
 fullname: Mgr. Libor Michálek, MPA
 layout:      lide
-img: libor-michalek.jpg
+img: libor-michalek.png
 description: Nezávislý senátor za Piráty, Zelené a KDU-ČSL; finanční analytik, whistleblower a nejznámější český oznamovatel korupce.
 sub: Nezávislý senátor
 anotation: Pískám, když se nehraje fér
