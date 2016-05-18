@@ -1,5 +1,5 @@
 ---
-order: 8
+order: 5
 name:        Ivan Bartoš
 title: Ivan Bartoš
 fullname: PhDr. Ivan Bartoš, PhD.

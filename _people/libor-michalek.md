@@ -1,5 +1,5 @@
 ---
-order: 9
+order: 7
 name:        Libor Michálek
 title: Jakub Michálek
 fullname: Mgr. Libor Michálek, MPA
@@ -14,7 +14,7 @@ foto: https://www.flickr.com/search/?text=Libor%20Michalek&sort=relevance&user_i
 
 **Mgr. Libor Michálek, MPA** (* 14. prosince 1968 Náchod) je senátor za koalici Pirátů, Strany Zelených a KDU-ČSL v Senátu. Pracoval jako finanční analytik; znám je především ale jako oznamovatel korupce a whistleblower. Je ženatý a má 3 děti.
 
-Po studiích na Přírodovědecké fakultě v Olomouci pracoval na Fondu národního majetku (FNM), kde v roce 1996 poprvé veřejně upozornil na machinace při privatizaci státních podílů. Okamžitě tehdy přišel o místo, nicméně soudní spor s FNM o rok později vyhrál. Dále působil 8 let v Komisi pro cenné papíry, kde přispěl k navrácení několika stovek miliónů Kč vytunelovaných z fondů kolektivního investování. 
+Po studiích na Přírodovědecké fakultě v Olomouci pracoval na Fondu národního majetku (FNM), kde v roce 1996 poprvé veřejně upozornil na machinace při privatizaci státních podílů. Okamžitě tehdy přišel o místo, nicméně soudní spor s FNM o rok později vyhrál. Dále působil 8 let v Komisi pro cenné papíry, kde přispěl k navrácení několika stovek miliónů Kč vytunelovaných z fondů kolektivního investování.
 
 V letech 2008 až 2010 studoval manažerský program zaměřený na oblast veřejné správy při Nottingham Trent University, v dizertační práci se mj. věnoval problematice pro klienty nevýhodného rozdělování zisků penzijních fondů. Pracoval rovněž jako finanční expert pro Světovou banku.
 
