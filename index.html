@@ -79,7 +79,7 @@ layout: default
   <div class="large-5 columns">
     <aside>
       <div class="row column">
-        <iframe src="{{ site.title_page.calendar }}" style="border-width:0" width="100%" height="420" frameborder="0" scrolling="no"></iframe>
+        <iframe src="{{ site.title_page.calendar }}" style="border-width:0" width="100%" height="410" frameborder="0" scrolling="no"></iframe>
         <p>Více <a href="{{"/kalendar/" | prepend: site.baseurl }}">událostí</a> naleznete na samostatné stránce.</p>
       </div>
 
@@ -87,7 +87,8 @@ layout: default
 
       <div class="row column">
         <p class="lead">Lidé</p>
-        {% for person in (site.people | limit: 3 )%}
+        {% assign sorted_people = site.people | sort:"order" %}
+        {% for person in sorted_people limit:3 %}
         <div class="media-object">
           <div class="media-object-section">
             <img class="thumbnail" src="{{person.img | prepend: "/assets/img/people/" | prepend: site.baseurl }}" style="width: 80px">

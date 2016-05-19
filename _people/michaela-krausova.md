@@ -1,5 +1,5 @@
 ---
-order: 6
+order: 8
 name:        Michaela Krausová
 Title:	Michaela Krausová
 fullname: Michaela Krausová
