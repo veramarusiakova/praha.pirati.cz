@@ -16,5 +16,5 @@ Pražané by tak mohli napadnout platnost zvlášť nevýhodné smlouvy anebo vy
 
 „Toto ustanovení se má týkat velkých kauz, kde škoda způsobená městu přesahuje milion korun. Boj proti korupci se musí soustředit na velké ryby,“ uzavírá Michálek.
 
-[Kompletení návrh základních tezí protikorupční strategie od Pirátů](https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/100-protikorupcni-strategie/1-navrh-zakladnich-tezi/Protikorupcni_teze_Piratu.pdf)
+[Kompletení návrh základních tezí protikorupční strategie od Pirátů](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/protikorupcni-strategie/1-navrh-zakladnich-tezi/Protikorupcni_teze_Piratu.pdf)
 

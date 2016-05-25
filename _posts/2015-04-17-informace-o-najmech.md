@@ -26,9 +26,9 @@ Magistrát se nyní musí věcí zabývat znovu. Podle správního řádu se mus
 
 **Související dokumenty**:
 
-- [Žádost o informace](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/07-nemovity-majetek-Prahy/main_signed.pdf)
-- [Zamítnutí žádosti o informace](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/07-nemovity-majetek-Prahy/nevyhoveni-zadosti/zamitnuti.pdf)
-- [Rozhodnutí o odvolání](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/07-nemovity-majetek-Prahy/odpoved-mvcr/rozhodnuti.pdf)
+- [Žádost o informace](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/07-nemovity-majetek-Prahy/1-zadost/main_signed.pdf)
+- [Zamítnutí žádosti o informace](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/07-nemovity-majetek-Prahy/3-odmitnuti/zamitnuti.pdf)
+- [Rozhodnutí o odvolání](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/07-nemovity-majetek-Prahy/4-odvolani/main.pdf)
 
 
 
