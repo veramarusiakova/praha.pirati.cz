@@ -23,7 +23,7 @@ Kompletní data jsou v níže přiložených souborech.
 
 
 
-[reserse]: /assets/static/sms-jizdenky/reserse.pdf
+[reserse]: /assets/pdf/reserse.pdf
 [nasi-politici]: http://www.nasipolitici.cz/cs/kauzy/detail/99-kauza-sms-jizdenek-pokracuje/download/32-nasi-politici-o-s-analyza-zakazek-na-sluzbu-sms-jizdenkek-v-regionech-ceske-republiky-pdf
-[tabulka]: /assets/static/sms-jizdenky/marze.pdf
+[tabulka]: /assets/pdf/marze.pdf
 [post]: http://praha.pirati.cz/smlouva-na-sms-jizdenky.html

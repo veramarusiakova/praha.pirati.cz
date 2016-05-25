@@ -17,7 +17,7 @@ Máte alespoň 8 hodin týdně, které můžete věnovat nové aktivitě?
 Zastupitelský klub Pirátů v Praze hledá stážisty na následující pozice:
 
 1. **Pirátský reportér / Pirátská reportérka:**
-člověk, který píše články pro [blog](http://praha.pirati.cz/blog.html) a [www.piratskelisty.cz](www.piratskelisty.cz)
+člověk, který píše články pro [blog](http://praha.pirati.cz) a [www.piratskelisty.cz](www.piratskelisty.cz)
 
 2. **Pirátská analytička / Pirátský analytik:**
 člověk, který chce sledovat nějakou konkrétní agendu města; vyberte si libovolné téma, která spadá pod kterýkoli [výbor zastupitelstva](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html),

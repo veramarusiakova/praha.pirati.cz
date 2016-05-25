@@ -53,4 +53,4 @@ Piráti doporučují Radě hl. m. Prahy, aby
 
 
 [srovnani]: /sms-jizdenky.html
-[analyza]: /assets/static/sms-jizdenky/analyza_marze.pdf
+[analyza]: /assets/pdf/analyza_marze.pdf
