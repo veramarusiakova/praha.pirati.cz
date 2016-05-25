@@ -33,8 +33,8 @@ Na ustavujícím zasedání Zastupitelstva hlavního města Prahy byl zvolen nov
 
 
 
-[3]: http://praha.pirati.cz/ondrej-profant.html
-[4]: http://praha.pirati.cz/adam-zabransky.html
-[5]: http://praha.pirati.cz/viktor-mahrik.html
-[1]: http://praha.pirati.cz/jakub-michalek.html
-[2]: http://praha.pirati.cz/mikulas-ferjencik.html
+[3]: http://praha.pirati.cz/lide/ondrej-profant.html
+[4]: http://praha.pirati.cz/lide/adam-zabransky.html
+[5]: http://praha.pirati.cz/lide/viktor-mahrik.html
+[1]: http://praha.pirati.cz/lide/jakub-michalek.html
+[2]: http://praha.pirati.cz/lide/mikulas-ferjencik.html
