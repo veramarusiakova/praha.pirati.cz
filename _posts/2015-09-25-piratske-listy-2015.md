@@ -51,4 +51,4 @@ Budeme rádi, pokud pár výtisků umístíte i do
 
 
 
-[miki]: /mikulas-ferjencik.html
+[miki]: /lide/mikulas-ferjencik/
