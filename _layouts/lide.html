@@ -31,16 +31,15 @@ layout: default
     </div>
     {% for person in sorted_people %}
     <div class="row" {% if page.url == person.url %}style="background:yellow;"{% endif %}>
-      <div class="large-3 column">
-          <a href="{{person.url | prepend: site.baseurl }}">
-            <img src="{{person.img | prepend: "/assets/img/people/" | prepend: site.baseurl }}" alt="{{page.name}}" style="width: 90px;">
-          </a>
-      </div>
-      <div class="large-9 column">
-        <h5>{{person.name}}</h5>
-
-        <p><small>{{person.description | truncate: 110}}</small></p>
-      </div>
+      <a href="{{person.url | prepend: site.baseurl }}" style="text-decoration: none; color: black;">
+        <div class="large-3 column">
+              <img src="{{person.img | prepend: "/assets/img/people/" | prepend: site.baseurl }}" alt="{{page.name}}" style="width: 90px;">
+        </div>
+        <div class="large-9 column">
+          <h5>{{person.name}}</h5>
+          <p><small>{{person.description | truncate: 110}}</small></p>
+        </div>
+      </a>
     </div>
     {% endfor %}
   </div>
