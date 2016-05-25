@@ -10,6 +10,8 @@ sub: předseda Pirátské strany
 image: ivan-b.jpg
 anotation: Sdílení je aktem lásky.
 mail: ivan.bartos@pirati.cz
+facebook: https://www.facebook.com/ivan.bartos.37
+twitter: https://twitter.com/ivanczechpir8
 ---
 
 **Ivan Bartoš** (* 20. března 1980) je členem Pirátské strany od jejího založení. V letech 2009-2013 byl předsedou Pirátské strany, opět byl do čela Pirátů zvolen v roce 2016.

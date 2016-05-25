@@ -9,7 +9,6 @@ description: Opoziční zastupitelka na Praze 9.
 sub: zastupitelka na Praze 9
 anotation: Magistrát bez megaztrát
 mail: dana.balcarova.cz
-twitter: ""
 facebook: "https://www.facebook.com/dana.balcarova"
 priznani: ""
 telefon: "+420 732 103 330"

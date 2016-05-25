@@ -10,6 +10,7 @@ sub: člen finančního výboru
 image: viktor-mahrik.jpg
 anotation: Manažer národního výzkumu navštěvovanosti českého Internetu. Zaměřuje se na transparentní hospodaření a zveřejnování informací na Internetu.
 mail: viktor.mahrik@pirati.cz
+facebook: https://www.facebook.com/viktor.mahrik
 ---
 
 **Viktor Mahrik** (* 21. dubna 1982) je členem předsednictva krajského sdružení Praha a členem finančního výboru zastupitelstva hl. m. Prahy. Po dlouhých cca 18 letech je prvním členem výboru zastupitelstva, který sám není zastupitelem. Vystudoval gymnázium v Praze 6 v Arabské ulici, kde získal mimo jiné klasické vzdělání. V průběhu studia na VŠ se zabýval matematikou, pedagogikou, informačními technologiemi a nyní studuje Řízení podniku a podnikové finance na VŠFS.

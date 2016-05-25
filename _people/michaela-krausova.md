@@ -10,7 +10,6 @@ description: Aktivistka, koordinátorka dobrovolníků
 sub: koordinátorka dobrovolníků
 anotation: Nevol podle letáku, informuj se
 mail: misa.krausova@pirati.cz
-twitter: ""
 facebook: "https://www.facebook.com/Broskwwwicka?ref=ts&fref=ts"
 priznani: ""
 telefon: + 420 732 858 172

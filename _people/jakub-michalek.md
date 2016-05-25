@@ -11,7 +11,7 @@ anotation: Pro tento systém jsou dostupné aktualizace
 priznani: https://github.com/pirati-cz/KlubPraha/blob/master/priznani/jakub-michalek.md
 telefon: + 420 775 978 550
 mail: jakub.michalek@pirati.cz
-twitter: ""
+twitter: "https://twitter.com/jakubmichalek19?lang=cs"
 facebook: https://www.facebook.com/smidak
 vykaz: https://redmine.pirati.cz/activity?show_time_entries=1&user_id=4
 foto: https://www.flickr.com/search/?text=Jakub%20Michalek&sort=relevance&user_id=68741528%40N03

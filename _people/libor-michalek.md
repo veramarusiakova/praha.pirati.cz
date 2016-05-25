@@ -10,6 +10,7 @@ sub: Nezávislý senátor
 anotation: Pískám, když se nehraje fér
 mail: michalekl@senat.cz
 foto: https://www.flickr.com/search/?text=Libor%20Michalek&sort=relevance&user_id=68741528%40N03
+facebook:  https://www.facebook.com/libormichalekfanclub/
 ---
 
 **Mgr. Libor Michálek, MPA** (* 14. prosince 1968 Náchod) je senátor za koalici Pirátů, Strany Zelených a KDU-ČSL v Senátu. Pracoval jako finanční analytik; znám je především ale jako oznamovatel korupce a whistleblower. Je ženatý a má 3 děti.
