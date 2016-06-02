@@ -8,6 +8,7 @@ TODO:
 
 - drobné opravy
 - podrobnější stránky s MČ
+- přesunout více dat do configu/ů
 - integrace Disqus
 
 
