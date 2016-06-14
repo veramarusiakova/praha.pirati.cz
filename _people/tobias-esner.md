@@ -1,6 +1,6 @@
 ---
 order: 8
-name:        Tobias Esner
+name:        Vladislav Tobias Esner
 Title:	Tobias Esner
 fullname: Vladislav Tobias Esner
 layout:      lide
