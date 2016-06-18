@@ -14,11 +14,8 @@ Na zasedání pražského zastupitelstva dne 5. 11. 2015 jsme proto předložili
 
 Proto Jakub Michálek na zasedání zastupitelstva v lednu 2016 interpeloval primátorku Krnáčovou. Primátorka sice [zaslala odpověď][dopis], ve které potvrdila, že příprava pravidel je už ve stádiu finalizace; od poloviny února, kdy Piráti dopis dostali, se však opět nic neděje.
 
-Touto skutečností tak Rada hlavního města Prahy nejen porušuje schválené usnesení zastupitelstva, ale zároveň dává najevo, jak jí je boj za transparentnost, proti politickému přeběhlictví a rozšířenému trafikantství vlastně lhostejný. Vzhledem k tomu, že staronovou koalici ANO+ČSSD a Trojkoalice podporuje nyní členka klubu ČSSD a bývalá zastupitelka za TOP 09, přeběhlice Monika Krobová Hášová, která pobírá tučné odměny v městské firmě Pražská energetika, to však může být jen stěží překvapením. 
+Touto skutečností tak Rada hlavního města Prahy nejen porušuje schválené usnesení zastupitelstva, ale zároveň dává najevo, jak jí je boj za transparentnost, proti politickému přeběhlictví a rozšířenému trafikantství vlastně lhostejný. Vzhledem k tomu, že staronovou koalici ANO+ČSSD a Trojkoalice podporuje nyní členka klubu ČSSD a bývalá zastupitelka za TOP 09, přeběhlice Monika Krobová Hášová, která pobírá tučné odměny v městské firmě Pražská energetika, to však může být jen stěží překvapením.
 
-[pravidla]: https://github.com/pirati-cz/KlubPraha/blob/master/materialy/mestske-firmy/stop-trafikam/nominace.pdf)
+[pravidla]: https://github.com/pirati-cz/KlubPraha/blob/master/materialy/mestske-firmy/stop-trafikam/
 [zasedani]: https://praha.pirati.cz/zakaz-trafik-od-ledna.html
 [dopis]: https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2016/034-interpelace-jakuba-ohledne-pravidel-nominace/pisemna-odpoved-na-interpelaci.pdf)
-
-
-
