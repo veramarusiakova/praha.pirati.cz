@@ -5,7 +5,7 @@ tags:	Praha
 layout:	post
 title:	"Byznys snů. Provozuje farmářské trhy na Náměstí Republiky, neplatí za to nic" 
 image:	praha1.png
-author:	Mikuláš Ferjenčík
+author:	Adam Zábranský
 ---
 
 Společnost Delicato centrum provozuje farmářské trhy na Náměstí Republiky. Na tom samo o sobě není vůbec nic špatného. Problém je, že za to městské části Praha 1 ani Magistrátu hl. m. Prahy neplatí ani korunu. Na jiných místech (Náplavka, Jiřího z Poděbrad) přitom provozovatelé farmářských trhů platí přes milion korun ročně, a to tam trhy nejsou zdaleka tak časté. „Přenechání takto lukrativního místa provozovateli zdarma nedává žádný smysl, farmářské trhy v centru Prahy jsou byznys, který si na sebe vydělá. Praha 1 očividně přichází o více než milion korun ročně. Na tuto skutečnost upozornil spolek Kverulant již před více než rokem a od té doby radnice smlouvu nezměnila, což vyvolává silné pochybnosti o tom, že se jedná o pouhé pochybení,“ shrnuje kauzu pražský zastupitel za Piráty Adam Zábranský.
