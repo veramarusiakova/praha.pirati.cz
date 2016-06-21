@@ -12,7 +12,7 @@ Společnost Delicato centrum provozuje farmářské trhy na Náměstí Republiky
 
 Na vině přitom je jak Praha 1 tak hlavní město Praha. Magistrát totiž Praze 1 poskytl za účelem provozování farmářských trhů prostory na Náměstí Republiky zdarma, městská část je pak zdarma poskytla společnosti Delicato centrum.
 
-##Odkazy
+## Odkazy
 
 * [Více než rok staré shrnutí Kverulanta](http://www.kverulant.org/kauza/prazsky-byznys-s-farmari)
 * [Smlouva provozovatele s Prahou 1](https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2016/098-farmarske-trhy-praha-1/02-odpoved)
