@@ -26,6 +26,20 @@ layout: default
     {% endfor %}
   </div>
   <div class="columns large-5">
+    <form method="get" action="https://www.google.com/search">
+      <div class="input-group">
+        <input type="text" name="q" size="25" maxlength="255" value="" placeholder="Hledej na pirati.praha.cz" class="input-group-field" />
+        <div class="input-group-button">
+          <input type="submit" value="Hledej" class="button" />
+        </div>
+      </div>
+      <div style="position: absolute; left: -5000px;" aria-hidden="true" class="hide">
+        <input type="checkbox"  name="sitesearch" value="praha.pirati.cz" checked />
+      </div>
+    </form>
+
+    <hr>
+
     <div class="fb-page" data-href="https://www.facebook.com/CeskaPiratskaStranaPraha/" data-tabs="timeline" data-width="500" data-height="550" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
       <div class="fb-xfbml-parse-ignore">
         <blockquote cite="https://www.facebook.com/CeskaPiratskaStranaPraha/">
