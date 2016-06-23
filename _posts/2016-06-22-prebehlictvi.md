@@ -1,5 +1,5 @@
 ---
-date:	2016-06-23
+date:	2016-06-22
 category:	blog
 tags:	Praha
 layout:	post
