@@ -12,7 +12,7 @@ layout: default
         <div class="card-content">
           <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" | prepend: site.baseurl}}" alt="P">
           <h4 class="post-author">Projekty</h4>
-          <p><a href="https://www.pirati.cz/hudba/start">Svobodná hudba</a>, <a href="https://www.pirati.cz/ttip">TTIP</a>, Pirátské listy, Video tým, ... Pomoz konkrétní věci!</p>
+          <p>Svobodná hudba, TTIP, Pirátské listy, Video tým, ... Pomoz konkrétní věci!</p>
         </div>
       </article>
     </a>
@@ -25,7 +25,7 @@ layout: default
         <div class="card-content">
           <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" | prepend: site.baseurl}}" alt="P">
           <h4 class="post-author">Členství</h4>
-          <p>Chceš se podílet na <a href="https://www.pirati.cz/program/start">programu</a> a rozhodovat o důležitých věcech? Staň se Pirátem!</p>
+          <p>Chceš se podílet na programu a rozhodovat o důležitých věcech? Staň se Pirátem!</p>
         </div>
       </article>
     </a>
@@ -38,7 +38,7 @@ layout: default
         <div class="card-content">
           <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" | prepend: site.baseurl}}" alt="P">
           <h4 class="post-author">Stáže</h4>
-          <p>Přečti si, jak probíhala stáž <a href="#">Petra</a> nebo <a href="#">Alex</a> na magistrátu. Zkus to i Ty!</p>
+          <p>Přečti si, jak probíhala stáž Petra nebo Alex na magistrátu. Zkus to i Ty!</p>
         </div>
       </article>
     </a>
@@ -131,7 +131,7 @@ layout: default
 
 
   <div id="mc_embed_signup">
-    <form action="//pirati.us9.list-manage.com/subscribe/post?u=7e063d6dffdb0316b906e1351&amp;id=88a318620c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <form action="{{ site.mailchimp.volunters.action }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
       <div id="mc_embed_signup_scroll">
         <div class="row">
@@ -195,7 +195,7 @@ layout: default
 
         <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
         <div style="position: absolute; left: -5000px;" aria-hidden="true">
-          <input type="text" name="b_7e063d6dffdb0316b906e1351_88a318620c" tabindex="-1" value="">
+          <input type="text" name="{{ site.mailchimp.volunters.captcha }}" tabindex="-1" value="">
         </div>
         <div class="clear">
         </div>
