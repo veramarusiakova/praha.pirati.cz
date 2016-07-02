@@ -50,6 +50,7 @@ layout: default
 <div class="row">
   <!-- AKTUALITY -->
   <div class="large-7 columns" style="border-right: 1px solid #E3E5E8;">
+    <h2 class="show-for-small-only">Aktuality</h2>
     <article>
       {% for post in site.posts limit: 4 %}
       <div class="row">
@@ -71,9 +72,7 @@ layout: default
         </div>
       </div>
       <hr> {% endfor %}
-
       <a href="{{"/blog/" | prepend: site.baseurl }}" class="button">Další články</a>
-
     </article>
   </div>
   <!-- /AKTUALITY -->
@@ -81,6 +80,7 @@ layout: default
   <div class="large-5 columns">
     <aside>
       <div class="row column">
+        <h2 class="show-for-small-only">Kalendář</h2>
         <iframe src="{{ site.title_page.calendar.title }}" style="border-width:0" width="100%" height="410" frameborder="0" scrolling="no"></iframe>
         <p>Více <a href="{{"/kalendar/" | prepend: site.baseurl }}">událostí</a> naleznete na samostatné stránce.</p>
       </div>

@@ -105,6 +105,17 @@ TODO:
 - lépe sladit javascript
 - otestovat provoz na vlastním serveru
 
+### Jekyll
+
+```
+  <ul>
+  {% for category in site.categories %}
+      <li>{{ category[0] }}</li>
+  {% endfor %}
+  </ul>
+```
+
+
 ## Použité technologie
 
 - [CSS / JS frontend Foundation 6](http://foundation.zurb.com/), [dokumentace](http://foundation.zurb.com/sites/docs/)
