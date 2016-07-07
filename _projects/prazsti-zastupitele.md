@@ -2,11 +2,10 @@
 title:        Zastupitelé na Magistrátu
 priority:     1
 layout:       post
-image:        magistrat.jpg
+image:        zastupko.jpg
 description:  >
-              Jsme 4 zastupitelé v konstruktivní opozici, prosazujeme na
-              Magistrátu naprosto otevřené hospodaření a rozhodování, zabýváme 
-              se podezřelými kauzami a řešíme městskou informatiku
+              Kritizujeme politické trafiky, nevýhodné záměry developerů a další desítky kauz. 
+              Chceme moderní město s průhledným hospodařením!  
 wanted:       Hledáme odborníky a stážisty
 redmine:      https://redmine.pirati.cz/projects/praha/issues?query_id=29
 person:       Jan Loužek

@@ -2,10 +2,10 @@
 title:        Rozdávání Pirátských listů
 priority:     2
 layout:       post
-image:        plisty_rozdavani.jpg
+image:        noviny.jpg
 description:  >
-              Průběžně informuje naše příznivce i lidi, kteří o nás nikdy neslyšeli, o tom, co právě děláme. Tištěná verze Pirátských listů může i díky vaší pomoci doputovat k příznivcům, kteří se o nás chtějí dozvědět více, ale s Internetem se příliš nekamarádí. 
-wanted:       Hledáme kameloty a distributory Pirátských listů
+              Šíříme informace o skutečném fungování státu a města. Díky vám se dostanou i k lidem, kteří se s Internetem nekamarádí. 
+wanted:       Hledáme rozdavače a rozvoz autem
 redmine:      https://redmine.pirati.cz/issues/2311
 person:       Michaela Krausová
 github:       https://github.com/pirati-cz/klubPraha

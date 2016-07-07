@@ -6,7 +6,7 @@ image:        krajske-forum.jpg
 description:  >
               Krajské předsednictvo vede sdružení, přijímá nové členy, 
               organizuje akce, koordinuje dobrovolníky a hospodaří 
-              s prostředky krajského sdružení. 		
+              s penězi. 		
 wanted:       Hledáme nové členy a příznivce
 redmine:      https://redmine.pirati.cz/projects/praha/issues?query_id=29
 person:       Tobias Esner
@@ -37,7 +37,9 @@ Základní dokumenty:
 **Pirátské centrum**  
 Řehořova 19, Praha 3, dolů po schodech
 
-trvale zde ovšem nikdo není, je třeba si najít akci v kalendáři
+trvale zde ovšem nikdo není, je třeba si najít akci v [kalendáři][kal]
+
+[kal]: /kalendar/#praha
 
 ## Připojte se
 
