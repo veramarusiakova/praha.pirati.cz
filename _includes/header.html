@@ -16,11 +16,10 @@
         <nav>
           <ul class="menu vertical medium-horizontal medium-text-center">
             <li {% if page.url == "/blog/" or page.layout == "post" %}class="active"{% endif %}>
-              <a href="{{"/blog/" | prepend: site.baseurl}}" >Aktuality</a>
+              <a href="{{"/blog/" | prepend: site.baseurl}}">Aktuality</a>
             </li>
             <li {% if page.url == "/o-nas/" or page.url == "/mestske-casti/" or page.layout == "lide" %}class="active"{% endif %}>
               <a href="{{"/o-nas/" | prepend: site.baseurl}}">O nás</a>
-
             </li>
             <li {% if page.url == "/program/" %}class="active"{% endif %}>
               <a href="{{"/program/" | prepend: site.baseurl}}">Program</a></li>
@@ -54,19 +53,21 @@
                 <img src="{{ "/assets/img/layout/logo-pirati-praha.png" | prepend: site.baseurl}}" alt="Piráti logo" height="100px" />
               </a>
             </div>
-            <div class="large-2 columns large-offset-4 text-right middle">
-              <label for="mce-EMAIL" class="text-right middle" style="color: white;">
-                <strong>
-                  Chci novinky na mail:
-                </strong>
-              </label>
-            </div>
-            <div class="large-3 columns">
-              <div class="input-group">
-                <!-- <span class="input-group-label">Chci novinky emailem:</span> -->
-                <input id="mce-EMAIL" type="email" value="" name="EMAIL" placeholder="jan.novak@email.cz" class="required email input-group-field">
-                <div class="input-group-button">
-                  <input type="submit" value="Přihlásit se" name="subscribe" class="button" id="mc-embedded-subscribe">
+            <div class="show-for-medium">
+              <div class="large-2 columns large-offset-4 text-right middle">
+                <label for="mce-EMAIL" class="text-right middle" style="color: white;">
+                  <strong>
+                    Chci novinky na mail:
+                  </strong>
+                </label>
+              </div>
+              <div class="large-3 columns">
+                <div class="input-group">
+                  <!-- <span class="input-group-label">Chci novinky emailem:</span> -->
+                  <input id="mce-EMAIL" type="email" value="" name="EMAIL" placeholder="jan.novak@email.cz" class="required email input-group-field">
+                  <div class="input-group-button">
+                    <input type="submit" value="Přihlásit se" name="subscribe" class="button" id="mc-embedded-subscribe">
+                  </div>
                 </div>
               </div>
             </div>
