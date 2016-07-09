@@ -40,6 +40,10 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
+  projects:
+    output: true
+    permalink: /pripoj-se/:path/
+
 
 gems:
   - jekyll-paginate
