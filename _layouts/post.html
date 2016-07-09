@@ -21,13 +21,8 @@ layout: default
   <div itemprop="articleBody">
     <img src="{{ page.image | prepend: "/assets/img/posts/" | prepend: site.baseurl}}"
       alt="{{ page.title }}" class="float-right thumbnail" style="margin: 10px;">
-  {% if page.now %}<span class="label alert">Aktualizováno</span> {{page.now}}{% endif %}
+    {% if page.now %}<span class="label alert">Aktualizováno</span> {{page.now}}{% endif %}
     {{ content }}
-  </div>
-  <div class="text-right show-for-medium-up">
-              <small><a href="https://github.com/pirati-web/praha.pirati.cz/edit/gh-pages/{{ page.path }}" style="color:#888888">
-                Navrhni úpravu
-              </a></small>
   </div>
 
 </article>
@@ -52,7 +47,11 @@ layout: default
         data-show-faces="true">
       </div>
     </div>
-    <div class="large-3 columns"></div>
+    <div class="large-3 columns text-right show-for-medium-up">
+     <small>
+      <a href="https://github.com/pirati-web/praha.pirati.cz/edit/gh-pages/{{ page.path }}" style="color:#888888">Navrhni úpravu</a>
+     </small>
+    </div>
 </div>
 
 <br>
