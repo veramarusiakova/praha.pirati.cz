@@ -2,7 +2,7 @@
 
 Web Pirátů v Praze. Web je zamýšlen pro celé krajské sdružení - zastupitele (magistrát i mč), veřejnost, členy i pracovníky. Běží na adrese: http://praha.pirati.cz
 
-Pro psaní článků je třeba umět [markdown](https://daringfireball.net/projects/markdown/). Pro zbylé úpravy html a css framework [Foundation 6](http://foundation.zurb.com/). T06 je třeba seznámit se alespoň se základy gitu.
+Pro psaní článků je třeba umět [markdown](https://daringfireball.net/projects/markdown/). Pro zbylé úpravy html a css framework [Foundation 6](http://foundation.zurb.com/). Takže je třeba seznámit se alespoň se základy gitu.
 
 TODO:
 
@@ -105,6 +105,17 @@ TODO:
 - lépe sladit javascript
 - otestovat provoz na vlastním serveru
 
+### Jekyll
+
+```
+  <ul>
+  {% for category in site.categories %}
+      <li>{{ category[0] }}</li>
+  {% endfor %}
+  </ul>
+```
+
+
 ## Použité technologie
 
 - [CSS / JS frontend Foundation 6](http://foundation.zurb.com/), [dokumentace](http://foundation.zurb.com/sites/docs/)
@@ -114,6 +125,7 @@ TODO:
   - [Ladění FB](https://365tipu.wordpress.com/2015/04/13/tip103-co-delat-kdyz-facebook-odmita-vlozit-odkaz-na-web/)
 - [Disqus a Google analytics, Twitter light share](http://joshualande.com/jekyll-github-pages-poole)
 - [Responsibilita](http://design.google.com/resizer/)
+- Font pro loga: M+1p Heavy, vel. 72.
 
 ## Instalace Jekyll na čistou Fedora 23
 ```

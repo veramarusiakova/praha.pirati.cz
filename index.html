@@ -33,13 +33,13 @@ layout: default
   </div>
   <div class="medium-3 columns">
     <p>
-      <a href="http://www.pirateshop.cz">
-        <img src="{{"/assets/img/layout/old/shop.png" | prepend: site.baseurl}}" alt="Shop">
+      <a href="http://www.piratskelisty.cz">
+        <img src="{{"/assets/img/layout/old/plisty.png" | prepend: site.baseurl}}" alt="Pirátské listy">
       </a>
     </p>
     <p>
-      <a href="{{"/o-nas/" | prepend: site.baseurl}}">
-        <img src="{{"/assets/img/layout/old/tipy-a-triky.png" | prepend: site.baseurl}}" alt="Pošlete">
+      <a href="{{"/o-nas/#projekty" | prepend: site.baseurl}}">
+        <img src="{{"/assets/img/layout/old/projekty.png" | prepend: site.baseurl}}" alt="Projekty">
       </a>
     </p>
   </div>
@@ -50,6 +50,7 @@ layout: default
 <div class="row">
   <!-- AKTUALITY -->
   <div class="large-7 columns" style="border-right: 1px solid #E3E5E8;">
+    <h2 class="show-for-small-only">Aktuality</h2>
     <article>
       {% for post in site.posts limit: 4 %}
       <div class="row">
@@ -71,9 +72,7 @@ layout: default
         </div>
       </div>
       <hr> {% endfor %}
-
       <a href="{{"/blog/" | prepend: site.baseurl }}" class="button">Další články</a>
-
     </article>
   </div>
   <!-- /AKTUALITY -->
@@ -81,6 +80,7 @@ layout: default
   <div class="large-5 columns">
     <aside>
       <div class="row column">
+        <h2 class="show-for-small-only">Kalendář</h2>
         <iframe src="{{ site.title_page.calendar.title }}" style="border-width:0" width="100%" height="410" frameborder="0" scrolling="no"></iframe>
         <p>Více <a href="{{"/kalendar/" | prepend: site.baseurl }}">událostí</a> naleznete na samostatné stránce.</p>
       </div>

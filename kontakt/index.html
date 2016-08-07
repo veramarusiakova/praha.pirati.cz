@@ -36,7 +36,7 @@ layout: default
     <div class="media-object">
       <div class="media-object-section">
         <div class="thumbnail">
-          <img style="height: 65px;" src= "https://scontent-frt3-1.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/p160x160/11903815_1046369855375568_3084487079836171950_n.jpg?oh=14fa3db6bf0418c7f401519810880982&oe=57554776">
+          <img style="height: 65px;" src= "{{ '/assets/img/kontakt/misa-krausova-ikon.jpg' | prepend: site.baseurl}}">
         </div>
       </div>
       <div class="media-object-section main-section">
@@ -47,6 +47,7 @@ layout: default
 
     <dl style="border-right: 1px solid #E3E5E8;">
       <dt><a href="{{'/pice/' | prepend: site.baseurl }}">Pirátské centrum</a></dt>
+<<<<<<< HEAD
       <dd><address>Řehořova 943/19, 130 00 Praha 3</address><div class="media-object">
       <div class="media-object-section">
         <div class="thumbnail">
@@ -57,8 +58,25 @@ layout: default
         <h6><a href="{{ '/lide/tobias-esner/' | prepend: site.baseurl }}">Vladislav Tobias Esner</a></h6>
         <p>tobias.esner@pirati.cz<br>správce Pirátského centra</p>
       </div><br></dt>
+=======
+      <dd><address>Řehořova 943/19, 130 00 Praha 3</address><div class="media-object-section">
+        <div class="thumbnail">
+          <img style="height: 65px;" src= "https://forum.pirati.cz/download/file.php?avatar=7508_1424355677.jpg">
+        </div>
+      </div>
+      <div class="media-object-section main-section">
+        <h6><a href="{{ '/lide/tobias-esner/' | prepend: site.baseurl }}">Vladislav Tobias Esner</a></h6>
+        <p>tobias.esner@pirati.cz<br>správce Pirátského centra</p>
+      </div><br></dt><br>
+        <iframe src="{{ site.kontakt.map.pice }}" width="500" height="250" frameborder="0" style="border:0" allowfullscreen>
+        </iframe>
+      </dd>
+>>>>>>> 21b55fd8ece088788c7012236f65af6f643161a0
       <dt>Magistrát</dt>
-      <dd><address>Kancelář 40, Mariánské náměstí 2, 110 00 Praha 1</address>Jan Loužek, jan.louzek@pirati.cz<br>asistent klubu zastupitelů</dd>
+      <dd><address>Kancelář 40, Mariánské náměstí 2, 110 00 Praha 1</address>Jan Loužek, jan.louzek@pirati.cz<br>asistent klubu zastupitelů<br>
+        <iframe src="{{ site.kontakt.map.magistrat }}" width="500" height="250" frameborder="0" style="border:0" allowfullscreen>
+        </iframe>
+      </dd>
     </dl>
   </div>
   <div class="large-6 column">
@@ -105,6 +123,8 @@ layout: default
 </div>
 <div class="row">
   <div class="large-12 column">
+    <hr>
     <p>Každý člen strany má email ve tvaru: <tt>jmeno.prijmeni@pirati.cz</tt></p>
+    <br>
   </div>
 </div>
