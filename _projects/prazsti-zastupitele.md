@@ -10,6 +10,7 @@ wanted:       Hledáme odborníky a stážisty
 redmine:      https://redmine.pirati.cz/projects/praha/issues?query_id=29
 person:       Jan Loužek
 github:       https://github.com/pirati-cz/klubPraha
+date:         2016-07-07
 ---
 
 ## Co děláme

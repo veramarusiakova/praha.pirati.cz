@@ -9,6 +9,7 @@ wanted:       Hledáme rozdavače a rozvoz autem
 redmine:      https://redmine.pirati.cz/issues/2311
 person:       Michaela Krausová
 github:       https://github.com/pirati-cz/klubPraha
+date:         2016-07-07
 ---
 
 ## Co děláme

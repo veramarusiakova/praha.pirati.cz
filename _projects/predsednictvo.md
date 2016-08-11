@@ -11,6 +11,7 @@ wanted:       Hledáme nové členy a příznivce
 redmine:      https://redmine.pirati.cz/projects/praha/issues?query_id=29
 person:       Tobias Esner
 github:       https://github.com/pirati-cz/klubPraha
+date:         2016-07-07
 ---
 
 ## Co děláme

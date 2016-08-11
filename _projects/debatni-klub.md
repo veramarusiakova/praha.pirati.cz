@@ -11,6 +11,7 @@ redmine:      https://redmine.pirati.cz/projects/praha/issues?query_id=29
 person:       Jakub Michálek
 github:       https://github.com/pirati-cz/klubPraha
 now:          První debata bude na schůzi v září
+date:         2016-07-07
 ---
 
 ## Co děláme
