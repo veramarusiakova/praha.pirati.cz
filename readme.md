@@ -17,7 +17,7 @@ TODO:
 Používáme technologii [Jekyll](http://jekyllrb.com/), která tvoří web ze statických [šablonovaných (Liquid)](https://shopify.github.io/liquid/) stránek. Díky tomu je vše velmi jednoduché:
 
 - články jsou markdown soubory v adresaři `_posts`
-- profily lidí z týmu jsou markdown soubory v adresaři `_pepople`
+- profily lidí z týmu jsou markdown soubory v adresaři `_people`
 - stránky jsou klasické html soubory (mohou být i markdown)
 
 ### Lokální test
@@ -105,6 +105,10 @@ TODO:
 - lépe sladit javascript
 - otestovat provoz na vlastním serveru
 
+### Github pages
+
+- [Seznam pluginu povolených na GH](https://pages.github.com/versions/)
+
 ### Jekyll
 
 ```
@@ -115,6 +119,11 @@ TODO:
   </ul>
 ```
 
+#### Tags v GH
+
+- [Návod na mindust](http://www.minddust.com/post/tags-and-categories-on-github-pages/)
+- [Návod ze stackoveflow](http://stackoverflow.com/questions/1408824/an-easy-way-to-support-tags-in-a-jekyll-blog)
+- [Návod ze codinfox](https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/)
 
 ## Použité technologie
 
@@ -129,7 +138,7 @@ TODO:
 
 ## Instalace Jekyll na čistou Fedora 23
 ```
-sudo dnf install gem rubygems-devel.noarch gcc ruby-devel
+sudo dnf install gem rubygems-devel gcc ruby-devel
 dnf install rpm-build
 sudo gem install jekyll  jekyll-paginate
 ```
