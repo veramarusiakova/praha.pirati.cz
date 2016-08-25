@@ -1,6 +1,6 @@
 ---
 image:	brevnov.jpg
-tags:	praha 6, p6
+tags:	praha-6
 category:	blog
 author:	Jan Lipavský
 title:	Piráti odmítají soukromý business na úkor zdraví občanů Prahy 6

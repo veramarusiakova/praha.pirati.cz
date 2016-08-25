@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek, Jan Loužek
 image:	cats.jpg
-tags:	Evropa
+tags:	EU
 date:	2015-06-26
 ---
 

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Dana Balcarová
 image:	strom.jpg
-tags:	Praha 9, eurodotace, p9
+tags:	praha-9 eurodotace
 date:	2015-10-26
 ---
 
