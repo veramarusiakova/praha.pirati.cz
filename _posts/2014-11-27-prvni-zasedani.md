@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	projev-kontrolni-vybor.jpg
-tags:	informace
+tags:	zhmp výbory
 date:	2014-11-27
 ---
 

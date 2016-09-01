@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	hudecek2.jpg
-tags:	zastupitelstvo, rozpočet
+tags:	zhmp koalice
 date:	2016-01-13
 ---
 

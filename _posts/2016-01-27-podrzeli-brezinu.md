@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	hasek-brezina.jpg
-tags:	magistrát
+tags:	magistrát Karel-Březina
 date:	2016-01-27
 ---
 

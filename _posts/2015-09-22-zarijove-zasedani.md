@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	proti-cenzure.jpg
-tags:	zastupitelstvo
+tags:	zastupitelstvo koalice
 date:	2015-09-22
 ---
 

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jan Loužek
 image:	dvere.jpg
-tags:	informace
+tags:	magistrát piráti
 date:	2014-11-19
 ---
 

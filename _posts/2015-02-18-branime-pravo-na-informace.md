@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	kleslova.jpg
-tags:	Praha 10, Olga Richterová, právo na informace
+tags:	praha-10 informace
 date:	2015-02-18
 ---
 

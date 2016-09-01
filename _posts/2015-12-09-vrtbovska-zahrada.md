@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	vrtbovska-zahrada.jpg
-tags:	vrtbovská,
+tags:	majetek
 date:	2015-12-09
 ---
 

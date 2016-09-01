@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	busking-schvalen.jpg
-tags:	magistrát
+tags:	magistrát busking
 date:	2016-01-28
 ---
 

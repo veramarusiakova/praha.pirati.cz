@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Ondřej Profant, Jan Loužek
 image:	most-breci.jpg
-tags:	Praha, p7, p8
+tags:	praha-7 praha-8 majetek doprava
 date:	2016-02-04
 ---
 

@@ -1,7 +1,7 @@
 ---
 date:	2016-05-09
 category:	blog
-tags:	strana
+tags:	piráti
 layout:	post
 title:	"Opět rozdáváme 80 000 Pirátských listů!" 
 image:	plisty.jpg

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	holding.jpg
-tags:	poskytování informací
+tags:	informace
 date:	2015-11-03
 ---
 

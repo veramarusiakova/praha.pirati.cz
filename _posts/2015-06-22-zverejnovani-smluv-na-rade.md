@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík, Adam Zábranský
 image:	dolinek.jpg
-tags:	zveřejňování smluv
+tags:	zveřejňování-smluv
 date:	2015-06-22
 ---
 

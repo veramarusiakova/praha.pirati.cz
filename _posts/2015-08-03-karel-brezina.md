@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	brezina.jpg
-tags:	korupce, Březina,
+tags:	korupce, Karel-Březina
 date:	2015-08-03
 ---
 

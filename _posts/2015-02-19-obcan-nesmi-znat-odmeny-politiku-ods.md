@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jan Loužek
 image:	honza.jpg
-tags:	granty
+tags:	informace
 date:	2015-02-19
 ---
 

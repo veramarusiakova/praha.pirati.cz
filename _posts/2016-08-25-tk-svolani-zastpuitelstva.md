@@ -1,7 +1,7 @@
 ---
 date:	2016-08-25
 category:	blog
-tags:	Praha
+tags:	Praha zhmp
 layout:	post
 title:	"Piráti, TOP 09 a ODS iniciovali mimořádné zastupitelstvo" 
 image:	tk-opo.jpg

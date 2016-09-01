@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Ondřej Profant, Adam Zábranský
 image:	pocitace.jpg
-tags:	hospodaření, IT, veřejné zakázky
+tags:	IT magistrát
 date:	2015-04-21
 ---
 

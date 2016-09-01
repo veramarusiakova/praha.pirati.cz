@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	kolo.jpg
-tags:	opencard, jizdenky
+tags:	opencard jízdenky 
 date:	2015-04-27
 ---
 

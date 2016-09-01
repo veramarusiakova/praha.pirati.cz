@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	obalka.jpg
-tags:	zastupitelstvo
+tags:	zhmp
 date:	2016-01-21
 ---
 

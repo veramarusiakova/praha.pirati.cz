@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jan Loužek
 image:	clenove-klubu.png
-tags:	klub
+tags:	piráti
 date:	2015-11-19
 ---
 

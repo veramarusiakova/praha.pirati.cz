@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	zver-smluv.jpg
-tags:	Praha
+tags:	Praha zveřejňování-smluv
 date:	2015-06-24
 ---
 

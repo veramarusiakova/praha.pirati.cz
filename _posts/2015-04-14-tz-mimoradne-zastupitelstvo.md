@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	zastupitelstvo.jpg
-tags:	tiskove zpravy
+tags:	zhmp
 date:	2015-04-14
 ---
 

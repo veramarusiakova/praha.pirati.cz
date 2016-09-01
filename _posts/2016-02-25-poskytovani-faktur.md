@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	ruka.png
-tags:	Magistrát
+tags:	magistrát
 date:	2016-02-25
 ---
 

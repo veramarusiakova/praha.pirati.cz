@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jan Loužek
 image:	dotaz-michalek.jpg
-tags:	smlouvy, otevrenost
+tags:	zveřejňování-smluv
 date:	2014-12-16
 ---
 

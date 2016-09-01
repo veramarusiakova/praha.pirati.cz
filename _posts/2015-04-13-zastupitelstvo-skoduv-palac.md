@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	sp-foto.jpg
-tags:	kauzy
+tags:	kauzy Škodův-palác
 date:	2015-04-13
 ---
 

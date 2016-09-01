@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek, Ondřej Profant
 image:	zastupitelstvo5.jpg
-tags:	čssd, územní plán
+tags:	územní-plán koalice piráti
 date:	2015-12-07
 ---
 

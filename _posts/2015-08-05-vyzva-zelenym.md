@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	duchod-brezina.jpg
-tags:	korupce, Březina, Zelení
+tags:	kroupce Karel-Březina
 date:	2015-08-05
 ---
 

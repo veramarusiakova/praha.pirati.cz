@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	magistrat.jpg
-tags:	zastupitelstvo
+tags:	zhmp
 date:	2015-06-06
 ---
 

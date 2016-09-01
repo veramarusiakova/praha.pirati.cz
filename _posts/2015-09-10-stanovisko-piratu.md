@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	zast-3.jpg
-tags:	stavební předpisy, koalice, transparentnost
+tags:	stavební-předpisy koalice kauzy
 date:	2015-09-10
 ---
 

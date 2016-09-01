@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	vysledek-hlasovani.jpg
-tags:	zastupitelstvo, rozpočet
+tags:	zhmp rozpočet
 date:	2015-12-17
 ---
 

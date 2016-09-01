@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	tajnyagent.jpg
-tags:	územní plán
+tags:	územní-plán
 date:	2015-12-15
 ---
 

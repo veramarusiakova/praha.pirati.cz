@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	louzek-amelia.jpg
-tags:	magistrát
+tags:	magistrát stáže
 date:	2015-03-02
 ---
 

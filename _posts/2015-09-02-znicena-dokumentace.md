@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek, Mikuláš Ferjenčík
 image:	stopy.jpg
-tags:	stavební předpisy, koalice, transparentnost
+tags:	stavební-předpisy koalice kauzy
 date:	2015-09-02
 ---
 

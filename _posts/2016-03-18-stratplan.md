@@ -1,7 +1,7 @@
 ---
 date:	2016-03-18
 category:	blog
-tags:	praha
+tags:	Praha
 layout:	post
 title:	Piráti zaslali své připomínky ke Strategickému plánu Prahy
 image:	strat.png

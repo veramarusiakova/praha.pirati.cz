@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík, Jan Loužek
 image:	szpl.jpg
-tags:	magistrát
+tags:	magistrát Škodův-palác
 date:	2016-02-04
 ---
 

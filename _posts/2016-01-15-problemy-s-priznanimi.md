@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	neporadek.jpg
-tags:	zastupitelstvo
+tags:	majetková-přiznání magistrát kauzy
 date:	2016-01-15
 ---
 

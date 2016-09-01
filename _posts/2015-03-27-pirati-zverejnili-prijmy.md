@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	zastupitelstvo.jpg
-tags:	zveřejňování
+tags:	informace piráti
 date:	2015-03-27
 ---
 

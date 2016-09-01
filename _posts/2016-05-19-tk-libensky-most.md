@@ -1,7 +1,7 @@
 ---
 date:	2016-05-19
 category:	blog
-tags:	Praha
+tags:	Praha doprava
 layout:	post
 title:	"Chybějící údržba Libeňského mostu způsobila rozsáhlé škody." 
 image:	libensky-most.jpg

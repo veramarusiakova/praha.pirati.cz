@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	radmila.jpg
-tags:	koalice, transparentnost
+tags:	koalice městské-firmy
 date:	2015-09-17
 ---
 

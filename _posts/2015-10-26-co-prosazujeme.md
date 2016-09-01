@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	klub-zastupko.jpg
-tags:	program, priority
+tags:	piráti
 date:	2015-10-26
 ---
 

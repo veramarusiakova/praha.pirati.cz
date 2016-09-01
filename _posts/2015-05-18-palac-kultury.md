@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	pakul.jpg
-tags:	poskytování informací
+tags:	městské-firmy kauzy
 date:	2015-05-18
 ---
 

@@ -1,7 +1,7 @@
 ---
 date:	2016-05-05
 category:	blog
-tags:	Praha
+tags:	územní-plán
 layout:	post
 title:	"Piráti zveřejnili připravovaný územní plán Prahy a žádají město: zveřejňujte ho průběžně sami!" 
 image:	metroplan.png

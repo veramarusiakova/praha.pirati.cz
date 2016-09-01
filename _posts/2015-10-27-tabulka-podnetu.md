@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš  Ferjenčík
 image:	mvcr.jpg
-tags:	územní plán, žádosti o informace
+tags:	územní-plán informace
 date:	2015-10-27
 ---
 

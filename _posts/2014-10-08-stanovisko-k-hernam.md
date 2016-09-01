@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	herny.jpg
-tags:	herny, hazard
+tags:	herny
 date:	2014-10-08
 ---
 

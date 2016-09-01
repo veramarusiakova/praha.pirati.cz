@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek, Adam Zábranský, Mikuláš Ferjenčík
 image:	zast-3.jpg
-tags:	zastupitelstvo
+tags:	zhmp
 date:	2015-06-18
 ---
 

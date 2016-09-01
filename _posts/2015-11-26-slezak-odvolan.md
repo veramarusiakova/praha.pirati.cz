@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	hlasovani-slezak.png
-tags:	čssd, územní plán
+tags:	územní-plán kauzy
 date:	2015-11-26
 ---
 

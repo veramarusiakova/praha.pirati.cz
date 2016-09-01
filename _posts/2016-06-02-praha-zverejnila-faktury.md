@@ -1,7 +1,7 @@
 ---
 date:	2016-06-02
 category:	blog
-tags:	Praha
+tags:	informace magistrát
 layout:	post
 title:	"Pirátský úspěch, Praha zveřejnila seznamy faktur" 
 image:	vault.png

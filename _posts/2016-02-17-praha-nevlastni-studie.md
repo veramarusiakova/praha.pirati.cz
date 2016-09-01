@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	blanka2.jpg
-tags:	Praha
+tags:	Praha doprava
 date:	2016-02-17
 ---
 

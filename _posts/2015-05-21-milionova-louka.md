@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	cenova-mapa.png
-tags:	Praha, p12, developer, parcela
+tags:	praha-12 majetek kauzy
 date:	2015-05-21
 ---
 

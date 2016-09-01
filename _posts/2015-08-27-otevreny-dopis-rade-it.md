@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Ondřej Profant
 image:	itfail.jpg
-tags:	ict, informatika
+tags:	informatika zhmp
 date:	2015-08-27
 ---
 

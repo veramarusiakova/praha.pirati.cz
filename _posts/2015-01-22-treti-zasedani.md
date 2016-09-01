@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	ondra-i-miki.jpg
-tags:	hlasovani, zastupitelstvo
+tags:	zhmp
 date:	2015-01-22
 ---
 

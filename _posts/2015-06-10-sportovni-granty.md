@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	sport.jpg
-tags:	sport, granty
+tags:	sport granty
 date:	2015-06-10
 ---
 

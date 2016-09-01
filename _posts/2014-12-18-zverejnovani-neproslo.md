@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	adam-papir.jpg
-tags:	smlouvy, otevrenost
+tags:	informace zveřejňování-smluv
 date:	2014-12-18
 ---
 

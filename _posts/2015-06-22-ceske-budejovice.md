@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jan Loužek
 image:	budejovice.jpg
-tags:	SMS jízdenky
+tags:	sms-jízdenky doprava
 date:	2015-06-22
 ---
 

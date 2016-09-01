@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	brezina.jpg
-tags:	granty
+tags:	granty sport
 date:	2015-03-10
 ---
 

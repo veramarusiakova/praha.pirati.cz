@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	miki-kv.jpg
-tags:	magistrát
+tags:	výbory
 date:	2015-03-02
 ---
 

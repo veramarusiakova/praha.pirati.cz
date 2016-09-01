@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	maturita.png
-tags:	zveřejňování, vzdělávání
+tags:	informace
 date:	2016-03-07
 ---
 

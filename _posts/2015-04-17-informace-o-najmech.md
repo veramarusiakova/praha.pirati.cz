@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	jakub-na-zastupku.jpg
-tags:	hospodaření, poskytování informací, pronájem Slovanského domu
+tags:	informace majetek magistrát
 date:	2015-04-17
 ---
 

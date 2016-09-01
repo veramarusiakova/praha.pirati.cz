@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	cenovyraj.jpg
-tags:	najmy, majetek
+tags:	majetek kauzy
 date:	2015-10-30
 ---
 

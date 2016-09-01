@@ -1,7 +1,7 @@
 ---
 date:	2016-06-17
 category:	blog
-tags:	Praha
+tags:	praha-13
 layout:	post
 title:	"Praha 13 účelově změnila skartační plán, aby mohla smazat zvukový záznam ze zastupitelstva " 
 image:	p13-del.jpg

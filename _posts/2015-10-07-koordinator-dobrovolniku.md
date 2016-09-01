@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	bxl.jpg
-tags:	Výběrová řízení, Piráti
+tags:	výběrová-řízení piráti
 date:	2015-10-07
 ---
 

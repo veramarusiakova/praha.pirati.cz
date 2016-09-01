@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	komuniste-najem.png
-tags:	nájmy, ksčm
+tags:	majetek
 date:	2015-11-20
 ---
 

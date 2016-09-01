@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	karel-brezina.jpg
-tags:	Březina, Havlín
+tags:	Karel-Březina kauzy
 date:	2015-10-03
 ---
 

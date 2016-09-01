@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	lupa.jpg
-tags:	Magistrát
+tags:	magistrát
 date:	2016-02-25
 ---
 

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Ondřej Profant, Adam Zábranský
 image:	opendata.jpg
-tags:	informatika, rada
+tags:	informatika zhmp
 date:	2015-09-17
 ---
 

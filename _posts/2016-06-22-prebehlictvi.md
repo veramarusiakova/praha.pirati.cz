@@ -1,7 +1,7 @@
 ---
 date:	2016-06-22
 category:	blog
-tags:	Praha
+tags:	Praha trafiky
 layout:	post
 title:	"ČSSD porušila slib nebrat přeběhlíky. Legalizuje tím politickou korupci" 
 image:	transformace.jpg

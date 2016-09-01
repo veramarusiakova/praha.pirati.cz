@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jan Loužek
 image:	pirati-a-krnacova.jpg
-tags:	vybory
+tags:	výbory
 date:	2014-11-27
 ---
 

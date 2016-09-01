@@ -1,7 +1,7 @@
 ---
 date:	2016-05-03
 category:	blog
-tags:	Praha
+tags:	majetek kauzy Karel-Březina
 layout:	post
 title:	"Kauza Březina, spekulace, nebo spekulace s pozemky?" 
 image:	karel-brezina-naklani.jpg

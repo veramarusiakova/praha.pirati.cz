@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Dana Balcarová
 image:	praha9.png
-tags:	Praha 9, p9
+tags:	praha-9
 date:	2016-02-07
 ---
 

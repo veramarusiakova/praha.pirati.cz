@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	libensky-most-podzim.png
-tags:	zastupitelstvo
+tags:	zhmp doprava
 date:	2016-02-25
 ---
 

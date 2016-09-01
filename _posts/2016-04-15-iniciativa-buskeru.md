@@ -1,7 +1,7 @@
 ---
 date:	2016-04-15
 category:	blog
-tags:	Praha
+tags:	Praha busking
 layout:	post
 title:	Výzva pouličním umělcům postiženým pražskou vyhláškou
 image:	kytarista.jpg

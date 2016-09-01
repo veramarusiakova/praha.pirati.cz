@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	zast-3.jpg
-tags:	trafiky
+tags:	městské-části
 date:	2015-11-05
 ---
 

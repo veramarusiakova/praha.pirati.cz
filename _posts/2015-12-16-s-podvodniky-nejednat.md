@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	brezina-nabidka.jpg
-tags:	ČSSD, zastupitelstvo
+tags:	zhmp
 date:	2015-12-16
 ---
 

@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	brezina3.jpg
-tags:	zastupitelstvo
+tags:	Karel-březina koalice
 date:	2016-01-19
 ---
 

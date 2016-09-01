@@ -1,7 +1,7 @@
 ---
 date:	2016-07-22
 category:	blog
-tags:	Praha
+tags:	Praha trafiky kauzy
 layout:	post
 title:	"Odměna zastupitelsky Moniky Krobové Hášové: Za pět zasedání dozorčí Rady 1,1 milionu" 
 image:	mkh.jpg

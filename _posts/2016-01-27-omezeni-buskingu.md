@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	zakaz-vseho.jpg
-tags:	magistrát
+tags:	magistrát busking
 date:	2016-01-27
 ---
 

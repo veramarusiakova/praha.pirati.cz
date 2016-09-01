@@ -1,7 +1,7 @@
 ---
 date:	2016-04-28
 category:	blog
-tags:	Praha, zastupitelstvo
+tags:	Praha zhmp koalice
 layout:	post
 title:	"Piráti nehlasovali pro novou Radu hl. m. Prahy." 
 image:	zhmp-shora.jpg

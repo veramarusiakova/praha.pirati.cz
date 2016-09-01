@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík, Ondřej Profant, Jakub Michálek, Adam Zábranský
 image:	demo-n.jpg
-tags:	otevřené dopisy
+tags:	otevřené-dopisy
 date:	2016-02-14
 ---
 

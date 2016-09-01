@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	praha.pirati.cz
 image:	trafika.jpg
-tags:	trafiky, ZHMP, protest, zasedání, praha
+tags:	trafiky zhmp
 date:	2015-11-02
 ---
 

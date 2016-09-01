@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	mikulas-k-busking.jpg
-tags:	zastupitelstvo
+tags:	zhmp
 date:	2016-01-28
 ---
 

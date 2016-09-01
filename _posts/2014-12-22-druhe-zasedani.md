@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jan Loužek
 image:	miki.jpg
-tags:	hlasovani, zastupitelstvo
+tags:	zhmp
 date:	2014-12-22
 ---
 

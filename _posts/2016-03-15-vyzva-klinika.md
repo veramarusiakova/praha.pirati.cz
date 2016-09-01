@@ -2,7 +2,7 @@
 title:	Připojujeme se k výzvě „Nechte kliniku dýchat“
 category:	blog
 date:	2016-03-15
-tags:	klinika, praha, p3
+tags:	klinika praha-3 praha
 image:	klinika.jpg
 layout:	post
 author:	Jakub Michálek, Ondřej Profant, Mikuláš Ferjenčík, Adam Zábranský

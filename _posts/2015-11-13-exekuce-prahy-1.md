@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	cenovyraj.jpg
-tags:	přístup k informacím, p1
+tags:	informace praha-1
 date:	2015-11-13
 ---
 

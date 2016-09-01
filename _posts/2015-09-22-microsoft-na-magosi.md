@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Ondřej Profant
 image:	office.png
-tags:	informatika, rada
+tags:	magistrát
 date:	2015-09-22
 ---
 

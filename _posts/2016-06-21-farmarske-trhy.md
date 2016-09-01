@@ -1,7 +1,7 @@
 ---
 date:	2016-06-21
 category:	blog
-tags:	Praha
+tags:	Praha praha-1
 layout:	post
 title:	"Byznys snů. Provozuje farmářské trhy na Náměstí Republiky, neplatí za to nic" 
 image:	praha1.png

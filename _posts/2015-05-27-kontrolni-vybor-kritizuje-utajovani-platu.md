@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	kv.jpg
-tags:	kontrolní výbor, utajování
+tags:	kontrolní-výbor utajování
 date:	2015-05-27
 ---
 

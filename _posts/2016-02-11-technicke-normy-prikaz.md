@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	rozsudek.png
-tags:	Praha
+tags:	Praha technické-normy
 date:	2016-02-11
 ---
 

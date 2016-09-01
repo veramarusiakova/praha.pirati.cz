@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	pirs.jpg
-tags:	opozice, Praha, zastupitelstvo, zprava
+tags:	opozice Praha zhmp
 date:	2015-05-07
 ---
 

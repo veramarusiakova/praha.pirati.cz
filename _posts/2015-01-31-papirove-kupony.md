@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	mhd-prukaz.jpg
-tags:	rada, opencard, papírové kupóny, doprava
+tags:	zhmp opencard doprava
 date:	2015-01-31
 ---
 

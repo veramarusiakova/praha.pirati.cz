@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	magistrat.jpg
-tags:	rada, it, vendor lock-in, obis, majetek, stanoviska
+tags:	zhmp vendor-lock-in majetek
 date:	2015-04-28
 ---
 
