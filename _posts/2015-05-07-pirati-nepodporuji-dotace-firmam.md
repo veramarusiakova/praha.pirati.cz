@@ -4,11 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	tycinky.jpg
-<<<<<<< HEAD
 tags:	dotace EU Praha
-=======
-tags:	eurodotace EU praha
->>>>>>> ace5bd28e24817338d997b72ce6820e1e2918b95
 date:	2015-05-07
 ---
 
