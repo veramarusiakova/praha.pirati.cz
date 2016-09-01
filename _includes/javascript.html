@@ -3,6 +3,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.0/foundation.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.2/motion-ui.min.js"></script>
+<script src="https://raw.githubusercontent.com/jgallen23/toc/master/dist/toc.min.js"></script>
 {% else %}
 <script type='text/javascript' src="{{ "assets/offline/jquery.min.js" | prepend: site.baseurl }}"></script>
 <script type='text/javascript' src="{{ "assets/offline/foundation.min.js" | prepend: site.baseurl }}"></script>
@@ -10,6 +11,10 @@
 {% endif %}
 <script>
   $(document).foundation();
+</script>
+
+<script type="text/javascript">
+$('#toc').toc();
 </script>
 
 <!-- Mailchimp -->

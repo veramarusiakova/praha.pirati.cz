@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	kleslova.jpg
-tags:	praha-10 informace
+tags:	praha-10
 date:	2015-02-18
 ---
 

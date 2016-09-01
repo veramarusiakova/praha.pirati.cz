@@ -4,7 +4,11 @@ layout:	post
 category:	blog
 author:	Olga Richterová
 image:	urednici-praha1.jpg
+<<<<<<< HEAD
 tags:	praha-1 informace
+=======
+tags:	praha-1
+>>>>>>> ace5bd28e24817338d997b72ce6820e1e2918b95
 date:	2016-02-04
 ---
 
