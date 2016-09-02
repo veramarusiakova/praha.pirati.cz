@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	zastupitele-strecha.jpg
-tags:	zveřejňování majetková-přiznání
+tags:	majetková-přiznání informace
 date:	2015-07-01
 ---
 

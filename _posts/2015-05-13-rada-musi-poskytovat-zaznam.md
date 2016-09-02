@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Adam Zábranský
 image:	zaznam.jpg
-tags:	otevřenost, zhmp, informace
+tags:	otevřenost zhmp informace
 date:	2015-05-13
 ---
 
