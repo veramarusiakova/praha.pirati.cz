@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	brezina3.jpg
-tags:	Karel-březina koalice
+tags:	Karel-Březina koalice
 date:	2016-01-19
 ---
 
