@@ -127,6 +127,7 @@ TODO:
 
 ## Použité technologie
 
+- [Komplexní popis problémů](https://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)
 - [CSS / JS frontend Foundation 6](http://foundation.zurb.com/), [dokumentace](http://foundation.zurb.com/sites/docs/)
 - [CSS template](http://foundation.zurb.com/templates-previews-sites-f6/news-magazine.html)
 - integrace soc. sití
