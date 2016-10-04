@@ -108,6 +108,7 @@ TODO:
 ### Github pages
 
 - [Seznam pluginu povolených na GH](https://pages.github.com/versions/)
+- [Compress plugin](http://rich-knight.com/articles/compressing-html-in-jekyll/)  
 
 ### Jekyll
 

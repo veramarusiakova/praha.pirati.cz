@@ -13,7 +13,7 @@ layout: default
       <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %} •
       {% if page.tags %}
-      <span>Tagy: {{ page.tags | array_to_sentence_string }}</span>
+      <span>Tagy: {% for tag in page.tags %}<a href="{{ tag | prepend: '/tags/#' | prepend: site.baseurl }}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
       {% endif %}
     </p>
   </header>
