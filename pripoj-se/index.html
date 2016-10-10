@@ -7,7 +7,7 @@ layout: default
 <div class="medium-7 small-12 columns" style="padding-left:0px">
 
 <a href="https://docs.google.com/forms/d/17MEmWfP4hyHO8On9V_PUTuWNDtS89bdhfomnyMfHoqY/viewform?edit_requested=true">
-  <img src="{{"/assets/img/zapoj-se/dotaznik.png" | prepend: site.baseurl}}" style="margin-top:10px;width:100%"/>
+  <img src="{{"/assets/img/zapoj-se/dotaznik.png" }}" style="margin-top:10px;width:100%"/>
 </a>
 
 <a style="width:100%" class="button alert expand radius large" href="https://docs.google.com/forms/d/17MEmWfP4hyHO8On9V_PUTuWNDtS89bdhfomnyMfHoqY/viewform?edit_requested=true">Vyplň Pirotazník ještě dnes!</a>
@@ -25,7 +25,7 @@ layout: default
   	</div>
 
 		<div class="testimonial">
-      <img src="{{"/assets/img/zapoj-se/ivan-bartos.jpg" | prepend: site.baseurl}}" alt="Ivan Bartoš"/>
+      <img src="{{"/assets/img/zapoj-se/ivan-bartos.jpg" }}" alt="Ivan Bartoš"/>
 			<blockquote>
 				Záleží ti na budoucnosti naší země? Přidat se je jednodušší než poslat e-mail.
         <cite>Ivan Bartoš, předseda Pirátů</cite>
@@ -33,9 +33,9 @@ layout: default
     </div>
 
     <div class="testimonial">
-      <img src="{{ '/assets/img/kontakt/misa-krausova-ikon.jpg' | prepend: site.baseurl}}" alt="Míša Krupičková"/>
+      <img src="{{ '/assets/img/kontakt/misa-krausova-ikon.jpg' }}" alt="Míša Krupičková"/>
 			<blockquote>
-      Nepropásni šanci se přidat! Naučíš se spoustu nových věcí :-)           
+      Nepropásni šanci se přidat! Naučíš se spoustu nových věcí :-)
       <cite>Míša Krausová, pomáhá Pirátům už 5 let</cite>
 			</blockquote>
     </div>
@@ -60,9 +60,9 @@ layout: default
   <div class="medium-6 large-4 {{ thecycle }} columns {% if forloop.last %} end {% endif %}">
     <a href="{{ projekt.url }}">
       <article class="article-card">
-        <img src="{{ projekt.image | prepend: '/assets/img/zapoj-se/' | prepend: site.baseurl}}">
+        <img src="{{ projekt.image | prepend: '/assets/img/zapoj-se/' }}">
         <div class="card-content">
-          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" | prepend: site.baseurl}}" alt="P">
+          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" }}" alt="P">
           <h4 class="post-author">{{ projekt.title }}</h4>
           <p> {{ projekt.description }}
           </p>
