@@ -120,7 +120,7 @@ layout: default
       {% for page in (1..paginator.total_pages) %}
       <li>
         {% if forloop.index == 1 %}
-        <a href="/" aria-label="Page {{ forloop.index }}" {% if page == paginator.page %} class="current" {% endif %}>
+        <a href="/blog/" aria-label="Page {{ forloop.index }}" {% if page == paginator.page %} class="current" {% endif %}>
       {% else %}
         <a href="/blog/{{forloop.index}}/" aria-label="Page {{ forloop.index }}"{% if page == paginator.page %} class="current"{% endif %}>
       {% endif %}
