@@ -120,16 +120,16 @@ layout: default
       {% for page in (1..paginator.total_pages) %}
       <li>
         {% if forloop.index == 1 %}
-        <a href="{{ site.baseurl }}/" aria-label="Page {{ forloop.index }}" {% if page == paginator.page %} class="current" {% endif %}>
+        <a href="/blog/" aria-label="Page {{ forloop.index }}" {% if page == paginator.page %} class="current" {% endif %}>
       {% else %}
-        <a href="{{site.baseurl}}/blog/{{forloop.index}}/" aria-label="Page {{ forloop.index }}"{% if page == paginator.page %} class="current"{% endif %}>
+        <a href="/blog/{{forloop.index}}/" aria-label="Page {{ forloop.index }}"{% if page == paginator.page %} class="current"{% endif %}>
       {% endif %}
         {{ forloop.index }}
       </a>
       </li>
       {% endfor %}
       <li>
-        <a href="{{ paginator.next_page_path}}" aria-label="Next page">
+        <a href="{{ paginator.next_page_path }}" aria-label="Next page">
         Další <span class="show-for-sr">page</span>
       </a>
       </li>
