@@ -16,6 +16,6 @@ Podpora otevřeného software (tzv. open-source) je důležitá pro to, aby se v
 
 Magistrát hl. m. Prahy od Rady dostal úkol, aby Teze do konce listopadu ve spolupráci s Komisí pro ICT rozvedl a vypracoval celoměstskou koncepci rozvoje informačních systémů. Piráti se na tomto procesu budou nadále podílet.
 
-"Schválit záměr je jen začátek.Myslím si, že tento dokument je opravdu moderní a mnozí by se jím mohli inspirovat. Důležité však je, zda bude úřadem důsledně aplikován v praxi nebo se stane pouze dalším z řady schválených dokumentů, které jsou ignorovány." říká Ondřej Profant, člen komise pro ICT za Piráty.
+"Schválit záměr je jen začátek. Myslím si, že tento dokument je opravdu moderní a mnozí by se jím mohli inspirovat. Důležité však je, zda bude úřadem důsledně aplikován v praxi nebo se stane pouze dalším z řady schválených dokumentů, které jsou ignorovány." říká Ondřej Profant, člen komise pro ICT za Piráty.
 
 
