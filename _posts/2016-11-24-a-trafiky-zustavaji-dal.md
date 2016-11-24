@@ -24,9 +24,9 @@ Piráti navrhli regulovat obsazování orgánů městských společností před 
 
 **Návrhy Pirátů:**
 
-a) omezení účasti členů zastupitelstva v představenstvech městských společností, 
-b) rozšíření působnosti pravidel i na dceřinné společnosti společností s majetkovým podílem hl. m. Prahy a na představenstva společností s majetkovým podílem hl. m. Prahy,
-c) schválení pravidla, že v orgánech městských společností budou působit i odborníci bez úzkých vazeb na politické strany,
-d) zřízení orgánu, který bude nominace vyhodnocovat před rozhodnutím Rady,
-e) zveřejňování seznamu nominantů a životopisů vybraných uchazečů.
+1. omezení účasti členů zastupitelstva v představenstvech městských společností, 
+2. rozšíření působnosti pravidel i na dceřinné společnosti společností s majetkovým podílem hl. m. Prahy a na představenstva společností s majetkovým podílem hl. m. Prahy,
+3. schválení pravidla, že v orgánech městských společností budou působit i odborníci bez úzkých vazeb na politické strany,
+4. zřízení orgánu, který bude nominace vyhodnocovat před rozhodnutím Rady,
+5. zveřejňování seznamu nominantů a životopisů vybraných uchazečů.
 
