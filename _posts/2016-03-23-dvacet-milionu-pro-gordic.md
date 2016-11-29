@@ -30,6 +30,6 @@ Kvůli problému českých obcí v oblasti informatiky vznikla minulý rok inici
 * [Usnesení Rady hl. m. Prahy ze dne 22. 3. č. R-20441](https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/20441.pdf)
 * [Usnesení Rady hl. m. Prahy ze dne 22. 3. č. R-21292](https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/21292.pdf)
 * [Usnesení Rady hl. m. Prahy ze dne 22. 3. č. R-21310](https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/21310.pdf)
-* [Návrh Pirátů zaslaný primátorce ohledně malého GINISu](https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/mapy-ginis-aktualizovano.pdf)
+* [Návrh Pirátů zaslaný primátorce ohledně malého GINISu](https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/maly-ginis-aktulizovano.pdf)
 
 
