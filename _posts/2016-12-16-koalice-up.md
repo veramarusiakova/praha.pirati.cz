@@ -8,7 +8,7 @@ image:        koalicnici.jpg
 author:       Jan Loužek, Mikuláš Ferjenčík
 ---
 
-Poslední zasedání zastupitelstva proběhlo překvapivě rychle. Až na několik problematických změn územního plánu a předražené dotace na něm nebyl žádný kontroverzní návrh. Praha také dále pokročila s nákupem stadionu Ďolíček. 
+Poslední letošní zasedání zastupitelstva proběhlo překvapivě rychle. Až na několik problematických změn územního plánu a předražené dotace na něm nebyl žádný kontroverzní návrh. Praha také dále pokročila s nákupem stadionu Ďolíček. 
 
 **Koalice ANO, ČSSD a ODS**
 
