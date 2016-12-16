@@ -16,7 +16,7 @@ url: "" # the base hostname & protocol for your site
 mailchimp:
   newsletter:
     action: https://pirati.us9.list-manage.com/subscribe/post?u=7e063d6dffdb0316b906e1351&amp;id=5b1243a65b
-    captcha: b_7e063d6dffdb0316b906e1351_5b1243a65b
+    captcha: b_7e063d6dffdb0316b906e1351_6e2a2eaa42
   volunters:
     action: https://pirati.us9.list-manage.com/subscribe/post?u=7e063d6dffdb0316b906e1351&amp;id=88a318620c
     captcha: b_7e063d6dffdb0316b906e1351_88a318620c
