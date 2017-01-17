@@ -1,5 +1,5 @@
 ---
-date:         2017-01-12
+date:         2017-01-17
 category:     blog
 tags:         praha účetnictví gordic
 layout:       post
