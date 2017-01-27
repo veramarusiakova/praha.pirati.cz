@@ -8,7 +8,7 @@ image:        stepan.jpg
 author:       Adam Zábranský
 ---
 
-Pražské zastupitelstvo dnes zvolilo šéfem finančního výboru Daniela Štěpána, bývalého místostarostu za ČSSD na Praze 7 a podporovatele pražského kmotra ČSSD Petra Hulinského. Štěpán v čele nejvlivnějšího výboru pražského zastupitelstva nahradí Miroslava Ludvíka, který se stal ministrem zdravotnictví.
+Pražské zastupitelstvo na svém zasedání 26. 1. 2017 zvolilo šéfem finančního výboru Daniela Štěpána, bývalého místostarostu za ČSSD na Praze 7 a podporovatele pražského kmotra ČSSD Petra Hulinského. Štěpán v čele nejvlivnějšího výboru pražského zastupitelstva nahradí Miroslava Ludvíka, který se stal ministrem zdravotnictví.
 
 Piráti se Štěpána před volbou ptali na jeho vztah k Hulinskému a na jeho aktivity v soukromé nadaci. Ta za podezřelých podmínek získala pronájem luxusního domu v centru Prahy. Štěpán otázky Pirátů na zastupitelstvu přes opakované výzvy odmítl zodpovědět. 
 
