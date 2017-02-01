@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Je město Praha řádný hospodář? Aneb jak Písničtí přišli o sídliště." 
-image:        kennial-1.jpg
+image:        kennial-1.png
 author:       Ondřej Profant
 ---
 
