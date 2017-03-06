@@ -8,9 +8,7 @@ image:        z-sal.jpg
 author:       Mikuláš Ferjenčík
 ---
 
-Piráti se připojují k návrhu na svolání mimořádného zastupitelstva kvůli ovlivňování výběrových řízení v Praze mafiánskými strukturami
-
-Zastupitelský klub Pirátů se dnes jednomyslně usnesl, že souhlasí s návrhem na svolání mimořádného zastupitelstva. Důvodem je obsazování úřednických a odborných pozic města na základě politických dohod. Současná koalice navíc obsazování těchto pozic konzultovala i s lidmi napojenými na mafii, jak dokládá kauza europoslance Polčáka (STAN). 
+Zastupitelský klub Pirátů se dne 6. března 2017 jednomyslně usnesl, že souhlasí s návrhem na svolání mimořádného zastupitelstva. Důvodem je obsazování úřednických a odborných pozic města na základě politických dohod. Současná koalice navíc obsazování těchto pozic konzultovala i s lidmi napojenými na mafii, jak dokládá kauza europoslance Polčáka (STAN). 
 
 Piráti již o zájmu podpořit svými čtyřmi hlasy mimořádné zasedání informovali předsedu klubu TOP 09, Václava Novotného, který je v této věci oslovil. 
 
