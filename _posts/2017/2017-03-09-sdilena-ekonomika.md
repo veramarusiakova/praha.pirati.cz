@@ -18,7 +18,7 @@ Z grafu přepravy v zahraničním městě (viz níže) je zjevné, že podíl di
 
 Vláda projednávala zákon o silniční přepravě v prosinci a nechala si na sdílenou ekonomiku zpracovat studii. Ani vláda ani hl. m. Praha však dosud nové služby neřešily. Primátorka Krnáčová se naopak proti Uberu ostře ohradila. Jenom v Praze se odhaduje podíl digitálních platforem v přepravě lidí na 10-15 % a do budoucna poroste. Taxikáři proti Uberu opakovaně protestují troubením kolem Magistrátu. Piráti žádným způsobem neprotežují Uber jako konkrétní platformu, pouze reagují na aktuální kauzy okolo současných snah o jeho zákaz.
 
-“Kvůli pověsti pražské taxislužby se nemůžeme turistům divit, že dávají přednost Uberu. Nemůžeme předstírat, že se nic neděje ani rozbíjet stroje, jako na začátku průmyslové revoluce. Představujeme vlastní vizi, jak by vláda měla podpořit rozvoj nového průmyslu a nových pracovních míst. Potřebujeme hlavně zajistit férovou soutěž mezi digitálními platformami a tradičními poskytovateli jako jsou hotely a taxislužby,” říká předseda pražských zastupitelů za Piráty Jakub Michálek.
+> “Kvůli pověsti pražské taxislužby se nemůžeme turistům divit, že dávají přednost Uberu. Nemůžeme předstírat, že se nic neděje ani rozbíjet stroje, jako na začátku průmyslové revoluce. Představujeme vlastní vizi, jak by vláda měla podpořit rozvoj nového průmyslu a nových pracovních míst. Potřebujeme hlavně zajistit férovou soutěž mezi digitálními platformami a tradičními poskytovateli jako jsou hotely a taxislužby,” říká předseda pražských zastupitelů za Piráty Jakub Michálek.
 
 #### Vize změn pro sdílenou ekonomiku
 
