@@ -23,21 +23,27 @@ Vláda projednávala zákon o silniční přepravě v prosinci a nechala si na s
 #### Vize změn pro sdílenou ekonomiku
 
 1. **Jasně definovat postavení podnikatele (profesionála) na platformě**
+
 např. výší ročních tržeb přes 60 000 Kč nebo měsíční tržby přes 10 000 Kč 
 
 2. **Stejná férová pravidla pro profesionály bez ohledu na platformu**
+
 profesionální taxikář by měl mít pojištění a splňovat další profesní pravidla bez ohledu na to, zda jezdí s Uberem, anebo s taxi dispečinkem
 
 3. **Aktualizovat pravidla pro profesionály**
+
 v případě digitálních platforem nemá smysl povinnost označování vozů žlutou cedulkou TAXI, používání taxametru, zveřejňování ceníků a je třeba jasně říci, že se na ně nevztahují - vzhledem k moderním navigacím je vhodné revidovat i požadavek na zkoušky místopisu
 
 4. **Neprofesionálové musí mít možnost poskytovat příležitostné služby**
+
 poskytování služeb prostřednictvím neprofesionálů, nesmí být předmětem přílišné a neadekvátní regulace
 
 5. **Lepší informování uživatelů a poskytovatelů**
+
 uživatel by měl být platformou výslovně upozorněn, zda jsou mu nabízeny profesionální či neprofesionální služby, a platforma by měla průkazným způsobem informovat poskytovatele o jejich povinnostech, kontroloři by se měli ujistit, že nedochází k obcházení pravidel pomocí tzv. flotil
 
 6. **Platformy i poskytovatelé služeb, kteří je využívají, musí platit daně**
+
 je třeba stanovit povinnost platforem poskytovat údaje o obratu osob a trvat na tom, aby samotná platforma platila korporátní daň ze zisků vydělaných v České republice
 
 Pražský zastupitel Michálek upozornil také na [pravomocný rozsudek Městského soudu v Praze](https://github.com/pirati-byro/spisy-zk-pha-2016/blob/master/4904-uber-v-praze/02b-rozsudek/rozsudek.PDF), který zrušil pokuty udělené Magistrátem a prohlásil o Uberu, že to není taxislužba a nevztahují se na něj tato pravidla. 
