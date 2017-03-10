@@ -10,6 +10,8 @@ author:       Jakub Michálek
 
 Tak jako drožky nahradily automobily, probíhá dnes revoluce na trhu přepravy, ubytování, úvěrů apod. Pražští Piráti 9. března 2017 kritizovali vládu a Magistrát za to, že se málo zabývá službami jako je Uber, Liftago, Airbnb, Rekola apod. V [dopise](https://github.com/pirati-byro/spisy-parl-2016/blob/master/5700-podnet-vlade-sdilena-ekonomika/01-dopis/main.pdf) vyzvali předsedu vlády Sobotku, aby urychleně inicioval ve spolupráci s velkými městy jasná a férová pravidla pro rozvoj sdílené ekonomiky.
 
+Vláda projednávala zákon o silniční přepravě v prosinci a nechala si na sdílenou ekonomiku zpracovat studii. Ani vláda ani hl. m. Praha však dosud nové služby neřešily. Primátorka Krnáčová se naopak proti Uberu ostře ohradila. Jenom v Praze se odhaduje podíl digitálních platforem v přepravě lidí na 10-15 % a do budoucna poroste. Taxikáři proti Uberu opakovaně protestují troubením kolem Magistrátu. Piráti žádným způsobem neprotežují Uber jako konkrétní platformu, pouze reagují na aktuální kauzy okolo současných snah o jeho zákaz.
+
 Z grafu přepravy v zahraničním městě (viz níže) je zjevné, že podíl digitálních platforem na poskytování osobní přepravy po městě za poslední 2 roky dramaticky vzrostl a dá se očekávat jeho další růst:
 
 ![Vývoj užívání jednotlivých služeb dopravy v New Yorku - Taxíky vs. platformy](/assets/img/posts/graf-taxisluzby.png "Vývoj užívání jednotlivých služeb dopravy v New Yorku - taxíky vs. platformy")
