@@ -16,7 +16,7 @@ TODO:
 
 Používáme technologii [Jekyll](http://jekyllrb.com/), která tvoří web ze statických [šablonovaných (Liquid)](https://shopify.github.io/liquid/) stránek. Díky tomu je vše velmi jednoduché:
 
-- články jsou markdown soubory v adresaři `_posts`
+- články jsou markdown soubory v adresaři `_posts`, obrázky k nim v `assets/img/posts` s rozměry 600x337
 - profily lidí z týmu jsou markdown soubory v adresaři `_people`
 - stránky jsou klasické html soubory (mohou být i markdown)
 
