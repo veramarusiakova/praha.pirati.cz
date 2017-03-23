@@ -10,7 +10,7 @@ author:       Jakub Michálek
 
 Piráti na mimořádném Zastupitelstvu hl. m. Prahy dne 23. března 2017 navrhli odvolání Rady v čele s Adrianou Krnáčovou. Koalice totiž za 2 roky nic nedělala s neprůhledným obsazováním dozorčích rad, a dokonce podle nových informací uvažuje o jmenování pravomocně odsouzeného Karla Březiny do čela městského superholdingu. 
 
-Piráti na Zastupitelstvu navrhli konkrétní pravidla, která by zakázala politické trafiky ve firmách vlastněných městem. Podle pravidel by politici zásadně nesměli sedět v představenstev firem. Členové dozorčích rad by byli vybírání v otevřeném řízení se stanovenými kritérii, byl by zveřejněn jejich životopis a zdůvodnění výsledku výběrového řízení. 
+Piráti na Zastupitelstvu [navrhli konkrétní pravidla](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/mestske-firmy/stop-trafikam/09-navrh-na-breznove-zasedani/navrh.pdf), která by zakázala politické trafiky ve firmách vlastněných městem. Podle pravidel by politici zásadně nesměli sedět v představenstev firem. Členové dozorčích rad by byli vybírání v otevřeném řízení se stanovenými kritérii, byl by zveřejněn jejich životopis a zdůvodnění výsledku výběrového řízení. 
 
 ### Příklady neprůhledností, politické korupce a trafik v městských firmách: 
 
@@ -22,3 +22,7 @@ Piráti na Zastupitelstvu navrhli konkrétní pravidla, která by zakázala poli
 6. Europoslanec Poche (ČSSD) a šéf klubu ANO Michal Hašek – měl jako člen dozorčí rady Pražské strojírny (dceřinné firmy DPP) dohlížet na její hospodaření, za danou dobu však byla auditem DPP zjištěna zásadní pochybení v hospodaření
 7. Trafiky v PPH – společnost Pražská plynárenská holding je pouze schránka, která nemá vlastní činnost a jen vlastní Pražskou plynárenskou – přesto má vlastní vedení, které z firmy odčerpá několik milionů ročně
 8. Volejbalista a zastupitel Antonín Lébl (ANO) - člen dozorčí rady Obecního domu, člen představenstva Pražské teplárenské, dříve člen představenstva Operátora ICT (v IT se nikdy nepohyboval) – jako každý ze zastupitelů ANO má cca 80-100 tis. Kč měsíčně
+
+### Odkazy 
+
+* [Návrh Pirátů k politice obsazování dozorčích rad](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/mestske-firmy/stop-trafikam/09-navrh-na-breznove-zasedani/navrh.pdf).
