@@ -10,7 +10,7 @@ author:       Dana Balcarová, Věra Marušiaková
  
 Předseda Pirátů Bartoš se sešel s ministrem ANO Danem Ťokem. Společně řešili dálnice, vlaky a taxislužby. Na návštěvu zprostředkovanou šéfem hnutí ANO Andrejem Babišem dorazil Bartoš s pirátským zastupitelem Mikulášem Ferjenčíkem. Schůzky se účastnil také šéf ŘSD pan Jan Kroupa.
  
-Bartoš předložil ministrovi otázky týkající se sporných výběrových řízení na architektonické práce při výstavbě úseků dálnic D11 a D35. Objemy práce střídavě oscilují v částkách od 300 milionů až přes jednu miliardu. Ministr poskytl Bartošovi vysvětlení. 
+Bartoš předložil ministrovi otázky týkající se sporných výběrových řízení na archeologické práce při výstavbě úseků dálnic D11 a D35. Objemy práce střídavě oscilují v částkách od 300 milionů až přes jednu miliardu. Ministr poskytl Bartošovi vysvětlení. 
  
 > „Výběrová řízení obecně v ČR zahalují závoje netransparentnosti či podmínek šitých na míru. Materiály od ministra prostuduji a konfrontuji například s doporučeními akademie věd či archeologického institutu, který tyto práce a subjekty, které se jich mohou účastnit, řeší. Miliardové rozdíly mezi odhady, ale i potenciální navýšení v řádech stovek milionů nejsou podezřelé jen mně.“ hodnotí setkání předseda a lídr strany pro volby do poslanecké sněmovny Ivan Bartoš.
 
