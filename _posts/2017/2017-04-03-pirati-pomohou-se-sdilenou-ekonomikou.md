@@ -3,7 +3,7 @@ date:         2017-04-03
 category:     blog
 tags:         praha doprava
 layout:       post
-title:        "Piráti pomohou ministrovi dopravy se zákony upravujícími služby sdílené ekonomiky jako Uber nebo Liftago." 
+title:        "Pomůžeme ministru dopravy s legislativou ke sdílené ekonomice." 
 image:        uber.jpg
 author:       Dana Balcarová, Věra Marušiaková
 ---
