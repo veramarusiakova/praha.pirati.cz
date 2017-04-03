@@ -8,9 +8,9 @@ image:        michalek2.jpg
 author:       Jakub Michálek
 ---
 
-Piráti na mimořádném Zastupitelstvu hl. m. Prahy dne 23. března 2017 navrhli odvolání Rady v čele s Adrianou Krnáčovou. Koalice totiž za 2 roky nic nedělala s neprůhledným obsazováním dozorčích rad, a dokonce podle nových informací uvažuje o jmenování pravomocně odsouzeného Karla Březiny do čela městského superholdingu. 
+Piráti na mimořádném Zastupitelstvu hl. m. Prahy dne 23. března 2017 navrhli odvolání Rady v čele s Adrianou Krnáčovou. Koalice totiž za 2 roky nic nedělala s neprůhledným obsazováním dozorčích rad, a dokonce podle nových informací uvažuje o jmenování pravomocně odsouzeného Karla Březiny do čela městského superholdingu. Koalice nicméně jednání zastupitelstva zablokovala tím, že překazila schválení jeho programu jednání. 
 
-Piráti na Zastupitelstvu [navrhli konkrétní pravidla](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/mestske-firmy/stop-trafikam/09-navrh-na-breznove-zasedani/navrh.pdf), která by zakázala politické trafiky ve firmách vlastněných městem. Podle pravidel by politici zásadně nesměli sedět v představenstev firem. Členové dozorčích rad by byli vybírání v otevřeném řízení se stanovenými kritérii, byl by zveřejněn jejich životopis a zdůvodnění výsledku výběrového řízení. 
+Piráti na Zastupitelstvu také [navrhli konkrétní pravidla](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/mestske-firmy/stop-trafikam/09-navrh-na-breznove-zasedani/navrh.pdf), která by zakázala politické trafiky ve firmách vlastněných městem. Podle pravidel by politici zásadně nesměli sedět v představenstev firem. Členové dozorčích rad by byli vybírání v otevřeném řízení se stanovenými kritérii, byl by zveřejněn jejich životopis a zdůvodnění výsledku výběrového řízení. 
 
 ### Příklady neprůhledností, politické korupce a trafik v městských firmách: 
 
