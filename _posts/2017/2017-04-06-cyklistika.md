@@ -8,7 +8,7 @@ image:        cyklo.jpg
 author:       Mikuláš Ferjenčík
 ---
 
-Piráti už se nemohou koukat za nezájem pražské koalice o cyklistiku. V Praze stále platí koncepce z doby Pavla Béma. Vedení města však nerealizuje ani minimum podle této koncepce, tj. aby pátěřní cyklotrasy byly zavedené v územním plánu a aby se při rekonstrukcích silnic myslelo i na cyklisty. Praha tak v cyklistice [zaostává](http://www.piratskelisty.cz/clanek-1582-cestuje-se-lepe-po-praze-nebo-berline-prvni-dil-serialu) za jinými metropolemi.
+Piráti už se nemohou koukat na nezájem pražské koalice o cyklistiku. V Praze stále platí koncepce z doby Pavla Béma. Vedení města však nerealizuje ani minimum podle této koncepce, tj. aby pátěřní cyklotrasy byly zavedené v územním plánu a aby se při rekonstrukcích silnic myslelo i na cyklisty. Praha tak v cyklistice [zaostává](http://www.piratskelisty.cz/clanek-1582-cestuje-se-lepe-po-praze-nebo-berline-prvni-dil-serialu) za jinými metropolemi.
 
 > „Z vlastní zkušenosti mohu říct, že daleko větší problémy než terén jsou pro cyklistu obava o zdraví a nemožnost kolo bezpečně zaparkovat. Praha se musí soustředit na odstraňování míst, kde je jízda na kole o život,“ říká pirátský zastupitel Ondřej Profant. 
 
