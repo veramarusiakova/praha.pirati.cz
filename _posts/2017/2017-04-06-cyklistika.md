@@ -18,14 +18,11 @@ Piráti už se nemohou koukat za nezájem pražské koalice o cyklistiku. V Praz
 
 Piráti své návrhy shrnuli ve stručném dokumentu, který shrnuje stávající problémy cyklodopravy v Praze a jejich možná řešení (viz níže). Protože chceme jít příkladem i osobně, opět jsme se přihlásili do soutěže propagující cyklistiku "[Do práce na kole](https://www.dopracenakole.cz/)" a vyzýváme ostatní politické kluby na souboj. 
 
-
 ----
 
-Pirátská vize cyklodopravy v Praze
-==================================
+### Pirátská vize cyklodopravy v Praze
 
-Vize
-----
+#### Vize
 
 * Chceme město, kde se člověk snadno přepraví na kratší vzdálenosti i na kole jako třeba v Berlíně, San Franciscu nebo Pardubicích.
 * Cyklistika není jen rekreace, ale v moderním městě má velký dopravní potenciál.
@@ -34,8 +31,7 @@ Vize
 * Systém by měl být postaven na kombinaci soukromého vlastnictví kol a bikesharingu. S růstem počtu kol v ulicích poroste význam bikesharingu (snadnější dostupnost).
 * S rozvojem elektrokol můžou jezdit na kole např. i senioři. Též pomahají vyrovnat se s kopcovitostí Prahy.
 
-Problémy infrastruktury a jejich řešení
-------------------------------------
+#### Problémy infrastruktury a jejich řešení
 
 * Investice do cyklodopravy jsou výrazně podhodnocené (a to i vzhledem k relativně malému podílu cyklodopravy na vykonaných cestách). Podporujeme jejich razantní zvýšení a důsledné sledování a vyhodnocení plánu investic v cyklodopravě na Zastupitelstvu hl. m. Prahy.
 * Budeme trvat na tom, aby podstatné části cyklogenerelu (plánu cyklotras) byly zahrnuty do návrhu nového územního plánu. Je nutné, aby s touto prioritou města byli seznámeni všichni zodpovědní úředníci.
@@ -46,8 +42,7 @@ Problémy infrastruktury a jejich řešení
 * Podporujeme vybudování stojanů na kola u veřejných institucí, jako jsou školy nebo knihovny a u stanic metra, železnice a parkovišť, zejména v centru města (včetně hlídání a dobrého zámku, výjimečně a v podložených případech i parkovací domy pro kola). Magistrát vlastní v centru města dost pozemků, které nejsou svěřeny městským částem, a stojany na nich může vybudovat, i když to městská část Praha 1 blokuje. Současný program budování stojanů na požadavek městských částí je dobrý, ale nestačí. 
 * Radní a starostové by měli osobně a velmi intenzivně jednat s majiteli o výkupu vytipovaných pozemků, flexibilně přizpůsobovat trasu majetkoprávním poměrům, nabízet majitelům výměnou jiné pozemky či protiplnění v souladu se zákonem nebo zřizovat věcná břemena. Projednání majetkoprávních tisků v orgánech města se musí zrychlit. 
 
-Kritická místa 
--------------
+#### Kritická místa 
 
 Seznam míst, které jsou pro cyklisty nepříznivé a je třeba tuto situaci řešit:
 
@@ -65,15 +60,13 @@ Seznam míst, které jsou pro cyklisty nepříznivé a je třeba tuto situaci ř
 - Magistrála včetně Nuselského mostu
 - Bílá Hora: propojení přes Bělohorskou
     
-Místa s velkým potenciálem pro rozvoj
----------------------
+#### Místa s velkým potenciálem pro rozvoj
 
 - trasy podél vodních toků
 - trasy podél (bývalých) železničních tratí, trasa do Kladna
 - Bike and ride u stanic metra i železnice
 
-Bikesharing a PID
-------------------
+#### Bikesharing a PID
 
 * Dopravní podnik hl. m. Prahy vypsal z rozhodnutí Rady primátora Tomáše Hudečka velkou zakázku na 100 mil. pro bikesharing (sdílení kol), která ovšem byla připravena zcela neadekvátně. Největšího skutečného provozovatele bikesharingu v ČR (Rekola) však účelovými kritérii ze zakázky vyloučil. Úřad pro ochranu hospodářské soutěže megazakázku zrušil kvůli diskriminaci. 
 * Podle názoru Pirátů megazakázka na 100 milionů na bikesharing nemá smysl, dokud nebude vybudována aspoň základní infrastruktura města pro cyklodopravu (viz výše). Do té doby se můžou dále rozvíjet městem nedotované formy bikesharingu, jako jsou třeba Rekola. 
@@ -85,9 +78,7 @@ Pražskou integrovanou dopravu (PID) vnímáme jako veřejnou službu, která sj
 * aby v rámci ročního kupónu či parkovací karty byl i kredit na bikesharing,
 * Prozkoumat možnost tarifů a jízdenek na MHD pro cestující s jízdním kolem. 
 
-
-Zdroje
-------
+#### Zdroje
 
 * [Projekt Prahou na kole](http://prahounakole.cz)
 * [Mapa projektu Prahou na kole](http://mapa.prahounakole.cz)
