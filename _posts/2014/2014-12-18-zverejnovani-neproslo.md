@@ -16,7 +16,7 @@ Většina stran totiž **slíbila, že smlouvy zveřejňovány budou**. K tomu s
 
 ![Programy politických stran](/assets/images/blog/programy-zverejnovani.png "Programy politických stran Trojkoalice, ČSSD a ANO")
 
-Piráti připravili [návrh usnesení o zveřejňování smluv](/assets/static/3110.pdf). Na jeho přípravě se podíleli všichni členové klubu, většinu sepsal předseda klubu Pirátů Jakub Michálek.
+Piráti připravili [návrh usnesení o zveřejňování smluv](/assets/pdf/3110.pdf). Na jeho přípravě se podíleli všichni členové klubu, většinu sepsal předseda klubu Pirátů Jakub Michálek.
 
 * Návrh jasně definuje, jak by měly být smlouvy zveřejňovány.
 * Expert František Korbel, autor zákona o registru smluv, ho označil za velmi dobrý. 
