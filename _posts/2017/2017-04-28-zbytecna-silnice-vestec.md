@@ -10,7 +10,7 @@ author:       Adam Zábranský
 
 Nová silnice na jihu Prahy, nákup vodovodů od společnosti Veolia, nebo sociální nájemné pro soudce a státní zástupce. O tom a o dalších věcech se jednalo na 26. zasedání pražského zastupitelstva dne 27. dubna 2017. Chtěli jsme také otevřít diskuzi o metru D a o koncepci obsazování dozorčích rad města, nicméně koalice naše body na program nezařadila. 
 
-**Vestecká spojka k budoucímu TESCO skladu**
+**Vestecká spojka k budoucímu skladu TESCO**
 
 Zastupitelstvo odsouhlasilo novou silnici od Vestce k dálnici D1. Není nám jasné, jestli skutečně pomůže dopravě v dané lokalitě anebo tam přivede nová auta. Silnice je pozůstatkem po starém trasování Pražského okruhu z roku 1990 (a možná ještě staršího). Přestože byl nakonec okruh posunut více na jih (a tam i postaven), původní varianta v územním plánu zůstala. Nyní tak hrozí, že se silnice postaví. „Tato silnice nemá žádný logický význam a nikoho neobslouží. Ve městě jsou rozhodně důležitější dopravní stavby - třeba to metro D, které je dokonce ve stejné oblasti,“ uvádí k záležitosti Ondřej Profant.
 
