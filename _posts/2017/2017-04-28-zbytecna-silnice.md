@@ -3,8 +3,8 @@ date:         2017-04-28
 category:     blog
 tags:         zhmp
 layout:       post
-title:        "Piráti senátorům: Odmítněte likvidaci zákona o zveřejňování smluv" 
-img:        2017/z26.jpg
+title:        "Piráti k zasedání pražského zastupitelstva: zbytečná silnice za miliardy" 
+img:        z26.jpg
 author:       Adam Zábranský
 ---
 
