@@ -46,4 +46,4 @@ Na pořadu zastupitelstva bylo také projednání partnerství Prahy se Šanghaj
 
 **Metropolitní plán – hudba budoucnosti**
 
-Zastupitelstvo schválilo harmonogram tvorby nového územního plánu. Podle přijatého usnesení by měl být definitivně schválen v prosinci 2022 tedy krátce po komunálních volbách téhož roku. Piráti se obávají, že ani tento termín nebude dodržen a nejistota v územním plánování bude panovat déle. Proto jsme doporučovali zkrátit lhůty, aby byl plán dokončen již v příším volebním období. manipulovaných zakázek, nebo třeba přes různé právní a mediální služby. Právě tyto zlodějiny by mohl registr smluv účinně odhalovat. 
+Zastupitelstvo schválilo harmonogram tvorby nového územního plánu. Podle přijatého usnesení by měl být definitivně schválen v prosinci 2022 tedy krátce po komunálních volbách téhož roku. Piráti se obávají, že ani tento termín nebude dodržen a nejistota v územním plánování bude panovat déle. Proto jsme doporučovali zkrátit lhůty, aby byl plán dokončen již v příším volebním období. 
