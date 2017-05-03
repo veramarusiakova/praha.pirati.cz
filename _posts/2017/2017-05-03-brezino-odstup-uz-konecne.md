@@ -16,3 +16,8 @@ Piráti od roku 2014 kritizují angažmá již jednou pravomocně odsouzeného B
 
 Piráti na Březinu v minulosti podali trestní oznámení pro podezření, že machinoval se změnami územního plánu. 
 
+### Související odkazy
+
+* [Policie kromě Pelty zadržela kvůli dotacím také Janstu nebo Březinu, Idnes.cz](http://zpravy.idnes.cz/policie-fotbalove-asociace-ceske-republiky-ministerstvo-skolstvi-miroslav-pelta-miroslav-jansta-iof-/domaci.aspx?c=A170503_124845_domaci_fer)
+* [Piráti odešli z jednání o pražské koalici, vadí jim sociální demokrat Březina, Novinky.cz](https://www.novinky.cz/domaci/392268-pirati-odesli-z-jednani-o-prazske-koalici-vadi-jim-socialni-demokrat-brezina.html)
+
