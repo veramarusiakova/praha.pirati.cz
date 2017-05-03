@@ -1,7 +1,7 @@
 ---
 date:         2017-05-02
 category:     blog
-tags:         zhmp
+tags:         praha-9
 layout:       post
 title:        "Bleskové rozhodnutí radnice Prahy 9 o směně pozemků" 
 image:        garazekrocinka.jpg
@@ -21,3 +21,8 @@ Mezi zmíněnými argumenty na jednání zastupitelstva zaznělo i to, že podle
 Na základě jednání Rady MČ Prahy 9 tak vyvstává celá řada otázek: Zanikne současný ráz Krocínky proti vůli jejích obyvatel? Bude MČ řešit přístup do Klíčovského lesoparku a ochranný pás kaštanové aleje? Jak je možné, že dohoda se společností Prosek 2 proběhla tak rychle? Proč se radnice vzdala tohoto cenného území, ačkoliv disponuje značnou finanční rezervou (přes 1,3 mld. korun k 1.1 2017)? 
 
 Postup MČ Prahy 9 bohužel ukazuje, že současné vedení nejedná otevřeně s těmi, v jejichž zájmu by jednat mělo. Netransparentní rozhodnutí i zmíněné argumenty vyvolávají silná podezření. Stále ještě existuje možnost revokace rozhodnutí zastupitelstva a jasného definování zástavby na pozemku. Rozhodující je, zda starosta Jan Jarolím (ODS) smlouvu o směně již podepsal.
+
+### Kontakt
+
+* [Dana Balcarová](https://www.pirati.cz/lide/dana-balcarova/), garantka programu Životní prostředí České pirátské strany, dana.balcarova@pirati.cz, 732 103 330
+
