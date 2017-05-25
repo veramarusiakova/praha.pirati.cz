@@ -22,7 +22,7 @@ Společnost PRE odmítla na žádost zastupitele Michálka sdělit, jaké konkr�
 
 ### Zdroje
 
-* Usnesení Rady č. 1131 ze dne 23.5.2017 [http://zastupitelstvo.praha.eu/ina2014/tedusndetail.aspx?id=466191](http://zastupitelstvo.praha.eu/ina2014/tedusndetail.aspx?id=466191)
+* Usnesení Rady č. 1131 ze dne 23.5.2017 [http://zastupitelstvo.praha.eu/ina2014/tedusndetail.aspx?id=466191](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/mestske-firmy/usneseni-1131.pdf)
 * Obchodní rejstřík [https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=703084&typ=PLATNY](https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=703084&typ=PLATNY)
 * § 73 zákona o hl.m. Praze [https://www.zakonyprolidi.cz/cs/2000-131#p73-1](https://www.zakonyprolidi.cz/cs/2000-131#p73-1)
 
