@@ -14,7 +14,7 @@ Primátorka Krnáčová má podepsat nové jmenování JUDr. Moniky Krobové Há
 
 Jde o dozorčí radu společnosti Pražská energetika, kterou město spoluvlastní. Krobová Hášová byla v roce 2014 zvolena za TOP09, nicméně krátce po volbách přešla k ČSSD. Již v té době seděla jako zastupitelka za TOP09 v dozorčí radě Pražské energetiky, kam byla dosazena tehdejší koalicí ODS a TOP09 v roce 2012. Po volbách v roce 2014, kdy se TOP09 nepodařilo sestavit koalici, se dohodla s Karlem Březinou na přestoupení z TOP09 do klubu ČSSD. Díky tomu jí dozorčí rada a milionový příjem zůstaly. 
 
-“> Nelze přeci dohazovat přeběhlíkům za jejich hlasy milionové kšefty. Požádali jsme primátorku, aby účinnost rozhodnutí pozastavila. Na čtvrtečním zastupitelstvu budeme důrazně požadovat, aby věc projednalo zastupitelstvo,“ doplňuje Michálek.
+> “Nelze přeci dohazovat přeběhlíkům za jejich hlasy milionové kšefty. Požádali jsme primátorku, aby účinnost rozhodnutí pozastavila. Na čtvrtečním zastupitelstvu budeme důrazně požadovat, aby věc projednalo zastupitelstvo,“ doplňuje Michálek.
 
 Piráti placené přeběhlictví Krobové Hášové od roku 2014 kritizují. Je veřejně známý fakt, že s některými funkcemi v dozorčí radě není spojena téměř žádná práce. V dozorčí radě PRE stačí 4krát ročně přijít na zasedání dozorčí rady. Proto pražská koalice používá dozorčí rady k zajištění příjmů a loajality vlastních zastupitelů – v tomto případě i zastupitelů původně zvolených za jinou stranu. Jsou však i jiné dozorčí rady (např. DPP), kde je naopak odměna směšně nízká. Na nekoncepční oazování dozorčích rad Piráti upozorňují od roku 2014, koalice je však nečinná.
 
