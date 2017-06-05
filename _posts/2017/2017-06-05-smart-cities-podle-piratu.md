@@ -19,7 +19,7 @@ Piráti podporují zavádění technologií, které řeší reálné problémy. 
 
 **Úřad v pravěku**
 
- - Webový portál města: Podklady pro zasedání výborů a zastupitelstva [nelze i přes mnohá upomenutí přímo odkazovat](https://youtu.be/gRCy4GvzN0U)
+ - Webový portál města: Podklady pro zasedání výborů a zastupitelstva [nelze i přes mnohá upomenutí přímo odkazovat](https://youtu.be/gRCy4GvzN0U).
  - Oběh dokumentů: Namísto dokumentů obíhají lidé. A to většinou občané – tedy klienti města. To se musí změnit. Úřad musí být schopen předávat si dokumenty interně elektronicky.
  - Spolupráce institucí: Levá ruka neví co dělá pravá. Jednotlivé instituce neumí spolupracovat. 
  - Podklady pro výbory se posílají přes Leteckou poštu, Uložto a Google dokumenty. Přitom má město datové centrum za stamiliony.
@@ -39,8 +39,6 @@ Piráti podporují zavádění technologií, které řeší reálné problémy. 
 ### Přístup města
 
 Stávající vedení města chápe Smart cities jako utrácení peněz za nové technologie. Nijak nedrží dlouhodobou udržitelnost projektů, stávající naprosto nedostatečné fungování úřadu a především propojení městských institucí neřeší a v neposlední řadě nemá měřitelné cíle, kterých by chtělo prostřednictvím nasazování moderních technologií dosáhnout. 
-
-![Chytrá města](opencard-smart-cities.png)
 
 ### Řešení podle Pirátů
 
