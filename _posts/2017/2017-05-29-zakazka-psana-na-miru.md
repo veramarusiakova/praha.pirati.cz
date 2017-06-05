@@ -3,7 +3,7 @@ date:         2017-05-29
 category:     blog
 tags:         praha informatika
 layout:       post
-title:        "Zakázka psaná na míru" 
+title:        "Zakázka na datové centrum psaná na míru"
 image:        dc04.jpg
 author:      Ondřej Profant
 ---
