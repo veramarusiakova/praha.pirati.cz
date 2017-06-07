@@ -20,5 +20,5 @@ Od 1. července 2017 přitom začnou platit nová ustanovení zákona o registru
 
 ### Přílohy
 
-* [Přehled městských firem a zveřejňování smluv](2-dopis.jpg)
-* [Předložení analýzy zveřejněných smluv městskými firmami](1-zverejnovane-smlouvy.jpg)
+* [Přehled městských firem a zveřejňování smluv](https://github.com/pirati-web/praha.pirati.cz/tree/gh-pages/assets/img/posts/2-dopis.jpg)
+* [Předložení analýzy zveřejněných smluv městskými firmami](https://github.com/pirati-web/praha.pirati.cz/tree/gh-pages/assets/img/posts/1-zverejnovane-smlouvy.jpg)
