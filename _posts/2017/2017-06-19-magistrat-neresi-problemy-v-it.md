@@ -3,12 +3,12 @@ date:         2017-06-19
 category:     blog
 tags:         praha
 layout:       post
-title:        "Magistrát neřeší problémy namísto toho podporuje dinosaury"
+title:        "Magistrát neřeší problémy, namísto toho podporuje dinosaury"
 image:        it-magistrat.jpg
 author:       Ondřej Profant
 ---
 
-V programu schůze rady Hlavního města Prahy jsou některé body, proti kterým Piráti ostře protestují. Jedná se o zakázky a řešení, která jsou nevýhodná, zastaralá nebo občanům nic nepřinesou. Budou-li tyto body chváleny, dokáže to, že vedení Adriany Krnáčové není schopno řešit moderní informační technologie. Namísto moderních řešení neustále živí staré problémové softwary, které mnohdy nevykonávají ani svou základní funkcionalitu. Dodavatelé těchto technologí jen inkasují další a další peníze. Mezi nejkřiklavější příklady patří:
+V programu schůze rady Hlavního města Prahy jsou některé body, proti kterým Piráti ostře protestují. Jedná se o zakázky a řešení, která jsou nevýhodná, zastaralá nebo občanům nic nepřinesou. Budou-li tyto body chváleny, prokáže se, že vedení Adriany Krnáčové není schopno řešit moderní informační technologie. Namísto moderních řešení neustále živí staré problémové softwary, které mnohdy nevykonávají ani svou základní funkcionalitu. Dodavatelé těchto technologí jen inkasují další a další peníze. Mezi nejkřiklavější příklady patří:
 
 ## TED za 11 milionů Kč ročně
 
@@ -24,9 +24,9 @@ Proxio/Agendio je software využívány k rozličným agendám jako je evidence 
 
 Tento projekt má zásadní důležitost, proto se mu Piráti věnují intenzívně věnují. [Upozorňovali jsme][dc04] na některé zarážející nesrovnalosti již ze samotného vypsání výběrového řízení. Bohužel to dopadlo přesně podle nejhoršího předpokládaného scénáře. Nejlevnější nabídka byla vyřazena, protože nesplnila neodůvodněná kriteria, která zde byla šitá na míru konkrétnímu dodavateli a opsána z jeho prospektů. Tato zakázka určí technologickou základnu (a tím mnohdy i dodavatele) na roky dopředu.
 
-Piráti přitom trvale poukazují na to, že pro město je nejhorší, když nastane závislost na jednom dodavateli a vyloučí se konkurence z procesu ekonomické soutěže. Tato situace je známá jako *vendor lock-in*. Při použití otevřených standardů a správných linencí vendor lock-in nehrozí. Ale radnice na to nedbá a vlastní nekompetentností způsobuje městu jak ekonomické ztráty, tak i snížení efektivity správy pro úředníky i obyvatele města.
+Piráti trvale poukazují na to, že pro město je nejhorší, když nastane závislost na jednom dodavateli a vyloučí se konkurence z procesu ekonomické soutěže. Tato situace je známá jako *vendor lock-in*. Při použití otevřených standardů a správných linencí *vendor lock-in* nehrozí. Ale radnice na to nedbá a vlastní nekompetentností způsobuje městu jak ekonomické ztráty, tak i snížení efektivity správy pro úředníky i obyvatele města.
 
-Existují i další příklady hloupých rozhodnutí. Například Turistická karta o níž ještě přineseme materiál.
+Existují i další příklady hloupých rozhodnutí. Například nová Turistická karta o níž ještě přineseme materiál.
 
 Zastupitel Ondřej Profant tristní stav IT zakázek komentuje: "Tento software by mělo spíše kupovat Muzeum hlavního města Prahy než Magistrát." A vědom si naléhavosti situace, dodává: "Hlavním problémem je, že se aktivně nepracuje na nápravě stavu. Vždy se jen řekne, že 'věc nelze řešit jinak'. Ano, věc nelze řešit, pokud město nevyvinulo žádnou snahu o jiné řešení. Magistrát předpokládá, že mu někdo dodá zcela hotové řešení pod nos. Což je samozřejmě naivní představa."
 
