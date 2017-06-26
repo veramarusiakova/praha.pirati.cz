@@ -8,7 +8,7 @@ image:        it-magistrat.jpg
 author:       Ondřej Profant
 ---
 
-V programu schůze rady Hlavního města Prahy jsou některé body, proti kterým Piráti ostře protestují. Jedná se o zakázky a řešení, která jsou nevýhodná, zastaralá nebo občanům nic nepřinesou. Budou-li tyto body chváleny, prokáže se, že vedení Adriany Krnáčové není schopno řešit moderní informační technologie. Namísto moderních řešení neustále živí staré problémové softwary, které mnohdy nevykonávají ani svou základní funkcionalitu. Dodavatelé těchto technologí jen inkasují další a další peníze. Mezi nejkřiklavější příklady patří:
+V programu schůze rady Hlavního města Prahy jsou některé body, proti kterým Piráti ostře protestují. Jedná se o zakázky a řešení, která jsou nevýhodná, zastaralá nebo občanům nic nepřinesou. Budou-li tyto body schváleny, prokáže se, že vedení Adriany Krnáčové není schopno řešit moderní informační technologie. Namísto moderních řešení neustále živí staré problémové softwary, které mnohdy nevykonávají ani svou základní funkcionalitu. Dodavatelé těchto technologí jen inkasují další a další peníze. Mezi nejkřiklavější příklady patří:
 
 ## TED za 11 milionů Kč ročně
 
@@ -18,7 +18,7 @@ Při podrobnějším zkoumání Piráti zjistili, že TED plní funkci document 
 
 ## Proxio za víc než 18 milionů Kč ročně
 
-Proxio/Agendio je software využívány k rozličným agendám jako je evidence majetku, evidence různých poplatků apod. Výrobce, firma Marbes, systém vyvíjela pro Prahu, město si ale nekoupilo dostatečné licenčí práva a umožňuje tak výrobci udržovat závislost na sobě samém. Kromě toho se tak dodavateli podařilo software prodat i dalším městům, ačkoliv vývoj zaplatila Praha. Marbes vede extrémně agresivní politiku. Když o jejich praktikách [napsal][marbes] zastupitel Mikuláš ferjenčík, požadovali smazání článku a podali na něj žalobu. Případ nakonec skončil u soudu. Ferjenčík vyhrál, v naší zemi se za pravdu v tomto případě netrestá. Bohužel ani z tohoto případu se vedení Prahy nepoučilo.
+Proxio/Agendio je software využívány k rozličným agendám jako je evidence majetku, evidence různých poplatků apod. Výrobce, firma Marbes, systém vyvíjela pro Prahu, město si ale nekoupilo dostatečné licenčí práva a umožňuje tak výrobci udržovat závislost na sobě samém. Kromě toho se tak dodavateli podařilo software prodat i dalším městům, ačkoliv vývoj zaplatila Praha. Marbes vede extrémně agresivní politiku. Když o jejich praktikách [napsal][marbes] zastupitel Mikuláš Ferjenčík, požadovali smazání článku a podali na něj žalobu. Případ nakonec skončil u soudu. Ferjenčík vyhrál, v naší zemi se za pravdu v tomto případě netrestá. Bohužel ani z tohoto případu se vedení Prahy nepoučilo.
 
 ## Datové centrum za 38 milionů Kč
 
