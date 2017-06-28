@@ -3,7 +3,7 @@ date:         2017-06-28
 category:     blog
 tags:         praha
 layout:       post
-title:        "Silnice místo dálnice. Piráti zklidnění Magistrály vítají."
+title:        "Silnice místo dálnice. Piráti zklidnění magistrály vítají."
 image:        magistrala.jpg
 author:       Jakub Michálek
 ---
