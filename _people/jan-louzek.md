@@ -1,22 +1,19 @@
 ---
-order: 10
-name:        Jan Loužek
-title: Jan Loužek
-fullname: Jan Loužek
-layout:      lide
-img:         jan-louzek.jpg
+uid: jan.louzek
+name:     Jan Loužek 	# běžně používáné jméno
+fullname: Jan Loužek  	# jméno s tituly etc.
+category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- praha
+img: people/jan-louzek.jpg   # 165 x 220
 description: Wikipedista, fotograf a zveřejňovač klubu zastupitelů na Magistrátu. Jan Loužek dlouhodobě podporuje otevřený obsah; v neziskovém prostředí se zabývá otevřeným vzděláváním, problematikou autorského práva a komunitní spolupráce.
-sub: zveřejňovač
-image: jan-louzek.jpg
-anotation: Informace veřejnosti
-mail: jan.louzek@pirati.cz
-twitter: "https://twitter.com/aktron_is_here"
-facebook: "https://www.facebook.com/jan.louzek"
-telefon: + 420 608 213 119
-vykaz: https://redmine.pirati.cz/activity?show_time_entries=1&user_id=46
-foto: https://www.flickr.com/search/?text=Jan%20Loužek&sort=relevance&user_id=68741528%40N03
-github: https://github.com/aktron
-
+mail:
+- jan.louzek@pirati.cz
+mob:			  +420 608 213 119
+profiles:
+  github:       https://github.com/aktron
+  facebook:    https://www.facebook.com/jan.louzek
+  twitter: 		  https://twitter.com/aktron_is_here
+  flickr:		  https://www.flickr.com/search/?text=Jan%20Loužek&sort=relevance&user_id=68741528%40N03
 ---
 
 **Bc. Jan Loužek** (*9. července 1986, Písek) vystudoval Vyšší odbornou školu managementu, obor Aplikace výpočetní techniky a Filozofickou fakultu Univerzity Karlovy, obor Jihovýchodoevropská studia. Strávil jeden semestr svých studií v Novém Sadu, na severu Srbska. Po škole se krátkodobě zabýval mezinárodním obchodem. Pochází z Jižních Čech, ale žije od dětství v Praze. Je registrovaným příznivcem Pirátské strany (není členem) a angažuje se také v hnutí [Wikimedia][3]. Rád cestuje (absolvoval např. [poutní cestu do Santiaga de Compostela][5]) a zajímá se o celou řadu věcí, mezi které patří např. fotografování, lingvistika, nebo historie.

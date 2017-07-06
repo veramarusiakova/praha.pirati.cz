@@ -47,7 +47,7 @@ my vám balíky dovezeme!**
 Budeme rádi, pokud pár výtisků umístíte i do 
 čekárny, kavárny nebo na jiné místo.
 
-<a href="/assets/static/plisty/letak-noviny.pdf" class="button success expand">Návod na rozdávání</a>
+<a href="/assets/pdf/plisty/letak-noviny.pdf" class="button success expand">Návod na rozdávání</a>
 
 
 

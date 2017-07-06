@@ -1,21 +1,19 @@
 ---
-order: 8
-name:        Michaela Krausová
-Title:	Michaela Krausová
-fullname: Michaela Krausová
-layout:      lide
-img:         michaela-krausova.jpg
-description: Aktivistka, koordinátorka dobrovolníků
-
-sub: koordinátorka dobrovolníků
-anotation: Nevol podle letáku, informuj se
-mail: misa.krausova@pirati.cz
-facebook: "https://www.facebook.com/Broskwwwicka?ref=ts&fref=ts"
-priznani: ""
-telefon: + 420 732 858 172
-vykaz: https://redmine.pirati.cz/time_entries?utf8=%E2%9C%93&f[]=spent_on&op[spent_on]=*&f[]=user_id&op[user_id]=%3D&v[user_id][]=7&f[]=&c[]=project&c[]=spent_on&c[]=user&c[]=activity&c[]=issue&c[]=comments&c[]=hours
-foto: https://www.flickr.com/search/?text=Adam%20Zábranský&sort=relevance&user_id=68741528%40N03
-
+uid: michaela.krausova
+name:     Michaela Krausová  	# běžně používáné jméno
+fullname: Michaela Krausová 	# jméno s tituly etc.
+category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- praha
+img: people/michaela-krausova.jpg   # 165 x 220
+description:  Aktivistka, koordinátorka dobrovolníků    	# kratký popis, max 160 znaků
+mail:
+- misa.krausova@pirati.cz
+mob:			  +420 732 858 172
+profiles:
+  github:       
+  facebook:     https://www.facebook.com/Broskwwwicka
+  twitter: 		  
+  flickr:		  
 ---
 
 **Michaela Krausová** (* 8. října 1992) byla členkou komise pro kopírování a Internet a v současnosti je v personálním odboru Pirátské strany. Byla také koordinátorkou stáží u senátora Libora Michálka. Michaela pochází z Benešova, ale odjakživa bydlí v Praze.

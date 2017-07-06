@@ -74,7 +74,7 @@ Do 26. listopadu 2014 (tj. více než měsíc) měl problém na starosti primát
 pražských stavebních předpisů ([tisk R-16312](/assets/pdf/tisk-R-16312.pdf)), který měl sporné části z nařízení vypustit,
 ale Rada návrh neschválila. **Proti návrhu na úterní Radě zatlačila ČSSD** (koaliční zastupitelé Karel Březina a Jan Slezák).
 
-![Zasedání dne 18. 12. 2014 rokuje o pražských stavebních předpisech](/assets/images/blog/zasedani-vanoce.jpg "Zasedání dne 18. 12. 2014 rokuje o pražských stavebních předpisech")
+![Zasedání dne 18. 12. 2014 rokuje o pražských stavebních předpisech](/assets/images/articles/zasedani-vanoce.jpg "Zasedání dne 18. 12. 2014 rokuje o pražských stavebních předpisech")
 
 Za Českou pirátskou stranu jsem postup Rady kritizoval na zasedání Zastupitelstva
 hl. m. Prahy dne 18. 

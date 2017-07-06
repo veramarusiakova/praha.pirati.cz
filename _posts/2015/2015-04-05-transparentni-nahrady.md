@@ -12,9 +12,9 @@ Na náhradách zastupitelů za dobu strávenou výkonem funkce jsme obdrželi v 
 
 **Aktualizováno 2016**: Kazíme starým zaběhnutým strukturám jejich hru. Jako jediná strana zveřejňujeme informace o všech příjmech zastupitelů přehledně na webu, viz [zprávy o odměňování zde](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny).
 
-Tato částka je zcela nesrovnatelná s koaličními zastupiteli ANO a ČSSD nebo předsedkyní kontrolního výboru za ODS, kteří jako uvolnění členové zastupitelstva mají platy 80 000 až 100 000 korun měsíčně, případně mají jako neuvolnění členové zastupitelstva mají i několik míst v dozorčích radách v městských firmách, kde si přijdou na desetitisíce korun měsíčně. Například příjem Radmily Kleslové (ANO) z dozorčích rad se odhaduje na [360000 Kč měsíčně](https://praha.pirati.cz/kleslova-musi-pryc.html) včetně tantitiém, tedy třicetkrát tolik (!), viz obrázek níže:
+Tato částka je zcela nesrovnatelná s koaličními zastupiteli ANO a ČSSD nebo předsedkyní kontrolního výboru za ODS, kteří jako uvolnění členové zastupitelstva mají platy 80 000 až 100 000 korun měsíčně, případně mají jako neuvolnění členové zastupitelstva mají i několik míst v dozorčích radách v městských firmách, kde si přijdou na desetitisíce korun měsíčně. Například příjem Radmily Kleslové (ANO) z dozorčích rad se odhaduje na [360 000 Kč měsíčně](https://praha.pirati.cz/kleslova-musi-pryc.html) včetně tantitiém, tedy třicetkrát tolik (!), viz obrázek níže:
 
-![Graf srovnání](/assets/images/blog/srovnani.png)
+![Graf srovnání](/assets/images/articles/srovnani.png)
 
 Obrázek pochází z [výroční zprávy za první rok Pirátů v pražském Zastupitelstvu](https://github.com/pirati-cz/KlubPraha/raw/master/materialy/vyrocni-zprava/vyrocni-zprava.pdf).
 
@@ -45,8 +45,6 @@ Náhrada přísluší za výkon funkce zastupitele, účast na zastupitelstvu (d
 Jak hlásala od prosince 2014 média, zastupitelé Pirátů Jakub Michálek a Ondřej Profant mají [pověření primátorky](https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2014/12/ondra/scan.pdf) jednat ohledně Opencard. Mezi nahrazovanými hodinami na přelomu roku 2014 a 2015 jsou tudíž i jednání se společností EMS, s příslušnými městskými společnosti, jednání pracovní skupiny k Opencard (viz úplný seznam níže). Vedle toho nám náhrada náleží také za čas, který věnujeme plnění úkolů uložených komisí Rady pro ICT anebo kontrolním výborem Zastupitelstva.
 
 Níže uvedený graf ukazuje, že největší podíl na nahrazovaných hodinách má účast na zastupitelstvu hl. m. Prahy, které bylo v únoru i 17 hodin dlouhé. Druhý největší podíl je pověření k jednání ve věci Opencard od primátorky.
-
-wzxhzdk:0
 
 Piráti (jako jediná politická strana) na internetu zveřejňují **kompletní výkaz** toho, co dělají. Valná většina ze všech vykázaných úkolů, jakož i všechny úkoly, které zastupitelka Udženija citovala, nejsou placeny z veřejného rozpočtu, ale Českou pirátskou stranou.
 

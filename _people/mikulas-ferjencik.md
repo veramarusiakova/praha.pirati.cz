@@ -1,30 +1,23 @@
 ---
-order: 3
-name:        Mikuláš Ferjenčík
-title: Mikuláš Ferjenčík
-fullname: Mikuláš Ferjenčík
-layout:      lide
-img: mikulas-ferjencik.jpg
-description: Protikorupční aktivista, lektor kroužků logiky a překladatel. Zaměřuje se na komunikaci města a obyvatel, podezřelé kauzy a územní plánování.
-sub: zastupitel a mluvčí klubu
-anotation: Každý chce být trochu jako Johnny Depp
-mail: mikulas.ferjencik@pirati.cz
-twitter: "https://twitter.com/mikiferjencik"
-facebook: "https://www.facebook.com/mikfer"
-telefon: + 420 737 943 770
-vykaz: https://redmine.pirati.cz/activity?show_time_entries=1&user_id=17
-foto: https://www.flickr.com/search/?text=Mikuláš%20Ferjenčík&sort=relevance&user_id=68741528%40N03
-github: 
+uid: mikulas.ferjencik
+name:     Mikuláš Ferjenčík  	# běžně používáné jméno
+fullname: Mikuláš Ferjenčík  	# jméno s tituly etc.
+category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- praha
+- mhmp
+img: people/mikulas-ferjencik.jpg   # 165 x 220
+description: Zastupitel Pirátů v Zastupitelstvu hlavního města Prahy, vedoucí mediálního odboru Pirátů             	# kratký popis, max 160 znaků
+mail:
+- mikulas.ferjencik@pirati.cz
+mob:			  +420 737 943 770
+profiles:
+  github:       https://github.com/mifer
+  facebook:     https://www.facebook.com/mikfer
+  twitter: 		  https://twitter.com/Mikiferjencik
+  flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=mikul%C3%A1%C5%A1%20ferjen%C4%8D%C3%ADk
+ordpraha: 3
 ---
 
-**Mikuláš Ferjenčík** se narodil v Českých Budějovicích, brzy se ale s rodiči přestěhoval do Choltic, malé obce nedaleko Pardubic. V současnosti žije s manželkou v Praze a v Pardubicích dává do pořádku byt po babičce.
+Mikuláš Ferjenčík (19. března 1987) je zastupitel hlavního města Prahy za Pirátskou stranu. Pochází z Českých Budějovic, mládí strávil v Cholticích u Pardubic. Studoval na gymnáziu v Přelouči Díky stipendiu nadace Open Society Fund dva roky strávil na Brentwood School v Essexu ve Velké Británii, kde složil i tamní maturitní zkoušku. Po necelých dvou letech následně strávených na Matematicko-fyzikální fakultě Univerzity Karlovy se vydal na Fakultu strojní ČVUT. Od února 2013 do srpna 2013 působil jako koordinátor dobrovolníků v protikorupční kampani Rekonstrukce státu. V Pirátské straně koordinoval protesty proti smlouvě ACTA, stejně jako kampaň Internet bez cenzury. Pomohl zabránit zavedení turniketů v pražském metru a výrazně přispěl k zapojení České pirátské strany do mezinárodního Pirátského hnutí.
 
-V letech 1998 až 2006 studoval na Gymnáziu Přelouč. V této době také díky stipendiu  nadace *Open Society Fund* dva roky strávil na Brentwood School v Essexu ve Velké Británii, kde složil i tamní maturitní zkoušku. Po necelých dvou letech následně strávených na Matematicko-fyzikální fakultě Univerzity Karlovy se vydal na Fakultu strojní ČVUT. V roce 2011 ale začal pracovat pro Piráty na plný úvazek (za vlastní peníze), což se s FS ČVUT nedalo příliš skloubit. V září 2011 proto nastoupil na Fakultu humanitních studií Univerzity Karlovy, kde studuje obor Základy humanitní vzdělanosti.
-
-Od února 2013 do srpna 2013 působil jako koordinátor dobrovolníků v protikorupční kampani [Rekonstrukce státu](http://www.rekonstrukcestatu.cz). Jinak si přivydělává překlady z angličtiny, školením lidí ze zahraničních neziskových organizací v politickém happeningu a pronikání do médií a občasným zahradničením.
-
-Oslovil ho mezinárodní rozměr Pirátského hnutí a vznik zcela nového myšlenkového proudu v politice, pro který je svobodný Internet důležitější než poplatky u lékaře. V Pirátské straně koordinoval protesty proti smlouvě ACTA, stejně jako kampaň [Internet bez cenzury](http://www.internetbezcenzury.cz). Pomohl zabránit zavedení turniketů v pražském metru a výrazně přispěl k zapojení České pirátské strany do mezinárodního Pirátského hnutí.
-
-Mluví plynně anglicky a domluví se německy. Hraje fotbal a také má v oblibě akordeon -- stejně jako Ivan Bartoš. Hrál na něj v -- dnes už bohužel rozpadlé -- folk-punkové formaci *Potomci Slavníkovců*.
-
-V parlamentu hodlá prosazovat zveřejňování smluv na Internetu ([www.nejkrasnejsizakon.cz](http://www.nejkrasnejsizakon.cz)), co nejširší přístup ke vzdělání napříč generacemi a sociálním původem, v neposlední řadě potom lepší zapojení veřejnosti do rozhodování. S jeho názory se můžete seznámit na [Deníku Referendum](http://denikreferendum.cz/autor/255-mikulas-ferjencik).
+V pražském zastupitelstvu se věnuje převážně oblasti územního plánování. Upozorňuje na machinace se změnami územního plánu; zastavování volných ploch developery, stejně jako obchody některých politiků, které se prostřednictvím změn územního plánu realizují.

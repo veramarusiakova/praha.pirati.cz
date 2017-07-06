@@ -1,38 +1,52 @@
 ---
-order: 2
-name:        Ondřej Profant
-title: Ondřej Profant
-fullname: Ondřej Profant
-layout:      lide
-img:         ondrej-profant.jpg
-description: Informatik specializovaný na svobodný software. Zaměřuje se na IT systémy, technologické inovace a analýzu zavedení bezplatné MHD.
-sub: zastupitel se zaměřením na informatiku
-image: ondrej-profant.jpg
-anotation: Zeptejte se svých dětí, proč volí Piráty
-mail: ondrej.profant@pirati.cz
-twitter: "https://twitter.com/ondrej_profant"
-facebook: "https://www.facebook.com/ondrej.profant"
-priznani: https://github.com/pirati-cz/KlubPraha/blob/master/priznani/ondrej-profant.md
-telefon: + 420 607 580 015
-vykaz: https://redmine.pirati.cz/activity?show_time_entries=1&user_id=3
-foto: https://www.flickr.com/search/?text=Ondřej%20Profant&sort=relevance&user_id=68741528%40N03
-github: https://github.com/Kedrigern
+uid: ondrej.profant
+name:     Ondřej Profant  	# běžně používáné jméno
+fullname: Ondřej Profant  	# jméno s tituly etc.
+category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- praha
+- pks
+- ga
+- mhmp
+img: people/ondrej-profant.jpg # 165 x 220
+description: Zastupitel v zastupitelstvu hl. m. Prahy, předseda krajského sdružení Pirátské strany v Praze             	# kratký popis, max 160 znaků
+mail:
+- ondrej.profant@pirati.cz
+mob:			  +420 607 580 015
+profiles:
+  github:       https://github.com/kedrigern/
+  facebook: 		https://www.facebook.com/ondrej.profant
+  twitter: 		  https://twitter.com/ondrej_profant
+  flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
+ordpraha: 2
+ordga: 4
 ---
 
-**Ondřej Profant** (2. května 1988) je předsedou krajského sdružení Pirátů v Praze a garantem programového bodu o svobodě informací. Byl již členem přípravného výboru České pirátské strany. Pochází a žije v Praze. Vystudoval všeobecné gymnázium. Dále studoval Matematicko-fyzikální fakultu UK, obor Obecná informatika, ale školu nedokončil. V průběhu studia se však blíže seznámil s principy open source softwaru, což ho přivedlo ke Svobodné kultuře obecně a následně i k pirátství.
+Ondřej Profant (2. května 1988) je pražský zastupitel, předseda krajského [sdružení v Praze][]. Byl členem přípravného výboru České pirátské strany.
 
-Je živnostníkem se specializací na DTP (sazba knih ve svobodném systému [LaTeX](http://www.latex-project.org/)) a programování (PHP - [Nette Framework](http://nette.org/), C# - [Mono](http://www.mono-project.com)) a skriptování (Bash, JavaScript, Python). Více napoví profil na [Githubu](https://github.com/kedrigern).
+### Motivace
 
-Stal se jedním z organizátorů [Cryptoparty](http://www.cryptoparty.cz), kde často přednášel, připravil mnoho materiálů a vytvořil web.
+Vystudoval všeobecné gymnázium. Dále studoval Matematicko-fyzikální fakultu UK, obor Obecná informatika, ale školu nedokončil. V průběhu studia se však blíže seznámil s principy open source softwaru, což ho přivedlo ke **svobodné kultuře** obecně a následně i k pirátství. Je živnostníkem se specializací na DTP (sazba knih ve svobodném systému LaTeX), programování a skriptování.
 
-Angažuje se ve svobodné kultuře - především v komunitě okolo Linuxu (Debian, Ubuntu - [profil](http://blog.ubuntu.cz/users/kedrigern), Fedora) a občasně Wikipedii ([profil](http://cs.wikipedia.org/wiki/Wikipedista:Ond%C5%99ej_Profant)). Poslední dobou spíše formou propagační činnosti v rámci aktivit u Pirátů.
+### Aktivity
 
-Z dopravních prostředků preferuje kolo. Rád čte satirickou fantasy. Používá Fedoru a Firefox OS.
+Mimo Piráty je členem výboru spolku [Otevřená města][], kde se stará například o přípravu opensource aplikace **Cityvizor**, která je nástupcem [oceněné][] aplikace [Supervizor][].
 
-### Oblíbený citát
+Obecně se angažuje ve svobodné kultuře. V komunitách okolo Linuxu, svobodných filmů apod.
 
-> „Jen ten, kdo je zaslepen lakotou, nenechá přítele kopírovat.“ Aaron Swartz
+U Pirátů je od začátku a angažuje se v různých funkcích. Dnes je převážně zastupitelem Hl. m. Prahy se specializací na informatiku. Např. poukázal na nezabezpečení [pražské radiové sítě][]. Dále se v Praze zabývá majetkem, dopravou a bezpečností.
 
-### Vize
+V rámci Prahy stojí za projektem **celopražských [otevřených dat][]**, což jsou jedny z největších otevřených dat v ČR.
 
-Chtěl bych svět, kde jsou technologie využívány ve prospěch nás všech. Vědomosti a informace jsou sdíleny bez jakýchkoliv překážek. Pravidla jsou nastavena liberálně a zákazy vychází pouze ze širokého společenského konsenzu. Jen v takovém světě je možná vzájemná dobrovolná spolupráce namísto ostře vynucené soutěže.
+### Osobně
+
+Z dopravních prostředků preferuje kolo. Rád čte satirickou fantasy. Má rád [šifrovačky][]. Používá Fedoru, programuje v Pythonu. Oblíbený citát:
+
+> „Jen ten, kdo je zaslepen lakotou, nenechá přítele kopírovat.“ -- *Aaron Swartz*.
+
+[sdružení v Praze]: https://praha.pirati.cz
+[Otevřená města]: http://otevrenamesta.cz
+[Supervizor]: http://data.mfcr.cz/supervizor/
+[otevřených dat]: http://opendata.praha.eu
+[šifrovačky]: http://sifrovacky.cz
+[oceněné]: http://www.otevrenadata.cz/soutez/rocnik-2015/
+[pražské radiové sítě]: https://youtu.be/JRdjRJjWEx0

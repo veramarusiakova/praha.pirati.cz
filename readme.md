@@ -1,146 +1,50 @@
-# Web Praha
+# pirati.cz
 
-Web Pirátů v Praze. Web je zamýšlen pro celé krajské sdružení - zastupitele (magistrát i mč), veřejnost, členy i pracovníky. Běží na adrese: http://praha.pirati.cz
+[![Build Status](https://api.travis-ci.org/pirati-web/praha.pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/praha.pirati.cz)
 
-Pro psaní článků je třeba umět [markdown](https://daringfireball.net/projects/markdown/). Pro zbylé úpravy html a css framework [Foundation 6](http://foundation.zurb.com/). Takže je třeba seznámit se alespoň se základy gitu.
+## Lokální spuštění
 
-TODO:
+Instalacee na Fedora 25: `dnf install rubygem-jekyll npm`
 
-- drobné opravy
-- podrobnější stránky s MČ
-- přesunout více dat do configu/ů
-- integrace Disqus
-
-
-## Jak přispívat?
-
-Používáme technologii [Jekyll](http://jekyllrb.com/), která tvoří web ze statických [šablonovaných (Liquid)](https://shopify.github.io/liquid/) stránek. Díky tomu je vše velmi jednoduché:
-
-- články jsou markdown soubory v adresaři `_posts`, obrázky k nim v `assets/img/posts` s rozměry 600x337
-- profily lidí z týmu jsou markdown soubory v adresaři `_people`
-- stránky jsou klasické html soubory (mohou být i markdown)
-
-### Lokální test
-
-V adresaři s repozitářem spustíme příkaz:
-`jekyll serve --incremental --baseurl '' `
-což spustí server s webem a my si ho můžeme prohlédnout.
-
-### Správný commit
-
-Pro upload se používá git. Ten rozděluje "uploady" na commity.
-
-Správný commit vždy:
-
-- zachová funkčnost
-- dodává 1 funcionalitu (např. nové menu)
-- obsahuje popis z kterého je zřejmé, co mění (např.: *Rewrite main menu from Foundation 5 to Foundation 6*)
-
-### Debug cache
-
-1. Stránku vždy vyzkoušíme [lokálně](#lokálni-test) (tím předejdeme chybám jako špatné cesty)
-2. Pokud by stránka lokálně nefungovala dobře, tak smažte `_site` a zkuste to znovu
-3. Po nahrání na web stránku vyzkoušíme v anonymním okně prohlížeče
-4. Zkusíme dát `ctrl+f5`
-5. Správná kompilace i tak může trvat např. 5 minut
-6. Poslední možností je zaslat prázdný commit, který by měl vynutit přegenerování stránky:  
-    ```
-    git commit -m 'rebuild pages' --allow-empty  
-    git push
-    ```
-
-### Standardizace tagů
-
-Články obsahují tagy podle, kterých se následně řadí do rubrik:
-
-Městské části: `praha-1`, `praha-2`, ..., `praha-10`, ..., `praha-22`, `praha-Běchovice`, ...   
-Praha jako celek: `Praha`, `ZHMP`
-
-### Adresařova struktura
-
- Základní schéma:
+Instalace ubuntu 16.04:
 
 ```
-├── _config.yml       - konfigurační soubor
-├── _data             - yaml soubory nahrazující DB
-├── _includes         - html snippety (hlavička, patička, ...)
-│   ├── footer.html   -- patička stránky
-│   ├── header.html   -- hlavička stránky
-│   └── head.html     -- meta hlavička stránky
-├── _layouts          - kompletní šablony stránek
-├── _people           - vlastní kolekce obsahující stránky jednotlivých osob
-│   ├── osoba.md    
-│   └── ...
-├── _posts            - příspěvky pro blog v markdownu
-├── _sass             - sass styly (konvertované do css)
-├── _site             - vygenerovaná stránka
-├── assets            - přílohy (obrázky, pdf etc.)
-│   └── img           
-├── blog              - složka blog / aktuality
-│   └── index.html    
-├── css               - styly
-│   └── main.scss     -- hlavní styl
-├── kontakt           
-│   └── index.html    
-├── o-nas          
-│   └── index.html    
-├── program
-│   └── index.html    
-├── transparence
-│   └── index.html
-├── zapoj-se
-│   └── index.html       
-└── index.html        - úvodní stránka
+sudo apt-get install ruby-dev gcc make libghc-zlib-dev
+gem install rubygems-update
+gem install jekyll bundler
+bundle
 ```
 
-## Pokročilé
-
-### Výkon
-
-Základním nástrojem pro měření výkonu kompilace: `jekyll build --profile`
-
-TODO:
-
-- dopsat skript pro kontrolu velikosti obrázků
-- lépe sladit javascript
-- otestovat provoz na vlastním serveru
-
-### Github pages
-
-- [Seznam pluginu povolených na GH](https://pages.github.com/versions/)
-- [Compress plugin](http://rich-knight.com/articles/compressing-html-in-jekyll/)  
-
-### Jekyll
+**Společné**
 
 ```
-  <ul>
-  {% for category in site.categories %}
-      <li>{{ category[0] }}</li>
-  {% endfor %}
-  </ul>
+npm install
+bower install
+bundle install --path vendor/bundle --without test development
+gulp
 ```
 
-#### Tags v GH
+Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www/`).
 
-- [Návod na mindust](http://www.minddust.com/post/tags-and-categories-on-github-pages/)
-- [Návod ze stackoveflow](http://stackoverflow.com/questions/1408824/an-easy-way-to-support-tags-in-a-jekyll-blog)
-- [Návod ze codinfox](https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/)
+`bundle exec jekyll serve`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
 
-## Použité technologie
+Popřípadě můžeme spustit jen: `bundle exec jekyll build`, což do složky `_site` připraví kompletní web (ten můžeme otevřít z prohlíže pomocí klavesové zkratky `ctrl+o`).
 
-- [Komplexní popis problémů](https://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)
-- [CSS / JS frontend Foundation 6](http://foundation.zurb.com/), [dokumentace](http://foundation.zurb.com/sites/docs/)
-- [CSS template](http://foundation.zurb.com/templates-previews-sites-f6/news-magazine.html)
-- integrace soc. sití
-  - [Integrace FB](https://365tipu.wordpress.com/2015/07/04/tip185-co-je-to-open-graph-a-proc-je-potreba-aby-designeri-webu-vedeli-o-co-jde/)
-  - [Ladění FB](https://365tipu.wordpress.com/2015/04/13/tip103-co-delat-kdyz-facebook-odmita-vlozit-odkaz-na-web/)
-- [Disqus a Google analytics, Twitter light share](http://joshualande.com/jekyll-github-pages-poole)
-- [Responsibilita](http://design.google.com/resizer/)
-- Font pro loga: M+1p Heavy, vel. 72.
+## Struktura
 
-## Instalace Jekyll na čistou Fedora 23
-```
-sudo dnf install gem rubygems-devel gcc ruby-devel
-dnf install rpm-build
-sudo gem install jekyll  jekyll-paginate
-```
+Samotné stránky jsou v markdownu nebo v html (složitější struktura, např. vícesloupců apod)
+
+Kolekce jsou markdown soubory s yaml hlavičkou v příslušné složce, na webu jsou použity 4:
+
+- posts (články)
+- people (lidé)
+- program
+- teams (týmy)
+
+Některé údaje jsou uvedeny v složce `_data`. Jsou zde ve formátu yaml nebo json.
+
+**CSS** je ve složce `_sass` a je automaticky kompilováno a minifikován do jednoho souboru `main.css`.
+
+**JavaScript** je ve složce `_include/js`. Knihovny jsou definovány v `bower.json` a produkční soubor je tvořen gulpem.
+
+Jekyll má velmi podrobnou [dokumentaci](http://jekyllrb.com/docs/home/). A při vývoji též doporučuji [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)
