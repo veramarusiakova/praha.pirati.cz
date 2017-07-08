@@ -43,7 +43,7 @@ Dále krajský volební manažer spolupracuje s celostátním volebním manažer
 
 Pošli svůj **životopis** a **krátký (!) motivační dopis** Janu Loužkovi na <jan.louzek@pirati.cz>, tel. 608 213 119.
 Jako předmět e-mailu dej „Volební manažer Praha“. V  motivačním dopise uveď prosím svoje zkušenosti a časové možnosti.
-Na pozici se můžeš hlásit do **neděle 9. června 23:59**. Během pondělka se ti ozveme.
+Na pozici se můžeš hlásit do **neděle 9. července 23:59**. Během pondělka se ti ozveme.
 
 **TĚŠÍME SE NA TVOJI NABÍDKU!**
 
