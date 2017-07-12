@@ -4,7 +4,7 @@ priority:     2
 layout:       post
 image:        debata.jpg
 description:  >
-              Nestačí mít skvělé myšlenky. Je potřeba je ostatním 
+              Nestačí mít skvělé myšlenky. Je potřeba je ostatním
               vysvětlit a nadchnout je pro jejich realizaci!
 wanted:       Hledáme debatéry a lektory
 redmine:      https://redmine.pirati.cz/projects/praha/issues?query_id=29
@@ -32,20 +32,20 @@ Pravidla debaty
 **1. Formát debaty**
 
 * Debatují spolu dva dvoučlenné týmy o určité tezi. K debatě je pozván pouze tým, který je ochotný na dané téma vystupovat.
-* První tým tezi prosazuje, druhý tým tezi vyvrací. Řečníci obou týmů se střídají po třech minutách tak, aby každý řečník vystoupil právě dvakrát, takže celkem vystoupí osmkrát. 
-* Během vystoupení 3 až 6 může druhý tým ve druhé minutě vystoupení položit krátkou otázku, na kterou řečník může odpovědět nebo ji může zdvořile odmítnout. 
+* První tým tezi prosazuje, druhý tým tezi vyvrací. Řečníci obou týmů se střídají po třech minutách tak, aby každý řečník vystoupil právě dvakrát, takže celkem vystoupí osmkrát.
+* Během vystoupení 3 až 6 může druhý tým ve druhé minutě vystoupení položit krátkou otázku, na kterou řečník může odpovědět nebo ji může zdvořile odmítnout.
 * Řečník mluví srozumitelně normálnímu rozumnému člověku.
 
 **2. Debatujeme v dobré víře**
 
-* Týmy by neměly tvrdit něco, o čem ví, že to není pravda, nebo obhajovat názor, se kterým nesouhlasí. Není cílem naučit se obhajovat cokoliv, jak to dělají ostatní politické strany, kdykoliv se jim to hodí (solipsismus, demagogie). 
-* Témata jsou vybírána tak, aby na ně byly v Pirátské straně různé názory a nebylo v nich dosud žádné oficiální stanovisko. 
+* Týmy by neměly tvrdit něco, o čem ví, že to není pravda, nebo obhajovat názor, se kterým nesouhlasí. Není cílem naučit se obhajovat cokoliv, jak to dělají ostatní politické strany, kdykoliv se jim to hodí (solipsismus, demagogie).
+* Témata jsou vybírána tak, aby na ně byly v Pirátské straně různé názory a nebylo v nich dosud žádné oficiální stanovisko.
 * Řečník by se měl zdržet neférových argumentů (manipulace a logický klam, argumentace nedostupnými studiemi, argumenty na závěr bez možnosti reakce apod.). Doporučujeme, aby druhý tým na neférový argument poukázal.
 
 **3. Hodnocení debaty**
 
-* Na dodržování časového limitu a předávání slova dohlíží nestranný časoměřič. 
-* Na závěr debaty obecenstvo hodnotí během cca 5 minut jednak přesvědčivost vystoupení obou týmů a jednak hlasuje o tom, ke kterému názoru se přiklání. Tato dvě hodnocení jsou oddělená. 
+* Na dodržování časového limitu a předávání slova dohlíží nestranný časoměřič.
+* Na závěr debaty obecenstvo hodnotí během cca 5 minut jednak přesvědčivost vystoupení obou týmů a jednak hlasuje o tom, ke kterému názoru se přiklání. Tato dvě hodnocení jsou oddělená.
 * Hlasování slouží čistě pro účely vyhodnocení debaty. Dále dává obecenstvo zpětnou vazbu, a to tak, že se přítomní lidé z obecenstva rychle střídají ve zpětně vazbě bez reakcí členů týmu, dokud nejsou podstatné věci řečeny.
 
 Příklady témat debaty
@@ -72,14 +72,13 @@ Vybírána jsou témata, na která nemáme v Pirátském programu jednoznačný 
 
 trvale zde ovšem nikdo není, je třeba si najít akci v [kalendáři][kal]
 
-[kal]: /kalendar/#praha
-
 ## Připojte se
 
 * Pro každou debatu hledáme 2 řečníky pro danou tezi a 2 proti. Dále
-hledáme zkušené lektory, kteří by s námi chtěli sdílet své zkušenosti či 
-přednést referát. 
-* Budeme rádi, pokud se ozvete! Na konkrétní spolupráci se domluvte 
-telefonicky s vedoucím debatního týmu [Jakubem Michálkem][jakub]. 
+hledáme zkušené lektory, kteří by s námi chtěli sdílet své zkušenosti či
+přednést referát.
+* Budeme rádi, pokud se ozvete! Na konkrétní spolupráci se domluvte
+telefonicky s vedoucím debatního týmu [Jakubem Michálkem][jakub].
 
-[jakub]: /lide/jakub-michalek/
+[kal]: {{'pripoj-se/kalendar/#praha' | relative_url}}
+[jakub]: {{'/lide/jakub-michalek/' | relative_url}}
