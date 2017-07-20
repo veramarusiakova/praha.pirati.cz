@@ -1,13 +1,13 @@
 <div class="medium-12 large-4 columns">
   <!-- Article -->
   <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting c-BlogPosting--featured c-BlogPosting-excerpt--nospace" itemscope="">
-    <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+    {%comment%}<link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">{%endcomment%}
     <div class="c-BlogPosting-contentWrapper u-cf">
       <div class="c-BlogPosting-photoBox">
         <!-- BlogPosting image -->
         <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
-          <img src="{{article.image | prepend: '/assets/img/articles/' | relative_url }}" alt="{{article.title}}">
-          <meta itemprop="url" content="{{article.image | prepend: '/assets/img/articles/' | relative_url }}">
+          <img src="{{article.image | prepend: '/assets/img/posts/' | relative_url }}" alt="{{article.title}}">
+          <meta itemprop="url" content="{{article.image | prepend: '/assets/img/posts/' | relative_url }}">
           <meta itemprop="width" content="">
           <meta itemprop="height" content=""> </div>
       </div>
