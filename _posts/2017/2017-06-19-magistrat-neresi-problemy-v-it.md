@@ -1,7 +1,7 @@
 ---
 date:         2017-06-19
 category:     blog
-tags:         praha
+tags:         praha it ted proxio vendor-lock
 layout:       post
 title:        "Magistrát neřeší problémy, namísto toho podporuje dinosaury"
 image:        it-magistrat.jpg
