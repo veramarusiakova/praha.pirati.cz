@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	busking.jpg
-tags:	magistrát
+tags:	magistrát busking
 date:	2015-10-07
 ---
 
