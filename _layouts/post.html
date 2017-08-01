@@ -11,7 +11,7 @@ layout: default
             <div class="o-section-inner">
               <div class="medium-12 columns">
                 <!-- Article -->
-                <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+                {%comment%}<link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">{%endcomment%}
                 <header class="c-BasicPage-header">
                   <h1 itemprop="headline" class="c-BasicPage__title"> {{page.title}} </h1>
                   <div class="c-BasicPage__meta">
@@ -48,11 +48,11 @@ layout: default
   <div class="o-section-block o-section-block-fill">
     <div class="c-BasicPage-headline-img">
       <div class="c-BasicPage-headline-bg">
-        <img src="{{ page.image | prepend: '/assets/img/articles/' | relative_url }}" alt="{{page.title}}"> </div>
+        <img src="{{ page.image | prepend: '/assets/img/posts/' | relative_url }}" alt="{{page.title}}"> </div>
       <div class="row small-collapse medium-uncollapse">
         <div class="small-12 columns">
           <div class="o-section-inner--medium">
-            <img src="{{ page.image | prepend: '/assets/img/articles/' | relative_url }}" alt="{{page.title}}"> </div>
+            <img src="{{ page.image | prepend: '/assets/img/posts/' | relative_url }}" alt="{{page.title}}"> </div>
         </div>
       </div>
     </div>
