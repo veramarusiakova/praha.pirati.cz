@@ -1,9 +1,9 @@
 ---
 date:         2017-02-01
 category:     blog
-tags:         praha
+tags:         praha pisnice
 layout:       post
-title:        "Je město Praha řádný hospodář? Aneb jak Písničtí přišli o sídliště." 
+title:        "Je město Praha řádný hospodář? Aneb jak Písničtí přišli o sídliště."
 image:        kennial-1.png
 author:       Ondřej Profant
 ---
@@ -16,7 +16,6 @@ V této souvislosti je potřeba se ptát po společenské odpovědnosti ČEZ. V 
 
 Tato kauza se dostala až na jednání listopadového zastupitelstva hl. m. Prahy. Zastupitelský klub Pirátů prosazoval, aby byty byly prodány napřímo nájemníkům. Neprodané bytové jednotky by odkoupilo hlavní město Praha, které nyní vykazuje hospodářský přebytek. Odkoupení nemovitostí v této lokalitě by bylo více než logické a žádoucí. Je samozřejmým zájmem města udržet na svém území sociální stabilitu. Navíc Praha v roli investora připravuje výstavbu nové trasy metra D vedoucí přímo na toto sídliště. Nový majetek by tak snadno zhodnotila ve svůj prospěch, tedy prospěch Pražanů. Koalice, jejiž součástí je opět ČSSD (jejímž členem je generální ředitel ČEZ), však hlasovala proti tomuto návrhu. Jediné, na co se koaliční zastupitelé zmohli, byla nabídka půjčky městské části Praha Libuš. Libuš je ovšem menší městský celek a obchod v tomto objemu je pro ni zcela nepřiměřený.
 
-A máme tu výsledek. Sídliště, tedy 739 bytů včetně veřejného prostranství, bylo prodáno firmě Kennial za 1 300 000 000 Kč. Na jeden byt, velmi zhruba řečeno, připadá 1 760 000 Kč, je však třeba ještě odečíst cenu za veřejné pozemky. To je v Praze opravdu dobrá cena za byt. I kdyby Hlavní město Praha za sídliště hypoteticky zaplatilo o 100 milionů víc, cena za byt by zůstala pod hranicí 2 000 000 Kč. Rozhodně by to stále byla neztrátová transakce a město by navíc ovládalo klíčovou rozvojovou oblast. V souvislosti s jím budovaným metrem D tu lze logicky očekávat velký rozvoj a také růst hodnoty nemovitostí. 
+A máme tu výsledek. Sídliště, tedy 739 bytů včetně veřejného prostranství, bylo prodáno firmě Kennial za 1 300 000 000 Kč. Na jeden byt, velmi zhruba řečeno, připadá 1 760 000 Kč, je však třeba ještě odečíst cenu za veřejné pozemky. To je v Praze opravdu dobrá cena za byt. I kdyby Hlavní město Praha za sídliště hypoteticky zaplatilo o 100 milionů víc, cena za byt by zůstala pod hranicí 2 000 000 Kč. Rozhodně by to stále byla neztrátová transakce a město by navíc ovládalo klíčovou rozvojovou oblast. V souvislosti s jím budovaným metrem D tu lze logicky očekávat velký rozvoj a také růst hodnoty nemovitostí.
 
-Návrh pirátských zastupitelů, aby se hlavní město Praha přihlásilo do veřejné soutěže společnosti ČEZ a pokusilo se danou městskou část odkoupit, bohužel koalice odmítla. Nevyužitá příležitost nás samozřejmě mrzí. Doufáme nicméně, že v budoucnosti už v takové chybě při privatizaci bytů v hlavním městě nedojde, a že se z ní do budoucna vládnoucí koalice dokáže poučit. Tak, aby reálně postupovala s péčí řádného hospodáře. 
-
+Návrh pirátských zastupitelů, aby se hlavní město Praha přihlásilo do veřejné soutěže společnosti ČEZ a pokusilo se danou městskou část odkoupit, bohužel koalice odmítla. Nevyužitá příležitost nás samozřejmě mrzí. Doufáme nicméně, že v budoucnosti už v takové chybě při privatizaci bytů v hlavním městě nedojde, a že se z ní do budoucna vládnoucí koalice dokáže poučit. Tak, aby reálně postupovala s péčí řádného hospodáře.
