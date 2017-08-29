@@ -4,7 +4,7 @@ category: CLANKY
 title: "Za zametení kauzy Opencard zodpovídá Krnáčová, měla by uhradit část škody."
 date: 2017-08-26T12:44:00+02:00
 author: Jakub Michálek
-image: /assets/img/articles/2017/kuchynka.jpg
+image: kuchynka-2.jpg
 tags: kampan
 ---
 
