@@ -15,13 +15,9 @@ V prosinci 2016 jsme termín promlčení připoměli primátorce Krnáčové, kt
 V lednu 2017 nechala ředitelka Magistrátu Děvěrová zpracovat analýzu advokátní kanceláře Čalfa, Bartošík & partneři. Magistrát zatím nezdůvodnil, jak tuto zkompromitovanou kancelář vybral (nevíme tedy ani, zda dodržel vnitřní pravidla magistrátu pro veřejné zakázky), ale vzbuzuje to velké pochybnosti: 
 
 * Její první šéf je bývalý premiér ČSFR Čalfa, který v minulosti pracoval pro Petra Hulinského (ČSSD), mimo jiné v kauze Spastic Hendikep, kde měli vyvádět peníze určené na postižené sportovce (pak se pan Čalfa po zásluze dostal do představenstva městské firmy PRE). 
-
 * Její druhý šéf je odvolaný vrchní státní zástupce Rampula, který zase proslul tím, že na vrchním státním zastupitelství zametal důležité kauzy (na to upozornily Lidové noviny). Rampula dohlížel mimo jiné i nad postupem státního zastupitelství v kauze Opencard, který byl podle něj v pořádku. 
-
 * Smlouvu Magistrát uzavřel v lednu 2017, ale zveřejnil ji až 29. března (tedy jen několik dnů před převzetím analýzy), ačkoliv podle zákona o registru smluv měla smlouvu zveřejnit do 30 dnů od uzavření. 
-
 * Analýza od Čalfy byla  extrémně drahá (limit na zakázku 1 990 000 Kč, tedy těsně pod limitem na zakázky malého rozsahu) a také zbytečná, protože dospěla ke stejnému závěru jako dříve Piráti, že nároky z doby před dubnem 2007 jsou již promlčené.
-
 * Advokáti se ani neseznámili s důkazy v soudním spise v kauze Opencard (seznámili se pouze s rozsudkem a obžalobou). 
 
 Na konci března 2017 advokátní kancelář analýzu dodala. Podle analýzy není vůbec jasné, že ke škodě došlo a že za ni někdo odpovídá. Navíc je podle ní nárok už promlčený, protože od škodní události uplynulo více než 10 let. Stalo se tedy přesně to, na co jsme upozornili, nárok na náhradu škody vůči Bémovi a spol. za Opencard se promlčel. Ačkoliv zastupitelé Pirátů o text analýzy žádali, Magistrát odmítl jejich žádost o informace a od března do června 2017 před nimi analýzu tajil. Temné kruhy kolem Magistrátu tedy opět zneužily správnou myšlenku (tj. řešit škodu v kauze Opencard) k tomu, aby obohatily navázané advokátní kanceláře a ještě vypracovaly Bémovi obhajobu.
