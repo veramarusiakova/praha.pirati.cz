@@ -10,7 +10,7 @@ tags: kampan
 
 V září 2015 jsem primátorce Krnáčové předložil **[40stránkovou analýzu s doporučeními](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/147-opencard-I/1-zadost/attachments/oc-aktualni.pdf)**, co udělat v návaznosti v kauze Opencard. Jedno z nich bylo urychleně zvážit žalobu na bývalého primátora Pavla Béma (ODS) a jeho náměstka Petra Hulinského (ČSSD), protože městu hrozí promlčení nároku na náhradu škody. Doporučili jsme Krnáčové, aby vybrala nezkompromitovaného advokáta s výsledky v boji proti korupci.
 
-V prosinci 2016 jsme termín promlčení připoměli primátorce Krnáčové, která následně nechala schválit na Radě, že se žaloba podá. Ve skutečnosti ale Magistrát nic nedělal, a tak se nárok na náhradu škody v prosinci 2017 promlčel. 
+V prosinci 2016 jsme termín promlčení připoměli primátorce Krnáčové, která následně nechala schválit na Radě, že se žaloba podá. Ve skutečnosti ale Magistrát nic nedělal, a tak se nárok na náhradu škody v prosinci 2016 promlčel. 
 
 V lednu 2017 nechala ředitelka Magistrátu Děvěrová zpracovat analýzu advokátní kanceláře Čalfa, Bartošík & partneři. Magistrát zatím nezdůvodnil, jak tuto zkompromitovanou kancelář vybral (nevíme tedy ani, zda dodržel vnitřní pravidla magistrátu pro veřejné zakázky), ale vzbuzuje to velké pochybnosti: 
 
