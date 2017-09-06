@@ -8,7 +8,7 @@ image: pokladnice.jpg
 tags: hospodareni
 ---
 
-Dne 5. září vyšla tisková zpráva Rady hlavního města Prahy, že hospodaření metropole opět skončilo neplánovaným přebytkem 7,2 miliardy korun. Pokračuje ohrožující trend, kdy Praha není schopna naplánovat a realizovat zásadní investice do opravy majetku města, výstavby veřejné infrastruktury, digitalizace a úspor. 
+Dne 5. září vyšla [tisková zpráva Rady hlavního města Prahy](http://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/plneni_rozpoctu_hlavniho_mesta_prahy_za_3.html), že hospodaření metropole opět skončilo neplánovaným přebytkem 7,2 miliardy korun. Pokračuje ohrožující trend, kdy Praha není schopna naplánovat a realizovat zásadní investice do opravy majetku města, výstavby veřejné infrastruktury, digitalizace a úspor. 
 
 Z minulých let vlády ANO jsou tak nastřádány desítky miliardy korun (včetně např. nevyčerpaných dividend u PRE, které Praha zablokovala). Tyto bezprizorní miliardy mohou být lákadlem pro různé megalomanské projekty. 
 
