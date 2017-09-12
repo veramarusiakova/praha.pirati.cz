@@ -17,4 +17,4 @@ profiles:
   flickr:     		  https://www.flickr.com/search/?text=Tom%C3%A1%C5%A1%20Mur%C5%88%C3%A1k
 ---
 
-Tomáš Murňák (* 1980 v Praze) je zastupitel za Piráty na městské části Praha 13. Vystudoval obchodní akademii, pracuje v softwarovém oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu v Anglii pracuji dodnes. O politiku se zajímá přes 10 let. Aktivně se do ní zapojil v komunálních volbách do zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v roce 2010. Jako zastupitel na městské části zasedá v zastupitelstvu v společném klubu Pirátů a Zelených. 
+Tomáš Murňák (* 1980 v Praze) je zastupitel za Piráty na městské části Praha 13. Vystudoval obchodní akademii, pracuje v softwarovém oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu v Anglii pracuje dodnes. O politiku se zajímá přes 10 let. Aktivně se do ní zapojil v komunálních volbách do zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v roce 2010. Jako zastupitel na městské části zasedá v zastupitelstvu v společném klubu Pirátů a Zelených. 
