@@ -24,6 +24,8 @@ zejména postoj náměstků Dolínka a Stropnického.
 
 Pražská koalice zde prosazuje stavbu pomníku a posílá na ni peníze Pražanů, ačkoliv s ní většina Pražanů nesouhlasí. Nedivili bychom se tedy, kdyby byl katolický symbol stejně jako v roce 1918 občany svržen.
 
+**Omluva Jakuba Michálka ze září 2017**
+
 > „Omlouvám se všem, kterých se dotklo hanlivé označení repliky Mariánského sloupu. V žádném případě jsem nechtěl urazit něčí víru. Jsem silným zastáncem sekularizace a velmi mi vadily pokoutné metody, kterými byla – jak se ukázalo v rozporu s vůlí demokratické většiny – prosazována salámovou metodou obnova Mariánského sloupu na Staroměstském náměstí,“ uvedl k problematice schvalování sloupu předseda klubu Pirátů Jakub Michálek.
 
 
