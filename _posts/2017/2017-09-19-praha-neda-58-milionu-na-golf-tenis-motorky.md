@@ -43,6 +43,12 @@ Oficiální důvod zrušení záměrů zní, že se přidělení peněz nepodař
 * Za co: Propagace Prahy na: D+D Real Czech Masters, D+D Real Czech Challeenge, Prague Golf Challenge
 * Navrženo na zrušení: R-27082, zrušení schváleno 19. 9. 2017
 
+### Doplnění
+
+Během jednání Rady schválilo vedení města rovněž návrh mimořádné dotace v oblasti sportu. Místo původní dlouholeté smlouvy mají dostat motorky mimořádnou jednorázovou dotaci 800 000 Kč (Memoriál Luboše Tomíčka) a Laver Cup 3 300 000 Kč. Tyto smlouvy však musí schválit zastupitelstvo, které je však bude projednávat až v listopadu, a tedy smlouvy budou uzavřeny nejpozději v listopadu, zatímco turnaj Laver Cup se hraje tento víkend. 
+
+Praha proto poskytne dotaci na Laver Cup v době, kdy už proběhl, a o kterou si provozovatel zvýší svůj zisk. Ze strany pražské koalice je to jednak neseriózní vůči provozovateli, který potřebného dodavatele nedokázal dojednat včas, ale i neseriózní vůči zastupitelstvu, které bude stavěno před hotovou věc. Je rovněž právně pochybné uzavírat smlouvu na něco, co už proběhlo. 
+
 ### Odkazy
 
 * [Miroslav Černošek: Hodně se nadřu tím, že stále leštím kliky](https://ekonom.ihned.cz/c1-65758500-miroslav-cernosek-hodne-se-nadru-tim-ze-stale-lestim-kliky)
