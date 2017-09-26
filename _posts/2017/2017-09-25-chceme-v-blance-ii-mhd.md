@@ -16,7 +16,7 @@ Dalším velkým problémem plánování dalších velkých tunelů je, že měs
 
 Dalším problémem je legislativa. Město není schopné zkolaudovat ani Blanku, protože se čeká na dostavbu vnějšího okruhu. Ta je však v nedohlednu. Stejně tak je nedostatečná příprava odstavných parkovišt, které by zaručily odlehčení centra města od obtěžujících aut.
 
-Zastupitelstvo bude stavbu Blanky 2 projednávat na úterním mimořádném zasedání. Zastupitelstvu bylo přislíbeno zpracování alternativních návrhů včetně např tzv. „Duálu“, ale toto posouzení Rada do materiálu nezařadila. „Jsme postaveni před hotovou věc, kde se má dát 350 milionů Kč do projektu, jehož zadání neodpovídá požadavkům moderní doby. Jsme přesvědčeni, že zastupitelstvo by se mělo vždy rozhodovat z několika reálných variant. Praha ale dlouhodobě protlačuje jednu variantu, aniž by se zabývala jinými návrhy. Ty potom existují pouze v rovině spěkulací.“ shrnuje postoj Pirátů Ondřej Profant.
+Zastupitelstvo bude stavbu Blanky 2 projednávat na úterním mimořádném zasedání. Zastupitelstvu bylo přislíbeno zpracování alternativních návrhů včetně např tzv. „Duálu“, ale toto posouzení Rada do materiálu nezařadila. „Jsme postaveni před hotovou věc, kde se má dát 350 milionů Kč do projektu, jehož zadání neodpovídá požadavkům moderní doby. Jsme přesvědčeni, že zastupitelstvo by se mělo vždy rozhodovat z několika reálných variant. Praha ale dlouhodobě protlačuje jednu variantu, aniž by se zabývala jinými návrhy. Ty potom existují pouze v rovině spekulací.“ shrnuje postoj Pirátů Ondřej Profant.
 
 Z těchto důvodů nemůže zastupitelský klub Pirátů hlasovat pro zbrklou dostavbu městkého okruhu v předkládaném znění.
 
