@@ -50,4 +50,30 @@ defaults:   # defaults values for collection scope
       layout: "team"
       rbar: "team-summary, teams-toc"
 
+calendar:
+fb: https://www.facebook.com/CeskaPiratskaStranaPraha/
+tw: piratipraha
+
+title-page:
+  big:
+    foto: /assets/img/miscellaneous/featured-volby.gif
+    alt: Volební rozcestník
+    url: https://www.pirati.cz/volby
+  left-top:
+    text: Kandidáti do sněmovny
+    url: https://www.pirati.cz/volby/2017/praha
+    icon: fa fa-th-list
+  right-top:
+    text: Program<br> Černé na bílém
+    url: https://www.pirati.cz/program
+    icon: fa fa-newspaper-o u-rotate-345
+  left-bottom:
+    text: Městské části
+    url: mestske-casti
+    icon:
+  right-bottom:
+    text: Připoj se
+    url: pripoj-se
+    icon: fa fa-bullhorn u-rotate-345
+
 emptyArray: []
