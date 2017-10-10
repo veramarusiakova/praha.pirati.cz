@@ -2,10 +2,338 @@
 layout: default
 ---
 
-<div class="row">
+<section class="l-cast__hero">
+    <div class="row o-section">
+    <div class="small-6 columns">
+        <div class="l-cast__hero-head">Praha<br/><span style="font-size:2em">13</span></div>
+    </div>
+    <div class="small-6 columns">
+    <h1 div class="l-cast__hero-subhead">Jsme Vaši sousedé z Prahy 13, kterým není lhostejné, jak bude naše Třináctka vypadat za rok, pět,
+            deset, třicet let...</h1>
+        <p class="l-cast__perex">Informační otevřenost, finanční transparentnost a především možnost občanů
+        aktivně rozhodovat o své městské části považujeme za základ efektivní samosprávy. I proto jsme se
+        sešli právě pod křídly Pirátské strany.</p>
+        <p class="l-cast__perex">Možná i právě díky Vaší podpoře bojujeme od roku 2014 za lepší Třináctku také se dvěma
+        pirátskými zastupiteli, a to v koalici Zelení a Piráti pro 13. Práce v opozici nám sice poskytuje jen
+        omezené možnosti, přesto si troufáme říct, že je za námi vidět kus práce.</p>
+    </div>
+    </div>
+</section>
 
-# Praha 13
-
-
-
-</div>
+<nav class="l-cast__top-bar c-top-bar">
+    <div class="row">
+        <ul class="l-cast__top-bar__list menu dropdown">
+            <li class="l-cast__top-bar__list-item"><a href="#">Piráti ze 13</a></li>
+            <li class="l-cast__top-bar__list-item"><a href="#">Priority pirátů na Praze 13</a></li>
+            <li class="l-cast__top-bar__list-item"><a href="#">Zapojte se</a></li>
+            <li class="l-cast__top-bar__list-item"><a href="#">Naše aktivity na Praze 13</a></li>
+            <li class="l-cast__top-bar__list-item"><a href="#">Podpořte piráty na Třináctce</a></li>
+        </ul>
+    </div>
+</nav>
+<section class="l-kan row o-section ">
+    <div class="small-12 columns">
+      <h2 class="l-cast__heading">Piráti ze 13</h2>
+      <div class="l-kan__item row">
+        <div class="l-kan__item-img columns medium-5 large-6"> <img src="https://www.pirati.cz/assets/img/people/ivan-bartos.png" alt="Tomáš Murňák"/></div>
+        <div class="l-kan__item-data columns medium-7 large-6">
+          <h2 class="l-kan__name"><strong>Tomáš Murňák</strong></h2>
+          <div class="l-kan__role">Motto : Společně otevřeme stát</div>
+            <div class="l-kan__desc">
+               <p>Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra
+               zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu
+               v Anglii pracuji dodnes.</p>
+               <p>O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do
+               zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v
+               roce 2010.</p>
+               <p>V komunálních volbách v roce 2014 jsme zde spolu vytvořili úspěšnou koalici s názvem Zelení a
+               piráti pro 13, která ve volbách dostala 11,19 % hlasů a přinesla nám 5 (2 Piráti a 3 Zelení) mandátů
+               z 35 a stal se tak zastupitelem.</p>
+               <p>V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen
+               jeho předsedou.</p>
+               <p>Mezi mé zájmy patří: Informační technologie, politika, cyklistika a historická literatura.</p>
+           </div>
+        </div>
+      </div>
+      <div class="l-kan__item row">
+          <div class="l-kan__item-img columns medium-5 large-6"> <img src="https://www.pirati.cz/assets/img/people/ivan-bartos.png" alt="Tomáš Murňák"/></div>
+          <div class="l-kan__item-data columns medium-7 large-6">
+            <h2 class="l-kan__name"><strong>Tomáš Murňák</strong></h2>
+            <div class="l-kan__role">Motto : Společně otevřeme stát</div>
+              <div class="l-kan__desc">
+                 <p>Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra
+                 zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu
+                 v Anglii pracuji dodnes.</p>
+                 <p>O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do
+                 zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v
+                 roce 2010.</p>
+                 <p>V komunálních volbách v roce 2014 jsme zde spolu vytvořili úspěšnou koalici s názvem Zelení a
+                 piráti pro 13, která ve volbách dostala 11,19 % hlasů a přinesla nám 5 (2 Piráti a 3 Zelení) mandátů
+                 z 35 a stal se tak zastupitelem.</p>
+                 <p>V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen
+                 jeho předsedou.</p>
+                 <p>Mezi mé zájmy patří: Informační technologie, politika, cyklistika a historická literatura.</p>
+             </div>
+          </div>
+        </div>
+        <div class="l-kan__item row">
+          <div class="l-kan__item-img columns medium-5 large-6"> <img src="https://www.pirati.cz/assets/img/people/ivan-bartos.png" alt="Tomáš Murňák"/></div>
+          <div class="l-kan__item-data columns medium-7 large-6">
+            <h2 class="l-kan__name"><strong>Tomáš Murňák</strong></h2>
+            <div class="l-kan__role">Motto : Společně otevřeme stát</div>
+              <div class="l-kan__desc">
+                 <p>Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra
+                 zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu
+                 v Anglii pracuji dodnes.</p>
+                 <p>O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do
+                 zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v
+                 roce 2010.</p>
+                 <p>V komunálních volbách v roce 2014 jsme zde spolu vytvořili úspěšnou koalici s názvem Zelení a
+                 piráti pro 13, která ve volbách dostala 11,19 % hlasů a přinesla nám 5 (2 Piráti a 3 Zelení) mandátů
+                 z 35 a stal se tak zastupitelem.</p>
+                 <p>V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen
+                 jeho předsedou.</p>
+                 <p>Mezi mé zájmy patří: Informační technologie, politika, cyklistika a historická literatura.</p>
+             </div>
+          </div>
+        </div>
+  </div>
+</section>
+<section class="l-priority row o-section ">
+    <div class="small-12 columns">
+      <h2 class="l-cast__heading">Priority pirátů na Praze 13</h2>
+      <p class="l-cast__perex">Snažíme se o to, aby byla Praha 13 po všech stránkách lepším místem k životu. A protože zde
+      (na rozdíl od pana starosty a mnohých radních) sami doopravdy žijeme, vychází naše snaha z
+      každodenních osobních zkušeností běžných obyvatel, a je tak motivována autentickou vůlí
+      změnit k lepšímu své vlastní okolí.</p>
+      <div class="l-cast__perex-columns">
+      <p>A co konkrétně pro nás znamená lepší místo k životu? Troufáme si říci, že v podstatě to samé
+      jako pro většinu obyvatel Prahy 13, potažmo to stejné, co pro většinu obyvatel velkých měst
+      kdekoliv na světě. Dostatek zeleně, čisté ovzduší, pořádek, opravené chodníky a silnice,
+      optimální dopravní spojení, bezpečné přechody i parky atd.</p>
+      <p>Jistě byste sami dokázali těchto několik příkladů bohatě rozšířit o to, co znamená “lepší místo k
+      životu” právě pro Vás. A tak je to v pořádku. Stejně jako každý člověk, i každý Pirát na Třináctce
+      má s ohledem na svůj charakter i osobní a rodinný život specifické potřeby, které se odrážejí v
+      jedinečném žebříčku jeho priorit. Ten, kdo má děti, akcentuje více bezpečnost nebo dostatek
+      míst ve školských zařízeních. Ti, kteří jsou bez závazků a mají více volného času, ocení možná
+      více kvalitní veřejný prostor nebo pestřejší kulturní vyžití.</p>
+      <p>Ať už jsou naše ryze osobní priority jakékoliv, na zásadních principech se jako Piráti na
+      Třináctce shodujeme, a pokud bychom měli vybrat několik témat, ve kterých vidíme největší
+      potřebu a prostor pro rozvoj, byla by to tato:</p>
+      </div>
+      <div class="l-cast__priority-row row">
+        <div class="l-cast__priority-perex columns medium-5">
+          <div class="l-cast__priority-perex-item">
+            <h3 class="l-cast__priority-title"><strong>Transparentní a otevřená radnice</strong></h3>
+               <p>Možnost získat snadno a rychle jakékoliv informace ze samosprávy své městské části a mít
+               dostatek možností se do jejího chodu přímo zapojit, považujeme za naprostý základ života
+               prosperující obce 21. století.</p>
+          </div>
+          <div class="l-cast__priority-perex-item">
+              <h3 class="l-cast__priority-title"><strong>Prevence neúměrného zahušťování zástavby</strong></h3>
+                 <p>Jakkoliv respektujeme právo soukromých vlastníků na jejich podnikatelské developerské
+                 záměry, zastáváme názor, že stejného respektu se musí dostávat i stávajícím obyvatelům,
+                 jejichž zájmy bývají často necitlivou výstavbou neadekvátně narušovány.</p>
+            </div>
+           <div class="l-cast__priority-perex-item">
+               <h3 class="l-cast__priority-title"><strong>Kvalitní veřejný prostor a komunitní život</strong></h3>
+                  <p>Průběžně rozvíjíme a realizujeme naší vizi ideální Třináctky také v dalších oblastech, a snažíme
+                  se tak činit se zapojením co nejvíce sousedů. Inspirací je pro nás i oficiální Strategie rozvoje
+                  Prahy 13, kterou považujeme za relativně kvalitní dokument (byť dnes v řadě bodů již trochu
+                  zastaralý). Je velká škoda, že od roku 2007, kdy tento dokument vznikl, zůstalo v důsledku
+                  pasivity radních z velké části pouze u slov.</p>
+             </div>
+        </div>
+        <div class="l-cast__priority-detail columns medium-7">
+        <h2 class="l-cast__priority-detail-title">Transparentní a otevřená radnice</h2>
+        <p>Možnost získat snadno a rychle jakékoliv informace ze samosprávy své městské části a mít
+        dostatek možností se do jejího chodu přímo zapojit, považujeme za naprostý základ života
+        prosperující obce 21. století.</p>
+        <p>Bohužel, v rámci našich četných a různorodých pokusů o otevření radnice občanům od
+        stávajícího vedení často slyšíme protiargument, že se lidé o věci veřejné stejně nezajímají. Náš
+        pohled je takový, že i kdyby tomu tak doopravdy bylo, nese na tom svoji pasivitou výrazný podíl
+        viny sama radnice.</p>
+        <p>Přitom know-how samosprávně vyspělejších městských částí, měst a států, navíc ve spojení s
+        technologiemi 21. století, přináší bezpočet možností jak efektivně zapojit občany do rozvoje
+        jejich městské části nebo jak jim usnadnit komunikaci s úřadem. A tak můžeme jen spekulovat o
+        tom, jestli je dnešní nedostatečná otevřenost radnice na Praze 13 důsledkem nezájmu,
+        diletantského přístupu, nebo zda někomu vlastně nevyhovuje, když se lidé o věci veřejné moc
+        nestarají a zbytečně moc toho neví.</p>
+        <p>Co si Piráti představují pod pojmem transparentní a otevřená radnice se můžete dočíst zde.</p>
+        <h2 class="l-cast__priority-detail-title">Prevence neúměrného zahušťování zástavby</h2>
+        <p>Jakkoliv respektujeme právo soukromých vlastníků na jejich podnikatelské developerské
+              záměry, zastáváme názor, že stejného respektu se musí dostávat i stávajícím obyvatelům,
+              jejichž zájmy bývají často necitlivou výstavbou neadekvátně narušovány.</p>
+              <p>O tom, že výstavba na Praze 13 v mnoha případech zdravý rámec přesahuje, svědčí ostatně i
+              fakt, že sami občané v roce 2016 neúměrné zahušťování zástavby označili v rámci Místní
+              Agendy 21 jako problém číslo jedna. Bohužel, nemáme pocit, že by radnice v reakci na tento
+              jasný občanský apel adekvátně reagovala.</p>
+              <p>Zatímco v jiných městech či pražských městských částech se již setkáváme s postupným
+              uplatňováním pravidel participativního plánování a rozvoje, Praha 13 doposud tuto agendu řeší
+              za zavřenými dveřmi komise a vehementně odmítá transformaci komise ve výbor, což by
+              legálně umožnilo alespoň dobrovolnou účast aktivních občanů. Důsledkem toho se pak rodí
+              situace, kdy se z pohledu občanů objeví jako blesk z čistého nebe stavební záměr
+              16podlažního domu na zeleni, kterou lidé do té doby považovali za městskou, a radnice i
+              investor se diví silnému občanskému odporu.</p>
+              <p>Piráti se dlouhodobě snaží předcházet takovým situacím prosazováním návrhů, jejichž realizace
+              má za cíl zajistit maximu obyvatel Třináctky alespoň elementární informovanost o (nejen)
+              stavebním rozvoji a těm, kteří se na něm chtějí podílet aktivněji, tuto možnost prostřednictvím
+              efektivních nastrojů participace poskytnout. Zároveň se snažíme o to, aby Praha 13 vyvíjela
+              aktivní tlak na pražský Magistrát a další instituce, a to v těch oblastech, které sama nemůže
+              ovlivnit, ale které přitom mají na výstavbu a rozvoj naší městské části zásadní vliv (územní plán,
+              výšková regulace výstavby atp.)</p>
+              <p>Neúměrné zahušťování výstavby bychom rádi eliminovali zavedením následujících opatření.</p>
+          <h2 class="l-cast__priority-detail-title">Kvalitní veřejný prostor a komunitní život</h2>
+          <p>Dominantním charakterem Prahy 13 je bezesporu sídlištní výstavba, která s sebou bohužel
+          nese i anonymitu a nižší míru identifikace s místem svého bydliště. Přispívá k tomu jistě i fakt,
+          že pro nemalý počet lidí představuje Třináctka pouze přechodné bydliště či dokonce pouze
+          místo, kam dojíždí za prací. Přesto či možná právě proto se domníváme, že je velice důležité
+          vytvářet a podporovat takové aktivity a opatření, které budou přispívat k posilování
+          sousedského a komunitního rázu a k pocitu sounáležitosti s místem, kde žijeme.</p>
+          <p>Skutečné sousedství a komunitu samozřejmě nelze budovat shora. Jde o postupný proces,
+          který vychází z vnímání a jednání jednotlivců a zásadním způsobem závisí na osobním
+          vnímání štěstí a spokojenosti. Daleko spíše se však tímto společenskotvorným prvkem stane
+          člověk, který se na Třináctce cítí dobře a považuje ji za svůj skutečný domov, a který zde
+          nachází k utváření i posilování sousedských vztahů vhodné podmínky a příležitosti. A naopak,
+          pokud se nám postupně podaří takovéto příjemné sousedské a komunitní klima vytvořit, budou
+          v něm vyrůstat a chtít žít spíše právě takové osobnosti, které budou tento jeho charakter dále
+          upevňovat a rozšiřovat. Pojďme tuto pozitivní spirálu rozjet...</p>
+          <p>Nemá-li být Praha 13 jen noclehárnou s kancelářskými a nákupními komplexy, je třeba
+          poskytnout lidem dostatek rozmanitých příležitostí k trávení času v kvalitním veřejném prostoru.
+          Vybudovat z Prahy 13 příjemné místo k životu vyžaduje mnohem víc než jen upravený Centrální
+          park a koncert pro něj. Jakkoliv tyto tvoří velmi dobrý základ, neměly by se stát “mantrou”
+          přeříkávanou jako důkaz dostatečné podpory zeleně a kultury na Třináctce. Protože i sousedé z
+          dalších částí Prahy 13 mají právo na to požadovat adekvátní investice do budování a údržby
+          relaxačních zelených ploch v blízkosti jejich bydliště. Protože kutura na Praze 13 by neměl být
+          jen Dalibor Janda Revival band a Ozvěny Porty.</p>
+          <p>Představa o kvalitním veřejném prostoru, sousedství a kultuře je samozřejmě velmi individuální
+          a u každého člověka svým způsobem unikátní. Přesto si myslíme, že se výstup ze zamyšlení
+          Pirátů na Praze 13 na toto téma do značné míry shoduje s pohledem většiny obyvatel Třináctky.
+          Protože je zamyšlením řadových občanů, kteří se denně ve svém okolí setkávají se stejnými
+          neduhy a ve vztahu k trávení volného času mají stejná či podobná přání.</p><br/><br/>
+          <p>Náš postoj k řadě dalších otázek najdete také v oficiálním volebním programu Zelených a Piratů
+                pro 13. Jak se ho průběžně (byť z opozice) snažíme naplňovat, může sledovat prostřednictvím
+                našich informačních kanálů.</p>
+                <p>Pokud byste i Vy rádi svoje představy o lepším životě na Praze 13 vyjádřili aktivněji než jednou
+                za 4 roky v komunálních volbách, Piráti na 13 Vám tuto možnost nabízejí. Způsobů, jak se
+                zapojit je spoustu. Věříme, že i Vy si mezi nimi můžete najít ten, který Vám bude vyhovovat.
+                Zapojte se.</p>
+        </div>
+      </div>
+      
+  </div>
+</section>
+<section class="l-connect row o-section ">
+    <div class="small-12 columns">
+      <h2 class="l-cast__heading">Zapojte se</h2>
+      <p class="l-cast__perex"> Komunální politika je specifická svým zaměřením na lokální témata. Nejde o žádnou vědu, tím spíše
+      o záležitost určenou hrstce vyvolených a zvolených. Naopak, čím více lidí se posune z úrovně
+      pasivní kritiky ke konkrétním činům, tím více to bude opravdu “naše” Třináctka. Abyste s námi mohli měnit Prahu 13 k lepšímu, nemusíte být ani členem Pirátské strany.
+      Existují i jiné způsoby zapojení, které by možná lépe vyhovovali Vaším představám o občanské
+      aktivitě.
+      </p>
+      <div class="l-cast__connect-row row">
+          <div class="l-cast__connect-perex-item columns medium-6">
+            <h3 class="l-cast__connect-title"><strong>Odborník, konzultant...</strong></h3>
+               <p>Praktická komunální politika není jen o ideových rozhodnutích. V rámci samosprávy se řeší a
+               rozhodují věci snad ze všech myslitelných oblastí života, a pro většinu z nich je odborná
+               fundovanost přinejmenším vhodná. [více...]</p>
+          </div>
+          <div class="l-cast__connect-perex-item columns medium-6">
+              <h3 class="l-cast__connect-title"><strong>Aktivní sympatizant, dobrovolník...</strong></h3>
+                 <p>Možná je Vám sympatické, co děláme a možná i Vy cítíte potřebu nějakým způsobeUdělat něco
+                 nejen pro sebe ale i pro ostatní. Jsme přesvědčeni, že každý má potenciál udělat na úrovni
+                 samosprávy něco pro sebe i pro své sousedy. Snad každý je v něčem svým způsobem dobrý
+                 nebo v něčem přímo vyniká. [více...]</p>
+            </div>
+           <div class="l-cast__connect-perex-item columns medium-6">
+               <h3 class="l-cast__connect-title"><strong>Sympatizant, volič</strong></h3>
+                  <p>Ať už jste naším dlouhodobým podporovatelem, nebo volbu Pirátské strany jen zvažujete, jsme
+                  rádi, že volíte informovaně. Alespoň tak soudíme na základě toho, že právě čtete tento
+                  odstavec.</p>
+                  <p>Informovaný volič, respektive informovaný občan, je základním předpokladem pro prosperující
+                  společnost. [více...]</p>
+             </div>
+             <div class="l-cast__connect-perex-item columns medium-6">
+                <h3 class="l-cast__connect-title"><strong>Pirát</strong></h3>
+                   <p>Česká Pirátská strana je jedinou politickou stranou v České republice, která funguje na principu
+                   přímé demokracie a kde je základní členstvo tím nejvyšším orgánem s přímým právem utvářet
+                   reálnou podobu Pirátské politiky. [více...]</p>
+              </div>
+      </div>
+  </div>
+</section>
+<section class="l-activity row o-section ">
+    <div class="small-12 columns">
+      <h2 class="l-cast__heading">Naše aktivity na Praze 13</h2>
+      <p class="l-cast__perex">
+         Naprostou většinu našich komunálních aktivit děláme na Praze 13 ve spolupráci se Zelenými, a
+         proto je také prezentujeme především na společných koaličních webových a FB stránkách. Níže
+         najdete i další informační kanál a stručný popis jejich obsahového zaměření
+      </p>
+      <div class="l-cast__activity-row row">
+          <div class="l-cast__activity-perex-item columns medium-3">
+            <h5 class="l-cast__activity-title"><strong>Facebook Zeleni a Piráti pro 13</strong></h5>
+               <p>informace o aktuálních kauzách, postřehy ze zastupitelské práce, upozornění na publikované
+               články, videa atd.</p>
+          </div>
+          <div class="l-cast__activity-perex-item columns medium-3">
+              <h5 class="l-cast__activity-title"><strong>Webové stránky Zelení a Piráti pro 13</strong></h5>
+                 <p>kompletní zdroj informací o naší koaliční práci se Zelenými - články ke kauzám programové 
+                 priority, kontakty na zastupitele, kalendář akcí atp.</p>
+            </div>
+           <div class="l-cast__activity-perex-item columns medium-3">
+               <h5 class="l-cast__activity-title"><strong>YouTube kanál Zelení a Piráti pro 13</strong></h5>
+                  <p>Kompletní audiovizuální záznamy ze zasedání zastupitelstva, vybrané interpelace, perličky
+                  radních aj... ;)</p>
+             </div>
+             <div class="l-cast__activity-perex-item columns medium-3">
+                <h5 class="l-cast__activity-title"><strong>Facebook Piráti Praha 13</strong></h5>
+                   <p>informace o samostatných aktivitách Pirátů na Praze 13 - pravidelné schůzky, mimořádné
+                   události a informace atp.</p>
+              </div>
+      </div>
+  </div>
+</section>
+<section class="l-priority row o-section ">
+    <div class="small-12 columns">
+      <h2 class="l-cast__heading">Naše aktivity na Praze 13</h2>
+      <p class="l-cast__perex">Pro peníze to rozhodně neděláme. Naší hlavní motivací je snaha o zásadní změnu úrovně i
+         vnímání komunální politiky a samozřejmě také snaha zvelebit místo, kde sami od dětství žijeme.
+         Naše aktivita je ryze dobrovolnická, pokud nepočítáme zákonnou měsíční odměnu dvěma
+         zastupitelům ve výši 1500,- Kč. Naší hlavní investicí jsou desítky hodin osobního času, který
+         mimo zaměstnání a rodinu komunální politice věnujeme.</p>
+         <div class="l-cast__perex-columns">
+         <p>Jakkoliv nám spíše než peníze schází další nadšenci jako jsme my, jsou v zásadě 2 oblasti, ve
+         kterých by finanční prostředky pomohli naše počínání výrazně zefektivnit.
+         Konzultace, průzkumy, posudky</p>
+         <p>V rámci různých kauz, které na Praze 13 řešíme, se často dostáváme do situace, jejímž
+         optimálním řešením by byla odborná konzultace, případně nezávislý průzkum či
+         posudek. Nejčastěji nám chybí odborný pohled právní, ale například v souvislosti s výstavbou
+         jsme v minulosti často postrádaly nezávislá odborná stanoviska z oblasti dopravy, ekologie,
+         akustiky...</p>
+         <p>Jako opoziční strana bohužel nemůžeme využít existujícího odborného zázemí úřadu městské
+         části. Pokud je to jen trochu možné, pokoušíme se proto tyto konzultace zajišťovat u
+         kompetentních kolegů v rámci České pirátské strany. Nicméně i oni mají svoji agendu a i oni
+         dělají politiku na dobrovolnické úrovni, takže priority se prostě občas nepotkají.</p>
+         <h4>Propagace</h4>
+         <p>Jakkoliv jsou naše aktivity lidmi zpravidla vnímány velmi pozitivně, bez toho, abychom byli
+         dobře vidět a slyšet, je velice obtížné zapojovat do věcí veřejných maximum obyvatel, a zároveň
+         tak oslovovat i potenciální voliče.</p>
+         <p>Díky internetu a sociálním sítím je naštěstí komunikace jednodušší, než byla kdykoliv předtím,
+         ale stále má svá značná omezení. Je nám pak líto, když při osobních rozhovorech slýcháme
+         věty typu: “...ale lidi tohle moc nevědí...”, “...tak to Vás budu podporovat...“, ...škoda, že Vás
+         není více vidět...” atp.</p>
+         <p>Specifickým případem jsou potom volby. To, že dlouhodobě odvádíte dobrou práci, v rámci
+         které důsledně naplňujete svá předchozí prohlášení, je bohužel jen zlomek předpokladu
+         úspěchu. Dobrým (či možná spíše špatným) příkladem toho, že zásadním prostředkem je
+         především dostatek kapitálu, je politické strana Andreje Babiše. ANO mělo ještě pár měsíců
+         před svými prvními volbami v roce 2013 preference 0,5 %, přičemž po své masivní kampani
+         nakonec získalo téměř 20 %.</p>
+         <p>Pokud je Vám naše aktivita sympatická a rádi byste nás v ní podpořili i finančně, můžete
+         tak učinit příspěvkem na transparentní účet České Pirátské strany a ke svému daru přidat
+         vzkaz "Pirátům ze Třináctky". Viz též https://dary.pirati.cz/</p>
+         </div>
+      </p>
+  </div>
+</section>

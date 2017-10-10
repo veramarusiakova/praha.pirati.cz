@@ -1,0 +1,108 @@
+.l-cast{
+  $unit: 1.125rem;
+  $dark: #343434;
+  $light: #fff;
+  $accent: #f3c289;
+  &__top-bar{
+    background-color: $dark;
+    color: white;
+    text-align: center;
+    padding: 0;
+    position: sticky;
+    top: 0px;
+    &__list{
+      background-color: transparent !important;
+      &-item{
+        padding: $unit;
+        a{
+          color: $light !important;
+          font-size: 1rem !important;
+        }
+      }
+    }
+  }
+  &__hero{
+    padding: 8*$unit 0;
+    overflow: hidden;
+    position: relative;
+    line-height: 1;
+    small{
+      font-size: 1.5rem;
+    }
+    &:before{
+      content: '';
+      display: block;
+      //width: 100%;
+      //height: 100%;
+      position: absolute;
+      z-index: -1;
+      background: rgba($dark, .95);
+      left: 0;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      transform: rotate(-45deg) translate(-15%, -75%);
+      //background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Slune%C4%8Dn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD_Praha_13_2010.jpg/1200px-Slune%C4%8Dn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD_Praha_13_2010.jpg);
+    }
+    &-subhead{
+      line-height: 1.25;
+      margin-bottom: $unit;
+    }
+    &-head{
+      font-size: 6em;
+      font-weight: bold;
+      color: white;
+    }
+  }
+  &__heading{
+    text-align: center;
+    font-size: 2.5em;
+    margin: 1em 0;
+  }
+  &__perex{
+    font-size: 1.125em;
+    &-columns{
+      $u: 1.25rem;
+      column-count: 2;
+      column-gap: 2*$u;
+      padding: $u 0;
+      margin-bottom: 2*$u;
+    }
+  }
+  &__connect,&__activity{
+    $u: 1.25rem;
+    &-perex{
+      &-item{
+        padding-top: $u;
+        padding-bottom: $u;
+      }
+    }
+  }
+  &__priority{
+    $u: 1.25rem;
+    &-detail{
+      &-title{
+        margin: $u 0;
+        p + &{
+          margin-top: 2*$u;
+        }
+      }
+    }
+    &-row{
+      //border-top: 1px solid rgba(black, .1);
+      //padding-top: 4*$unit;
+    }
+    &-perex{
+      position: sticky;
+      top: 94px;
+      &-item{
+        padding: $u 2*$u 2*$u 0;
+        & + &{
+          border-top: 1px solid rgba(black, .1);
+          padding-top: 2*$u;
+        }
+      }
+    }
+  }
+}
+
