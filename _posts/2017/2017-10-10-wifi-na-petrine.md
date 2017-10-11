@@ -12,7 +12,7 @@ Piráti nesouhlasí se zakázkou za 2 292 992,- Kč bez DPH na pokrytí Petřín
 
 > "Tato zakázka není snahou o zabepečení internetu pro širokou veřejnost, nýbrž snahou utratit miliony korun u soukromého subjektu, jehož dřívější dodávky [byly pokutovány][UOHS] Úřadem pro hospodářskou soutěž (ÚHOS). Parametry zakázky nejsou přiměřené danému cíli, kterého se město snaží dosáhnout - tedy poskytnutí internetu široké veřejnosti v rekreačních prostorách parku. To je problém srovnatelný například s poskytováním internetových připojení v kavárnách nebo knihovnách. Namísto toho se nakupuje předimenzovaný hardware, který je vhodný pro obsluhu rozsáhlých sítí." říká Ondřej Profant, zastupitel a člen komise Smart Cities za Piráty.
 
-Město také mohlo využít dotačního programu WIFI4EU, namísto toho chce investici pokrýt samo z vlastních zdrojů. Provoz této sítě má navíc stát daňové poplatníky dalších až 400 000 Kč každý rok. Vypadá to, že se rodí nová Praha bezdrátová, která stála 390 mil. Kč, ale nikdy nezačala ani nefungovat. Municipalita by měla vytvářet prostor pro budování infrastruktury, nikoli ji neefektivně budovat.
+Město také mohlo využít dotačního programu [WIFI4EU][], namísto toho chce investici pokrýt samo z vlastních zdrojů. Provoz této sítě má navíc stát daňové poplatníky dalších až 400 000 Kč každý rok. Vypadá to, že se rodí nová Praha bezdrátová, která stála 390 mil. Kč, ale nikdy nezačala ani nefungovat. Municipalita by měla vytvářet prostor pro budování infrastruktury, nikoli ji neefektivně budovat.
 
 ## Dynamický nákupní systém
 
@@ -54,9 +54,11 @@ Problémem je, že magistrát ani další instituce města nemají žádnou sebe
 - [Usnesení rady R-2379 o výběru jediného uchazeče](http://zastupitelstvo.praha.eu)
 - [Pravomocná rozhodnutí UOHS ve věci SIMAC/ČD-T/ČD][UOHS]
 - [Zakázka na datové centrum psaná na míru][DC05]
-- [Dotační program WIFI4EU](https://ec.europa.eu/digital-single-market/en/wifi4eu-bezplatne-wifi-pripojeni-pro-obyvatele-eu)
-- [Praha bezdrátová](https://technet.idnes.cz/konec-bezdratoveho-internetu-v-praze-dwv-/sw_internet.aspx?c=A120522_160155_sw_internet_vse)
+- [Dotační program WIFI4EU][WIFI4EU]
+- [Praha bezdrátová][praha-bezdratova]
 - [Provozní náklady dle ředitele OICT](https://zpravy.aktualne.cz/regiony/praha/wi-fi-za-2-3-milionu-neni-jen-pro-lanovku-chceme-pokryt-cely/r~fab06f5cadc911e7a7000025900fea04/)
 
 [UOHS]: https://www.uohs.cz/cs/verejne-zakazky/aktuality-z-verejnych-zakazek/2122-ceske-drahy-chybovaly-v-zakazce-na-vybaveni-railjetu-wi-fi-technologii.html
 [DC05]: https://praha.pirati.cz/zakazka-psana-na-miru.html
+[WIFI4EU]: https://ec.europa.eu/digital-single-market/en/wifi4eu-bezplatne-wifi-pripojeni-pro-obyvatele-eu
+[praha-bezdratova]: https://technet.idnes.cz/konec-bezdratoveho-internetu-v-praze-dwv-/sw_internet.aspx?c=A120522_160155_sw_internet_vse
