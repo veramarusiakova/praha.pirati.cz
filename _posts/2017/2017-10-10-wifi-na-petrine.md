@@ -31,12 +31,10 @@ Konkrétně špatně je např:
 1. Požadavek na USB A u routerů: pravděpodobně se jedná o možnost připojení záložního LTE připojení. Nicméně USB A dongle není rozumná záloha pro takovouto soustavu. Nejspíše nejjednodušší by bylo nechat připojení bez zálohy. Pokud zálohu, tak sofistikovanější. A v zadávací dokumentaci by mělo být co je požadováno. Nikoliv port navíc, který nedává v kontextu smysl.
 2. Požadavek na firewall s propustností 4Gb za sekundu, když připojení lokálně bude 1Gb za sekundu a velmi pravděpodobně samotné spojení dál bude ještě pomalejší, opět nedává jiný smysl, než prodražení zakázky.
 3. Požadvek na IPv4 multicast je technologie, pro kterou není na Petříně využití a opět je v zadávací dokumentaci.
-4. Požadavek na 200 000 záznamů v routovací tabulce je opět nesmysl. Routování zde bude probíhat velmi jednoduše, protože všechen provoz bude směřován do veřejného internetu. Opět se jedná o řešení, které se používá při propojování větších oddělených sití.
-5. Požadavek na "Nástroj pro kontrolu SLA" se používá v datových centrech, pro zaručení dostupnosti typu 99.99%, avšak to opět není úplně nutné pro Petřín, kde nezáleží na mikrovýpadcích a lze pouzít jiné systémy kontroly.
-6. Požadavek na 4000 virtuálních sití (VLAN), což zde nebude potřeba. Velmi pravděpodobně bude potřeba jednotek VLAN, což zvládá kdekterý wifi kontroler.
-7. 200 000 záznamů v routovací tabulce je opět nesmysl. Routování zde bude probíhat velmi jednoduše, protože všechen provoz bude směřován do veřejného internetu. Opět se jedná o řešení, které se používá při propojování spíše metropolitních sití.
-8. Požadavek na minimálně 200 000 záznamů v routovací tabulce je zbytečně moc. Není třeba propojovat větší oddělené sítě. Routování zde bude probíhat velmi jednoduše, protože všechen provoz bude směřován do veřejného internetu.
-9. Pro relativně běžnou nekritickou věc je potřeba přehršel certifikátů pro pracovníky, což samozřejmě značně prodražuje řešení.
+4. Požadavek na "Nástroj pro kontrolu SLA" se používá v datových centrech, pro zaručení dostupnosti typu 99.99%, avšak to opět není úplně nutné pro Petřín, kde nezáleží na mikrovýpadcích a lze pouzít jiné systémy kontroly.
+5. Požadavek na 4000 virtuálních sití (VLAN), což zde nebude potřeba. Velmi pravděpodobně bude potřeba jednotek VLAN, což zvládá kdekterý wifi kontroler.
+6. 200 000 záznamů v routovací tabulce je opět nesmysl. Routování zde bude probíhat velmi jednoduše, protože všechen provoz bude směřován do veřejného internetu. Opět se jedná o řešení, které se používá při propojování spíše metropolitních sití.
+7. Pro relativně běžnou nekritickou věc je potřeba přehršel certifikátů pro pracovníky, což samozřejmě značně prodražuje řešení.
 
 ## Dlouhodobé problémy
 
