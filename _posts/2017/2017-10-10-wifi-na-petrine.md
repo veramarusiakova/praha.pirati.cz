@@ -10,15 +10,15 @@ author:       Ondřej Profant
 
 Piráti nesouhlasí se zakázkou za 2 292 992,- Kč bez DPH na pokrytí Petřínské lanovky internetem.
 
-> "Tato zakázka není snahou o zabepečení internetu pro širokou veřejnost, nýbrž snahou utratit miliony korun u soukromého subjektu, jehož dřívější dodávky byly pokutovány Úřadem pro hospodářskou soutěž (ÚHOS). Parametry zakázky nejsou přiměřené danému cíli, kterého se město snaží dosáhnout - tedy poskytnutí internetu široké veřejnosti v rekreačních prostorách parku. To je problém srovnatelný například s poskytováním internetových připojení v kavárnách nebo knihovnách. Namísto toho se nakupuje předimenzovaný hardware, který je vhodný pro obsluhu rozsáhlých sítí." říká Ondřej Profant zastupitel a člen komise Smart Cities za Piráty.
+> "Tato zakázka není snahou o zabepečení internetu pro širokou veřejnost, nýbrž snahou utratit miliony korun u soukromého subjektu, jehož dřívější dodávky byly pokutovány Úřadem pro hospodářskou soutěž (ÚHOS). Parametry zakázky nejsou přiměřené danému cíli, kterého se město snaží dosáhnout - tedy poskytnutí internetu široké veřejnosti v rekreačních prostorách parku. To je problém srovnatelný například s poskytováním internetových připojení v kavárnách nebo knihovnách. Namísto toho se nakupuje předimenzovaný hardware, který je vhodný pro obsluhu rozsáhlých sítí." říká Ondřej Profant, zastupitel a člen komise Smart Cities za Piráty.
 
 Město také mohlo využít dotačního programu WIFI4EU, namísto toho chce investici pokrýt samo z vlastních zdrojů. Provoz této sítě má navíc stát daňové poplatníky dalších až 400 000 Kč každý rok. Vypadá to, že se rodí nová Praha bezdrátová, která stála 390 mil. Kč, ale nikdy nezačala ani nefungovat. Municipalita by měla vytvářet prostor pro budování infrastruktury, nikoli ji neefektivně budovat.
 
 ## Dynamický nákupní systém
 
-V celkovém procesu, jakým se k zakázce dospělo, je špatně megalomanství magistrátu nebo v horšímm případě cílená preference konkrétních dodavatelů. Ten zavedl Dynamický nákupní systém (DNS), kde jsou vysoké požadavky např. na předchozí zkušenost (3 zakázky za 40 000 000 Kč bez DPH). To je v mnoha případech správně (např. dodávka HW), avšak magistrát ignoruje malou míru reálné soutěže v tomto systému (zvláště u běžného HW). Což ukazuje i tato zakázka. Ondřej Profant k tomu dodává:
+Z projektu je zřejmé megalomanství magistrátu nebo v horšímm případě cílená preference konkrétních dodavatelů. Magistrát zavedl dynamický nákupní systém (DNS), kde jsou vysoké požadavky např. na předchozí zkušenost (3 zakázky za 40 000 000 Kč bez DPH). To je v mnoha případech správné (např. dodávka HW), avšak magistrát ignoruje malou míru reálné soutěže v tomto systému (zvláště u běžného HW). Což ukazuje i tato zakázka. Ondřej Profant k tomu dodává:
 
-> "Přihlásil se jediný uchazeč - firma Simac Technik ČR a.s. To je velmi zvláštní, protože v Praze je množství provozovatelů připojení k internetu pomocí WIFI. Tito poskytovatelé téměř vždy poskytují i venkovní pokrytí. Viditelně pro ně podmínky DNS a zakázky byly nepřijatelné. Věci jistě také nepomohlo, že soutěž trvala pouze 10 pracovních dnů."
+> "Přihlásil se jediný uchazeč - firma Simac Technik ČR a.s. To je velmi zvláštní, protože v Praze je množství provozovatelů připojení k internetu pomocí WIFI. Tito poskytovatelé téměř vždy poskytují i venkovní pokrytí. Viditelně pro ně podmínky DNS a zakázky byly nepřijatelné. Soutěži jistě také nepomohlo, že soutěž trvala pouze 10 pracovních dnů."
 
 ## Technické problémy zadávací dokumentace
 
