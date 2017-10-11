@@ -10,7 +10,7 @@ author:       Ondřej Profant
 
 Piráti nesouhlasí se zakázkou za 2 292 992,- Kč bez DPH na pokrytí Petřínské lanovky internetem.
 
-> "Tato zakázka není snahou o zabepečení internetu pro širokou veřejnost, nýbrž snahou utratit miliony korun u soukromého subjektu, jehož dřívější dodávky byly pokutovány Úřadem pro hospodářskou soutěž (ÚHOS). Parametry zakázky nejsou přiměřené danému cíli, kterého se město snaží dosáhnout - tedy poskytnutí internetu široké veřejnosti v rekreačních prostorách parku. To je problém srovnatelný například s poskytováním internetových připojení v kavárnách nebo knihovnách. Namísto toho se nakupuje předimenzovaný hardware, který je vhodný pro obsluhu rozsáhlých sítí." říká Ondřej Profant, zastupitel a člen komise Smart Cities za Piráty.
+> "Tato zakázka není snahou o zabepečení internetu pro širokou veřejnost, nýbrž snahou utratit miliony korun u soukromého subjektu, jehož dřívější dodávky [byly pokutovány][UOHS] Úřadem pro hospodářskou soutěž (ÚHOS). Parametry zakázky nejsou přiměřené danému cíli, kterého se město snaží dosáhnout - tedy poskytnutí internetu široké veřejnosti v rekreačních prostorách parku. To je problém srovnatelný například s poskytováním internetových připojení v kavárnách nebo knihovnách. Namísto toho se nakupuje předimenzovaný hardware, který je vhodný pro obsluhu rozsáhlých sítí." říká Ondřej Profant, zastupitel a člen komise Smart Cities za Piráty.
 
 Město také mohlo využít dotačního programu WIFI4EU, namísto toho chce investici pokrýt samo z vlastních zdrojů. Provoz této sítě má navíc stát daňové poplatníky dalších až 400 000 Kč každý rok. Vypadá to, že se rodí nová Praha bezdrátová, která stála 390 mil. Kč, ale nikdy nezačala ani nefungovat. Municipalita by měla vytvářet prostor pro budování infrastruktury, nikoli ji neefektivně budovat.
 
@@ -24,7 +24,7 @@ Z projektu je zřejmé megalomanství magistrátu nebo v horšímm případě c�
 
 Celé řešení je dimenzováno pro ohromný provoz s velkou spolehlivostí, což je pro veřejnou WIFI naprosto zbytečné. Požadované řešení spíš odpovídá budování datového centra či jiného zařízení, kde je kritcká vysoká dostupnost. Zde se bavíme o připojení jako doplňkové službě, kdy drobný výpadek či odstávka není žádný problém. Navíc jsou v daném místě dostupné veřejné LTE sítě, které nabízejí dostatečné řešení s náklady pár set tisíc korun i s provozem. Stejně tak vyšší latence je pochopitelná. Některé prvky jsou dokonce v kontextu řešení zcela nevyužitelné. Nestandartní a předimenzovaný hardware vyžaduje výrazně dražší údržbu než běžně používané zařízení.
 
-Požadavky jsou vidtelně psány tak, aby zvítězilo řešení od firmy Cisco, což není poprvé. Již jsme na to upozorňovali u [datového centra](https://praha.pirati.cz/zakazka-psana-na-miru.html).
+Požadavky jsou vidtelně psány tak, aby zvítězilo řešení od firmy Cisco, což není poprvé. Již jsme na to upozorňovali u [datového centra][DC05].
 
 Konkrétně špatně je např:
 
@@ -52,8 +52,11 @@ Problémem je, že magistrát ani další instituce města nemají žádnou sebe
 
 - [Veřejná zakázka](https://www.tenderarena.cz/profil/zakazka/detail.jsf?id=97581)
 - [Usnesení rady R-2379 o výběru jediného uchazeče](http://zastupitelstvo.praha.eu)
-- [Pravomocná rozhodnutí UOHS ve věci SIMAC/ČD-T/ČD](https://www.uohs.cz/cs/verejne-zakazky/aktuality-z-verejnych-zakazek/2122-ceske-drahy-chybovaly-v-zakazce-na-vybaveni-railjetu-wi-fi-technologii.html)
-- [Zakázka na datové centrum psaná na míru](https://praha.pirati.cz/zakazka-psana-na-miru.html)
+- [Pravomocná rozhodnutí UOHS ve věci SIMAC/ČD-T/ČD][UOHS]
+- [Zakázka na datové centrum psaná na míru][DC05]
 - [Dotační program WIFI4EU](https://ec.europa.eu/digital-single-market/en/wifi4eu-bezplatne-wifi-pripojeni-pro-obyvatele-eu)
 - [Praha bezdrátová](https://technet.idnes.cz/konec-bezdratoveho-internetu-v-praze-dwv-/sw_internet.aspx?c=A120522_160155_sw_internet_vse)
 - [Provozní náklady dle ředitele OICT](https://zpravy.aktualne.cz/regiony/praha/wi-fi-za-2-3-milionu-neni-jen-pro-lanovku-chceme-pokryt-cely/r~fab06f5cadc911e7a7000025900fea04/)
+
+[UOHS]: https://www.uohs.cz/cs/verejne-zakazky/aktuality-z-verejnych-zakazek/2122-ceske-drahy-chybovaly-v-zakazce-na-vybaveni-railjetu-wi-fi-technologii.html
+[DC05]: https://praha.pirati.cz/zakazka-psana-na-miru.html
