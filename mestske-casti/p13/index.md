@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-
+<div class="l-cast">
 <section class="l-cast__hero">
     <div class="row o-section">
-    <div class="small-6 columns">
+    <div class="small-5 columns">
         <div class="l-cast__hero-head">Praha<br/><span style="font-size:2em">13</span></div>
     </div>
-    <div class="small-6 columns">
+    <div class="small-7 columns"><div class="l-cast__hero-text">
     <h1 div class="l-cast__hero-subhead">Jsme Vaši sousedé z Prahy 13, kterým není lhostejné, jak bude naše Třináctka vypadat za rok, pět,
             deset, třicet let...</h1>
         <p class="l-cast__perex">Informační otevřenost, finanční transparentnost a především možnost občanů
@@ -16,7 +16,7 @@ layout: default
         <p class="l-cast__perex">Možná i právě díky Vaší podpoře bojujeme od roku 2014 za lepší Třináctku také se dvěma
         pirátskými zastupiteli, a to v koalici Zelení a Piráti pro 13. Práce v opozici nám sice poskytuje jen
         omezené možnosti, přesto si troufáme říct, že je za námi vidět kus práce.</p>
-    </div>
+    </div></div>
     </div>
 </section>
 
@@ -31,11 +31,11 @@ layout: default
         </ul>
     </div>
 </nav>
-<section class="l-kan row o-section ">
+<section class="l-kan l-cast__kan row o-section ">
     <div class="small-12 columns">
       <h2 class="l-cast__heading">Piráti ze 13</h2>
-      <div class="l-kan__item row">
-        <div class="l-kan__item-img columns medium-5 large-6"> <img src="https://www.pirati.cz/assets/img/people/ivan-bartos.png" alt="Tomáš Murňák"/></div>
+      <div class="l__kan-item l-cast__kan-item row">
+        <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://www.pirati.cz/assets/img/people/ivan-bartos.png" alt="Tomáš Murňák"/></div>
         <div class="l-kan__item-data columns medium-7 large-6">
           <h2 class="l-kan__name"><strong>Tomáš Murňák</strong></h2>
           <div class="l-kan__role">Motto : Společně otevřeme stát</div>
@@ -55,45 +55,84 @@ layout: default
            </div>
         </div>
       </div>
-      <div class="l-kan__item row">
-          <div class="l-kan__item-img columns medium-5 large-6"> <img src="https://www.pirati.cz/assets/img/people/ivan-bartos.png" alt="Tomáš Murňák"/></div>
+      <div class="l-kan__item l-cast__kan-item row">
+          <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://www.pirati.cz/assets/img/people/ivan-bartos.png" alt="Tomáš Murňák"/></div>
           <div class="l-kan__item-data columns medium-7 large-6">
-            <h2 class="l-kan__name"><strong>Tomáš Murňák</strong></h2>
+            <h2 class="l-kan__name"><strong>Pavel Opatřil</strong></h2>
             <div class="l-kan__role">Motto : Společně otevřeme stát</div>
               <div class="l-kan__desc">
-                 <p>Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra
-                 zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu
-                 v Anglii pracuji dodnes.</p>
-                 <p>O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do
-                 zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v
-                 roce 2010.</p>
-                 <p>V komunálních volbách v roce 2014 jsme zde spolu vytvořili úspěšnou koalici s názvem Zelení a
-                 piráti pro 13, která ve volbách dostala 11,19 % hlasů a přinesla nám 5 (2 Piráti a 3 Zelení) mandátů
-                 z 35 a stal se tak zastupitelem.</p>
-                 <p>V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen
-                 jeho předsedou.</p>
-                 <p>Mezi mé zájmy patří: Informační technologie, politika, cyklistika a historická literatura.</p>
+                 <p>Jmenuji se Pavel Opatřil, je mi 37 let a na Praze 13 jsem prožil převážnou část svého života. Po
+                    studiu elektrotechniky na Střední Technické Škole na Královských Vinohradech, jsem se
+                    rozhodl věnovat zcela jinému oboru - cestovnímu ruchu. V tomto oboru působím dodnes.</p>
+                    <p>O politiku jsem se začal zajímat krátce po dosažení plnoletosti, ale byl to zájem spíše okrajový,
+                    orientovaný výhradně na politiku na parlamentní a vládní úrovni, a také na politiku zahraniční.
+                    Záležitosti spojené s komunální politikou mne začaly více zasahovat až o pár let později.</p>
+                    <p>V roce 2009 jsem velmi uvítal vznik Pirátské strany, jelikož u mne šlo o období značného
+                    rozčarování a neměl jsem již koho ze stávající politické scény volit. Od té doby jsem se podílel
+                    na volebních kampaních Pirátů na Praze 13, když čas dovolil, tak i na celopražské úrovni.</p>
+                    <a class="l-cast__toggle--more" href="javascript:void(0)" onclick="$(this).next().toggle();">Více</a><div style="display:none;">
+                    <p>V roce 2010 jsem kandidoval (tehdy ještě jako nestraník) za Piráty do Zastupitelstva Hl. m.
+                    Prahy. Po volbách do Evropského parlamentu, ve kterých získala Pirátská strana na Praze 13
+                    bezmála 7 procent hlasů, jsem došel k závěru, že je asi čas se k výsledkům naší společné
+                    práce s kolegou Tomášem Murňákem přihlásit veřejně a podpořit stranu na Praze 13 i
+                    personálně. Od roku 2013 jsem tedy členem Pirátů na a místopředsedou místního pirátského
+                    sdružení na Praze 13.</p>
+                    <p>V roce 2014 jsme s kolegou Tomášem Murňákem v koalici se Stranou Zelených úspěšně
+                    kandidovali do Zastupitelstva MČ Praha 13. V Zastupitelstvu se zaměřuji na problematiku
+                    dopravy, bezpečnosti a v neposlední řadě to, co Prahu 13 trápí nejvíce - neúměrné zahušťování
+                    zástavby.</p></div>
              </div>
           </div>
         </div>
-        <div class="l-kan__item row">
-          <div class="l-kan__item-img columns medium-5 large-6"> <img src="https://www.pirati.cz/assets/img/people/ivan-bartos.png" alt="Tomáš Murňák"/></div>
+        <div class="l-kan__item l-cast__kan-item row">
+          <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://www.pirati.cz/assets/img/people/ivan-bartos.png" alt="Tomáš Murňák"/></div>
           <div class="l-kan__item-data columns medium-7 large-6">
-            <h2 class="l-kan__name"><strong>Tomáš Murňák</strong></h2>
+            <h2 class="l-kan__name"><strong>Václav Hrdlička</strong></h2>
             <div class="l-kan__role">Motto : Společně otevřeme stát</div>
               <div class="l-kan__desc">
-                 <p>Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra
-                 zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu
-                 v Anglii pracuji dodnes.</p>
-                 <p>O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do
-                 zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v
-                 roce 2010.</p>
-                 <p>V komunálních volbách v roce 2014 jsme zde spolu vytvořili úspěšnou koalici s názvem Zelení a
-                 piráti pro 13, která ve volbách dostala 11,19 % hlasů a přinesla nám 5 (2 Piráti a 3 Zelení) mandátů
-                 z 35 a stal se tak zastupitelem.</p>
-                 <p>V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen
-                 jeho předsedou.</p>
-                 <p>Mezi mé zájmy patří: Informační technologie, politika, cyklistika a historická literatura.</p>
+                 <p>Jmenuji se Vašek Hrdlička, narodil jsem se v roce 1980 v Praze, kde vyjma 5 let strávených
+                    studiem v Hradci Králové, žiji celý život. Od svých 10 let bydlím na Lužinách, a jakožto
+                    absolvent Gymnázia Jaroslava Heyrovského jsem na Třináctce strávil i podstatnou část svého
+                    života středoškolského.</p>
+                    <p>Vzděláním jsem sociální pedagog, ale vyjma příležitostné dobrovolnické činnosti jsem se po
+                    skončení studia pracovně pohyboval mimo tento obor. Konkrétně mne posledních cca deset let
+                    živí telekomunikace, a to jeden z velkých telekomunikačních operátorů, kde pracuji na pozici na
+                    rozhraní business a technology.</p>
+                    <p>Do svého vstupu do komunální politiky v roce 2016 se moje počínání ve věcech veřejných
+                    omezovalo na příležitostnou komunikaci s místním úřadem, samosprávou a státními firmami, a
+                    na šíření získaných informací ve svém nejbližším okolí. Přístup k informacím i možnosti
+                    skutečně zásadnějších změn ale byly v tomto případě omezené, a tak jsem se rozhodl posunout
+                    se ve svém počínání někam dál. Spolupráce s Piráty na Praze 13 mi umožňuje získávat čerstvé
+                    informace, lepší know-how a společně s tím i efektivnější možnost ovlivňovat veřejné věci
+                    přímo.</p>
+                    <a class="l-cast__toggle--more" href="javascript:void(0)" onclick="$(this).next().toggle();">Více</a><div style="display:none;">
+                    <p>Jakým směrem? Níže jsem se pokusil zformulovat, v duchu jakých hodnot a zásad vlastně ve
+                    svých občanských a politických aktivitách jednám.</p>
+                    <p>Byl bych rád, kdyby se v politice na jakékoliv úrovni více používal zdravý rozum. Troufám si říct
+                    a doufám, že všechno ostatní, co považuji za další pilíře své politické, respektive občanské
+                    orientace, z něj svým způsobem vychází.</p>
+                    <p>Slušnost, úcta, tolerance, respekt, dobromyslnost, poctivost - Bez ohledu na národnostní,
+                    náboženskou, rasovou, politickou či jakoukoliv jinou příslušnost je láska k bližnímu generacemi
+                    ověřeným receptem pro zdravou společnost a život v míru, bezpečí a sociální pohodě.
+                    Transparentnost - Jestliže je politika služba občanům, není jediný důvod, pro který by občané
+                    neměli mít snadný způsob kdykoliv zkontrolovat, je-li tato služba vykonávána k jejich
+                    konkrétnímu prospěchu. Finanční toky, smlouvy, záznamy ze zasedání, hlasování, koncepční
+                    dokumenty atd. Existující zákonný nárok vnímám jako pouhý předpoklad. V informační
+                    společnosti 21. století není nutné, aby se každý jeden občan formou písemných žádostí pídil po
+                    základních informacích, které mu (a všem ostatním) mohou jeho zastupitelé zpřístupnit "na pár
+                    kliknutí".</p>
+                    <p>Odbornost a osvědčená praxe - Řešením většiny společenských otázek i ryze praktických
+                    problémů a úkolů se dlouhodobě zabývá řada odborníků, škol, firem... Inspiraci či přímo vzor lze
+                    také nacházet v jiných společnostech - blízkých i vzdálených, v současnosti i minulosti. Byl bych
+                    rád, kdyby byla v politice přijímána co možná nejčastěji právě rozhodnutí postavená na
+                    takovýchto základech, namísto dilentatismu a klientelismu.</p>
+                    <p>Trvalá udržitelnost a odkaz potomkům - Nemusím být ekonom, abych viděl, že naše
+                    ekonomika je postavena především na kontinuálním růstu produktivity, respektive produkce. Ze
+                    své podstaty tak vyžaduje od společnosti lidem i přírodě škodlivý nadměrný konzum. Domnívám
+                    se, že posilování opravdu lokální ekonomiky by mohlo být jednou z možných cest ke skutečné
+                    prosperitě a mohlo by výrazně přispět k návratu ekonomické i sociální rovnováhy. Jedná se
+                    koneckonců svým způsobem o model, který tu úspěšně fungoval po většinu trvání lidské
+                    civilizace.</p></div>
              </div>
           </div>
         </div>
@@ -233,20 +272,87 @@ layout: default
       aktivitě.
       </p>
       <div class="l-cast__connect-row row">
-          <div class="l-cast__connect-perex-item columns medium-6">
+      <div class="l-cast__connect-detail columns medium-7">
+              <h2 class="l-cast__connect-detail-title">Odborník, konzultant</h2>
+              <p>Praktická komunální politika není jen o ideových rozhodnutích. V rámci samosprávy se řeší a
+                 rozhodují věci snad ze všech myslitelných oblastí života, a pro většinu z nich je odborná
+                 fundovanost přinejmenším vhodná.
+                 Každý z nás je svou profesí a svými zájmy zaměřen jiným směrem a nikdo nemůže rozumět
+                 všemu. Proto hledáme lidi, kteří své názory a doporučení pro různé oblasti věcí veřejných
+                 mohou opřít o odborné znalosti a praktické zkušenosti.
+                 Řada z Vás ve svém zaměstnaní či při studiu získala a získává nejrůznější znalosti, zkušenosti
+                 a kompetence, které lze dobře uplatnit pro témata spadající pod výbory a komise samosprávy
+                 na Praze 13. Záleží jen na Vás, do jaké míry budete mít čas a chuť sdílet s Piráty své
+                 know-how ve prospěch svůj a ostatních obyvatel Prahy 13.
+                 Můžete nás klidně jen příležitostně oslovit, když budete mít dojem, že by se na Praze 13 dalo
+                 něco dělat lépe, kdyby... Rádi se s Vámi sejdeme a probereme možnosti, jak Vaše doporučení
+                 realizovat. Ještě více ale oceníme, pokud se rozhodnete sdílet s námi svůj pohled
+                 dlouhodobě a stát se tak aktivním tvůrcem Pirátské politiky na Praze 13. Třeba i jako
+                 zastupitel...
+                 Napište nám, zavolejte, nebo rovnou přijďte a řekněte nám, jak byste mohli a chtěli
+                 přispět k lepšímu životu na Třináctce.</p>
+              <h2 class="l-cast__connect-detail-title">Aktivní sympatizant, dobrovolník</h2>
+              <p>Možná je Vám sympatické, co děláme a možná i Vy cítíte potřebu nějakým způsobeUdělat něco
+                 nejen pro sebe ale i pro ostatní.
+                 Jsme přesvědčeni, že každý má potenciál udělat na úrovni samosprávy něco pro sebe i pro své
+                 sousedy. Snad každý je v něčem svým způsobem dobrý nebo v něčem přímo vyniká.
+                 • “Odborná” pomoc (grafika, marketing, žurnalistika atp.) viz též Odborník, konzultant...
+                 • Pomoc s distribucí propagačních materiálu (např. letáky pro ad hoc akce, Pirátské listy)
+                 • Pomoc s organizací akcí (např. Ukliďme Česko)
+                 • Sběr a/nebo vyhodnocování dat při průzkumech mezi sousedy
+                 • Zodpovědnost za dílčí úkoly podle svých dovedností a svého zájmu
+                 • ...
+                 Způsob, jakým může pomoci záleží na Vás. Může to být třeba:
+                 
+                 A možná patříte ke specifické společenské skupině a máte dojem, že se pro ni na Praze 13
+                 nedělá dost a rádi byste to změnili (živnostník, invalida, důchodce atp.)
+                 Napište nám, zavolejte, nebo rovnou přijďte a řekněte nám, jak byste mohli a chtěli
+                 přispět k lepšímu životu na Třináctce.</p>
+              <h2 class="l-cast__connect-detail-title">Sympatizant, volič</h2>
+              <p>Ať už jste naším dlouhodobým podporovatelem, nebo volbu Pirátské strany jen zvažujete, jsme
+                 rádi, že volíte informovaně. Alespoň tak soudíme na základě toho, že právě čtete tento
+                 odstavec. Informovaný volič, respektive informovaný občan, je základním předpokladem pro
+                 prosperující společnost.
+                 Jakkoliv je politická kultura v České republice bohužel nastavena tak, že rozdíl mezi pravdou a
+                 lží může běžnému pozorovateli snadno splývat, je komunální politika přeci jen o něco čitelnější.
+                 I když si to možná ani neuvědomujeme, s výsledky práce samosprávy - dobrými i špatnými - se
+                 v rozličných podobách setkáváme každý den. Několik málo příkladů:
+                 Je v okolí Vašeho bydliště udržován pořádek?
+                 Jsou v zimě dobře udržované cesty?
+                 Máte místo pro své děti ve školních zařízeních?
+                 Cítíte se na Praze 13 bezpečně?
+                 Máte na Třináctce kam vyjít do zeleně či za opravdovou kulturou?
+                 ...
+                 Jako čtenáři těchto stránek je asi zbytečné Vám říkat, že volit podle předvolebních slibů není to
+                 pravé ořechové. Piráti kladou důraz na maximální informační otevřenost. Ať už chcete sledovat
+                 naší aktivitu na Praze 13 pravidelně, nebo jen právě hledáte informace před volbami,
+                 doporučujeme Vám využít tyto zdroje.</p>
+              <h2 class="l-cast__connect-detail-title">Pirát</h2>
+              <p>Česká Pirátská strana je jedinou politickou stranou v České republice, která funguje na principu
+                 přímé demokracie a kde je základní členstvo tím nejvyšším orgánem s přímým právem utvářet
+                 reálnou podobu Pirátské politiky.
+                 Podoba Vašeho případného členství závisí jen na Vás. Můžete být členem, který se třeba jen občas
+                 zapojí do četných internetových diskusí a voleb, a svými názory a postoji tak budete ovlivňovat
+                 stávající i budoucí diskurz českých Pirátů. Pokud ale budete mít čas a chuť, nic Vám nebrání v tom
+                 přesvědčit svými myšlenkami a činy ostatní Piráty a stát se třeba naším příštím předsedou.
+                 S politickým diskursem Pirátské strany se můžete seznámit zde prostřednictvím programu pro volby
+                 do PS 2017.</p>
+            </div>
+        <div class="l-cast__connect-perex columns medium-5">
+          <div class="l-cast__connect-perex-item">
             <h3 class="l-cast__connect-title"><strong>Odborník, konzultant...</strong></h3>
                <p>Praktická komunální politika není jen o ideových rozhodnutích. V rámci samosprávy se řeší a
                rozhodují věci snad ze všech myslitelných oblastí života, a pro většinu z nich je odborná
                fundovanost přinejmenším vhodná. [více...]</p>
           </div>
-          <div class="l-cast__connect-perex-item columns medium-6">
+          <div class="l-cast__connect-perex-item">
               <h3 class="l-cast__connect-title"><strong>Aktivní sympatizant, dobrovolník...</strong></h3>
                  <p>Možná je Vám sympatické, co děláme a možná i Vy cítíte potřebu nějakým způsobeUdělat něco
                  nejen pro sebe ale i pro ostatní. Jsme přesvědčeni, že každý má potenciál udělat na úrovni
                  samosprávy něco pro sebe i pro své sousedy. Snad každý je v něčem svým způsobem dobrý
                  nebo v něčem přímo vyniká. [více...]</p>
             </div>
-           <div class="l-cast__connect-perex-item columns medium-6">
+           <div class="l-cast__connect-perex-item">
                <h3 class="l-cast__connect-title"><strong>Sympatizant, volič</strong></h3>
                   <p>Ať už jste naším dlouhodobým podporovatelem, nebo volbu Pirátské strany jen zvažujete, jsme
                   rádi, že volíte informovaně. Alespoň tak soudíme na základě toho, že právě čtete tento
@@ -254,12 +360,13 @@ layout: default
                   <p>Informovaný volič, respektive informovaný občan, je základním předpokladem pro prosperující
                   společnost. [více...]</p>
              </div>
-             <div class="l-cast__connect-perex-item columns medium-6">
+             <div class="l-cast__connect-perex-item">
                 <h3 class="l-cast__connect-title"><strong>Pirát</strong></h3>
                    <p>Česká Pirátská strana je jedinou politickou stranou v České republice, která funguje na principu
                    přímé demokracie a kde je základní členstvo tím nejvyšším orgánem s přímým právem utvářet
                    reálnou podobu Pirátské politiky. [více...]</p>
               </div>
+          </div>
       </div>
   </div>
 </section>
@@ -272,30 +379,34 @@ layout: default
          najdete i další informační kanál a stručný popis jejich obsahového zaměření
       </p>
       <div class="l-cast__activity-row row">
-          <div class="l-cast__activity-perex-item columns medium-3">
-            <h5 class="l-cast__activity-title"><strong>Facebook Zeleni a Piráti pro 13</strong></h5>
+          <div class="l-cast__activity-perex-item columns medium-6">
+            <i class="fa fa-facebook l-cast__activity-perex-icon"></i>
+            <div><h5 class="l-cast__activity-title"><strong>Facebook Zeleni a Piráti pro 13</strong></h5>
                <p>informace o aktuálních kauzách, postřehy ze zastupitelské práce, upozornění na publikované
-               články, videa atd.</p>
+               články, videa atd.</p></div>
           </div>
-          <div class="l-cast__activity-perex-item columns medium-3">
-              <h5 class="l-cast__activity-title"><strong>Webové stránky Zelení a Piráti pro 13</strong></h5>
+          <div class="l-cast__activity-perex-item columns medium-6">
+              <i class="fa fa-globe l-cast__activity-perex-icon"></i>
+              <div><h5 class="l-cast__activity-title"><strong>Webové stránky Zelení a Piráti pro 13</strong></h5>
                  <p>kompletní zdroj informací o naší koaliční práci se Zelenými - články ke kauzám programové 
-                 priority, kontakty na zastupitele, kalendář akcí atp.</p>
+                 priority, kontakty na zastupitele, kalendář akcí atp.</p></div>
             </div>
-           <div class="l-cast__activity-perex-item columns medium-3">
-               <h5 class="l-cast__activity-title"><strong>YouTube kanál Zelení a Piráti pro 13</strong></h5>
+           <div class="l-cast__activity-perex-item columns medium-6">
+                <i class="fa fa-youtube l-cast__activity-perex-icon"></i>
+               <div><h5 class="l-cast__activity-title"><strong>YouTube kanál Zelení a Piráti pro 13</strong></h5>
                   <p>Kompletní audiovizuální záznamy ze zasedání zastupitelstva, vybrané interpelace, perličky
-                  radních aj... ;)</p>
+                  radních aj... ;)</p></div>
              </div>
-             <div class="l-cast__activity-perex-item columns medium-3">
-                <h5 class="l-cast__activity-title"><strong>Facebook Piráti Praha 13</strong></h5>
+             <div class="l-cast__activity-perex-item columns medium-6">
+                <i class="fa fa-facebook l-cast__activity-perex-icon"></i>
+                <div><h5 class="l-cast__activity-title"><strong>Facebook Piráti Praha 13</strong></h5>
                    <p>informace o samostatných aktivitách Pirátů na Praze 13 - pravidelné schůzky, mimořádné
-                   události a informace atp.</p>
+                   události a informace atp.</p></div>
               </div>
       </div>
   </div>
 </section>
-<section class="l-priority row o-section ">
+<section class="l-end row o-section ">
     <div class="small-12 columns">
       <h2 class="l-cast__heading">Naše aktivity na Praze 13</h2>
       <p class="l-cast__perex">Pro peníze to rozhodně neděláme. Naší hlavní motivací je snaha o zásadní změnu úrovně i
@@ -316,24 +427,29 @@ layout: default
          části. Pokud je to jen trochu možné, pokoušíme se proto tyto konzultace zajišťovat u
          kompetentních kolegů v rámci České pirátské strany. Nicméně i oni mají svoji agendu a i oni
          dělají politiku na dobrovolnické úrovni, takže priority se prostě občas nepotkají.</p>
-         <h4>Propagace</h4>
-         <p>Jakkoliv jsou naše aktivity lidmi zpravidla vnímány velmi pozitivně, bez toho, abychom byli
-         dobře vidět a slyšet, je velice obtížné zapojovat do věcí veřejných maximum obyvatel, a zároveň
-         tak oslovovat i potenciální voliče.</p>
-         <p>Díky internetu a sociálním sítím je naštěstí komunikace jednodušší, než byla kdykoliv předtím,
-         ale stále má svá značná omezení. Je nám pak líto, když při osobních rozhovorech slýcháme
-         věty typu: “...ale lidi tohle moc nevědí...”, “...tak to Vás budu podporovat...“, ...škoda, že Vás
-         není více vidět...” atp.</p>
-         <p>Specifickým případem jsou potom volby. To, že dlouhodobě odvádíte dobrou práci, v rámci
-         které důsledně naplňujete svá předchozí prohlášení, je bohužel jen zlomek předpokladu
-         úspěchu. Dobrým (či možná spíše špatným) příkladem toho, že zásadním prostředkem je
-         především dostatek kapitálu, je politické strana Andreje Babiše. ANO mělo ještě pár měsíců
-         před svými prvními volbami v roce 2013 preference 0,5 %, přičemž po své masivní kampani
-         nakonec získalo téměř 20 %.</p>
-         <p>Pokud je Vám naše aktivita sympatická a rádi byste nás v ní podpořili i finančně, můžete
-         tak učinit příspěvkem na transparentní účet České Pirátské strany a ke svému daru přidat
-         vzkaz "Pirátům ze Třináctky". Viz též https://dary.pirati.cz/</p>
+        
          </div>
-      </p>
+      <h3>Propagace</h3>
+      <div class="l-cast__perex-columns">
+               
+               <p>Jakkoliv jsou naše aktivity lidmi zpravidla vnímány velmi pozitivně, bez toho, abychom byli
+               dobře vidět a slyšet, je velice obtížné zapojovat do věcí veřejných maximum obyvatel, a zároveň
+               tak oslovovat i potenciální voliče.</p>
+               <p>Díky internetu a sociálním sítím je naštěstí komunikace jednodušší, než byla kdykoliv předtím,
+               ale stále má svá značná omezení. Je nám pak líto, když při osobních rozhovorech slýcháme
+               věty typu: “...ale lidi tohle moc nevědí...”, “...tak to Vás budu podporovat...“, ...škoda, že Vás
+               není více vidět...” atp.</p>
+               <p>Specifickým případem jsou potom volby. To, že dlouhodobě odvádíte dobrou práci, v rámci
+               které důsledně naplňujete svá předchozí prohlášení, je bohužel jen zlomek předpokladu
+               úspěchu. Dobrým (či možná spíše špatným) příkladem toho, že zásadním prostředkem je
+               především dostatek kapitálu, je politické strana Andreje Babiše. ANO mělo ještě pár měsíců
+               před svými prvními volbami v roce 2013 preference 0,5 %, přičemž po své masivní kampani
+               nakonec získalo téměř 20 %.</p>
+               <p>Pokud je Vám naše aktivita sympatická a rádi byste nás v ní podpořili i finančně, můžete
+               tak učinit příspěvkem na transparentní účet České Pirátské strany a ke svému daru přidat
+               vzkaz "Pirátům ze Třináctky". Viz též https://dary.pirati.cz/</p>
+               </div>
+           
   </div>
 </section>
+</div>
