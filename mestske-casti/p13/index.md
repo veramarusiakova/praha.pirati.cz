@@ -40,18 +40,19 @@ layout: default
           <h2 class="l-kan__name"><strong>Tomáš Murňák</strong></h2>
           <div class="l-kan__role">Motto : Společně otevřeme stát</div>
             <div class="l-kan__desc">
-               <p>Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra
+               <p class="l-cast__perex">Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra
                zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu
                v Anglii pracuji dodnes.</p>
                <p>O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do
                zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v
                roce 2010.</p>
+               <a class="l-cast__toggle--more" href="javascript:void(0)" onclick="$(this).next().toggle();">Více</a><div style="display:none;">
                <p>V komunálních volbách v roce 2014 jsme zde spolu vytvořili úspěšnou koalici s názvem Zelení a
                piráti pro 13, která ve volbách dostala 11,19 % hlasů a přinesla nám 5 (2 Piráti a 3 Zelení) mandátů
                z 35 a stal se tak zastupitelem.</p>
                <p>V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen
                jeho předsedou.</p>
-               <p>Mezi mé zájmy patří: Informační technologie, politika, cyklistika a historická literatura.</p>
+               <p>Mezi mé zájmy patří: Informační technologie, politika, cyklistika a historická literatura.</p></div>
            </div>
         </div>
       </div>
@@ -61,16 +62,17 @@ layout: default
             <h2 class="l-kan__name"><strong>Pavel Opatřil</strong></h2>
             <div class="l-kan__role">Motto : Společně otevřeme stát</div>
               <div class="l-kan__desc">
-                 <p>Jmenuji se Pavel Opatřil, je mi 37 let a na Praze 13 jsem prožil převážnou část svého života. Po
+                 <p class="l-cast__perex">Jmenuji se Pavel Opatřil, je mi 37 let a na Praze 13 jsem prožil převážnou část svého života. Po
                     studiu elektrotechniky na Střední Technické Škole na Královských Vinohradech, jsem se
                     rozhodl věnovat zcela jinému oboru - cestovnímu ruchu. V tomto oboru působím dodnes.</p>
                     <p>O politiku jsem se začal zajímat krátce po dosažení plnoletosti, ale byl to zájem spíše okrajový,
                     orientovaný výhradně na politiku na parlamentní a vládní úrovni, a také na politiku zahraniční.
                     Záležitosti spojené s komunální politikou mne začaly více zasahovat až o pár let později.</p>
-                    <p>V roce 2009 jsem velmi uvítal vznik Pirátské strany, jelikož u mne šlo o období značného
-                    rozčarování a neměl jsem již koho ze stávající politické scény volit. Od té doby jsem se podílel
-                    na volebních kampaních Pirátů na Praze 13, když čas dovolil, tak i na celopražské úrovni.</p>
+                    
                     <a class="l-cast__toggle--more" href="javascript:void(0)" onclick="$(this).next().toggle();">Více</a><div style="display:none;">
+                    <p>V roce 2009 jsem velmi uvítal vznik Pirátské strany, jelikož u mne šlo o období značného
+                                        rozčarování a neměl jsem již koho ze stávající politické scény volit. Od té doby jsem se podílel
+                                        na volebních kampaních Pirátů na Praze 13, když čas dovolil, tak i na celopražské úrovni.</p>
                     <p>V roce 2010 jsem kandidoval (tehdy ještě jako nestraník) za Piráty do Zastupitelstva Hl. m.
                     Prahy. Po volbách do Evropského parlamentu, ve kterých získala Pirátská strana na Praze 13
                     bezmála 7 procent hlasů, jsem došel k závěru, že je asi čas se k výsledkům naší společné
@@ -90,7 +92,7 @@ layout: default
             <h2 class="l-kan__name"><strong>Václav Hrdlička</strong></h2>
             <div class="l-kan__role">Motto : Společně otevřeme stát</div>
               <div class="l-kan__desc">
-                 <p>Jmenuji se Vašek Hrdlička, narodil jsem se v roce 1980 v Praze, kde vyjma 5 let strávených
+                 <p class="l-cast__perex">Jmenuji se Vašek Hrdlička, narodil jsem se v roce 1980 v Praze, kde vyjma 5 let strávených
                     studiem v Hradci Králové, žiji celý život. Od svých 10 let bydlím na Lužinách, a jakožto
                     absolvent Gymnázia Jaroslava Heyrovského jsem na Třináctce strávil i podstatnou část svého
                     života středoškolského.</p>
@@ -98,14 +100,15 @@ layout: default
                     skončení studia pracovně pohyboval mimo tento obor. Konkrétně mne posledních cca deset let
                     živí telekomunikace, a to jeden z velkých telekomunikačních operátorů, kde pracuji na pozici na
                     rozhraní business a technology.</p>
-                    <p>Do svého vstupu do komunální politiky v roce 2016 se moje počínání ve věcech veřejných
-                    omezovalo na příležitostnou komunikaci s místním úřadem, samosprávou a státními firmami, a
-                    na šíření získaných informací ve svém nejbližším okolí. Přístup k informacím i možnosti
-                    skutečně zásadnějších změn ale byly v tomto případě omezené, a tak jsem se rozhodl posunout
-                    se ve svém počínání někam dál. Spolupráce s Piráty na Praze 13 mi umožňuje získávat čerstvé
-                    informace, lepší know-how a společně s tím i efektivnější možnost ovlivňovat veřejné věci
-                    přímo.</p>
+                   
                     <a class="l-cast__toggle--more" href="javascript:void(0)" onclick="$(this).next().toggle();">Více</a><div style="display:none;">
+                    <p>Do svého vstupu do komunální politiky v roce 2016 se moje počínání ve věcech veřejných
+                                        omezovalo na příležitostnou komunikaci s místním úřadem, samosprávou a státními firmami, a
+                                        na šíření získaných informací ve svém nejbližším okolí. Přístup k informacím i možnosti
+                                        skutečně zásadnějších změn ale byly v tomto případě omezené, a tak jsem se rozhodl posunout
+                                        se ve svém počínání někam dál. Spolupráce s Piráty na Praze 13 mi umožňuje získávat čerstvé
+                                        informace, lepší know-how a společně s tím i efektivnější možnost ovlivňovat veřejné věci
+                                        přímo.</p>
                     <p>Jakým směrem? Níže jsem se pokusil zformulovat, v duchu jakých hodnot a zásad vlastně ve
                     svých občanských a politických aktivitách jednám.</p>
                     <p>Byl bych rád, kdyby se v politice na jakékoliv úrovni více používal zdravý rozum. Troufám si říct
@@ -114,19 +117,19 @@ layout: default
                     <p>Slušnost, úcta, tolerance, respekt, dobromyslnost, poctivost - Bez ohledu na národnostní,
                     náboženskou, rasovou, politickou či jakoukoliv jinou příslušnost je láska k bližnímu generacemi
                     ověřeným receptem pro zdravou společnost a život v míru, bezpečí a sociální pohodě.
-                    Transparentnost - Jestliže je politika služba občanům, není jediný důvod, pro který by občané
+                    <b>Transparentnost</b> - Jestliže je politika služba občanům, není jediný důvod, pro který by občané
                     neměli mít snadný způsob kdykoliv zkontrolovat, je-li tato služba vykonávána k jejich
                     konkrétnímu prospěchu. Finanční toky, smlouvy, záznamy ze zasedání, hlasování, koncepční
                     dokumenty atd. Existující zákonný nárok vnímám jako pouhý předpoklad. V informační
                     společnosti 21. století není nutné, aby se každý jeden občan formou písemných žádostí pídil po
                     základních informacích, které mu (a všem ostatním) mohou jeho zastupitelé zpřístupnit "na pár
                     kliknutí".</p>
-                    <p>Odbornost a osvědčená praxe - Řešením většiny společenských otázek i ryze praktických
+                    <p><b>Odbornost a osvědčená praxe</b> - Řešením většiny společenských otázek i ryze praktických
                     problémů a úkolů se dlouhodobě zabývá řada odborníků, škol, firem... Inspiraci či přímo vzor lze
                     také nacházet v jiných společnostech - blízkých i vzdálených, v současnosti i minulosti. Byl bych
                     rád, kdyby byla v politice přijímána co možná nejčastěji právě rozhodnutí postavená na
                     takovýchto základech, namísto dilentatismu a klientelismu.</p>
-                    <p>Trvalá udržitelnost a odkaz potomkům - Nemusím být ekonom, abych viděl, že naše
+                    <p><b>Trvalá udržitelnost a odkaz potomkům</b> - Nemusím být ekonom, abych viděl, že naše
                     ekonomika je postavena především na kontinuálním růstu produktivity, respektive produkce. Ze
                     své podstaty tak vyžaduje od společnosti lidem i přírodě škodlivý nadměrný konzum. Domnívám
                     se, že posilování opravdu lokální ekonomiky by mohlo být jednou z možných cest ke skutečné
@@ -163,19 +166,19 @@ layout: default
       <div class="l-cast__priority-row row">
         <div class="l-cast__priority-perex columns medium-5">
           <div class="l-cast__priority-perex-item">
-            <h3 class="l-cast__priority-title"><strong>Transparentní a otevřená radnice</strong></h3>
+            <h3 class="l-cast__priority-title"><strong><a href="#transparence">Transparentní a otevřená radnice</a></strong></h3>
                <p>Možnost získat snadno a rychle jakékoliv informace ze samosprávy své městské části a mít
                dostatek možností se do jejího chodu přímo zapojit, považujeme za naprostý základ života
                prosperující obce 21. století.</p>
           </div>
           <div class="l-cast__priority-perex-item">
-              <h3 class="l-cast__priority-title"><strong>Prevence neúměrného zahušťování zástavby</strong></h3>
+              <h3 class="l-cast__priority-title"><strong><a href="#prevence">Prevence neúměrného zahušťování zástavby</a></strong></h3>
                  <p>Jakkoliv respektujeme právo soukromých vlastníků na jejich podnikatelské developerské
                  záměry, zastáváme názor, že stejného respektu se musí dostávat i stávajícím obyvatelům,
                  jejichž zájmy bývají často necitlivou výstavbou neadekvátně narušovány.</p>
             </div>
            <div class="l-cast__priority-perex-item">
-               <h3 class="l-cast__priority-title"><strong>Kvalitní veřejný prostor a komunitní život</strong></h3>
+               <h3 class="l-cast__priority-title"><strong><a href="#komunita">Kvalitní veřejný prostor a komunitní život</a></strong></h3>
                   <p>Průběžně rozvíjíme a realizujeme naší vizi ideální Třináctky také v dalších oblastech, a snažíme
                   se tak činit se zapojením co nejvíce sousedů. Inspirací je pro nás i oficiální Strategie rozvoje
                   Prahy 13, kterou považujeme za relativně kvalitní dokument (byť dnes v řadě bodů již trochu
@@ -184,7 +187,7 @@ layout: default
              </div>
         </div>
         <div class="l-cast__priority-detail columns medium-7">
-        <h2 class="l-cast__priority-detail-title">Transparentní a otevřená radnice</h2>
+        <h2 class="l-cast__priority-detail-title" id="transparence">Transparentní a otevřená radnice</h2>
         <p>Možnost získat snadno a rychle jakékoliv informace ze samosprávy své městské části a mít
         dostatek možností se do jejího chodu přímo zapojit, považujeme za naprostý základ života
         prosperující obce 21. století.</p>
@@ -199,7 +202,7 @@ layout: default
         diletantského přístupu, nebo zda někomu vlastně nevyhovuje, když se lidé o věci veřejné moc
         nestarají a zbytečně moc toho neví.</p>
         <p>Co si Piráti představují pod pojmem transparentní a otevřená radnice se můžete dočíst zde.</p>
-        <h2 class="l-cast__priority-detail-title">Prevence neúměrného zahušťování zástavby</h2>
+        <h2 class="l-cast__priority-detail-title" id="prevence">Prevence neúměrného zahušťování zástavby</h2>
         <p>Jakkoliv respektujeme právo soukromých vlastníků na jejich podnikatelské developerské
               záměry, zastáváme názor, že stejného respektu se musí dostávat i stávajícím obyvatelům,
               jejichž zájmy bývají často necitlivou výstavbou neadekvátně narušovány.</p>
@@ -222,7 +225,7 @@ layout: default
               ovlivnit, ale které přitom mají na výstavbu a rozvoj naší městské části zásadní vliv (územní plán,
               výšková regulace výstavby atp.)</p>
               <p>Neúměrné zahušťování výstavby bychom rádi eliminovali zavedením následujících opatření.</p>
-          <h2 class="l-cast__priority-detail-title">Kvalitní veřejný prostor a komunitní život</h2>
+          <h2 class="l-cast__priority-detail-title" id="komunita">Kvalitní veřejný prostor a komunitní život</h2>
           <p>Dominantním charakterem Prahy 13 je bezesporu sídlištní výstavba, která s sebou bohužel
           nese i anonymitu a nižší míru identifikace s místem svého bydliště. Přispívá k tomu jistě i fakt,
           že pro nemalý počet lidí představuje Třináctka pouze přechodné bydliště či dokonce pouze
@@ -273,87 +276,87 @@ layout: default
       </p>
       <div class="l-cast__connect-row row">
       <div class="l-cast__connect-detail columns medium-7">
-              <h2 class="l-cast__connect-detail-title">Odborník, konzultant</h2>
+              <h2 class="l-cast__connect-detail-title" id="odbornik">Odborník, konzultant</h2>
               <p>Praktická komunální politika není jen o ideových rozhodnutích. V rámci samosprávy se řeší a
                  rozhodují věci snad ze všech myslitelných oblastí života, a pro většinu z nich je odborná
-                 fundovanost přinejmenším vhodná.
-                 Každý z nás je svou profesí a svými zájmy zaměřen jiným směrem a nikdo nemůže rozumět
+                 fundovanost přinejmenším vhodná.</p>
+                 <p>Každý z nás je svou profesí a svými zájmy zaměřen jiným směrem a nikdo nemůže rozumět
                  všemu. Proto hledáme lidi, kteří své názory a doporučení pro různé oblasti věcí veřejných
-                 mohou opřít o odborné znalosti a praktické zkušenosti.
-                 Řada z Vás ve svém zaměstnaní či při studiu získala a získává nejrůznější znalosti, zkušenosti
+                 mohou opřít o odborné znalosti a praktické zkušenosti.</p>
+                <p>Řada z Vás ve svém zaměstnaní či při studiu získala a získává nejrůznější znalosti, zkušenosti
                  a kompetence, které lze dobře uplatnit pro témata spadající pod výbory a komise samosprávy
                  na Praze 13. Záleží jen na Vás, do jaké míry budete mít čas a chuť sdílet s Piráty své
-                 know-how ve prospěch svůj a ostatních obyvatel Prahy 13.
-                 Můžete nás klidně jen příležitostně oslovit, když budete mít dojem, že by se na Praze 13 dalo
+                 know-how ve prospěch svůj a ostatních obyvatel Prahy 13.</p>
+                 <p>Můžete nás klidně jen příležitostně oslovit, když budete mít dojem, že by se na Praze 13 dalo
                  něco dělat lépe, kdyby... Rádi se s Vámi sejdeme a probereme možnosti, jak Vaše doporučení
                  realizovat. Ještě více ale oceníme, pokud se rozhodnete sdílet s námi svůj pohled
                  dlouhodobě a stát se tak aktivním tvůrcem Pirátské politiky na Praze 13. Třeba i jako
-                 zastupitel...
-                 Napište nám, zavolejte, nebo rovnou přijďte a řekněte nám, jak byste mohli a chtěli
+                 zastupitel...</p>
+                 <p>Napište nám, zavolejte, nebo rovnou přijďte a řekněte nám, jak byste mohli a chtěli
                  přispět k lepšímu životu na Třináctce.</p>
-              <h2 class="l-cast__connect-detail-title">Aktivní sympatizant, dobrovolník</h2>
+              <h2 class="l-cast__connect-detail-title" id="sympatizant">Aktivní sympatizant, dobrovolník</h2>
               <p>Možná je Vám sympatické, co děláme a možná i Vy cítíte potřebu nějakým způsobeUdělat něco
-                 nejen pro sebe ale i pro ostatní.
-                 Jsme přesvědčeni, že každý má potenciál udělat na úrovni samosprávy něco pro sebe i pro své
-                 sousedy. Snad každý je v něčem svým způsobem dobrý nebo v něčem přímo vyniká.
-                 • “Odborná” pomoc (grafika, marketing, žurnalistika atp.) viz též Odborník, konzultant...
-                 • Pomoc s distribucí propagačních materiálu (např. letáky pro ad hoc akce, Pirátské listy)
-                 • Pomoc s organizací akcí (např. Ukliďme Česko)
-                 • Sběr a/nebo vyhodnocování dat při průzkumech mezi sousedy
-                 • Zodpovědnost za dílčí úkoly podle svých dovedností a svého zájmu
-                 • ...
-                 Způsob, jakým může pomoci záleží na Vás. Může to být třeba:
+                 nejen pro sebe ale i pro ostatní.</p>
+                 <p>Jsme přesvědčeni, že každý má potenciál udělat na úrovni samosprávy něco pro sebe i pro své
+                 sousedy. Snad každý je v něčem svým způsobem dobrý nebo v něčem přímo vyniká.</p><ul>
+                 <li>“Odborná” pomoc (grafika, marketing, žurnalistika atp.) viz též Odborník, konzultant...</li>
+                 <li>Pomoc s distribucí propagačních materiálu (např. letáky pro ad hoc akce, Pirátské listy)</li>
+                 <li>Pomoc s organizací akcí (např. Ukliďme Česko)</li>
+                 <li>Sběr a/nebo vyhodnocování dat při průzkumech mezi sousedy</li>
+                 <li>Zodpovědnost za dílčí úkoly podle svých dovedností a svého zájmu</li>
+                 </ul>
+                 <p>Způsob, jakým může pomoci záleží na Vás. Může to být třeba:</p>
                  
-                 A možná patříte ke specifické společenské skupině a máte dojem, že se pro ni na Praze 13
-                 nedělá dost a rádi byste to změnili (živnostník, invalida, důchodce atp.)
-                 Napište nám, zavolejte, nebo rovnou přijďte a řekněte nám, jak byste mohli a chtěli
+                 <p>A možná patříte ke specifické společenské skupině a máte dojem, že se pro ni na Praze 13
+                 nedělá dost a rádi byste to změnili (živnostník, invalida, důchodce atp.)</p>
+                 <p>Napište nám, zavolejte, nebo rovnou přijďte a řekněte nám, jak byste mohli a chtěli
                  přispět k lepšímu životu na Třináctce.</p>
-              <h2 class="l-cast__connect-detail-title">Sympatizant, volič</h2>
+              <h2 class="l-cast__connect-detail-title" id="volic">Sympatizant, volič</h2>
               <p>Ať už jste naším dlouhodobým podporovatelem, nebo volbu Pirátské strany jen zvažujete, jsme
                  rádi, že volíte informovaně. Alespoň tak soudíme na základě toho, že právě čtete tento
                  odstavec. Informovaný volič, respektive informovaný občan, je základním předpokladem pro
-                 prosperující společnost.
-                 Jakkoliv je politická kultura v České republice bohužel nastavena tak, že rozdíl mezi pravdou a
+                 prosperující společnost.</p>
+                 <p>Jakkoliv je politická kultura v České republice bohužel nastavena tak, že rozdíl mezi pravdou a
                  lží může běžnému pozorovateli snadno splývat, je komunální politika přeci jen o něco čitelnější.
                  I když si to možná ani neuvědomujeme, s výsledky práce samosprávy - dobrými i špatnými - se
-                 v rozličných podobách setkáváme každý den. Několik málo příkladů:
-                 Je v okolí Vašeho bydliště udržován pořádek?
-                 Jsou v zimě dobře udržované cesty?
-                 Máte místo pro své děti ve školních zařízeních?
-                 Cítíte se na Praze 13 bezpečně?
-                 Máte na Třináctce kam vyjít do zeleně či za opravdovou kulturou?
-                 ...
-                 Jako čtenáři těchto stránek je asi zbytečné Vám říkat, že volit podle předvolebních slibů není to
+                 v rozličných podobách setkáváme každý den. Několik málo příkladů:</p>
+                 <ul><li>Je v okolí Vašeho bydliště udržován pořádek?</li>
+                 <li>Jsou v zimě dobře udržované cesty?</li>
+                 <li>Máte místo pro své děti ve školních zařízeních?</li>
+                 <li>Cítíte se na Praze 13 bezpečně?</li>
+                 <li>Máte na Třináctce kam vyjít do zeleně či za opravdovou kulturou?</li></ul>
+ 
+                 <p>Jako čtenáři těchto stránek je asi zbytečné Vám říkat, že volit podle předvolebních slibů není to
                  pravé ořechové. Piráti kladou důraz na maximální informační otevřenost. Ať už chcete sledovat
                  naší aktivitu na Praze 13 pravidelně, nebo jen právě hledáte informace před volbami,
                  doporučujeme Vám využít tyto zdroje.</p>
-              <h2 class="l-cast__connect-detail-title">Pirát</h2>
+              <h2 class="l-cast__connect-detail-title" id="pirat">Pirát</h2>
               <p>Česká Pirátská strana je jedinou politickou stranou v České republice, která funguje na principu
                  přímé demokracie a kde je základní členstvo tím nejvyšším orgánem s přímým právem utvářet
-                 reálnou podobu Pirátské politiky.
-                 Podoba Vašeho případného členství závisí jen na Vás. Můžete být členem, který se třeba jen občas
+                 reálnou podobu Pirátské politiky.</p>
+                 <p>Podoba Vašeho případného členství závisí jen na Vás. Můžete být členem, který se třeba jen občas
                  zapojí do četných internetových diskusí a voleb, a svými názory a postoji tak budete ovlivňovat
                  stávající i budoucí diskurz českých Pirátů. Pokud ale budete mít čas a chuť, nic Vám nebrání v tom
-                 přesvědčit svými myšlenkami a činy ostatní Piráty a stát se třeba naším příštím předsedou.
-                 S politickým diskursem Pirátské strany se můžete seznámit zde prostřednictvím programu pro volby
+                 přesvědčit svými myšlenkami a činy ostatní Piráty a stát se třeba naším příštím předsedou.</p>
+                 <p>S politickým diskursem Pirátské strany se můžete seznámit zde prostřednictvím programu pro volby
                  do PS 2017.</p>
             </div>
         <div class="l-cast__connect-perex columns medium-5">
           <div class="l-cast__connect-perex-item">
-            <h3 class="l-cast__connect-title"><strong>Odborník, konzultant...</strong></h3>
+            <h3 class="l-cast__connect-title"><strong><a href="#odbornik">Odborník, konzultant...</a></strong></h3>
                <p>Praktická komunální politika není jen o ideových rozhodnutích. V rámci samosprávy se řeší a
                rozhodují věci snad ze všech myslitelných oblastí života, a pro většinu z nich je odborná
                fundovanost přinejmenším vhodná. [více...]</p>
           </div>
           <div class="l-cast__connect-perex-item">
-              <h3 class="l-cast__connect-title"><strong>Aktivní sympatizant, dobrovolník...</strong></h3>
+              <h3 class="l-cast__connect-title"><strong><a href="#sympatizant">Aktivní sympatizant, dobrovolník...</a></strong></h3>
                  <p>Možná je Vám sympatické, co děláme a možná i Vy cítíte potřebu nějakým způsobeUdělat něco
                  nejen pro sebe ale i pro ostatní. Jsme přesvědčeni, že každý má potenciál udělat na úrovni
                  samosprávy něco pro sebe i pro své sousedy. Snad každý je v něčem svým způsobem dobrý
                  nebo v něčem přímo vyniká. [více...]</p>
             </div>
            <div class="l-cast__connect-perex-item">
-               <h3 class="l-cast__connect-title"><strong>Sympatizant, volič</strong></h3>
+               <h3 class="l-cast__connect-title"><strong><a href="#volic">Sympatizant, volič</a></strong></h3>
                   <p>Ať už jste naším dlouhodobým podporovatelem, nebo volbu Pirátské strany jen zvažujete, jsme
                   rádi, že volíte informovaně. Alespoň tak soudíme na základě toho, že právě čtete tento
                   odstavec.</p>
@@ -361,7 +364,7 @@ layout: default
                   společnost. [více...]</p>
              </div>
              <div class="l-cast__connect-perex-item">
-                <h3 class="l-cast__connect-title"><strong>Pirát</strong></h3>
+                <h3 class="l-cast__connect-title"><strong><a href="#pirat">Pirát</a></strong></h3>
                    <p>Česká Pirátská strana je jedinou politickou stranou v České republice, která funguje na principu
                    přímé demokracie a kde je základní členstvo tím nejvyšším orgánem s přímým právem utvářet
                    reálnou podobu Pirátské politiky. [více...]</p>
