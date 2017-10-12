@@ -3,7 +3,7 @@ date:         2017-10-12
 category:     blog
 tags:         legislativa
 layout:       post
-title:        "Pražští zastupitelé začali projednávat novelu, aby směnárny neokrádali turisty"
+title:        "Pražští zastupitelé začali projednávat novelu, aby směnárny neokrádaly turisty"
 image:        smenarna.jpg
 author:       Jakub Michálek
 ---
