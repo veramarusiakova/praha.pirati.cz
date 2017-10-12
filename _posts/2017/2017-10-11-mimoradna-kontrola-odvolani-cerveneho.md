@@ -4,7 +4,7 @@ category:     blog
 tags:         hrbitovy
 layout:       post
 title:        "Kontrolní výbor pražského zastupitelstva doporučil mimořádnou kontrolu a nesouhlasí s utajením posudku před zastupiteli"
-image:        michalek-ruce.jpg
+image:        michalek-mikrofon.jpg
 author:       Jakub Michálek
 ---
 
