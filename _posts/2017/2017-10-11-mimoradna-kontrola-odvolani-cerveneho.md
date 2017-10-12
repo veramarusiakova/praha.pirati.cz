@@ -8,7 +8,7 @@ image:        michalek-mikrofon.jpg
 author:       Jakub Michálek
 ---
 
-Kontrolní výbor pražského zastupitelstva na návrh předsedy zastupitelského klubu Pirátů, Piráta Jakuba Michálka, schválil provedení mimořádné kontroly ve věci odvolání pana ředitele Pražské správy hřbitovů, Martina Červeného.
+Kontrolní výbor pražského zastupitelstva na návrh předsedy zastupitelského klubu Pirátů Jakuba Michálka schválil provedení mimořádné kontroly ve věci hospodaření správy pražských hřbitovů a souvisejícího kontroverzního odvolání ředitele Pražské správy hřbitovů Martina Červeného.
 
 Dále kontrolní výbor schválil, že podá opravný prostředek proti rozhodnutí ředitelky Magistrátu hlavního města Prahy utajit před kontrolním výborem posouzení auditu vypracované Magistrátem, odborem kontrolních činností (odvolání proti rozhodnutí podané Ministerstvu vnitra). 
 
