@@ -19,3 +19,7 @@ Praha by si tak například mohla zvolit, že v centru Prahy se směnný kurz eu
 > „Praha se všemožnými způsoby snaží nalákat turisty a utrácí za to nemalé prostředky. K čemu to ale je, když si turisté z Prahy odnesou nepříjemné zážitky s některými nepoctivými taxikáři a směnárníky? Pak se sem už nebudou chtít vrátit a cestu nedoporučí ani svým známým. To nedává smysl,“ dodává Jakub Michálek. 
 
 Pravomoc předkládat Poslanecké sněmovně návrhy zákonů dává Zastupitelstvu hl. m. Prahy Ústava ČR (čl. 41 odst. 2). Návrh novely musí podle jednacího řádu projednat pražská Rada do 15 dnů. Na včerejším jednání návrh projednal legislativní výbor zastupitelstva, který se usnesl, že změnu zákona projedná s primátorkou Krnáčovou.Souběžně s tímto návrhem připravuje ČNB novelu směnárenského zákona, podle které by mohl turista od smlouvy do 2 hodin odstoupit. Praha připravuje informační kampaň a prověrku, zda nemají některé problémové směnárny pronájem od Magistrátu.
+
+### Odkazy
+
+* [Novela zákona o směnárnách z pera Pirátů](https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/assets/pdf/novela-smenarny.pdf)
