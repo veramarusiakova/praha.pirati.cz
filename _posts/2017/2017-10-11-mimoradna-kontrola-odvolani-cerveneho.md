@@ -3,7 +3,7 @@ date:         2017-10-11
 category:     blog
 tags:         hrbitovy
 layout:       post
-title:        "Kontrolní výbor pražského zastupitelstva doporučil mimořádnou kontrolu a nesouhlasí s utajením posudku před zastupiteli"
+title:        "Kontrolní výbor doporučil mimořádnou kontrolu správy hřbitovů a nesouhlasí s utajením posudku před zastupiteli"
 image:        michalek-mikrofon.jpg
 author:       Jakub Michálek
 ---
