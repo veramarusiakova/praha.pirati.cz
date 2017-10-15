@@ -38,7 +38,7 @@ Adam Zábranský navrhl na program jednání transparentní obsazování dozorč
 
 **Byty pro soudce za hubičku**
 
-Jakub Michálek nterpeloval Radu hlavního města Prahy ohledně politiky bydlení. Soudci, státní zástupci a manažeři patří sice k nejlépe placeným osobám v zemi, od Prahy mají ale nájemné srovnatelné se sociálně slabými. Praze tímto utíkají miliony korun. Navíc se nedostává sociálního bydlení těm, kteří jej skutečně potřebují. Vedení města na naší reakci akorát vypustilo kouřovou clonu, když se odvolávalo na staré nájemní smlouvy a neexistenci pojmu „sociální bydlení“. 
+Jakub Michálek iterpeloval Radu hlavního města Prahy ohledně politiky bydlení. Soudci, státní zástupci a manažeři patří sice k nejlépe placeným osobám v zemi, od Prahy mají ale nájemné srovnatelné se sociálně slabými. Praze tímto utíkají miliony korun. Navíc se nedostává sociálního bydlení těm, kteří jej skutečně potřebují. Vedení města na naší reakci akorát vypustilo kouřovou clonu, když se odvolávalo na staré nájemní smlouvy a neexistenci pojmu „sociální bydlení“. 
 
 **Tvrdíku, vrať peníze**
 
