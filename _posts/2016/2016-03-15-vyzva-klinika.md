@@ -8,6 +8,10 @@ layout:	post
 author:	Jakub Michálek, Ondřej Profant, Mikuláš Ferjenčík, Adam Zábranský
 ---
 
+**Aktualizováno**: Soud dne 5. 9. 2017 rozhodl pravomocně, že aktivisté mají kliniku vyklidit. Vzhledem k tomu, že žijeme v právním státě, měli by aktivisté respektovat rozhodnutí soudu a neriskovat exekuci za asistence policie. Není správné, aby v objektu dále setrvávali zjevně nelegálně, zacházeli s ním jako se svým majetkem a bránili státu, který ho vlastní, v jeho využití pro veřejné účely.  
+
+**Vyjádření k začátku soudního sporu**:
+
 Zastupitelský klub Pirátů projednal situaci autonomního sociálního centra klinika a dospěl k následujícím závěrům:
 
 Obecně nepodporujeme „obsazování“ cizích nemovitostí ani anarchii. Vlastnictví ale není samoúčelné. Smyslem státního vlastnictví je využívat majetek ku prospěchu občanů, což se v případě Kliniky ze strany státu neděje. Proto nesouhlasíme s hrozící represí proti komunitě, která opuštěné a chátrající Klinice vdechla nový život a využívá ji pro kulturní a společenské aktivity. Vyzýváme politiky k věcnému řešení.
