@@ -57,7 +57,7 @@ layout: default
         </div>
       </div>
       <div class="l-kan__item l-cast__kan-item row">
-          <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://www.praha.pirati.cz/assets/img/people/pavel-opatril.jpg" alt="Pavel Opatřil"/></div>
+          <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://praha.pirati.cz/assets/img/people/pavel-opatril.jpg" alt="Pavel Opatřil"/></div>
           <div class="l-kan__item-data columns medium-7 large-6">
             <h2 class="l-kan__name"><strong>Pavel Opatřil</strong></h2>
             <div class="l-kan__role">Motto : Společně otevřeme stát</div>
@@ -87,7 +87,7 @@ layout: default
           </div>
         </div>
         <div class="l-kan__item l-cast__kan-item row">
-          <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://www.praha.pirati.cz/assets/img/people/vaclav-hrdlicka.jpg" alt="Václav Hrdlička"/></div>
+          <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://praha.pirati.cz/assets/img/people/vaclav-hrdlicka.jpg" alt="Václav Hrdlička"/></div>
           <div class="l-kan__item-data columns medium-7 large-6">
             <h2 class="l-kan__name"><strong>Václav Hrdlička</strong></h2>
             <div class="l-kan__role">Motto : Společně otevřeme stát</div>
