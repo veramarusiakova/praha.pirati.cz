@@ -35,7 +35,7 @@ layout: default
     <div class="small-12 columns">
       <h2 class="l-cast__heading">Piráti ze 13</h2>
       <div class="l__kan-item l-cast__kan-item row">
-        <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://www.pirati.cz/assets/img/people/tomas-murnak.jpg" alt="Tomáš Murňák"/></div>
+        <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://praha.pirati.cz/assets/img/people/tomas-murnak.jpg" alt="Tomáš Murňák"/></div>
         <div class="l-kan__item-data columns medium-7 large-6">
           <h2 class="l-kan__name"><strong>Tomáš Murňák</strong></h2>
           <div class="l-kan__role">Motto : Společně otevřeme stát</div>
