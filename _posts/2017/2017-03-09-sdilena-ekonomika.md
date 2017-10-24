@@ -8,7 +8,7 @@ image:        prapor.jpg
 author:       Jakub Michálek
 ---
 
-Tak jako drožky nahradily automobily, probíhá dnes revoluce na trhu přepravy, ubytování, úvěrů apod. Pražští Piráti 9. března 2017 kritizovali vládu a Magistrát za to, že se málo zabývá službami jako je Uber, Liftago, Airbnb, Rekola apod. V [dopise](https://github.com/pirati-byro/spisy-parl-2016/blob/master/5700-podnet-vlade-sdilena-ekonomika/01-dopis/main.pdf) vyzvali předsedu vlády Sobotku, aby urychleně inicioval ve spolupráci s velkými městy jasná a férová pravidla pro rozvoj sdílené ekonomiky.
+Tak jako drožky nahradily automobily, probíhá dnes revoluce na trhu přepravy, ubytování, úvěrů apod. Pražští Piráti 9. března 2017 kritizovali vládu a Magistrát za to, že se málo zabývá službami jako je Uber, Liftago, Airbnb, Rekola apod. V [dopise][dopis] vyzvali předsedu vlády Sobotku, aby urychleně inicioval ve spolupráci s velkými městy jasná a férová pravidla pro rozvoj sdílené ekonomiky.
 
 Vláda projednávala zákon o silniční přepravě v prosinci a nechala si na sdílenou ekonomiku zpracovat studii. Ani vláda ani hl. m. Praha však dosud nové služby neřešily. Primátorka Krnáčová se naopak proti Uberu ostře ohradila. Jenom v Praze se odhaduje podíl digitálních platforem v přepravě lidí na 10-15 % a do budoucna poroste. Taxikáři proti Uberu opakovaně protestují troubením kolem Magistrátu. Piráti žádným způsobem neprotežují Uber jako konkrétní platformu, pouze reagují na aktuální kauzy okolo současných snah o jeho zákaz.
 
@@ -54,6 +54,7 @@ Stejně špatná je i situace např. u sdílení kol (bikesharingu), kde Praha c
 
 ### Související odkazy 
 
+* [Dopis Pirátů předsedovi vlády Sobotkovi s tezemi návrhu][dopis]
 * [Evropský program pro ekonomiku sdílení. Sdělení komise EU.](http://ec.europa.eu/DocsRoom/documents/16881/attachments/2/translations/cs/renditions/native)
 * [Sdílená ekonomika a digitální platformy. Analýza úřadu vlády.](https://ulozto.cz/!W5uFmvS2Ncw4/analyza-sdilena-ekonomika-pdf)
 * [Pravomocný rozsudek MS Praha v kauze Uber](https://github.com/pirati-byro/spisy-zk-pha-2016/blob/master/4904-uber-v-praze/02b-rozsudek/rozsudek.PDF)
@@ -61,5 +62,5 @@ Stejně špatná je i situace např. u sdílení kol (bikesharingu), kde Praha c
 * [Usnesení vlády k návrhu zákona o silniční přepravě](https://apps.odok.cz/attachment/-/down/RCIAAGWBX459)
 * [Praha chystá další kroky proti Uberu, stejný problém řeší i Brno. Tisková zpráva MHMP.](http://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/praha_chysta_dalsi_kroky_proti_uberu.html)
 
-
+[dopis]: https://github.com/pirati-byro/spisy-parl-2016/blob/master/5700-podnet-vlade-sdilena-ekonomika/01-dopis/main.pdf
 

@@ -35,7 +35,7 @@ layout: default
     <div class="small-12 columns">
       <h2 class="l-cast__heading">Piráti ze 13</h2>
       <div class="l__kan-item l-cast__kan-item row">
-        <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://www.pirati.cz/assets/img/people/ivan-bartos.png" alt="Tomáš Murňák"/></div>
+        <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://praha.pirati.cz/assets/img/people/tomas-murnak.jpg" alt="Tomáš Murňák"/></div>
         <div class="l-kan__item-data columns medium-7 large-6">
           <h2 class="l-kan__name"><strong>Tomáš Murňák</strong></h2>
           <div class="l-kan__role">Motto : Společně otevřeme stát</div>
@@ -57,10 +57,9 @@ layout: default
         </div>
       </div>
       <div class="l-kan__item l-cast__kan-item row">
-          <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://www.pirati.cz/assets/img/people/ivan-bartos.png" alt="Tomáš Murňák"/></div>
+          <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://praha.pirati.cz/assets/img/people/pavel-opatril.jpg" alt="Pavel Opatřil"/></div>
           <div class="l-kan__item-data columns medium-7 large-6">
-            <h2 class="l-kan__name"><strong>Pavel Opatřil</strong></h2>
-            <div class="l-kan__role">Motto : Společně otevřeme stát</div>
+            <h2 class="l-kan__name"><strong>Pavel Opatřil</strong></h2>            
               <div class="l-kan__desc">
                  <p class="l-cast__perex">Jmenuji se Pavel Opatřil, je mi 37 let a na Praze 13 jsem prožil převážnou část svého života. Po
                     studiu elektrotechniky na Střední Technické Škole na Královských Vinohradech, jsem se
@@ -87,11 +86,10 @@ layout: default
           </div>
         </div>
         <div class="l-kan__item l-cast__kan-item row">
-          <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://www.pirati.cz/assets/img/people/ivan-bartos.png" alt="Tomáš Murňák"/></div>
+          <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://praha.pirati.cz/assets/img/people/vaclav-hrdlicka.jpg" alt="Václav Hrdlička"/></div>
           <div class="l-kan__item-data columns medium-7 large-6">
             <h2 class="l-kan__name"><strong>Václav Hrdlička</strong></h2>
-            <div class="l-kan__role">Motto : Společně otevřeme stát</div>
-              <div class="l-kan__desc">
+                          <div class="l-kan__desc">
                  <p class="l-cast__perex">Jmenuji se Vašek Hrdlička, narodil jsem se v roce 1980 v Praze, kde vyjma 5 let strávených
                     studiem v Hradci Králové, žiji celý život. Od svých 10 let bydlím na Lužinách, a jakožto
                     absolvent Gymnázia Jaroslava Heyrovského jsem na Třináctce strávil i podstatnou část svého
