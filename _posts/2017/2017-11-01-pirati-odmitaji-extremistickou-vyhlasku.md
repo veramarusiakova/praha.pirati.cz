@@ -3,7 +3,7 @@ date:         2017-11-01
 category:     blog
 tags:         praha-1
 layout:       post
-title:        "Pražští Piráti odmítají extrémistickou protialkoholní vyhlášku"
+title:        "Odmítáme extrémistickou protialkoholní vyhlášku"
 image:        vystraha.jpg
 author:       Adam Zábranský
 ---
