@@ -456,7 +456,7 @@ layout: default
                nakonec získalo téměř 20 %.</p>
                <p>Pokud je Vám naše aktivita sympatická a rádi byste nás v ní podpořili i finančně, můžete
                tak učinit příspěvkem na transparentní účet České Pirátské strany a ke svému daru přidat
-               vzkaz "Pirátům z Prahy 13". Viz též <a href="https://dary.pirati.cz/" target="_blank"></a></p>
+               vzkaz "Pirátům z Prahy 13". Viz též <a href="https://dary.pirati.cz/" target="_blank">https://dary.pirati.cz/</a></p>
                </div>
            
   </div>
