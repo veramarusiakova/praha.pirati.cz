@@ -24,17 +24,18 @@ layout: default
     <div class="row">
         <ul class="l-cast__top-bar__list menu dropdown">
             <li class="l-cast__top-bar__list-item"><a href="#Piratize13">Piráti ze 13</a></li>
-            <li class="l-cast__top-bar__list-item"><a href="#">Priority pirátů na Praze 13</a></li>
-            <li class="l-cast__top-bar__list-item"><a href="#">Zapojte se</a></li>
-            <li class="l-cast__top-bar__list-item"><a href="#">Naše aktivity na Praze 13</a></li>
-            <li class="l-cast__top-bar__list-item"><a href="#">Podpořte piráty na Třináctce</a></li>
+            <li class="l-cast__top-bar__list-item"><a href="#PrioritypiratunaPraze13">Priority pirátů na Praze 13</a></li>
+            <li class="l-cast__top-bar__list-item"><a href="#Zapojtese">Zapojte se</a></li>
+            <li class="l-cast__top-bar__list-item"><a href="#NaseaktivitynaPraze13">Naše aktivity na Praze 13</a></li>
+            <li class="l-cast__top-bar__list-item"><a href="#PodportepiratynaTrinactce">Podpořte piráty na Třináctce</a></li>
         </ul>
     </div>
 </nav>
+<a name="Piratize13"></a>
 <section class="l-kan l-cast__kan row o-section ">
     <div class="small-12 columns">
       <h2 class="l-cast__heading">Piráti ze 13</h2>
-      <a name="Piratize13"></a>
+      
       <div class="l__kan-item l-cast__kan-item row">
         <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://praha.pirati.cz/assets/img/people/tomas-murnak.jpg" alt="Tomáš Murňák"/></div>
         <div class="l-kan__item-data columns medium-7 large-6">
@@ -140,6 +141,7 @@ layout: default
         </div>
   </div>
 </section>
+<a name="PrioritypiratunaPraze13"></a>
 <section class="l-priority row o-section ">
     <div class="small-12 columns">
       <h2 class="l-cast__heading">Priority pirátů na Praze 13</h2>
@@ -264,6 +266,7 @@ layout: default
       
   </div>
 </section>
+<a name="Zapojtese"></a>
 <section class="l-connect row o-section ">
     <div class="small-12 columns">
       <h2 class="l-cast__heading">Zapojte se</h2>
@@ -372,9 +375,10 @@ layout: default
       </div>
   </div>
 </section>
+<a name="NaseaktivitynaPraze13"></a>
 <section class="l-activity row o-section ">
     <div class="small-12 columns">
-      <h2 class="l-cast__heading">Naše aktivity na Praze 13</h2>
+      <h2 class="l-cast__heading"Naše aktivity na Praze 13</h2>
       <p class="l-cast__perex">
          Naprostou většinu našich komunálních aktivit děláme na Praze 13 ve spolupráci se Zelenými, a
          proto je také prezentujeme především na společných koaličních webových a FB stránkách. Níže
@@ -383,34 +387,36 @@ layout: default
       <div class="l-cast__activity-row row">
           <div class="l-cast__activity-perex-item columns medium-6">
             <i class="fa fa-facebook l-cast__activity-perex-icon"></i>
-            <div><h5 class="l-cast__activity-title"><strong>Facebook Zeleni a Piráti pro 13</strong></h5>
+            <div><h5 class="l-cast__activity-title"><strong><a href="https://www.facebook.com/ZeleniaPiratipro13/?fref=ts"><b>Facebook Zeleni a Piráti pro 13</b></a>
+</strong></h5>
                <p>informace o aktuálních kauzách, postřehy ze zastupitelské práce, upozornění na publikované
                články, videa atd.</p></div>
           </div>
           <div class="l-cast__activity-perex-item columns medium-6">
               <i class="fa fa-globe l-cast__activity-perex-icon"></i>
-              <div><h5 class="l-cast__activity-title"><strong>Webové stránky Zelení a Piráti pro 13</strong></h5>
+              <div><h5 class="l-cast__activity-title"><strong><a href="http://zeleniapiratipro13.cz/"><b>Webové stránky Zelení a Piráti pro 13</b></a></strong></h5>
                  <p>kompletní zdroj informací o naší koaliční práci se Zelenými - články ke kauzám programové 
                  priority, kontakty na zastupitele, kalendář akcí atp.</p></div>
             </div>
            <div class="l-cast__activity-perex-item columns medium-6">
                 <i class="fa fa-youtube l-cast__activity-perex-icon"></i>
-               <div><h5 class="l-cast__activity-title"><strong>YouTube kanál Zelení a Piráti pro 13</strong></h5>
+               <div><h5 class="l-cast__activity-title"><strong><a href="https://www.youtube.com/channel/UCvU4OQ-FgKUU9vEZ73RS9tQ/videos"><b>YouTube kanál Zelení a Piráti pro 13</b></a></strong></h5>
                   <p>Kompletní audiovizuální záznamy ze zasedání zastupitelstva, vybrané interpelace, perličky
                   radních aj... ;)</p></div>
              </div>
              <div class="l-cast__activity-perex-item columns medium-6">
                 <i class="fa fa-facebook l-cast__activity-perex-icon"></i>
-                <div><h5 class="l-cast__activity-title"><strong>Facebook Piráti Praha 13</strong></h5>
+                <div><h5 class="l-cast__activity-title"><strong><a href="https://www.facebook.com/PiratiPraha13/?fref=ts"><b>Facebook Piráti Praha 13</b></a></strong></h5>
                    <p>informace o samostatných aktivitách Pirátů na Praze 13 - pravidelné schůzky, mimořádné
                    události a informace atp.</p></div>
               </div>
       </div>
   </div>
 </section>
+<a name="PodportepiratynaTrinactce"></a>
 <section class="l-end row o-section ">
     <div class="small-12 columns">
-      <h2 class="l-cast__heading">Naše aktivity na Praze 13</h2>
+      <h2 class="l-cast__heading">Podpořte piráty na Třináctce</h2>
       <p class="l-cast__perex">Pro peníze to rozhodně neděláme. Naší hlavní motivací je snaha o zásadní změnu úrovně i
          vnímání komunální politiky a samozřejmě také snaha zvelebit místo, kde sami od dětství žijeme.
          Naše aktivita je ryze dobrovolnická, pokud nepočítáme zákonnou měsíční odměnu dvěma
@@ -449,7 +455,7 @@ layout: default
                nakonec získalo téměř 20 %.</p>
                <p>Pokud je Vám naše aktivita sympatická a rádi byste nás v ní podpořili i finančně, můžete
                tak učinit příspěvkem na transparentní účet České Pirátské strany a ke svému daru přidat
-               vzkaz "Pirátům ze Třináctky". Viz též https://dary.pirati.cz/</p>
+               vzkaz "Pirátům z Prahy 13". Viz též https://dary.pirati.cz/</p>
                </div>
            
   </div>
