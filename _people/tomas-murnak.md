@@ -18,7 +18,7 @@ profiles:
 ---
 
 <div style="color: #000000; text-transform: none; font-size: 14px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #ffffff; font-variant-ligatures: normal; -webkit-text-stroke-text-decoration-style: initial;" class="level1">
-<p><b>Předseda místního sdružení a zastupitel Prahy 13.</b></p>
+<p><a href="https://praha.pirati.cz/mestske-casti/p13/"><b>Předseda místního sdružení a zastupitel Prahy 13.</b></a></p>
 <p>Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu v Anglii pracuji dodnes.</p>
 <p>O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v roce 2010.</p>
 <p><a style="color: #009ddc; overflow: hidden; -ms-zoom: 1;" class="media" href="https://wiki.pirati.cz/_detail/lide/volby2010.jpg?id=lide%3Atomas_murnak" title="lide:volby2010.jpg"><img style="overflow: hidden; vertical-align: middle; -ms-zoom: 1;" class="media" src="https://wiki.pirati.cz/_media/lide/volby2010.jpg?w=500&amp;tok=ce7fbc" alt="" width="500"></a></p>
