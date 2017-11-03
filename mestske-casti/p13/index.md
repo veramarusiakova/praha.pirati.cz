@@ -378,7 +378,8 @@ layout: default
 <a name="NaseaktivitynaPraze13"></a>
 <section class="l-activity row o-section ">
     <div class="small-12 columns">
-      <h2 class="l-cast__heading"Naše aktivity na Praze 13</h2>
+      <h2 class="l-cast__heading">Naše aktivity na Praze 13</h2>
+      
       <p class="l-cast__perex">
          Naprostou většinu našich komunálních aktivit děláme na Praze 13 ve spolupráci se Zelenými, a
          proto je také prezentujeme především na společných koaličních webových a FB stránkách. Níže
