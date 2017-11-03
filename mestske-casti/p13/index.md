@@ -23,7 +23,7 @@ layout: default
 <nav class="l-cast__top-bar c-top-bar">
     <div class="row">
         <ul class="l-cast__top-bar__list menu dropdown">
-            <li class="l-cast__top-bar__list-item"><a href="#Piráti ze 13">Piráti ze 13</a></li>
+            <li class="l-cast__top-bar__list-item"><a href="#Piratize13">Piráti ze 13</a></li>
             <li class="l-cast__top-bar__list-item"><a href="#">Priority pirátů na Praze 13</a></li>
             <li class="l-cast__top-bar__list-item"><a href="#">Zapojte se</a></li>
             <li class="l-cast__top-bar__list-item"><a href="#">Naše aktivity na Praze 13</a></li>
@@ -34,6 +34,7 @@ layout: default
 <section class="l-kan l-cast__kan row o-section ">
     <div class="small-12 columns">
       <h2 class="l-cast__heading">Piráti ze 13</h2>
+      <a name="Piratize13"></a>
       <div class="l__kan-item l-cast__kan-item row">
         <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://praha.pirati.cz/assets/img/people/tomas-murnak.jpg" alt="Tomáš Murňák"/></div>
         <div class="l-kan__item-data columns medium-7 large-6">
