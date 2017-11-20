@@ -14,6 +14,6 @@ Akce se zúčastnilo asi 15 členů Pirátské strany převážně v Prahy 1 a 3
 
 Největší zkušenosti s pořádáním charitativních akcí má evengelický kněz, Pirát Martin Arden, který akci zorganizoval. Vysvětluje: „V Sherwoodu má rozdávání jídla tradici. Ve všední den zde nabízejí jídlo katolické, evangelické i muslimské organizace. Není divu, že během hodiny byl guláš pryč, ještě než stačil vychladnout. Pro bezdomovce je to služba, vždyť i bezdomovci jsou Pražané.“
 
-Dále pokračuje k motivaci, proč na akci přišlo i hodně Pirátů: „Komunikace s lidmi je skvělá. Měli jsme zde stánek s pirátskými symboly a překvapila mě pozitivní odezva všech lidí. Úsměvné bylo, když se nás někteří kolemjdoucí snažili žertem upozornit, že už je po volbách. Ocenili, že Piráti pracují bez ohledu na volby. Taková slova zahřejí i v té zimě, co tady panuje."“
+Dále pokračuje k motivaci, proč na akci přišlo i hodně Pirátů: „Komunikace s lidmi je skvělá. Měli jsme zde stánek s pirátskými symboly a překvapila mě pozitivní odezva všech lidí. Úsměvné bylo, když se nás někteří kolemjdoucí snažili žertem upozornit, že už je po volbách. Ocenili, že Piráti pracují bez ohledu na volby. Taková slova zahřejí i v té zimě, co tady panuje.“
 
 Nedělní akce byla pilotním projektem, jedna z dalších bude 17. 12. pojata jako vánoční, kdy bude víc jídla a možná i překvapení od Ježíška.
