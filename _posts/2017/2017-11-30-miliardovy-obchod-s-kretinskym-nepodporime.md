@@ -8,7 +8,7 @@ image:        ave2.jpg
 author:       Adam Zábranský
 ---
 
-Pražská rada v úterý 21. listopadu schválila výměnu akcií s [Danielem Křetínským](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/mestske-firmy/swap-prazske-sluzby-teplarenska/material-do-zastupitelstva.pdf) v celkové hodnotě 4,5 miliard Kč. Piráti považují tento obchod za podezřelý a na čtvrtečním zasedání zastupitelstva ho nepodpoří.
+Pražská rada v úterý 21. listopadu schválila [výměnu akcií](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/mestske-firmy/swap-prazske-sluzby-teplarenska/material-do-zastupitelstva.pdf) s Danielem Křetínským v celkové hodnotě 4,5 miliard Kč. Piráti považují tento obchod za podezřelý a na čtvrtečním zasedání zastupitelstva ho nepodpoří.
 
 Výměna má spočívat v tom, že Praha koupí 19,32 % akcií Pražských služeb od AVE za téměř 1,5 miliardy (aby si v Pražských službách zajistila 96% většinu a následně mohla „vytlačit“ zbylé akcionáře), na oplátku Praha prodá 51% podíl v pražském teplárenském holdingu (který má téměř 50% podíl v Pražské teplárenské) za 3,1 miliardy a rozdíl dostane Praha v penězích. Deklarovaným cílem Prahy je získat 100% podíl v Pražských službách, aby mohla zadávat zakázky na svoz odpadu v režimu in-house (bez soutěže) a aby pod plnou kontrolu získala spalovnu Malešice. 
 
