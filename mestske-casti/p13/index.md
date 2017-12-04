@@ -202,7 +202,7 @@ layout: default
         tom, jestli je dnešní nedostatečná otevřenost radnice na Praze 13 důsledkem nezájmu,
         diletantského přístupu, nebo zda někomu vlastně nevyhovuje, když se lidé o věci veřejné moc
         nestarají a zbytečně moc toho neví.</p>
-        <p>Co si Piráti představují pod pojmem transparentní a otevřená radnice se můžete dočíst zde.</p>
+        <p>Co si Piráti představují pod pojmem transparentní a otevřená radnice <a href="https://drive.google.com/open?id=1yPlT7nzJ1qnrYS3n9N6DAR8Gfy-YflUwsi25JoF8_gs" target="_blank">se můžete dočíst zde</a>.</p>
         <h2 class="l-cast__priority-detail-title" id="prevence">Prevence neúměrného zahušťování zástavby</h2>
         <p>Jakkoliv respektujeme právo soukromých vlastníků na jejich podnikatelské developerské
               záměry, zastáváme názor, že stejného respektu se musí dostávat i stávajícím obyvatelům,
@@ -225,7 +225,7 @@ layout: default
               aktivní tlak na pražský Magistrát a další instituce, a to v těch oblastech, které sama nemůže
               ovlivnit, ale které přitom mají na výstavbu a rozvoj naší městské části zásadní vliv (územní plán,
               výšková regulace výstavby atp.)</p>
-              <p>Neúměrné zahušťování výstavby bychom rádi eliminovali zavedením následujících opatření.</p>
+              <p>Neúměrné zahušťování výstavby bychom rádi eliminovali <a href="https://docs.google.com/document/d/1bDdw35b6UNrcGkkXyvjYpPNA4cKqbwCfrNWG_d_TOwQ/edit?usp=sharing" target="_blank">zavedením následujících opatření</a>.</p>
           <h2 class="l-cast__priority-detail-title" id="komunita">Kvalitní veřejný prostor a komunitní život</h2>
           <p>Dominantním charakterem Prahy 13 je bezesporu sídlištní výstavba, která s sebou bohužel
           nese i anonymitu a nižší míru identifikace s místem svého bydliště. Přispívá k tomu jistě i fakt,
@@ -260,7 +260,7 @@ layout: default
                 <p>Pokud byste i Vy rádi svoje představy o lepším životě na Praze 13 vyjádřili aktivněji než jednou
                 za 4 roky v komunálních volbách, Piráti na 13 Vám tuto možnost nabízejí. Způsobů, jak se
                 zapojit je spoustu. Věříme, že i Vy si mezi nimi můžete najít ten, který Vám bude vyhovovat.
-                Zapojte se.</p>
+                <a href="#Zapojtese" target="_self">Zapojte se</a>.</p>
         </div>
       </div>
       
@@ -343,7 +343,36 @@ layout: default
                  <p>S politickým diskursem Pirátské strany se můžete seznámit zde prostřednictvím programu pro volby
                  do PS 2017.</p>
             </div>
+        <div class="l-cast__connect-perex columns medium-5">
+          <div class="l-cast__connect-perex-item">
+            <h3 class="l-cast__connect-title"><strong><a href="#odbornik">Odborník, konzultant...</a></strong></h3>
+               <p>Praktická komunální politika není jen o ideových rozhodnutích. V rámci samosprávy se řeší a
+               rozhodují věci snad ze všech myslitelných oblastí života, a pro většinu z nich je odborná
+               fundovanost přinejmenším vhodná. </p>
+          </div>
+          <div class="l-cast__connect-perex-item">
+              <h3 class="l-cast__connect-title"><strong><a href="#sympatizant">Aktivní sympatizant, dobrovolník...</a></strong></h3>
+                 <p>Možná je Vám sympatické, co děláme a možná i Vy cítíte potřebu nějakým způsobeUdělat něco
+                 nejen pro sebe ale i pro ostatní. Jsme přesvědčeni, že každý má potenciál udělat na úrovni
+                 samosprávy něco pro sebe i pro své sousedy. Snad každý je v něčem svým způsobem dobrý
+                 nebo v něčem přímo vyniká. </p>
+            </div>
+           <div class="l-cast__connect-perex-item">
+               <h3 class="l-cast__connect-title"><strong><a href="#volic">Sympatizant, volič</a></strong></h3>
+                  <p>Ať už jste naším dlouhodobým podporovatelem, nebo volbu Pirátské strany jen zvažujete, jsme
+                  rádi, že volíte informovaně. Alespoň tak soudíme na základě toho, že právě čtete tento
+                  odstavec.</p>
+                  <p>Informovaný volič, respektive informovaný občan, je základním předpokladem pro prosperující
+                  společnost. </p>
+             </div>
+             <div class="l-cast__connect-perex-item">
+                <h3 class="l-cast__connect-title"><strong><a href="#pirat">Pirát</a></strong></h3>
+                   <p>Česká Pirátská strana je jedinou politickou stranou v České republice, která funguje na principu
+                   přímé demokracie a kde je základní členstvo tím nejvyšším orgánem s přímým právem utvářet
+                   reálnou podobu Pirátské politiky. </p>
               </div>
+          </div>
+      </div>
   </div>
 </section>
 <a name="NaseaktivitynaPraze13"></a>
