@@ -1,4 +1,4 @@
-<p>--- layout: default ---</p>
+--- layout: default ---
 <div class="l-cast">
 <div class="row o-section">
 <div class="small-5 columns">
@@ -153,21 +153,7 @@ Pirát
 <p>Podoba Vašeho případného členství závisí jen na Vás. Můžete být členem, který se třeba jen občas zapojí do četných internetových diskusí a voleb, a svými názory a postoji tak budete ovlivňovat stávající i budoucí diskurz českých Pirátů. Pokud ale budete mít čas a chuť, nic Vám nebrání v tom přesvědčit svými myšlenkami a činy ostatní Piráty a stát se třeba naším příštím předsedou.</p>
 <p>S politickým diskursem Pirátské strany se můžete seznámit zde prostřednictvím programu pro volby do PS 2017.</p>
 </div>
-<div class="l-cast__connect-perex columns medium-5">
-<div class="l-cast__connect-perex-item"><b><a href="#odbornik">Odborník, konzultant...</a></b>
-<p>Praktická komunální politika není jen o ideových rozhodnutích. V rámci samosprávy se řeší a rozhodují věci snad ze všech myslitelných oblastí života, a pro většinu z nich je odborná fundovanost přinejmenším vhodná. [více...]</p>
-</div>
-<div class="l-cast__connect-perex-item"><b><a href="#sympatizant">Aktivní sympatizant, dobrovolník...</a></b>
-<p>Možná je Vám sympatické, co děláme a možná i Vy cítíte potřebu nějakým způsobeUdělat něco nejen pro sebe ale i pro ostatní. Jsme přesvědčeni, že každý má potenciál udělat na úrovni samosprávy něco pro sebe i pro své sousedy. Snad každý je v něčem svým způsobem dobrý nebo v něčem přímo vyniká. [více...]</p>
-</div>
-<div class="l-cast__connect-perex-item"><b><a href="#volic">Sympatizant, volič</a></b>
-<p>Ať už jste naším dlouhodobým podporovatelem, nebo volbu Pirátské strany jen zvažujete, jsme rádi, že volíte informovaně. Alespoň tak soudíme na základě toho, že právě čtete tento odstavec.</p>
-<p>Informovaný volič, respektive informovaný občan, je základním předpokladem pro prosperující společnost. [více...]</p>
-</div>
-<div class="l-cast__connect-perex-item"><b><a href="#pirat">Pirát</a></b>
-<p>Česká Pirátská strana je jedinou politickou stranou v České republice, která funguje na principu přímé demokracie a kde je základní členstvo tím nejvyšším orgánem s přímým právem utvářet reálnou podobu Pirátské politiky. [více...]</p>
-</div>
-</div>
+
 </div>
 </div>
 <a name="NaseaktivitynaPraze13"></a>
