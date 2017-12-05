@@ -8,7 +8,7 @@ image:        overpriced.jpg
 author:       Ondřej Profant
 ---
 
-Pražský Magistrát v zakázce za 93 000 000 Kč (77 milionů bez DPH) na rozvoj městské radiové sítě Praha zcela ignoruje tržní prostředí. Namísto otevřené soutěže, která je v tomto případě možná, si nechal zaslat jedinou nabídku od firmy KonekTel v rámci jednacího řízení bez uveřejnění. A výsledná cena má být nekolikanásobně vyšší, než kterou vysoutěžili jiní zadavatelé.
+Pražský Magistrát v zakázce za 93 000 000 Kč (77 milionů bez DPH) na rozvoj městské radiové sítě Praha zcela ignoruje tržní prostředí. Namísto otevřené soutěže, která je v tomto případě možná, si v rozporu se zákonem nechal zaslat jedinou nabídku od firmy KonekTel v rámci jednacího řízení bez uveřejnění. A výsledná cena má být nekolikanásobně vyšší, než kterou vysoutěžili jiní zadavatelé.
 
 Piráti již před více jak rokem [předvedli][mrs], že městská radiová síť, přes kterou komunikují například městští policisté či záchranka, není zabezpečena a kdokoliv ji může odposlouchávat.
 
