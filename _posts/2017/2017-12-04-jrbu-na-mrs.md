@@ -8,8 +8,6 @@ image:        overpriced.jpg
 author:       Ondřej Profant
 ---
 
-*Aktualizace 5. prosince 2017: z programu dnešního jednání Rady byl materiál na zabezpečení sítě Tetra stažen. Zatím se nám tedy podařilo zabránit tomu, aby byla tato zakázka zadána nezákonně bez soutěže a za přemrštěné peníze.*
-
 Pražský Magistrát v zakázce za 93 000 000 Kč (77 milionů bez DPH) na rozvoj městské radiové sítě Praha zcela ignoruje tržní prostředí. Namísto otevřené soutěže, která je v tomto případě možná, si nechal zaslat jedinou nabídku od firmy KonekTel v rámci jednacího řízení bez uveřejnění. A výsledná cena má být nekolikanásobně vyšší, než kterou vysoutěžili jiní zadavatelé.
 
 Piráti již před více jak rokem [předvedli][mrs], že městská radiová síť, přes kterou komunikují například městští policisté či záchranka, není zabezpečena a kdokoliv ji může odposlouchávat.
@@ -49,6 +47,8 @@ A dále na dodávce BTS (základnové stanice TETRA) dle „Smlouvy o dílo na v
 Tyto cenové rozdíly zároveň vypovídají o relevantnosti znaleckého posudku Ing. Jana Doubka, CSc, ze dne 18.8.2016, ve kterém shledal cenovou nabídku v souladu s dobrými mravy.
 
 U zakázky opět nejsou spočítány celkové náklady za životní cyklus (TCO). Skrytou součástí zakázky, která není zmíněna, je také nákup licencí pro jednotlivé radiostanice (ve vlastnictví např. Dopravního podniku, Městské policie, ...). Podle cen, které jsou součástí smlouvy [KonekTel a MP Brno][smlouvygov], je cena přibližně 4.000 (počet radiostanic) x cca. 2.500 Kč (cena licence na 1 radiostanici) bez ceny práce na nasazení do radiostanic (celková odhadovaná cena zakázek, které nejsou součástí schvalované nabídky, je 12 - 15 milionů Kč bez DPH).
+
+*Aktualizace 5. prosince 2017: z programu dnešního jednání Rady byl materiál na zabezpečení sítě Tetra stažen. Zatím se nám tedy podařilo zabránit tomu, aby byla tato zakázka zadána nezákonně bez soutěže a za přemrštěné peníze.*
 
 
 ## Odkazy
