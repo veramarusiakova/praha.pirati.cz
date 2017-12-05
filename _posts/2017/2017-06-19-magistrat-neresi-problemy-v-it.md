@@ -22,7 +22,7 @@ Proxio/Agendio je software využívány k rozličným agendám jako je evidence 
 
 ## Datové centrum za 38 milionů Kč
 
-Tento projekt má zásadní důležitost, proto se mu Piráti věnují intenzívně věnují. [Upozorňovali jsme][dc04] na některé zarážející nesrovnalosti již ze samotného vypsání výběrového řízení. Bohužel to dopadlo přesně podle nejhoršího předpokládaného scénáře. Nejlevnější nabídka byla vyřazena, protože nesplnila neodůvodněná kriteria, která zde byla šitá na míru konkrétnímu dodavateli a opsána z jeho prospektů. Tato zakázka určí technologickou základnu (a tím mnohdy i dodavatele) na roky dopředu.
+Tento projekt[^1] má zásadní důležitost, proto se mu Piráti věnují intenzívně věnují. [Upozorňovali jsme][dc04] na některé zarážející nesrovnalosti již ze samotného vypsání výběrového řízení. Bohužel to dopadlo přesně podle nejhoršího předpokládaného scénáře. Nejlevnější nabídka byla vyřazena, protože nesplnila neodůvodněná kriteria, která zde byla šitá na míru konkrétnímu dodavateli a opsána z jeho prospektů. Tato zakázka určí technologickou základnu (a tím mnohdy i dodavatele) na roky dopředu.
 
 Piráti trvale poukazují na to, že pro město je nejhorší, když nastane závislost na jednom dodavateli a vyloučí se konkurence z procesu ekonomické soutěže. Tato situace je známá jako *vendor lock-in*. Při použití otevřených standardů a správných linencí *vendor lock-in* nehrozí. Ale radnice na to nedbá a vlastní nekompetentností způsobuje městu jak ekonomické ztráty, tak i snížení efektivity správy pro úředníky i obyvatele města.
 
@@ -30,6 +30,7 @@ Existují i další příklady hloupých rozhodnutí. Například nová Turistic
 
 Zastupitel Ondřej Profant tristní stav IT zakázek komentuje: "Tento software by mělo spíše kupovat Muzeum hlavního města Prahy než Magistrát." A vědom si naléhavosti situace, dodává: "Hlavním problémem je, že se aktivně nepracuje na nápravě stavu. Vždy se jen řekne, že 'věc nelze řešit jinak'. Ano, věc nelze řešit, pokud město nevyvinulo žádnou snahu o jiné řešení. Magistrát předpokládá, že mu někdo dodá zcela hotové řešení pod nos. Což je samozřejmě naivní představa."
 
+[^1]: Tisk RHMP R-25905 dostupn7 na https://zastupitelstvo.praha.eu
 [ted]: https://youtu.be/gRCy4GvzN0U
 [dc04]: https://praha.pirati.cz/zakazka-psana-na-miru.html
 [marbes]: http://denikreferendum.cz/clanek/13650-statni-it-zakazky-kdyby-aspon-fungovaly
