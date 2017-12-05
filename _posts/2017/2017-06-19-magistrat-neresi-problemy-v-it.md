@@ -32,7 +32,7 @@ Zastupitel Ondřej Profant tristní stav IT zakázek komentuje: "Tento software 
 
 ---
 
-[^1]: Tisk Rady HMP R-25905 dostupný na https://zastupitelstvo.praha.eu
+[^1]: Tisk Rady HMP R-25905 dostupný na [zastupitelstvo.praha.eu](http://zastupitelstvo.praha.eu)
 
 [ted]: https://youtu.be/gRCy4GvzN0U
 [dc04]: https://praha.pirati.cz/zakazka-psana-na-miru.html
