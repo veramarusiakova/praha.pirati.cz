@@ -30,7 +30,10 @@ Existují i další příklady hloupých rozhodnutí. Například nová Turistic
 
 Zastupitel Ondřej Profant tristní stav IT zakázek komentuje: "Tento software by mělo spíše kupovat Muzeum hlavního města Prahy než Magistrát." A vědom si naléhavosti situace, dodává: "Hlavním problémem je, že se aktivně nepracuje na nápravě stavu. Vždy se jen řekne, že 'věc nelze řešit jinak'. Ano, věc nelze řešit, pokud město nevyvinulo žádnou snahu o jiné řešení. Magistrát předpokládá, že mu někdo dodá zcela hotové řešení pod nos. Což je samozřejmě naivní představa."
 
-[^1]: Tisk RHMP R-25905 dostupn7 na https://zastupitelstvo.praha.eu
+---
+
+[^1]: Tisk Rady HMP R-25905 dostupný na https://zastupitelstvo.praha.eu
+
 [ted]: https://youtu.be/gRCy4GvzN0U
 [dc04]: https://praha.pirati.cz/zakazka-psana-na-miru.html
 [marbes]: http://denikreferendum.cz/clanek/13650-statni-it-zakazky-kdyby-aspon-fungovaly
