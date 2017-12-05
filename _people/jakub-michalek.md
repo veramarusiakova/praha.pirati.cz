@@ -9,7 +9,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - mhmp
 img: 		people/jakub-michalek.jpg    # 165 x 220
-description: 			Předseda zastupitelského klubu Pirátů v Praze a 3. místopředseda Pirátů             	        			# kratký popis, max 160 znaků
+description: 			Zastupitel klubu Pirátů v Praze a 3. místopředseda Pirátů             	        			# kratký popis, max 160 znaků
 mail:
 - jakub.michalek@pirati.cz
 mob: 				+420 775 978 550
@@ -18,7 +18,7 @@ profiles:
   facebook: https://www.facebook.com/smidak
   twitter: https://twitter.com/JakubMichalek19
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jakub%20mich%C3%A1lek&view_all=1
-ordpraha: 1
+ordpraha: 4
 ordrp: 4
 ordcar: 3
 ordga: 8
