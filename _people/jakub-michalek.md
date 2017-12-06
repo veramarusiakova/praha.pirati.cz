@@ -7,7 +7,6 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 - carousel
 - ga
-- mhmp
 img: 		people/jakub-michalek.jpg    # 165 x 220
 description: 			Zastupitel klubu Pirátů v Praze a 3. místopředseda Pirátů             	        			# kratký popis, max 160 znaků
 mail:
@@ -18,14 +17,13 @@ profiles:
   facebook: https://www.facebook.com/smidak
   twitter: https://twitter.com/JakubMichalek19
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jakub%20mich%C3%A1lek&view_all=1
-ordpraha: 4
 ordrp: 4
 ordcar: 3
 ordga: 8
 carousel:
   img: jakub-michalek.jpg
   text: |
-    <p><strong>Předseda pražských zastupitelů</strong> za Piráty, místopředseda Pirátské strany a garant volebního programu pro vnitro a veřejnou správu.</p>
+    <p><strong>Bývalý předseda pražských zastupitelů</strong> za Piráty, místopředseda Pirátské strany a garant volebního programu pro vnitro a veřejnou správu.</p>
     <p>Mgr. et Mgr. Jakub Michálek vystudoval právo a fyziku na Karlově univerzitě, následně pracoval jako právník a nyní i jako šéf pražských zastupitelů na plný úvazek. Zaměřuje se na svobodný přístup k informacím, autorské právo a digitální ekonomiku. </p>
 ---
 
