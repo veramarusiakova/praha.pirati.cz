@@ -3,7 +3,7 @@ date:         2017-12-06
 category:     blog
 tags:         magistrát
 layout:       post
-title:        "Piráta Michálka vystřídá v pražském zastupitelstvu Mahrik"
+title:        "Michálka vystřídá v pražském zastupitelstvu Mahrik"
 image:        michalek-strecha.jpg
 author:       Jaku michálek
 ---
