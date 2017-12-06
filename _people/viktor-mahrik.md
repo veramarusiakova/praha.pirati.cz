@@ -8,7 +8,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 img: 		people/viktor-mahrik.jpg    # 165 x 220
 description: 			Nastupující zastupitel Pirátů             	        			# kratký popis, max 160 znaků
 mail:
-- jakub.michalek@pirati.cz
+- viktor.mahrik@pirati.cz
 mob: 				+420 602 767 298
 profiles:
   facebook: https://www.facebook.com/viktor.mahrik
