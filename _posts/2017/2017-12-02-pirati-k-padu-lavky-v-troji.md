@@ -3,7 +3,7 @@ date:         2017-12-02
 category:     blog
 tags:         doprava
 layout:       post
-title:        "Technická správa komunikací dlouhodobě neřešila špatný stav mostů"
+title:        "Pád Trojské lávky: TSK dlouhodobě neřešila špatný stav mostů"
 image:        lavka.jpg
 author:       Adam Zábranský
 ---
