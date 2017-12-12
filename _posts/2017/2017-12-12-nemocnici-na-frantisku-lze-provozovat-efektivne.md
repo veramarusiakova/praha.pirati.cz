@@ -8,7 +8,7 @@ image:        nemocnice-na-frantisku.jpg
 author:       Adam Zábranský
 ---
 
-Pirátská strana vyzývá zastupitele Prahy 1, aby zastavili proces udělování koncese soukromému subjektu, který má převzít provoz Nemocnice Na Františku. Za tímto účelem pořádají happening na Žofíně. Městská část chce totiž schválit záměr dlouhodobého pronájmu nemocnice Na Františku formou tzv. koncese. Jde o pronájem celého nemocničního provozu, včetně smluv se zdravotními pojišťovnami. Piráti prostřednictvím svých členů na Praze 1 odmítají tento záměr, protože hrozí nejen likvidace zdravotnické péče, ale i budovy a veřejného prostoru. Koncese pronajímá celý soubor zdravotnických služeb, ale tento provoz není v zadání koncese vázán na budovu nemocnice. 
+Pirátská strana vyzývá zastupitele Prahy 1, aby zastavili proces udělování koncese soukromému subjektu, který má převzít provoz Nemocnice Na Františku. Za tímto účelem pořádají Piráti happening na Žofíně. Městská část chce totiž schválit záměr dlouhodobého pronájmu nemocnice Na Františku formou tzv. koncese. Jde o pronájem celého nemocničního provozu, včetně smluv se zdravotními pojišťovnami. Piráti prostřednictvím svých členů na Praze 1 odmítají tento záměr, protože hrozí nejen likvidace zdravotnické péče, ale i budovy a veřejného prostoru. Koncese pronajímá celý soubor zdravotnických služeb, ale tento provoz není v zadání koncese vázán na budovu nemocnice. 
  
 Zásadní vady, které záměr koncese má, lze shrnout do následujících bodů:
  
