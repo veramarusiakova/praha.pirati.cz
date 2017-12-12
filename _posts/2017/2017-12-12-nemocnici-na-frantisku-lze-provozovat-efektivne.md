@@ -1,7 +1,7 @@
 ---
 date:         2017-12-12
 category:     blog
-tags:         magistrát
+tags:         zdravotnictví, praha-1
 layout:       post
 title:        "Nemocnici na Františku je možné provozovat efektivně"
 image:        nemocnice-na-frantisku.jpg
@@ -17,7 +17,7 @@ Zásadní vady, které záměr koncese má, lze shrnout do následujících bod�
 3. Praha 1 bude muset nadále hradit větší opravy budovy nemocnice přesahující 2 mil. Kč, které v horizontu třicetipětileté koncese nepochybně nastanou.
 4. Garance udržení stávajícího rozsahu péče v nemocnici je v koncesní smlouvě nedostatečná, protože je specifikována příliš obecně a není ani výslovně řečeno, že ta péče musí být poskytována na stejném místě jako nyní. Lze ji tedy přenést i třeba na okraj Prahy a v původní lokalitě provozovat hotel či jinou komerčně výhodnou variantu.
  
-Řešení aktuální situace by mělo spočívat namísto skryté privatizace nemocnice především ve výměně stávajícího ředitele nemocnice MUDr. Roberta Zelenáka. Za jeho vedení Nemocnice na Františku od roku 2013 snížila počet lůžek, propustila část zdravotníků a nezveřejňovala výroční zprávy. Úhradové vyhlášky pro rok 2015 a další byly po letech krizových restrikcí pro nemocnice vyloženě prorůstové, ale pře sto se ztráty nemocnice prohlubovaly. V roce 2016 tvořila provozní dotace nemocnice 50 mil Kč celkem 16,5 % příjmů a letos má být ještě vyšší. Nový ředitel nemocnice by měl být proto co nejdříve nalezen v otevřeném výběrovém řízení.
+Řešení aktuální situace by mělo spočívat namísto skryté privatizace nemocnice především ve výměně stávajícího ředitele nemocnice MUDr. Roberta Zelenáka. Za jeho vedení Nemocnice na Františku od roku 2013 snížila počet lůžek, propustila část zdravotníků a nezveřejňovala výroční zprávy. Úhradové vyhlášky pro rok 2015 a další byly po letech krizových restrikcí pro nemocnice vyloženě prorůstové, ale přesto se ztráty nemocnice prohlubovaly. V roce 2016 tvořila provozní dotace nemocnice 50 mil Kč celkem 16,5 % příjmů a letos má být ještě vyšší. Nový ředitel nemocnice by měl být proto co nejdříve nalezen v otevřeném výběrovém řízení.
  
 Nemocnice Na Františku je dále specifická v tom, že je více využívána občany Prahy 7 než občany Prahy 1, která ji vlastní. Jedná se tedy o problém nad rámec jedné městské části. Budovu a pozemky nemocnice navíc vlastní magistrát a městská část Praha 1 s nimi pouze hospodaří. Magistrát se také již nyní podílí na provozu nemocnice dotací přes 5 mil. Kč ročně. Vidíme proto jako nejlogičtější řešení, že nemocnici bude namísto městské části či privátního koncesionáře provozovat magistrát, který může reálně garantovat zachování stávajícího rozsahu zdravotní péče. Je velmi smutné, že i přes finanční a majetkovou zainteresovanost magistrátu neodkázal jeho zdravotní výbor přijmout ani jinak zcela bezzubé deklarativní stanovisko, upozorňující na problémy této skryté privatizace.
  
