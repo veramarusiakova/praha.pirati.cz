@@ -8,7 +8,7 @@ image:        farmarske-trhy2.jpg
 author:       Adam Zábranský, Jan Loužek
 ---
 
-Piráti požádali zastupitele Městské části Praha 1, aby zajistili vypovězení smlouvy se společností Delicato centrum. Firma od roku 2012 provozuje farmářské trhy na náměstí Republiky – městské části za to ale neplatí ani korunu. 
+Piráti [požádali](https://github.com/pirati-byro/spisy-zk-pha-2017/blob/master/8384-trhy-na-namesti-republiky-apel/01-sablona/main.pdf) zastupitele Městské části Praha 1, aby zajistili vypovězení smlouvy se společností Delicato centrum. Firma od roku 2012 provozuje farmářské trhy na náměstí Republiky – městské části za to ale neplatí ani korunu. 
 
 Piráti již od tomto problému informovali [před více než rokem](https://praha.pirati.cz/farmarske-trhy.html). Městská část Praha 1 reagovala tak, že se jedná přeci o veřejnou službu a proto žádné peníze nechce. V případě jiných městských částí (např. na Praze 2) jsou ale farmářské trhy provozovány na komerčním základě a poskytovatelé platí někdy i přes milion korun ročně. 
 
@@ -16,4 +16,5 @@ Piráti již od tomto problému informovali [před více než rokem](https://pra
 
 ### Odkazy
 
-[Piráti: Byznys snů. Provozuje farmářské trhy na Náměstí Republiky, neplatí za to nic](https://praha.pirati.cz/farmarske-trhy.html)
+* [Piráti: Byznys snů. Provozuje farmářské trhy na Náměstí Republiky, neplatí za to nic](https://praha.pirati.cz/farmarske-trhy.html)
+* [Žádost Pirátů MČ Praha 1 k projednání této problematiky na zasedání zastupitelstva městkskéč ásti](https://github.com/pirati-byro/spisy-zk-pha-2017/blob/master/8384-trhy-na-namesti-republiky-apel/01-sablona/main.pdf)
