@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Piráti se obávají, že Metro D bude tunel"
 date: 2017-09-14T14:28:00+02:00
-author: Adam Zábranský
+author: Mikuláš Ferjenčík
 image: pimp2.jpg
 tags: doprava
 ---
