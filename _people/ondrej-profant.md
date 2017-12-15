@@ -6,9 +6,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - pks
 - ga
-- mhmp
 img: people/ondrej-profant.jpg # 165 x 220
-description: Zastupitel v zastupitelstvu hl. m. Prahy, předseda krajského sdružení Pirátské strany v Praze             	# kratký popis, max 160 znaků
+description: předseda krajského sdružení Pirátské strany v Praze             	# kratký popis, max 160 znaků
 mail:
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015
@@ -21,7 +20,7 @@ ordpraha: 2
 ordga: 4
 ---
 
-Ondřej Profant (2. května 1988) je pražský zastupitel, předseda krajského [sdružení v Praze][]. Byl členem přípravného výboru České pirátské strany.
+Ondřej Profant (2. května 1988) je předseda krajského [sdružení v Praze][] a poslanec zvolený za Pirátskou stranu. Byl členem přípravného výboru České pirátské strany.
 
 ### Motivace
 
@@ -31,11 +30,11 @@ Vystudoval všeobecné gymnázium. Dále studoval Matematicko-fyzikální fakult
 
 Mimo Piráty je členem výboru spolku [Otevřená města][], kde se stará například o přípravu opensource aplikace **Cityvizor**, která je nástupcem [oceněné][] aplikace [Supervizor][].
 
-Obecně se angažuje ve svobodné kultuře. V komunitách okolo Linuxu, svobodných filmů apod.
+Obecně se angažuje ve svobodné kultuře, například v komunitách okolo Linuxu, svobodných filmů apod.
 
-U Pirátů je od začátku a angažuje se v různých funkcích. Dnes je převážně zastupitelem Hl. m. Prahy se specializací na informatiku. Např. poukázal na nezabezpečení [pražské radiové sítě][]. Dále se v Praze zabývá majetkem, dopravou a bezpečností.
+U Pirátů je od začátku a angažuje se v různých funkcích. V letech 2014–2017 byl zastupitelem hl. m. Prahy se specializací na informatiku. Např. poukázal na nezabezpečení [pražské radiové sítě][]. Dále se v Praze zabýval majetkem, dopravou a bezpečností. V prosinci 2017 rezignoval na mandát zastupitele hl. m. Prahy, a to z důvodu zvolení poslancem Parlamentu České republiky.
 
-V rámci Prahy stojí za projektem **celopražských [otevřených dat][]**, což jsou jedny z největších otevřených dat v ČR.
+V rámci Prahy stál za projektem **celopražských [otevřených dat][]**, což jsou jedny z největších otevřených dat v ČR.
 
 ### Osobně
 

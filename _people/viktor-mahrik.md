@@ -6,7 +6,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
 img: 		people/viktor-mahrik.jpg    # 165 x 220
-description: 			Nastupující zastupitel Pirátů             	        			# kratký popis, max 160 znaků
+description: 			Zastupitel Pirátů v Zastupitelstvu hlavního města Prahy             	        			# kratký popis, max 160 znaků
 mail:
 - viktor.mahrik@pirati.cz
 mob: 				+420 602 767 298
@@ -18,7 +18,7 @@ ordpraha: 4
 carousel:
   img: viktor-mahrik.jpg
   text: |
-    <p><strong>Nastupující zastupitel</strong> za Piráty, člen předsednictva krajského sdružení Pirátů v Praze. </p>
+    <p><strong>Zastupitel</strong> za Piráty, člen předsednictva krajského sdružení Pirátů v Praze. </p>
 ---
 
 Viktor Mahrik (* 21. dubna 1982) je členem předsednictva krajského sdružení Praha a předseda místního sdružení Praha 6. V letech 2015-2016 byl členem finančního výboru zastupitelstva Hlavního Města Prahy.
