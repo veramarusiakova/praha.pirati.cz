@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
 img: people/adam-zabransky.jpg   # 165 x 220
-description: Předseda Zastupitelského klubu Pirátů v zastupitelstvu hl. m. Prahy             	# kratký popis, max 160 znaků
+description: Předseda Zastupitelského klubu Pirátů v zastupitelstvu hl. m. Prahy, 1. místopředseda krajského sdružení Pirátů v Praze             	# kratký popis, max 160 znaků
 mail:
 - adam.zabransky@pirati.cz
 mob:			  +420 721 006 868
@@ -18,6 +18,6 @@ profiles:
 ordpraha: 1
 ---
 
-Adam Zábranský (* 28. prosince 1993, Praha) je pražský zastupitel za Piráty a člen Republikového výboru. Pochází z Prahy, odjakživa žije na jejím okraji v Radotíně. Momentálně studuje na Právnické fakultě Univerzity Karlovy, předtím čtyři roky studoval na Gymnáziu Jana Keplera a ještě předtím na Mensa gymnáziu. Už od čtrnácti let (s kratšími či delšími pauzami, v menší či větší intenzitě) přispívá na českou Wikipedii. Zajímá se o tolik věcí, že by se to sem všechno nevešlo. Na základě vnitřní morální obrody se v osmnácti letech stal vegetariánem a v devatenácti veganem.
+Adam Zábranský (* 28. prosince 1993, Praha) je pražský zastupitel za Piráty a 1. místopředseda krajského sdružení Pirátů v Praze. Pochází z Prahy, odjakživa žije na jejím okraji v Radotíně. Momentálně studuje na Právnické fakultě Univerzity Karlovy, předtím čtyři roky studoval na Gymnáziu Jana Keplera a ještě předtím na Mensa gymnáziu. Už od čtrnácti let (s kratšími či delšími pauzami, v menší či větší intenzitě) přispívá na českou Wikipedii. Zajímá se o tolik věcí, že by se to sem všechno nevešlo. Na základě vnitřní morální obrody se v osmnácti letech stal vegetariánem a v devatenácti veganem.
 
 O českou politiku se dlouho téměř nezajímal, protože měl pocit, že se nedá změnit. V čerstvých osmnácti letech ale objevil Pirátskou stranu, uvědomil si, že je odjakživa pirátem, a s nadějí vstoupil na palubu.
