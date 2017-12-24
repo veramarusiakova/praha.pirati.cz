@@ -202,7 +202,7 @@ layout: default
         tom, jestli je dnešní nedostatečná otevřenost radnice na Praze 13 důsledkem nezájmu,
         diletantského přístupu, nebo zda někomu vlastně nevyhovuje, když se lidé o věci veřejné moc
         nestarají a zbytečně moc toho neví.</p>
-        <p>Co si Piráti představují pod pojmem transparentní a otevřená radnice <a href="https://drive.google.com/open?id=1yPlT7nzJ1qnrYS3n9N6DAR8Gfy-YflUwsi25JoF8_gs" target="_blank">se můžete dočíst zde</a>.</p>
+        <p>Co si Piráti představují pod pojmem transparentní a otevřená radnice <a href="https://docs.google.com/document/d/1zbilylSbOLpFh2U6l1bRkLdhrqg00afMlxF_X8n6EbI/edit?usp=sharing" target="_blank">se můžete dočíst zde</a>.</p>
         <h2 class="l-cast__priority-detail-title" id="prevence">Prevence neúměrného zahušťování zástavby</h2>
         <p>Jakkoliv respektujeme právo soukromých vlastníků na jejich podnikatelské developerské
               záměry, zastáváme názor, že stejného respektu se musí dostávat i stávajícím obyvatelům,
@@ -225,7 +225,7 @@ layout: default
               aktivní tlak na pražský Magistrát a další instituce, a to v těch oblastech, které sama nemůže
               ovlivnit, ale které přitom mají na výstavbu a rozvoj naší městské části zásadní vliv (územní plán,
               výšková regulace výstavby atp.)</p>
-              <p>Neúměrné zahušťování výstavby bychom rádi eliminovali <a href="https://docs.google.com/document/d/1bDdw35b6UNrcGkkXyvjYpPNA4cKqbwCfrNWG_d_TOwQ/edit?usp=sharing" target="_blank">zavedením následujících opatření</a>.</p>
+              <p>Neúměrné zahušťování výstavby bychom rádi eliminovali <a href="https://docs.google.com/document/d/1tVef2ve1NZYHas2CPfSrwdVQxJXqLjiO_wE5hfocUN0/edit?usp=sharing" target="_blank">zavedením následujících opatření</a>.</p>
           <h2 class="l-cast__priority-detail-title" id="komunita">Kvalitní veřejný prostor a komunitní život</h2>
           <p>Dominantním charakterem Prahy 13 je bezesporu sídlištní výstavba, která s sebou bohužel
           nese i anonymitu a nižší míru identifikace s místem svého bydliště. Přispívá k tomu jistě i fakt,
