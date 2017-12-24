@@ -340,8 +340,7 @@ layout: default
                  zapojí do četných internetových diskusí a voleb, a svými názory a postoji tak budete ovlivňovat
                  stávající i budoucí diskurz českých Pirátů. Pokud ale budete mít čas a chuť, nic Vám nebrání v tom
                  přesvědčit svými myšlenkami a činy ostatní Piráty a stát se třeba naším příštím předsedou.</p>
-                 <p>S politickým diskursem Pirátské strany se můžete seznámit zde prostřednictvím programu pro volby
-                 do PS 2017.</p>
+                 <p>S politick&yacute;m diskursem Pir&aacute;tsk&eacute; strany se můžete sezn&aacute;mit zde prostřednictv&iacute;m <a href="https://www.pirati.cz/program/psp2017.html" target="_blank" rel="noopener">programu pro volby do PS 2017</a>.</p>
             </div>
         <div class="l-cast__connect-perex columns medium-5">
           <div class="l-cast__connect-perex-item">
