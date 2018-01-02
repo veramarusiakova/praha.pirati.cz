@@ -4,7 +4,7 @@ category:     blog
 tags:         piráti
 layout:       post
 title:        "Pražští Piráti si zvolili nové předsednictvo"
-image:        predsednictvo2.jpg
+image:        predsednictvo.jpg
 author:       Adam Zábranský
 ---
 
