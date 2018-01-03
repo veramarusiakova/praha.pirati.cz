@@ -11,7 +11,7 @@ mail:
 mob:			  +420 732 858 172
 profiles:
   github:       
-  facebook:     https://www.facebook.com/Broskwwwicka
+  facebook:    
   twitter: 		  
   flickr:		  
 ---
