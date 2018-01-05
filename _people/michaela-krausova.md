@@ -5,7 +5,7 @@ fullname: Michaela Krausová 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/michaela-krausova.jpg   # 165 x 220
-description:  Aktivistka, koordinátorka dobrovolníků    	# kratký popis, max 160 znaků
+description:  Aktivistka, Pirátka    	# kratký popis, max 160 znaků
 mail:
 - misa.krausova@pirati.cz
 mob:			  +420 732 858 172
@@ -16,7 +16,7 @@ profiles:
   flickr:		  
 ---
 
-**Michaela Krausová** je pražská koordinátorka pirátských dobrovolníků. Toho času členka zaniklé komise pro kopírování a Internet, nyní příležitostná dobrovolnice Personálního odboru. Vedla projekt Pirátské listy offline, stáže u senátora Libora Michálka a v klubu Pirátů na Zastupitelstvu hl. m. Prahy nebo komunální volební kampaň Otevřeme Radotín. Michaela se narodila v Benešově a odmala bydlí v Praze.
+**Michaela Krausová** je pražská pirátka. Toho času členka zaniklé komise pro kopírování a Internet, nyní příležitostná dobrovolnice Personálního odboru. Vedla projekt Pirátské listy offline, stáže u senátora Libora Michálka a v klubu Pirátů na Zastupitelstvu hl. m. Prahy nebo komunální volební kampaň Otevřeme Radotín. Michaela se narodila v Benešově a odmala bydlí v Praze.
 
 Vztah k Pirátům získala především díky jejich otevřenosti, transparenci a kvůli efektivnímu využití moderních technologií, bez kterých se ve 21. století nelze obejít. Ráda by žila ve společnosti, která je vzdělaná, svobodná a digitálně propojená.
 

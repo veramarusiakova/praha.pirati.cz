@@ -5,6 +5,7 @@ fullname: 			Viktor Mahrik  # jméno s tituly etc.
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
+- carousel
 img: 		people/viktor-mahrik.jpg    # 165 x 220
 description: 			Zastupitel Pirátů v Zastupitelstvu hlavního města Prahy             	        			# kratký popis, max 160 znaků
 mail:
@@ -15,6 +16,7 @@ profiles:
   twitter: https://twitter.com/_ViM
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=viktor%20mahrik&view_all=1
 ordpraha: 4
+ordcar: 3
 carousel:
   img: viktor-mahrik.jpg
   text: |
