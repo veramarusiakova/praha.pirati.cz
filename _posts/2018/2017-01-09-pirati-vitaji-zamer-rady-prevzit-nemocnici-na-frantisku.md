@@ -3,7 +3,7 @@ date:         2018-01-09
 category:     blog
 tags:         zdravotnictví
 layout:       post
-title:        "Piráti vítají záměr pražské Rady převzít provozování Nemocnice na Františku" 
+title:        "Vítáme záměr pražské Rady převzít provozování Nemocnice na Františku" 
 image:        ruce-pryc.jpg
 author:       Adam Zábranský
 ---
