@@ -5,7 +5,7 @@ tags:         praha-10
 layout:       post
 title:        "Čeká Prahu návrat kmotra Tomáše Hrdličky?" 
 image:        praha10.jpg
-author:       Adam Zábranský
+author:       Olga Richterová
 ---
 
 Praha, 10. leden 2018 – Jméno Tomáš Hrdlička opět rezonuje v médiích a kuloárech jako v době jeho největší slávy. Prosincové vydání časopisu Forbes věnovalo čtyři strany popisu jeho podnikání a neprůhledné historii. Hrdlička se vyšvihl z majitele benzinové pumpy až na jednoho z nejvlivnějších mužů v politice.
