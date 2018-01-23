@@ -3,7 +3,7 @@ date:         2018-01-23
 category:     blog
 tags:         praha-1
 layout:       post
-title:        "Piráti podávají podnět k ÚOHS ke zrušení koncesního řízení na Nemocnici na Františku" 
+title:        "Podali jsme podnět k ÚOHS ke zrušení koncesního řízení na Nemocnici na Františku" 
 image:        uohs.jpg
 author:       Adam Zábranský
 ---
