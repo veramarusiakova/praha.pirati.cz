@@ -56,21 +56,21 @@ tw: piratipraha
 
 title-page:
   big:
-    foto: /assets/img/miscellaneous/featured-volby.gif
-    alt: Volební rozcestník
-    url: https://www.pirati.cz/volby
+    foto: /assets/img/miscellaneous/featured-nemocnice.gif
+    alt: Bojueme za zachování nemocnice Na Františku
+    url: https://praha.pirati.cz/tags/#nemocnice-na-františku
   left-top:
-    text: Kandidáti do sněmovny
-    url: https://www.pirati.cz/volby/2017/praha
-    icon: fa fa-th-list
+    text: Kdo jsme?
+    url: https://praha.pirati.cz/lide/
+    icon: fa fa-users
   right-top:
-    text: Program<br> Černé na bílém
-    url: https://www.pirati.cz/program
+    text: Náš registr smluv
+    url: https://smlouvy.pirati.cz/
     icon: fa fa-newspaper-o u-rotate-345
   left-bottom:
     text: Městské části
     url: mestske-casti
-    icon:
+    icon: fa map-signs
   right-bottom:
     text: Připoj se
     url: pripoj-se
