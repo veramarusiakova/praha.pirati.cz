@@ -1,7 +1,7 @@
 ---
 date:         2017-12-14
 category:     blog
-tags:         zhmp
+tags:         zhmp nemocnice-na-františku
 layout:       post
 title:        "Koaliční mlčení k nemocnici na Františku a Metru D. Piráti mezitím vystřídali stráže."
 image:        mahrik-podpis.jpg

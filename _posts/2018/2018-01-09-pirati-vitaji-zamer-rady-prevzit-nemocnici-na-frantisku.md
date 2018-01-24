@@ -1,7 +1,7 @@
 ---
 date:         2018-01-09
 category:     blog
-tags:         zdravotnictví
+tags:         zdravotnictví nemocnice-na-františku
 layout:       post
 title:        "Vítáme záměr pražské Rady převzít provozování Nemocnice na Františku" 
 image:        ruce-pryc.jpg
