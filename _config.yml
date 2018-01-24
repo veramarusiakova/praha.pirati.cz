@@ -64,8 +64,8 @@ title-page:
     url: https://praha.pirati.cz/lide/
     icon: fa fa-users
   right-top:
-    text: Náš registr smluv
-    url: https://smlouvy.pirati.cz/
+    text: Piráti ve sněmovně
+    url: https://www.pirati.cz/snemovna/
     icon: fa fa-newspaper-o u-rotate-345
   left-bottom:
     text: Městské části
