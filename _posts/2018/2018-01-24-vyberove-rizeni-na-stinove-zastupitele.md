@@ -54,5 +54,5 @@ V nabídce nám prosím zašli v jednom PDF dokumentu následující materiály:
 
 Podrobnosti o výběrovém řízení si přečti v pravidlech výběrového řízení. Pokud máš zájem o upřesnění informací, neváhej se na mne obrátit emailem či telefonicky (608 21З 119).
 Na zadání bude sepsán standardní zadávací list (pracovní smlouva) podle [podmínek pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md) s vykazováním v systémů [redmine](https://redmine.pirati.cz/).
-Nabídku nám prosím zašli do 5. února 2018, do tří dnů od termínu pro přihlášení se ti ozveme ohledně dalšího postupu. Nabídku pošli na adresu jan.louzek@pirati.cz, kopii potom na info@pirati.cz. Nabídku je také možné zaslat pomocí společných formulářů.
+Nabídku nám prosím zašli do 5. února 2018, do tří dnů od termínu pro přihlášení se ti ozveme ohledně dalšího postupu. Nabídku pošli na adresu jan.louzek@pirati.cz, kopii potom na info@pirati.cz. Nabídku je také možné zaslat pomocí společných formulářů. Průběh řízení probíhá v souladu s [pravidly](https://github.com/pirati-cz/KlubPraha/blob/master/vyberka/asistenti-zastupitelu/pravidla.md).
 
