@@ -7,7 +7,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - carousel
 img: 		people/viktor-mahrik.jpg    # 165 x 220
-description: 			Zastupitel Pirátů v Zastupitelstvu hlavního města Prahy             	        			# kratký popis, max 160 znaků
+description: 			Zastupitel Pirátů v zastupitelstvu hlavního města Prahy             	        			# kratký popis, max 160 znaků
 mail:
 - viktor.mahrik@pirati.cz
 mob: 				+420 602 767 298

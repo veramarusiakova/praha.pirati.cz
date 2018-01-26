@@ -6,7 +6,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
 img: 		people/ondrej-kallasch.jpg    # 165 x 220
-description: 			Nastupující zastupitel Pirátů v Zastupitelstvu hlavního města Prahy, zastupitel na městské části Praha 22             	        			# kratký popis, max 160 znaků
+description: 			Zastupitel Pirátů v zastupitelstvu hlavního města Prahy, zastupitel na městské části Praha 22             	        			# kratký popis, max 160 znaků
 mail:
 - ondrej.kallasch@pirati.cz
 mob: 				+420 720 474 822
