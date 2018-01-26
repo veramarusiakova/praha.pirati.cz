@@ -10,7 +10,7 @@ author:       Jan Loužek
 
 
 Ahoj! V zastupitelském klubu Pirátů v Praze hledáme dva stínové zastupitele (zastupitelky), kteří budou zastupitelům pomáhat v:
-analýze materiálů všeho druhu souvisejících s fungováním města – smlouvy, materiály na zastupitelstvo atd. U první pozice bychom chtěli, aby se zastupitel věnoval oblasti informatiky pražského magistrátu a u druhé potom především prevenci, rozkrývání a nápravě korupčních kauz Prahy. 
+analýze materiálů všeho druhu souvisejících s fungováním města – smlouvy, materiály na zastupitelstvo atd. U první pozice bychom chtěli, aby se zastupitel věnoval oblasti informatiky pražského magistrátu. U druhé potom především prevenci, rozkrývání a nápravě korupčních kauz Prahy. 
 
 Cílem obou stínových zastupitelů (zastupitelek) bude pomoci udržet vysoký výkon zastupitelského klubu, díky němuž obsadila Pirátská strana v hlavním městě ve sněmovních volbách hned druhé místo. Hledáme odhodlané lidi, kteří jsou blízko Pirátům a pirátským myšlenkám a kteří vážně uvažují na podzim 2018 kandidovat v komunálních volbách za Pirátskou stranu na předních místech kandidátky. 
 
