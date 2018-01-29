@@ -12,7 +12,7 @@ Návrh, který podporují ČSSD a TOP 09, počítá se stržením mostu z 20. le
 
 Libeňský most souží Pražanům již téměř devadesát let. Za tu dobu neprošel žádnou významnější rekonstrukcí, a proto chátrá. Jeho technickému stavu nepomohly jak sovětské tanky v roce 1968, tak ani povodně v roce 2002. Viditelně nebyly prováděny ani základní údržbové práce, jako například výměny izolací. Necitlivý přístup k historické hodnotě stavby dokládá například i instalace moderních lamp veřejného osvětlení přímo na ty původní. Stav mostu je dlouhodobě neudržitelný; Praha proto řeší co s tím. Betonářská lobby si mezitím brousí zuby na novou, šťavnatou zakázku 27 m širokého mostu. K ní by snad mohl přibýt ještě tunel pod Palmovkou, který tak trochu připomíná velkolepé plány pražského "vizionáře" Pavla Béma.
 
-![Vizualizace nového mostu](/assets/img/potst/lm4.jpg "Takto by měl nový most vypadat")
+![Vizualizace nového mostu](/assets/img/posts/lm4.jpg "Takto by měl nový most vypadat")
 
 Neexistuje důvod pro rozšiřování mostu. Dopravní zatížení je poměrně nízké; na mostě se kolony tvoří jen zřídka a jeho význam je především pro obyvatele Holešovic a Libně. Ani Praha 7, ani Praha 8 nechtějí dálnici nebo tunel pod Palmovkou. Žádná z dopravních koncepcí Prahy navíc nepočítá s tím, že by po Libeňském mostě byla vedena některá z radiál, tangent, nebo jiných páteřních komunikací. Most se navíc nachází uvnitř budovaného Městského okruhu (který by měl vést Povltavskou ulicí), a rozšíření mostu by tak akorát vedlo k zvýšení individuální automobilové dopravy v centru města.
 
