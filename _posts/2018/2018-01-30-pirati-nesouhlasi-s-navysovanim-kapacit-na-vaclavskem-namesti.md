@@ -3,7 +3,7 @@ date:         2018-01-30
 category:     blog
 tags:         doprava
 layout:       post
-title:        "Piráti nesouhlasí s navyšováním parkovacích kapacit na Václavském náměstí" 
+title:        "Nesouhlasíme s navyšováním parkovacích kapacit na Václavském náměstí" 
 image:        rampa.jpg
 author:       Viktor Mahrik
 ---
