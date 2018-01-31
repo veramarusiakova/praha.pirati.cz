@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jakub Michálek
 image:	mikulas-k-busking.jpg
-tags:	zhmp busking brezina libensky-most trafiky it
+tags:	zhmp busking brezina libensky-most trafiky informatika
 date:	2016-01-28
 ---
 

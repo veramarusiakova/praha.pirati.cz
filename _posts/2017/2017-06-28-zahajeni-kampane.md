@@ -1,7 +1,7 @@
 ---
 date:         2017-06-28
 category:     blog
-tags:         praha, volby
+tags:         praha volby
 layout:       post
 title:        "Piráti startují volební kampaň v Praze"
 image:        kandidati-praha.jpg

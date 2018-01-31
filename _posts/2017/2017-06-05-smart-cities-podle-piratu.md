@@ -1,7 +1,7 @@
 ---
 date:         2017-06-05
 category:     blog
-tags:         praha smart-cities informatika it
+tags:         praha smart-cities informatika
 layout:       post
 title:        "Nechceme další Opencard: Smart cities v Praze podle Pirátů"
 image:        4pirati2.jpg

@@ -1,7 +1,7 @@
 ---
 date:         2017-12-04
 category:     blog
-tags:         it mrs tetra
+tags:         informatika mrs tetra
 layout:       post
 title:        "Zakázka za 93 milionů na radiový systém: předražená a bez soutěže"
 image:        overpriced.jpg

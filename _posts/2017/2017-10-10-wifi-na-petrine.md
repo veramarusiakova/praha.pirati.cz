@@ -1,7 +1,7 @@
 ---
 date:         2017-10-10
 category:     blog
-tags:         it smart-cities
+tags:         informatika smart-cities
 layout:       post
 title:        "Předražený internet na Petříne"
 image:        petrin-wifi.jpg

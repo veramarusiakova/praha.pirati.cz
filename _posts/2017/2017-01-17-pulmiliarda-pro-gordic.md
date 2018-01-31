@@ -1,7 +1,7 @@
 ---
 date:         2017-01-17
 category:     blog
-tags:         praha účetnictví gordic it vendor-lock
+tags:         praha účetnictví gordic informatika vendor-lock
 layout:       post
 title:        "Praha se chystá utratit za účetní systém další půlmiliardu, Piráti nesouhlasí"
 image:        dojeni.jpg
