@@ -14,7 +14,7 @@ Praha, 1. února 2017 – Jednání komisí a výborů městské části příst
 
 Vážený pane starosto,
 
-rádi bychom Vás u příležitosti Nového roku pozdravili jménem místního sdružení České pirátské strany v Praze 6. Zároveň Vám nabízíme spolupráci v oblastech, které přinesou větší transparentnciost politického prostředí naší městské části.
+rádi bychom Vás u příležitosti Nového roku pozdravili jménem místního sdružení České pirátské strany v Praze 6. Zároveň Vám nabízíme spolupráci v oblastech, které přinesou větší transparentnost politického prostředí naší městské části.
 
 Jak víte, v parlamentních volbách před 3 měsíci Pirátská strana získala se svým programem otevřenosti více než 17 % hlasů občanů Městské části Praha 6. Přijímáme tuto skutečnost jako odpovědnost vůči našim voličům a podporovatelům.
 
