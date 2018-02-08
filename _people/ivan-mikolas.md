@@ -18,4 +18,4 @@ profiles:
 ordpraha: 3
 ---
 
-Ivan Mikoláš (8. dubna 1965) je zastupitel hl. m. Prahy za Piráty. Je členem Pirátů na městské části Praha 10. Povoláním je technik a podnikatel. 
+Ivan Mikoláš (8. dubna 1965) je zastupitel hl. m. Prahy za Piráty. Je členem Pirátů na městské části Praha 10. Povoláním je technik a podnikatel. Jako zastupitel se mimo jiné zaměřuje na kontakt s občany.

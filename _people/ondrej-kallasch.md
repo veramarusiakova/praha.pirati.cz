@@ -18,7 +18,7 @@ ordpraha: 2
 carousel:
   img: ondrej-kallasch.jpg
   text: |
-    <p><strong>Nastupující zastupitel</strong> za Piráty, člen předsednictva krajského sdružení Pirátů v Praze. </p>
+    <p>Zastupitel za Piráty se specializací na oblast informatiky, člen předsednictva krajského sdružení Pirátů v Praze. </p>
 ---
 
 Ondřej Kallasch (* 12. března 1991) je nastupující zastupitel Pirátů v Zastupitelstvu hlavního města Prahy. Je také zastupitelem na městské části Praha 22. Od roku 2010 je členem Pirátské strany. 
