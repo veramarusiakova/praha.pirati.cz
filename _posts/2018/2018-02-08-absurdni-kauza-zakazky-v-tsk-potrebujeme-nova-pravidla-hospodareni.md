@@ -10,7 +10,9 @@ author:       Adam Zábranský
 
 Jednotlivé příspěvkové organizace hlavního města vypisují rozsáhlé tendry, neinformují o tom ale pražské zastupitele ani radní. Minulý rok například Technická správa komunikací vypsala zakázku za 16 miliard, o které věděl pouze náměstek Dolínek. 
 
-> „Současný stav je naprosto netransparentní. Je absurdní, aby zastupitelé ani radní nevěděli, že nějaká příspěvková organizace vypsala zakázku za miliardy,“ uvádí předseda pirátských zastupitelů Adam Zábranský. Naposledy současný stav vedl k tomu, že si paní primátorka s náměstkem Dolínkem vyměnili několik ostrých názorů a zakázku v TSK zrušili. Primátorka Krnáčová ani ostatní členové rady totiž o zakázce nevěděli.
+> „Současný stav je naprosto netransparentní. Je absurdní, aby zastupitelé ani radní nevěděli, že nějaká příspěvková organizace vypsala zakázku za miliardy,“ uvádí předseda pirátských zastupitelů Adam Zábranský. 
+
+Naposledy současný stav vedl k tomu, že si paní primátorka s náměstkem Dolínkem vyměnili několik ostrých názorů a zakázku v TSK zrušili. Primátorka Krnáčová ani ostatní členové rady totiž o zakázce nevěděli.
 
 Piráti se proto obrátili na pražskou radu s požadavkem, aby město nastavilo pravidla pro transparentní informování příspěvkových organizací a městských firem o vypisovaných zakázkách. 
 
