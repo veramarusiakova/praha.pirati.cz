@@ -6,7 +6,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
 img: 		people/ondrej-kallasch.jpg    # 165 x 220
-description: 			Zastupitel Pirátů v zastupitelstvu hlavního města Prahy, zastupitel na městské části Praha 22             	        			# kratký popis, max 160 znaků
+description: 			Zastupitel Pirátů v zastupitelstvu hlavního města Prahy se specializací na oblast informatiky, zastupitel na městské části Praha 22             	        			# kratký popis, max 160 znaků
 mail:
 - ondrej.kallasch@pirati.cz
 mob: 				+420 720 474 822
@@ -18,7 +18,7 @@ ordpraha: 2
 carousel:
   img: ondrej-kallasch.jpg
   text: |
-    <p>Zastupitel za Piráty se specializací na oblast informatiky, člen předsednictva krajského sdružení Pirátů v Praze. </p>
+    <p><strong>Zastupitel<strong/> za Piráty se specializací na oblast informatiky, člen předsednictva krajského sdružení Pirátů v Praze. </p>
 ---
 
 Ondřej Kallasch (* 12. března 1991) je nastupující zastupitel Pirátů v Zastupitelstvu hlavního města Prahy. Je také zastupitelem na městské části Praha 22. Od roku 2010 je členem Pirátské strany. 

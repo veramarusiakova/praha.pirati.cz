@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
 img: people/ivan-mikolas.jpg   # 165 x 220
-description: Zastupitel Pirátů v zastupitelstvu hlavního města Prahy            	# kratký popis, max 160 znaků
+description: Zastupitel Pirátů v zastupitelstvu hlavního města Prahy pro kontakt s občany            	# kratký popis, max 160 znaků
 mail:
 - ivan.mikolas@pirati.cz
 mob:			  

@@ -7,7 +7,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - carousel
 img: 		people/viktor-mahrik.jpg    # 165 x 220
-description: 			Zastupitel Pirátů v zastupitelstvu hlavního města Prahy             	        			# kratký popis, max 160 znaků
+description: 			Zastupitel Pirátů se specializací na oblast dopravy v zastupitelstvu hlavního města Prahy             	        			# kratký popis, max 160 znaků
 mail:
 - viktor.mahrik@pirati.cz
 mob: 				+420 602 767 298
@@ -20,7 +20,7 @@ ordcar: 3
 carousel:
   img: viktor-mahrik.jpg
   text: |
-    <p>Zastupitel za Piráty se specializací na oblast dopravy, člen předsednictva krajského sdružení Pirátů v Praze. </p>
+    <p><strong>Zastupitel<strong/> za Piráty se specializací na oblast dopravy, člen předsednictva krajského sdružení Pirátů v Praze. </p>
 ---
 
 Viktor Mahrik (* 21. dubna 1982) je členem předsednictva krajského sdružení Praha a předseda místního sdružení Praha 6. 
