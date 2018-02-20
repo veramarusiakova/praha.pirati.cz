@@ -8,7 +8,7 @@ image:        solinova.jpg
 author:       Viktor Mahrik
 ---
 
-Praha, 19. února 2018 – Piráti zásadně nesouhlasí s postupem radnice, která se chystá vyhlásit výběrové řízení na provoz domova pro seniory na Vítězném náměstí. Součástí smlouvy uzavřené na 30 let má být i rekonstrukce objektu, a to bez možnosti radnice ovlivnit finální podobu. Případ připomíná dřívější nevýhodnou smlouvu o pronájmu a rekonstrukci břevnovské polikliniky z roku 2010. K rekonstrukci nikdy nedošlo.
+Praha, 19. února 2018 – Piráti zásadně nesouhlasí s postupem radnice MČ Prahy 6, která se chystá vyhlásit výběrové řízení na provoz domova pro seniory na Vítězném náměstí. Součástí smlouvy uzavřené na 30 let má být i rekonstrukce objektu, a to bez možnosti radnice ovlivnit finální podobu. Případ připomíná dřívější nevýhodnou smlouvu o pronájmu a rekonstrukci břevnovské polikliniky z roku 2010. K rekonstrukci nikdy nedošlo.
  
 > „Piráti považují za naprosto nepřípustné zbavit se kontroly nad objekty v miliardové hodnotě na tak dlouho a ponechat provoz cca 200 lůžek domova pro seniory plně jen na komerčním subjektu. Majetek městské části musí sloužit občanům, a ne soukromým podnikatelským zájmům,“ uvedl Viktor Mahrik, zastupitel Pirátů na magistrátu.
  
