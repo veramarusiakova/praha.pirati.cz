@@ -3,7 +3,7 @@ date:         2018-02-22
 category:     blog
 tags:         zhmp doprava
 layout:       post
-title:        "Návrhy Pirátů na zasedání zastupitelstva: Magistrálu humanizovat, Libeňský most nebourat." 
+title:        "Návrhy Pirátů na zasedání zastupitelstva: Magistrálu humanizovat, Libeňský most nebourat" 
 image:        hlavkuv-most.jpg
 author:       Viktor Mahrik
 ---
