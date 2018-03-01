@@ -4,7 +4,7 @@ category:     blog
 tags:         volby
 layout:       post
 title:        "Pražským lídrem zvolen Zdeněk Hřib" 
-image:        hrib.jpg
+image:        hrib2.jpg
 author:       Karolína Sadílková
 ---
 
