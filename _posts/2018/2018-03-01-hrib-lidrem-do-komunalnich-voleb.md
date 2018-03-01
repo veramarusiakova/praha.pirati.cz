@@ -3,7 +3,7 @@ date:         2018-03-01
 category:     blog
 tags:         volby
 layout:       post
-title:        "Piráti zvolili za svého pražského lídra Zdeňka Hřiba" 
+title:        "Pražským lídrem zvolen Zdeněk Hřib" 
 image:        hrib.jpg
 author:       Karolína Sadílková
 ---
