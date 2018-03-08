@@ -17,3 +17,7 @@ Piráti rozvoj otevřených dat v Praze podporují dlouhodobě. Pro Prahu portá
 > „Vidíme naději, že se přístup Magistrátu k aktivnímu zveřejňování informací brzy změní. Formální podklad nyní existuje, je potřeba ho uvést v život,“ dodává Zábranský.
 
 Nařízení ředitelky také zavádí pozici koordinátora otevřených dat, který bude ve spolupráci s IT odborníky magistrátu projekt řídit. Zatím není jisté, zda tato pozice bude obsazena někým zevnitř úřadu nebo externistou. Piráti chtějí nabídnout ředitelce Magistrátu externí odborníky, protože považují za vhodnější, aby pozici koordinátora dělal někdo s dlouhodobou zkušeností s otevíráním dat státní správy. Zájemci se nám mohou ozvat na e-mail jan.louzek@pirati.cz.
+
+### Odkazy
+
+* [Nařízení ředitelky magistrátu k otevřeným datům](https://github.com/pirati-byro/spisy-zk-pha-2018/blob/master/9745-otevrena-data-nove-pracovni-misto/02-narizeni-reditele/narizeni-reditele.pdf)
