@@ -3,7 +3,7 @@ date:         2018-03-15
 category:     blog
 tags:         praha-4
 layout:       post
-title:        "Piráti nesouhlasí s bouráním Budějovické pasáže" 
+title:        "Nesouhlasíme s bouráním Budějovické pasáže" 
 image:        budejovicka.jpg
 author:       Viktor Mahrik
 ---
