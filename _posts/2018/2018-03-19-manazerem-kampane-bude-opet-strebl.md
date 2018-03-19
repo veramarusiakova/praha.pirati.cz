@@ -3,7 +3,7 @@ date:         2018-03-19
 category:     blog
 tags:         volby
 layout:       post
-title:        "Piráti si pro kampaň v Praze najali staronového manažera a míří vysoko" 
+title:        "Pro kampaň v Praze jsme najali staronového manažera a míříme vysoko" 
 image:        strebl.jpg
 author:       Adam Zábranský
 ---
