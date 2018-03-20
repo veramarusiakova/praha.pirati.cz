@@ -38,6 +38,15 @@ layout: default
                           </ul>
                           <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                               <li class="c-simple-accordion-item" data-accordion-item="">
+                                  <a href="#sněmovna" class="c-simple-accordion-title">Pirátští poslanci</a>
+                                  <div id="sněmovna" class="c-simple-accordion-content" data-tab-content="">
+                                      {% assign team = site.people | where_exp:"item","item.categories contains 'pos'" | sort:"ordpos" %}
+                                      {% include people/list-2col.html param=team %}
+                                  </div>
+                              </li>
+                          </ul>
+                          <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                              <li class="c-simple-accordion-item" data-accordion-item="">
                                   <a href="#senat" class="c-simple-accordion-title">Senátoři s podporou Pirátů</a>
                                   <div id="senat" class="c-simple-accordion-content" data-tab-content="">
                                       {% assign team = site.people | where_exp:"item","item.categories contains 'senat'" | sort:"ordsenat" %}
