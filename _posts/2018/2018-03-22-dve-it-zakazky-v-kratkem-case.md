@@ -8,7 +8,7 @@ image:        fail.jpg
 author:       Ondřej Kallasch
 ---
 
-Na březnovém zasedání zastupitelstvo schválilo největší IT zakázku za toto volební období. Jedná se o nákup síťových prvků, vybavení za odhadovaných 140 milionů korun. Detailní rozbor toho, co se má pořídit, vychází z analýzy společnosti AutoCont. A v té vidí Piráti řadu formálních i faktických nesrovnalostí. Analýza totiž obsahuje velmi podrobný seznam síťových prvků, které má Praha koupit. A to včetně katalogových cen jednotlivých zařízení. 
+Praha, 22. března 2018 – Na březnovém zasedání zastupitelstvo schválilo největší IT zakázku za toto volební období. Jedná se o nákup síťových prvků, vybavení za odhadovaných 140 milionů korun. Detailní rozbor toho, co se má pořídit, vychází z analýzy společnosti AutoCont. A v té vidí Piráti řadu formálních i faktických nesrovnalostí. Analýza totiž obsahuje velmi podrobný seznam síťových prvků, které má Praha koupit. A to včetně katalogových cen jednotlivých zařízení. 
 
 > „Mám velikou obavu, že pokud již analýza nepočítá od počátku s tržními cenami, bude výsledná zakázka zbytečně předražená,“ říká pirátský zastupitel Ondřej Kallasch. 
 
