@@ -3,7 +3,7 @@ date:         2018-03-22
 category:     blog
 tags:         informatika
 layout:       post
-title:        "Pražské zastupitelstvo schválila dvě IT zakázky za 230 milionů, Piráti mají zásadní výhrady" 
+title:        "Pražské zastupitelstvo schválilo dvě IT zakázky za 230 milionů, Piráti mají zásadní výhrady" 
 image:        fail.jpg
 author:       Ondřej Kallasch
 ---
