@@ -26,6 +26,10 @@ Piráti navrhují, aby se etapa D2 rozdělila na dvě části. Část Olbrachtov
 
 Nedoporučujeme se překotně snažit uzavřít smlouvu na konci volebního období současné rady. Předkládaný materiál vykazuje známky spěchu a neúplnosti v podobě chybějících příloh (např. návrhu stanov společného podniku), nejasností ohledně dělení zisku z developerské činnosti, chybějící návaznosti na právě projednávaný metropolitní plán a další nejasnosti. 
 
+### Metro D na Žižkov
+
+Nehlasovali jsme pro metro na Žižkov, protože nám nebyla předložena žádná analýza, která by toto rozhodnutí odůvodňovala. Rozhodovalo se pouze na základě pocitů. Je nám jasné, že zastupitelé z Prahy 3 v magistráním zastupitelstvu měli potřebu hlasovat pro a přesvědčili k tomu své stranické kolegy (a nikdo se tím vlastně ani netajil), my se raději rozhodujeme na základě dat.
+
 ### Síťové prvky pro Prahu
 
 Dalším podivným projektem, který chce vedení města na březnovém zasedání schválit, je zakázka na síťové prvky za cca 140 milionů korun. Praha chce obnovit hardware vlastní komunikační infrastuktury. Nechala si proto vypracovat analýzu od společnosti Autocont k tomu, co má vlastně pořídit. Město v zakázce požaduje konkrétní hardwarové prvky tak, jak je nadiktoval Autocont. Bojíme se, že to bude zbytečně předražená zakázka – odhadovaná cena u jednotlivých položek je stanovena výše, než jsou ceny dostupné na trhu. 
@@ -40,7 +44,7 @@ Zastupitelstvo má na programu i prodej několika pozemků, které se nacházej�
 
 Z prostředků pro podporu cestovního ruchu má jít také suma 5 milionů korun jako příspěvek na 115. výročí od založení značky Harley-Davidson. 
 
-> „Sjezd fanoušků Harley-Davidson jeryze komerční akcí a nevidíme důvod, proč by ji město mělo finančně podporovat,“ říká předseda pirátského klubu v pražském zastupitelstvu.
+> „Sjezd fanoušků Harley-Davidson je ryze komerční akcí a nevidím důvod, proč by ji město mělo finančně podporovat,“ říká předseda pirátského klubu v pražském zastupitelstvu Adam Zábranský.
 
 ### Odkazy
 
