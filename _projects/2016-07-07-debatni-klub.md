@@ -1,6 +1,6 @@
 ---
 title:        Pirátský debatní klub
-priority:     2
+priority:     0
 layout:       post
 image:        debata.jpg
 description:  >
