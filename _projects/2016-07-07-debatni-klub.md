@@ -1,7 +1,7 @@
 ---
 title:        Pirátský debatní klub
-priority:     0
-layout:       
+priority:     2
+layout:       post
 image:        debata.jpg
 description:  >
               Nestačí mít skvělé myšlenky. Je potřeba je ostatním
