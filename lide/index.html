@@ -22,7 +22,7 @@ layout: default
                               <li class="c-simple-accordion-item" data-accordion-item="">
                                   <a href="#rp" class="c-simple-accordion-title">Krajské předsednictvo</a>
                                   <div id="rp" class="c-simple-accordion-content" data-tab-content="">
-                                      {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" | where_exp:"item","item.categories contains 'pks'" | sort:"ordrp" %}
+                                      {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" | where_exp:"item","item.categories contains 'pks'" | sort:"ordpks" %}
                                       {% include people/list-2col.html param=team %}
                                   </div>
                               </li>
