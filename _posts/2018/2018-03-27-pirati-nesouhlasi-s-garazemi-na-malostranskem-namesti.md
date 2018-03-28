@@ -3,7 +3,7 @@ date:         2018-03-27
 category:     blog
 tags:         doprava
 layout:       post
-title:        "Piráti odmítají podzemní garáže na Malostranském náměstí" 
+title:        "Odmítáme podzemní garáže na Malostranském náměstí" 
 image:        garaze-mal.jpg
 author:       Adam Zábranský
 ---
