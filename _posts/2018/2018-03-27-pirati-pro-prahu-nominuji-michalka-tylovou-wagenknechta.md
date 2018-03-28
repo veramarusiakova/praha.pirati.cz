@@ -3,7 +3,7 @@ date:         2018-03-28
 category:     blog
 tags:         senát volby kampaň
 layout:       post
-title:        "Za Piráty budou v Praze do Senátu kandidovat Michálek, Tylová a Wagenknecht" 
+title:        "V Praze budou do Senátu kandidovat Michálek, Tylová a Wagenknecht" 
 image:        senatori.jpg
 author:       Adam Zábranský
 ---
