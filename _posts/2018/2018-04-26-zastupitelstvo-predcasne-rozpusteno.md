@@ -14,4 +14,4 @@ Zastupitelé za Piráty se hlasování o programu zdrželi, jelikož nesouhlasil
 
 Rovněž měla být projednána i petice Auto*Matu k legalizaci cyklistiky na území Prahy 1. Tu jsme chtěli peřadit na 16:00, aby se do ní mohla veřejnost zapojit. Koalice však náš návrh neschválila, stejně jako řadu ostatních. „Domníváme se, že tento postup je pohrdáním občanů Prahy, kteří musí chodit do práce a nemohou se účastnit zasedání zastupitelstva v čase, kdy většina z nich musí být v zaměstnání,“ dodává Ondřej Kallasch, pražský zastupitel za Piráty. 
 
-Piráti dlouhodobě prosazují, aby se petice občanů vždy zařazovali jako pevný bod v odpoledních hodinách. 
+Piráti dlouhodobě prosazují, aby se petice občanů vždy zařazovaly jako pevný bod v odpoledních hodinách. 
