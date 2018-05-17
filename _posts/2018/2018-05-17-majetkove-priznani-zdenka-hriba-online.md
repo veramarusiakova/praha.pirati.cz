@@ -3,7 +3,7 @@ date:         2018-05-17
 category:     blog
 tags:         transparence
 layout:       post
-title:        "Transparentní majetkové poměry politiků a rozumný rozsah sledovaných dat. Zveřejňujeme majetkové přiznání kandidáta Pirátů na primátora hl. m. Prahy" 
+title:        "Zveřejňujeme majetkové přiznání kandidáta Pirátů na primátora hl. m. Prahy" 
 image:        hrib.jpg
 author:       Zdeněk Hřib
 ---
