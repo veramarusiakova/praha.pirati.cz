@@ -12,7 +12,7 @@ Rada hlavního města Prahy zrušila na svém úterním zasedání (15. května 
  
 Hlavním důvodem má být urychlení výstavby. Duál totiž nemá vyhodnocení vlivu stavby na životní prostředí (EIA). Vlasta sice EIA má, ale ta podmiňuje zprovoznění tunelu dokončením Silničního okruhu kolem Prahy. Město by se tedy mělo soustředit na dostavbu Silničního okruhu kolem Prahy, protože bez něj stejně nebude možné tunel Vlasta zprovoznit. Stavba nového tunelu Blanka 2 je největší investicí v historii města a rozhodnutí by nemělo být ukvapené.
 
-> „Příjde nám jako velká škoda, že se o tunelu nejednalo na květnovém zasedání zastupitelstva. Náš návrh, aby byla věc zařazena na program, byl zamítnut. Blanka 2, tedy teď už Vlasta, je nesmírně drahá stavba a nevím, jestli ji vůbec za ty peníze potřebujeme,“ dodává k plánu dalšího tunelu pražský zastupitel Viktor Mahrik, který se zabývá problematikou dopravy. Piráti jsou k dopravním megastavbám tohoto typu kritičtí dlouhodobě. 
+> „Náš návrh, aby byla věc zařazena na program, byl zamítnut. Blanka 2, tedy teď už Vlasta, je nesmírně drahá stavba a nevím, jestli ji vůbec za ty peníze potřebujeme,“ dodává k plánu dalšího tunelu pražský zastupitel Viktor Mahrik, který se zabývá problematikou dopravy. Piráti jsou k dopravním megastavbám tohoto typu kritičtí dlouhodobě. 
 
 > „Propásli jsme příležitost, aby tunel mohla využívat například i MHD. U Blanky chybí autobus, který by spojil Bohnice s Dejvicemi, kde žádné přímé spojení nyní neexistuje. Z chyb tohoto typu je třeba se do budoucna poučit, aby se nemusely opakovat,“ dodává Mahrik. 
 
