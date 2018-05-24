@@ -3,7 +3,7 @@ date:         2018-05-24
 category:     blog
 tags:         územní-plánování metropolitní-plán
 layout:       post
-title:        "Metropolitní plán jde proti strategii Prahy na ochranu klimatu. Má se kácet zeleň a zastavět 10 % Prahy" 
+title:        "Eva Tylová: Metropolitní plán jde proti strategii Prahy na ochranu klimatu" 
 image:        metroplan.jpg
 author:       Eva Tylová
 ---
