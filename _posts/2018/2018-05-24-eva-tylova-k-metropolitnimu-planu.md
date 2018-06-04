@@ -3,7 +3,7 @@ date:         2018-05-24
 category:     blog
 tags:         zhmp
 layout:       post
-title:        "Metropolitní plán jde proti strategii Prahy na ochranu klimatu. Má se kácet zeleň a zastavět 10 % Prahy" 
+title:        "Metropolitní plán jde proti strategii Prahy na ochranu klimatu. Má se kácet zeleň a zastavět 10 % zeleně Prahy" 
 image:        metroplan.jpg
 author:       Eva Tylová
 ---
