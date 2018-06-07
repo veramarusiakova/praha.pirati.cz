@@ -1,7 +1,7 @@
 ---
 date:         2018-06-07
 category:     blog
-tags:         městské firmy
+tags:         městské-firmy
 layout:       post
 title:        "Pražské Výstaviště utajuje informace, které má povinnost zveřejňovat" 
 image:        agenti-vystaviste.jpg
