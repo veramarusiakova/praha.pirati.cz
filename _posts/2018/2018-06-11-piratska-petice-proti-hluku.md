@@ -3,7 +3,7 @@ date:         2018-06-11
 category:     blog
 tags:         doprava
 layout:       post
-title:        "Pirátská petice bojuje za snížení hluku z dálničního okruhu" 
+title:        "Petice bojuje za snížení hluku z dálničního okruhu" 
 image:        petice-hluk.jpg
 author:       Adam Zábranský
 ---
