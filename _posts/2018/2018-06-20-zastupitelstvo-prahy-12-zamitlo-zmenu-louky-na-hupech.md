@@ -5,7 +5,7 @@ tags:         praha-12
 layout:       post
 title:        "Zastupitelstvo Prahy 12 zamítlo změnu územního plánu na louce Na Hupech" 
 image:        nahupech.jpg
-author:       Andrea Mádlová
+author:       Eva Tylová
 ---
 
 Praha, 20. června 2018 – Zastupitelstvo městské části Prahy 12 dne včera v nočních hodinách po dlouhé diskuzi nesouhlasilo se změnou územního plánu ze sportovního a rekreačního využití na využití pro veřejnou výstavbu na louce „Na Hupech“ u vstupu do Modřanské rokle.
