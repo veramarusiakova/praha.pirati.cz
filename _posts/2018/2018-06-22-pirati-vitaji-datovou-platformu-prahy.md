@@ -3,7 +3,7 @@ date:         2018-06-22
 category:     blog
 tags:         informatika
 layout:       post
-title:        "Piráti vítají novou datovou platformu Prahy" 
+title:        "Vítáme novou datovou platformu Prahy" 
 image:        golemio.jpg
 author:       Adam Zábranský
 ---
