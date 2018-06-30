@@ -23,6 +23,7 @@ MUDr. Zdeněk Hřib, garant Pirátů pro oblast zdravotnictví a kandidát Pirá
 > “Potvrdilo se tak to, co jsme říkali od počátku. Ekonomické problémy nemocnice jsou dány především jejím nekompetentním vedením. Ředitel Robert Zelenák měl být už dávno odvolán a jeho nástupce měl být nalezen v otevřeném výběrovém řízení”.
 
 Zdroje:
+
 [https://www.tribune.cz/clanek/31075-praha-jmenovala-reditelem-nemocnice-na-frantisku-zelenaka](https://www.tribune.cz/clanek/31075-praha-jmenovala-reditelem-nemocnice-na-frantisku-zelenaka)
 [https://praha.pirati.cz/nemocnici-na-frantisku-lze-provozovat-efektivne.html](https://praha.pirati.cz/nemocnici-na-frantisku-lze-provozovat-efektivne.html)
 [https://praha.pirati.cz/pirati-podali-to-ohledne-nabytku-na-praze-1.html](https://praha.pirati.cz/pirati-podali-to-ohledne-nabytku-na-praze-1.html)
