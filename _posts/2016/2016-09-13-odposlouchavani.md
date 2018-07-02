@@ -17,6 +17,7 @@ Piráti chtěli upozornit na problém na jednání výboru pro bezpečnost, kter
 "Cestu zveřejnění díry v systému jsme zvolili proto, že nevěříme, že bezpečnostní problém se dá řešit tím, že se ututlá, a protože chceme, aby město začalo problém skutečně řešit. Od té doby, kdy jsme na problém úředníky upozornili poprvé, už uplynulo půl roku a problém trvá", uzavírá Profant. 
 
 Pro více informací můžete shlédnout přiložené [video](https://www.youtube.com/watch?v=JRdjRJjWEx0)
+{% include youtube.html id='JRdjRJjWEx0' %}
     
 **Kroky, které doporučujeme k nápravě:**
 
