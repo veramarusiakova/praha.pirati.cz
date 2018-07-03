@@ -8,7 +8,7 @@ image:        adam-us.jpg
 author:       Adam Zábranský
 ---
 
-Ústavní soud dnes zamítl ústavní stížnost firmy Pražská plynárenská Servis distribuce. Ta chtěla zvrátit rozsudky Městského soudu v Praze a Nejvyššího správního soudu, ze kterých vyplývá, že PPSD musí poskytovat informace dle zákona o svobodném přístupu k informacím.
+Ústavní soud dnes [zamítl](https://www.usoud.cz/fileadmin/user_upload/Tiskova_mluvci/Publikovane_nalezy/2018/I._US_1262_17_na_web.pdf) ústavní stížnost firmy Pražská plynárenská Servis distribuce. Ta chtěla zvrátit rozsudky Městského soudu v Praze a Nejvyššího správního soudu, ze kterých vyplývá, že PPSD musí poskytovat informace dle zákona o svobodném přístupu k informacím.
 
 Před dvěma lety pražský pirátský zastupitel Adam Zábranský zažaloval PPSD, protože mu nechtěla poskytnout informace o odměnách členů dozorčí rady a představenstva, které po ní požadoval. Firma je stoprocentně vlastněná Prahou – akorát skrze dvě další firmy, Pražskou plynárenskou Holding a Pražskou plynárenskou.
 
