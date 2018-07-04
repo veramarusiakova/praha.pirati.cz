@@ -3,7 +3,7 @@ date:         2018-07-03
 category:     blog
 tags:         magistrát
 layout:       post
-title:        "Ředitelka Magistrátu kašlala na boj proti korupci, Piráti její odvolání vítají" 
+title:        "Ředitelka Magistrátu kašlala na boj proti korupci, její odvolání vítáme" 
 image:        magistrat.jpg
 author:       Adam Zábranský, Zdeněk Hřib
 ---
