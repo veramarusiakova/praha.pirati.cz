@@ -63,26 +63,4 @@ calendar:
 fb: https://www.facebook.com/CeskaPiratskaStranaPraha/
 tw: piratipraha
 
-title-page:
-  big:
-    foto: /assets/img/miscellaneous/featured-penta.gif
-    alt: Nechceme, aby Metro D skončilo jako tunel
-    url: https://praha.pirati.cz/metro-d-v-kratkem-case-motorky-a-sitove-prvky.html
-  left-top:
-    text: Kdo jsme?
-    url: https://praha.pirati.cz/lide/
-    icon: fa fa-users
-  right-top:
-    text: Piráti ve sněmovně
-    url: https://www.pirati.cz/snemovna/
-    icon: fa fa-newspaper-o u-rotate-345
-  left-bottom:
-    text: Městské části
-    url: mestske-casti
-    icon: fa map-signs
-  right-bottom:
-    text: Připoj se
-    url: pripoj-se
-    icon: fa fa-bullhorn u-rotate-345
-
 emptyArray: []
