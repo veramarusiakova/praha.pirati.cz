@@ -45,20 +45,23 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "page"
-      rbar: "people, foto"
+      rbar: 
+        - foto
+        - people
   -
     scope:
       path: "_teams"
     values:
       layout: "team"
-      rbar: "team-summary, teams-toc"
+      rbar: 
+         - team-summary
+         - teams-toc
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
       rbar: 
-         - garant
          - program
 
 calendar:
