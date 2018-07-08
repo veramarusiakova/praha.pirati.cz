@@ -56,8 +56,10 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_program"
     values:
-      layout: "page"
-      rbar: "people"
+      layout: "program-post"
+      rbar: 
+         - garant
+         - program
 
 calendar:
 fb: https://www.facebook.com/CeskaPiratskaStranaPraha/
