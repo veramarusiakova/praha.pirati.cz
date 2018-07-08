@@ -1,0 +1,76 @@
+---
+layout: default
+rbar: cal, people, video
+priorites:
+  left-top:
+    text: 1.priarita
+    url: https://praha.pirati.cz/lide/
+  right-top:
+    text: 2.priorita
+    url: https://www.pirati.cz/snemovna/
+  left-bottom:
+    text: 3.priarita
+    url: mestske-casti
+  right-bottom:
+    text: 4.priorita
+    url: pripoj-se
+boxes:
+  left-top:
+    text: Kdo jsme?
+    url: https://praha.pirati.cz/lide/
+    icon: fa fa-users
+  right-top:
+    text: Připoj se
+    url: pripoj-se
+    icon: fa fa-bullhorn u-rotate-345
+  left-bottom:
+    text: Městské části
+    url: mestske-casti
+    icon: fa fa-map-signs
+  right-bottom:
+    text: Volby do senátu
+    url: senat
+    icon: fa fa-user
+---
+
+<div class="c-banner">
+  <div class="row">
+    <div class="c-banner-container small-12 columns">
+      <div class="o-section">
+        <div class="o-section-inner o-section-inner--noLarge u-cf">
+          <div class="c-banner-section c-banner-primary-section">
+              {% include title/gif-box.html 
+                foto="/assets/img/miscellaneous/featured-penta.gif"
+                alt="Nechceme, aby Metro D skončilo jako tunel"
+                url="https://praha.pirati.cz/metro-d-v-kratkem-case-motorky-a-sitove-prvky.html"
+              %}
+          </div>
+          <div class="c-banner-section c-banner-secondary-section">
+               {% include title/four-buttoms.html boxes=page.priorites %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="c-banner">
+  <div class="row">
+    <div class="c-banner-container small-12 columns">
+      <div class="o-section">
+        <div class="o-section-inner o-section-inner--noLarge u-cf">
+          <div class="c-banner-section c-banner-secondary-section">
+               {% include title/four-buttoms.html boxes=page.boxes %}
+          </div>
+          <div class="c-banner-section c-banner-primary-section">
+              {% include title/gif-box.html 
+                foto="/assets/img/miscellaneous/featured-penta.gif"
+                alt="Nechceme, aby Metro D skončilo jako tunel"
+                url="https://praha.pirati.cz/metro-d-v-kratkem-case-motorky-a-sitove-prvky.html"
+              %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% include title/news-with-rbar.html %}
