@@ -29,7 +29,7 @@ nebudou moci stavět na přelidněných sídlištích, kde chybí obchody, dokto
 * **Urychlíme proces stavebního řízení.** Nikdo by neměl být nucen obíhat úřady pro
 42 razítek. Zdigitalizujeme agendu tak, aby úřady a odbory sdílely data a co nejvíce
 úkonů bylo možné provádět přes internet.
-* **Zajistíme, aby se devolopeři podíleli na nákladech na infrastrukturu v nově budovaných částech města.** Dnes developer shrábne všechny zisky a náklady platí
+* **Zajistíme, aby se developeři podíleli na nákladech na infrastrukturu v nově budovaných částech města.** Dnes developer shrábne všechny zisky a náklady platí
 město. Změny územního plánu jsou někdy nutné, ale je třeba, aby byly výhodné
 hlavně pro občany města
 * **Podpoříme družstva, baugruppe a jiné alternativy ke komerční výstavbě bytů.**
