@@ -2,7 +2,7 @@
   {% assign campaignGroup = site.data.campaigns | where: "groupUid", page.campaignGroupUid | first %}
 {% endif %}
 
-{% if campaignGroup %}
+{% if site.data.campaigns %}
 <div class="o-section-block--spaceBot show-for-large">
     <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
         <li class="c-widget-accordion-item is-active" data-accordion-item="">

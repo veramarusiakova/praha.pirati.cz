@@ -1,24 +1,22 @@
 ---
 title: Otevřená radnice
-category: praha2018
+campaignCategoryUid: praha2018
 img: vnitro.png
+campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant:
 relatives:
 ---
 
-Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně
+*Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně
 s neprůhlednými městskými firmami, které hospodaří s desítkami miliard korun ročně.
 Občané a protikorupční analytici musí mít k dispozici dostatek informací, aby mohli
-politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě.
+politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě.*
 
 ### Všechno to zveřejníme
-
 * **Ukážeme data veřejnosti.** Přehled faktur a nájemních smluv, analýzy, které si město
 nechává zpracovat - to vše a mnohé další údaje budou na portálu otevřených dat.
-
 * **Zavedeme rozklikávací rozpočet až na úroveň faktur.** Občané tak budou mít dokonalý přehled o tom, za co město utrácí jejich peníze.
-
 * **Zveřejníme majetková přiznání politiků.** Každý bude moci kontrolovat, že
 zastupitelé nezískávají v souvislosti se svou funkcí neoprávněné výhody.
 
