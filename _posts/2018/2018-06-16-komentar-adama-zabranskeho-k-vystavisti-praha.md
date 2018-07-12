@@ -8,9 +8,9 @@ image:        adam-zabransky-2.jpg
 author:       Adam Zábranský
 ---
 
-Praha, 18. června 2018 – Piráti požadují, aby městské společnosti byly transparentní. Současné vedení Prahy to ale není schopné či ochotné zajistit. Křiklavým příkladem netransparentnosti je městská společnost Výstaviště Praha, a.s.
+Piráti požadují, aby městské společnosti byly transparentní. Současné vedení Prahy to ale není schopné či ochotné zajistit. Křiklavým příkladem netransparentnosti je městská společnost Výstaviště Praha, a.s.
 
-Výstaviště téměř do všech smluv, které uzavírá, vkládá klauzuli, že smluvní strany považují ustanovení o výši úhrady za obchodní tajemství a že tuto informaci třetím osobám poskytnou jen se souhlasem druhé strany. Záměr je přitom zřejmý. Výstaviště nechce údaje o hodnotě smlouvy zveřejňovat v registru smluv ani poskytovat na žádost dle zákona o svobodném přístupu k informacím, kdy oba tyto zákony mají pro obchodní tajemství stanovenou výjimku. Výsledek je znát: podle Hlídače státu je [96,5 % smluv](https://www.hlidacstatu.cz/Subjekt/25649329) Výstaviště v registru smluv bez uvedené ceny.
+Výstaviště téměř do všech smluv, které uzavírá, vkládá klauzuli, že smluvní strany považují ustanovení o výši úhrady za obchodní tajemství a že tuto informaci třetím osobám poskytnou jen se souhlasem druhé strany. Záměr je přitom zřejmý. Výstaviště nechce údaje o hodnotě smlouvy zveřejňovat v registru smluv ani poskytovat na žádost dle zákona o svobodném přístupu k informacím, kdy oba tyto zákony mají pro obchodní tajemství stanovenou výjimku. Výsledek je znát: podle Hlídače státu je [96,5 % smluv](https://www.hlidacstatu.cz/Subjekt/25649329) (edit z 12.7.2018 - po našem upozornění došlo k částečné nápravě na nynějších 58,6 % smluv) Výstaviště v registru smluv bez uvedené ceny.
 
 Takový postup je přitom absurdní. Z judikatury soudů vyplývá, že obchodní tajemství je objektivní kategorií. Povinný subjekt (v tomto případě Výstaviště) se nemůže vyhnout povinnosti zveřejňovat či poskytovat nějaké informace tím, že je smluvně označí za obchodní tajemství.
 
