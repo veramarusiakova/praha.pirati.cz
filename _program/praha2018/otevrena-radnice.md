@@ -21,35 +21,28 @@ nechává zpracovat - to vše a mnohé další údaje budou na portálu otevřen
 zastupitelé nezískávají v souvislosti se svou funkcí neoprávněné výhody.
 
 ### Odpovědné hospodaření
-
 * **Vypovíme nevýhodné nájemní smlouvy na nebytové prostory v centru Prahy.**
 Praha na nich ztrácí desítky milionů korun ročně. Pronájmy budeme inzerovat na
 realitních webech, aby se přihlásilo co nejvíce uchazečů.
-
 * **Zajistíme větší konkurenci u veřejných zakázek.** Pomocí otevřených řízení,
 dostatečných lhůt pro přihlášení a nepřemrštěných požadavků pro účast umožníme
 účast ve výběrových řízení všem zájemcům. Tím dosáhneme lepších cen i
 kvalitnějších služeb.
-
 * **Zavedeme osobní odpovědnost úředníků i politiků, zprůhledníme úřední procesy.** Nastavíme na Magistrátu projektové řízení tak, aby bylo jasné, kdo je
 odpovědný za jednotlivé kroky. Na jednání Rady zavedeme jmenovité hlasování -
 aby občané věděli, jak kdo hlasoval.
 
 ### Fungující městské firmy
-
 * **Stop politickým trafikám.** Funkce v městských firmách budeme obsazovat
 transparentním způsobem, funkcionáři budou muset prokazovat, že odvádějí reálnou
 práci.
-
 * **Schválíme vlastnickou politiku města.** Vedení firem bude hodnoceno a
 odměňováno podle schopnosti naplňovat předem stanovené cíle.
-
 * **Ztransparentníme městské firmy​, které hospodaří s desítkami miliard korun ročně.**
 Zajistíme, aby aktivně zveřejňovaly všechny důležité informace, které nespadají pod
 obchodní tajemství. Už se nebudou účelově vyhýbat zveřejňování smluv.
 
 ### Participace – spoluúčast občanů na rozhodování
-
 * **Agenda občanských podnětů.** Občanské podněty nezůstanou bez odpovědi.
 Veřejné vedení agendy umožní i ostatním občanům vidět všechny podněty včetnějejich řešení. Zásadní podněty budou zařazovány na jednání výborů, komisí i
 zastupitelstva.
