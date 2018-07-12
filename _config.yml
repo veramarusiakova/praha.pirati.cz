@@ -6,7 +6,7 @@ url: "https://praha.pirati.cz" # the base hostname & protocol for your site
 
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
@@ -62,6 +62,7 @@ defaults:   # defaults values for collection scope
     values:
       layout: "program-post"
       rbar: 
+      #         - garant
          - program
 
 calendar:
@@ -69,3 +70,25 @@ fb: https://www.facebook.com/CeskaPiratskaStranaPraha/
 tw: piratipraha
 
 emptyArray: []
+
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass
