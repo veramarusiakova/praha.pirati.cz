@@ -39,8 +39,9 @@ layout: default
       <div class="l__kan-item l-cast__kan-item row">
         <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://praha.pirati.cz/assets/img/people/tomas-murnak.jpg" alt="Tomáš Murňák"/></div>
         <div class="l-kan__item-data columns medium-7 large-6">
-          <h2 class="l-kan__name"><strong>Tomáš Murňák</strong></h2>
+          <h2 class="l-kan__name"><strong><a href="https://praha.pirati.cz/lide/tomas-murnak/">Tomáš Murňák</a></strong></h2>
           <div class="l-kan__role">Motto : Společně otevřeme radnici</div>
+          <div class="l-kan__role">E-mail :<a href="mailto:tomas.murnak@pirati.cz">tomas.murnak@pirati.cz</a></div>
             <div class="l-kan__desc">
                <p class="l-cast__perex">Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra
                zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu
