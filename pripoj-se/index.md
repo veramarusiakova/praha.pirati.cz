@@ -44,7 +44,7 @@ rbar:
 
 [prirucka]: https://redmine.pirati.cz/projects/po/wiki
 [netiketa]: https://redmine.pirati.cz/projects/po/wiki/Pir%C3%A1tsk%C3%A1_netiketa
-[kal]: pripoj-se/kalendar/#praha
+[kal]: kalendar/#praha
 
   <div>
     <a href="https://docs.google.com/forms/d/17MEmWfP4hyHO8On9V_PUTuWNDtS89bdhfomnyMfHoqY/viewform?edit_requested=true">
@@ -54,3 +54,23 @@ rbar:
     <a style="width:100%" class="button alert expand radius large" href="https://docs.google.com/forms/d/17MEmWfP4hyHO8On9V_PUTuWNDtS89bdhfomnyMfHoqY/viewform?edit_requested=true">Vyplň Pirotazník ještě dnes!</a>
   </div>
 
+
+<div class="row">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section o-section--noSpaceBottom">
+      <div class="o-section-inner">
+        <div class="c-BasicPage">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <div class="c-BasicPage-header c-BasicPage-header--horizontal c-BasicPage-header--horizontal--mobilestacked">
+                <h1 class="c-BasicPage__title" id="praha"> Kalendář akcí Praha</h1>
+              </div>
+            </div>
+          </div>
+		<iframe src="{{site.data.links.calendar.praha}}" style="border-width:0" width="730" height="600" frameborder="0" scrolling="no"></iframe>
+        </div>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>
