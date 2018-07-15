@@ -32,9 +32,6 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
-  projects:
-    output: true
-    permalink: /pripoj-se/:path/
   program:
     output: true
     permalink: /program/:path/

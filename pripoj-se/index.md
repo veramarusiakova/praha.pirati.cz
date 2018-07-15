@@ -1,0 +1,56 @@
+---
+layout: blank-article
+article-boxes:
+  - title: "Rozdávání Pirátských listů"
+    image: /assets/img/pripoj-se/noviny.jpg
+    button:  Hledáme rozdavače a rozvoz autem!
+    url: piratske-listy-offline
+    description:  >
+              Šíříme informace o skutečném fungování státu a města. Díky vám se dostanou i k lidem, kteří se s Internetem nekamarádí.
+  - title: Zastupitelé na Magistrátu
+    image: /assets/img/pripoj-se/zastupko.jpg
+    button: Hledáme odborníky a stážisty!
+    url: prazsti-zastupitele
+    description:  >
+              Kritizujeme politické trafiky, nevýhodné záměry developerů a další desítky kauz.
+              Chceme moderní město s průhledným hospodařením!  
+
+  - title: Krajské předsednictvo
+    image:  /assets/img/pripoj-se/krajske-forum.jpg
+    button: Hledáme nové členy a příznivce!
+    url: predsednictvo
+    description:  >
+              Krajské předsednictvo vede sdružení, přijímá nové členy,
+              organizuje akce, koordinuje dobrovolníky a hospodaří
+              s penězi. 		
+kodo:
+  - michal.jokes
+rbar:
+  - kodo
+---
+
+## Kraské schůze
+
+**19. 7. Krajská schůze v Pracovně** - bude se natáčet kousek promovidea se Zdeňkem, tak s tím počítejte  
+**2. 8. Pirátské grilování ve Výletné** - užijeme si pohodový společný čas vejpůl prázdniny  
+**30. 8. Krajská schůze** - příprava na start horké fáze kampaně, fasování nových pirátských listů  
+**20. 9.  Krajská schůze** - 14 dní do voleb, poslední instrukce, hecování se do superintenzivní kontaktní kampaně  
+**11. 10. Povolební schůze** - představování novopečených zastupitelů, hodnocení výsledků voleb 
+
+### Další užitečné informace
+
+* [Pirátská netiketa][netiketa] – základní zásady pro dobrou atmosféru
+* Na první kontakt doporučeme přijít na **krajskou schůzi** nebo na **Pirátské úterý**, viz [kalendář][kal]
+
+[prirucka]: https://redmine.pirati.cz/projects/po/wiki
+[netiketa]: https://redmine.pirati.cz/projects/po/wiki/Pir%C3%A1tsk%C3%A1_netiketa
+[kal]: pripoj-se/kalendar/#praha
+
+  <div>
+    <a href="https://docs.google.com/forms/d/17MEmWfP4hyHO8On9V_PUTuWNDtS89bdhfomnyMfHoqY/viewform?edit_requested=true">
+      <img src="{{"/assets/img/pripoj-se/dotaznik.png" }}" style="margin-top:10px;width:100%" alt="Pirátský dotazník"/>
+    </a>
+
+    <a style="width:100%" class="button alert expand radius large" href="https://docs.google.com/forms/d/17MEmWfP4hyHO8On9V_PUTuWNDtS89bdhfomnyMfHoqY/viewform?edit_requested=true">Vyplň Pirotazník ještě dnes!</a>
+  </div>
+
