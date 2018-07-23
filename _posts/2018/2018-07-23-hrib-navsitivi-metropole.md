@@ -4,7 +4,7 @@ category:     blog
 tags:         hrib, 
 layout:       post
 title:        "Pirátský kandidát na primátora Prahy Hřib navštíví progresivní světové metropole. Chce se inspirovat úspěšnými projekty"
-image:        hrib.jpg
+image:        Zdenek_Hrib-zahajeni_kampane.jpg
 author:       Štěpán Štrébl
 ---
 
