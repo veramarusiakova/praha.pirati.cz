@@ -6,31 +6,30 @@ rbar:
     - video
 priorites:
   left-top:
-    text: 1.priarita
-    url: https://praha.pirati.cz/lide/
+    text: Transparentní a profesionální radnice
   right-top:
-    text: 2.priorita
-    url: https://www.pirati.cz/snemovna/
+    text: Digitální metropole
+    url: https://praha.pirati.cz/program
   left-bottom:
-    text: 3.priarita
-    url: mestske-casti
+    text: Čisté a zdravé město
+    url: https://praha.pirati.cz/program
   right-bottom:
-    text: 4.priorita
-    url: pripoj-se
+    text: Služby pro moderní rodinu
+    url: https://praha.pirati.cz/program
 boxes:
   left-top:
     text: Kdo jsme?
     url: https://praha.pirati.cz/lide/
     icon: fa fa-users
   right-top:
-    text: Připoj se
-    url: pripoj-se
-    icon: fa fa-bullhorn u-rotate-345
+    text: Darujte
+    url: https://dary.pirati.cz/
+    icon: fa fa-gift u-rotate-5 fa-5x u-rotate-345
   left-bottom:
     text: Městské části
     url: mestske-casti
     icon: fa fa-map-signs
-  right-bottom:
+  rhttps://praha.pirati.cz/newindex.htmlight-bottom:
     text: Volby do senátu
     url: senat
     icon: fa fa-user
@@ -38,6 +37,15 @@ boxes:
 
 <div class="c-banner">
   <div class="row">
+    <div class="c-banner-container small-12 columns">
+      <div class="o-section">
+        <div class="o-section-inner o-section-inner--noLarge u-cf">
+          <div class="c-banner-section c-banner-section">
+<img src="{{ "/assets/img/program/naprahuzmeny2.jpg" | prepend: site.baseurl }}" class="c-card__image" alt="{{box0.alt}}">
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="c-banner-container small-12 columns">
       <div class="o-section">
         <div class="o-section-inner o-section-inner--noLarge u-cf">
@@ -54,10 +62,6 @@ boxes:
         </div>
       </div>
     </div>
-  </div>
-</div>
-<div class="c-banner">
-  <div class="row">
     <div class="c-banner-container small-12 columns">
       <div class="o-section">
         <div class="o-section-inner o-section-inner--noLarge u-cf">
@@ -65,11 +69,7 @@ boxes:
                {% include title/four-buttoms.html boxes=page.boxes %}
           </div>
           <div class="c-banner-section c-banner-primary-section">
-              {% include title/gif-box.html 
-                foto="/assets/img/miscellaneous/featured-penta.gif"
-                alt="Nechceme, aby Metro D skončilo jako tunel"
-                url="https://praha.pirati.cz/metro-d-v-kratkem-case-motorky-a-sitove-prvky.html"
-              %}
+            <iframe width="540" height="304" src="https://www.youtube-nocookie.com/embed/pWK515EHyG0?rel=0&amp;controls=0" style="border: 0;" allowfullscreen=""></iframe>
           </div>
         </div>
       </div>
