@@ -4,11 +4,13 @@ article-boxes:
   - title: "Libor Michálek"
     image: /assets/img/senat/libor-michalek.jpg
     url: https://libormichalek.cz/
+    button:  Chcete vědět víc?
     description: >
         <b> Jsem Vaším hlasem na půdě Senátu. </b> <br>
         Jsem pro občanský stát, pro stát, který občany nezatěžuje, ale podporuje ty, kteří se snaží naplnit svůj potenciál. Preferuji stát, který je „štíhlý“, ale současně silný, je-li potřeba občany ochránit nebo prosadit právo a spravedlnost. Inspiruje mě kniha Jana Amose Komenského s názvem „Štěstí národa“, kde je popsáno 18 klíčových faktorů pro zdravý a dlouhodobě udržitelný rozvoj společnosti.
   - title: Eva Tylová
     image: /assets/img/senat/eva-tylova.jpg
+    button:  Chcete vědět víc?
     url: http://www.evatylova.cz/
     description:  >
        <b> Hájím vaše zájmy jako zastupitelka, budu je hájit jako senátorka. </b> <br>
@@ -16,6 +18,7 @@ article-boxes:
 
   - title: Lukáš Wagenknecht
     image: /assets/img/senat/lukas-wagenknecht.jpg
+    button:  Chcete vědět víc?
     url: https://lukaswagenknecht.cz/
     description:  >
         Během svého života jsem auditoval stovky projektů a byl svědkem nehospodárného plýtvání s veřejnými prostředky. Proto se v posledních letech věnuji prosazování zásad dobrého vládnutí v České republice. Jde o zavedení jednoduchých pravidel, jako je například vymahatelná odpovědnost úředníků a politiků. To co již dlouhá léta funguje v zahraničí naši politici tvrdohlavě odmítají. </br>
