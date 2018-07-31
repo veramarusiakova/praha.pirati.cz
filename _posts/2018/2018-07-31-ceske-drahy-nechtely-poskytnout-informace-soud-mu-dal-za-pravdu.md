@@ -17,3 +17,8 @@ Piráti si informace vyžádali poté, co vyšlo najevo, že Radmila Kleslová m
 České dráhy proti Pirátům využily známou obstrukční taktiku, tzv. „administrativní ping-pong“. Ta spočívá v neustálém vydávání odmítavých rozhodnutí a následném rušení těchto rozhodnutí nadřízeným orgánem, takže proces se zacyklí donekonečna. Řešení této chyby v zákoně přinesla až soudní judikatura.
 
 České dráhy nyní musejí o žádosti znovu rozhodnout, protože nebyly schopny dostatečně odůvodnit odmítavé rozhodnutí. Jejich nesmyslné obstrukce jen v tomto případě daňové poplatníky stály desítky tisíc korun na nákladech řízení a práci soudců a právníků Českých drah.
+
+### Odkazy 
+
+* [Žádost Adama Zábranského o informace](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/177-smlouvy-rk-ceske-drahy/01-zadost/main%5Bsigned%5D.pdf)
+* [Rozsudek Městského soudu v Praze](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/177-smlouvy-rk-ceske-drahy/22-rozsudek/rozsudek.pdf)
