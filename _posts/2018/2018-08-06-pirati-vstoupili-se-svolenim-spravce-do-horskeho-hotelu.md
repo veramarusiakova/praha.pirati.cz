@@ -5,7 +5,7 @@ tags:         kauzy praha-10
 layout:       post
 title:        Do Horského hotelu vstoupili Piráti se svolením správce, firma Prahy 10 je i přesto žaluje
 image:        horskyhotel.jpg
-author:       Adam Zábranský
+author:       Jana Komrsková
 ---
 
 Praha, 6. srpna 2018 – Politický boj na Praze 10 dosahuje absurdních rozměrů. Městská firma Prahy 10 v čele s koaličním zastupitelem Lukášem Rázlem (ČSSD) prokazatelně lže a obviňuje Piráty z vloupání do Horského hotelu, který Praha 10 vlastní. Piráti přitom mají zdokumentováno, že do hotelu se dostali se svolením správce a za jeho přítomnosti.
