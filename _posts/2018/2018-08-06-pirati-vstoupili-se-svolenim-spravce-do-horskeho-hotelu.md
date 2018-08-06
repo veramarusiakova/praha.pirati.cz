@@ -26,7 +26,7 @@ Dva týdny na to zveřejnil Lukáš Rázl na facebooku tento příspěvek: „Pi
 
 Podle Pirátů je takovéto chování za hranicí přijatelnosti. 
 
-> „Lukáš Rázl bohužel opět ničím nepřekvapil. Potvrdil jen, že je sice neschopný správce majetku městské části, ale velice schopný lhář. Zaprvé Piráti se nikam nevloupali a nic nepoškodili – máme úplný videozáznam naší návštěvy, který má k dispozici i policie. Za druhé údajný trestný čin vloupání, na který se odkazuje pan Rázl, vůbec neexistuje. Prostě si jej vymyslel. Jedná se tak o další zřejmou pomluvu ze strany stávající koalice,“ vysvětluje Jana Komrsková.
+> „Lukáš Rázl bohužel opět ničím nepřekvapil. Potvrdil jen, že je sice neschopný správce majetku městské části, ale velice schopný lhář. Piráti se nikam nevloupali a nic nepoškodili – máme úplný videozáznam naší návštěvy, který má k dispozici i policie. Jedná se tak o další zřejmou pomluvu ze strany stávající koalice,“ vysvětluje Jana Komrsková.
 
 Horský hotel v Jánských lázních zakoupila MČ Praha 10 v roce 2008 za téměř 50 milionů. Další opravy a rekonstrukce spolykaly minimálně dalších 60 miliónů. Navzdory těmto obrovským investicím se po deseti letech péče a rekonstrukcí dostal objekt do stavu, kdy musel být z hygienických a bezpečnostních důvodů pro další pobyty dětí na počátku školního roku 2017/2018 uzavřen. Správu objektu po celou dobu jeho provozu zajišťovala, nebo spíše zanedbávala městská akciová společnost Praha 10 – Rekreace, a.s.
 
