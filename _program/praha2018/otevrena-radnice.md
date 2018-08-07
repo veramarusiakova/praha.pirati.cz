@@ -44,7 +44,7 @@ obchodní tajemství. Už se nebudou účelově vyhýbat zveřejňování smluv.
 
 ### Participace – spoluúčast občanů na rozhodování
 * **Agenda občanských podnětů.** Občanské podněty nezůstanou bez odpovědi.
-Veřejné vedení agendy umožní i ostatním občanům vidět všechny podněty včetnějejich řešení. Zásadní podněty budou zařazovány na jednání výborů, komisí i
+Veřejné vedení agendy umožní i ostatním občanům vidět všechny podněty včetně jejich řešení. Zásadní podněty budou zařazovány na jednání výborů, komisí i
 zastupitelstva.
 * **Ankety.** Ankety a dotazníky umožní analyzovat skutečné potřeby občanů města.
 * **Veřejné besedy.** K aktuálním problémům nebo záměrům metropole budeme pořádat
