@@ -11,12 +11,14 @@ relatives:
     - title: Šetrně k lidem, šetrně k přírodě
       alt: Podrobné vysvětlení programu v oblasti životního prostředí
       url: 
+perex: >
+  Zdravé životní prostředí je základem pro to, aby se Pražanům dobře žilo. Budeme bojovat proti přehřívání města, znečisťování ovzduší a rušivým vlivům, které člověka nenechají v klidu spát. Politiku životního prostředí stavíme na přirozené motivaci, respektu a účasti veřejnosti.
 ---
 
-Zdravé životní prostředí je základem pro to, aby se Pražanům dobře žilo. Budeme
+*Zdravé životní prostředí je základem pro to, aby se Pražanům dobře žilo. Budeme
 bojovat proti přehřívání města, znečisťování ovzduší a rušivým vlivům, které člověka
 nenechají v klidu spát. Politiku životního prostředí stavíme na přirozené motivaci,
-respektu a účasti veřejnosti.
+respektu a účasti veřejnosti.*
 
 ### Proti vedrům více stromů a vodních ploch
 
