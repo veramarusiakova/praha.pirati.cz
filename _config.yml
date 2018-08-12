@@ -35,6 +35,8 @@ collections:
   program:
     output: true
     permalink: /program/:path/
+  candidatelists:
+    output: false
 
 defaults:   # defaults values for collection scope
   -
