@@ -33,15 +33,15 @@ MVČR.
 subjekt dostává od magistrátu a kolik od městských částí. Také budeme evidovat
 podporu od městských firem.
 * **Zdigitalizujeme úřední procesy** a odlehčíme tím občanům i úředníkům.
-Vylepšíme informační servis pro občanytak, aby měli snadný přístup k
+Vylepšíme informační servis pro občany tak, aby měli snadný přístup k
 relevantním informacím ze svého okolí. Budeme například včas informovat o údržbě
 komunikací, aby se na ni mohli občané připravit. Dále také umožníme přihlášení k
 odběru relevantních zpráv na úředních deskách městských částí i magistrátu. Je na
-občanovi, zda chce být informován e-mailem, mobilní aplikací, sms či prostřednictvím
+občanovi, zda chce být informován e-mailem, mobilní aplikací, SMS či prostřednictvím
 RSS.
 
 ### Sdílení vědomostí
-* Díky principu opensource **budeme už jednou zakázkově vyvinutý software lépe
+* Díky principu open source **budeme už jednou zakázkově vyvinutý software lépe
 sdílet s městskými částmi**. Např. není potřeba, aby každá městská část platila za
 rozklikávací rozpočet. Tím dojde ke snížení nákladů na IT služby.
 * Stejně tak chceme naše investice sdílet s dalšími obcemi v ČR, proto **vstoupíme do
