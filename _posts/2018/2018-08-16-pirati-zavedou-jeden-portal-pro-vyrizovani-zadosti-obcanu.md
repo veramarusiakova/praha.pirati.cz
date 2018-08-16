@@ -8,7 +8,7 @@ image:        hrib3.jpg
 author:       Zdeněk Hřib
 ---
 
-Praha, 16. srpna – Mezi hlavní problémy Prahy v oblasti digitalizace patří vendor lock-in, tedy závislost na jediném dodavateli technických systémů a vysoké náklady spojené se správou i zaváděním dalších služeb. Piráti proto podporují vznik projektů, které pracují s otevřenými daty a pro Prahu hodlají zavést „městský eshop” - jeden webový portál, který zjednoduší komunikaci občanů s úřadem. Na něm bude možné například registrovat psa, převést majitele auta nebo podat žádost o místo ve školc.
+Praha, 16. srpna – Mezi hlavní problémy Prahy v oblasti digitalizace patří vendor lock-in, tedy závislost na jediném dodavateli technických systémů a vysoké náklady spojené se správou i zaváděním dalších služeb. Piráti proto podporují vznik projektů, které pracují s otevřenými daty a pro Prahu hodlají zavést „městský eshop” - jeden webový portál, který zjednoduší komunikaci občanů s úřadem. Na něm bude možné například registrovat psa, převést majitele auta nebo podat žádost o místo ve školce.
 
 Ondřej Profant, předseda sněmovního Podvýboru pro e-Government, v úvodu připomněl současný stav digitalizace v Praze: „Stál jsem u zrodu celopražských otevřených dat. Dnes se tento projekt rozvinul v pražskou datovou platformu, která nabízí některá důležitá data, ale zdaleka není kompletní a funkční, jak by měla být. Zveřejněná data jsou jen malým vzorkem z celkového objemu. Sdílení dat přitom přináší finanční úspory městu a zjednodušuje život občanům. Pro úspěšné zavedení dalších změn je nutné, aby klíčové pozice zastávali kompetentní lidé se znalostí problematiky, kteří budou důsledně potírat současné škodlivé praktiky a podporovat svobodný software a projekt bude mít podporu pražských institucí.“ 
 
