@@ -22,4 +22,4 @@ Zástupci směnárny spolu s najatou ochrankou proti Pirátům používají růz
 
 ### Odkazy
 
-Video s ochrankou směnárny: [https://youtu.be/37E3vwdx5rY](https://youtu.be/37E3vwdx5rY)
+Video s ochrankou směnárny: [https://www.youtube.com/watch?v=dUh77OWoESA](https://www.youtube.com/watch?v=dUh77OWoESA)
