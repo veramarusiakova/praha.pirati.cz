@@ -4,13 +4,19 @@ uid: radnice
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: zdenek.hrib
-  #    age: 
-  #    profession: chemik, technolog laboratoří
+  age: 37
+  profession: manažer a informatik
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: adam.zabransky
+    age: 24
+    profession: zastupitel hlavního města Prahy
   - uid: daniel.mazur
+    age: 40
+    profession: vysokoškolský pedagog a výzkumník
   - uid: viktor.mahrik
+    age: 36
+    profession: specialista internetových výzkumů a zastupitel hlavního města Prahy
 
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
