@@ -35,7 +35,7 @@ collections:
   program:
     output: true
     permalink: /program/:path/
-  teams:
+    teams:
     output: true
     permalink: /pripoj-se/mc/:title/
 
