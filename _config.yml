@@ -35,8 +35,9 @@ collections:
   program:
     output: true
     permalink: /program/:path/
-  candidatelists:
-    output: false
+    teams:
+    output: true
+    permalink: /pripoj-se/mc/:title/
 
 defaults:   # defaults values for collection scope
   -
@@ -44,7 +45,7 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "page"
-      rbar: 
+      rbar:
         - foto
         - people
   -
@@ -52,7 +53,7 @@ defaults:   # defaults values for collection scope
       path: "_teams"
     values:
       layout: "team"
-      rbar: 
+      rbar:
          - team-summary
          - teams-toc
   -
@@ -60,7 +61,7 @@ defaults:   # defaults values for collection scope
       path: "_program"
     values:
       layout: "program-post"
-      rbar: 
+      rbar:
       #         - garant
          - program
 

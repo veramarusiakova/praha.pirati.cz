@@ -147,7 +147,7 @@ var show_relatives = function(data) {
  * Make map of czech regions for pirati.cz/regiony
  * @param {collection} data
  **/
-var makemap = function(data) {
+/*var makemap = function(data) {
   var settings = data[0].settings;
 
   $(settings.id).width(settings.size.width);
@@ -163,14 +163,15 @@ var makemap = function(data) {
 
   var regions = data[0].regions;
   $.each(regions, function(index, region) {
-    if(i < 7 ) {
+    if (region.full_name == region.ms) {
+    if(i < 12 ) {
       var li = $('<li/>').appendTo(reg_list);
       var span = $('<a/>').text(region.name).attr('href',region.url).appendTo(li);
     } else {
       var li2 = $('<li/>').appendTo(reg_list2);
       var span2 = $('<a/>').text(region.name).attr('href',region.url).appendTo(li2);
     }
-    i++;
+    i++;}
 
     var custom_attrs = {"title": region.name};
     var attrs = $.extend(settings.region_attrs, custom_attrs);
@@ -209,7 +210,7 @@ var makemap = function(data) {
     });
   });
 };
-
+*/
 $(function() {
   /* Search */
   $.get(api_search)
