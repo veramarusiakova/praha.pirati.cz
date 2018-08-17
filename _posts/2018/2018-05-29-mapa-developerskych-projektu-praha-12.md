@@ -5,7 +5,7 @@ tags:         praha-12
 layout:       post
 title:        "Piráti na Praze 12 vytvořili Mapu developerských projektů" 
 image:        p12.jpg
-author:       Adam Zábranský
+author:       Jan Adamec
 ---
 
 Praha, 29. května 2018 – Piráti na Praze 12 vytvořili Mapu developerských projektů, kterou představili na svém webu: [https://praha12.pirati.cz/aktuality/mapa-vystavby.html](https://praha12.pirati.cz/vystavba/).

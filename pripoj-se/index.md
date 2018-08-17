@@ -40,7 +40,7 @@ rbar:
 ### Další užitečné informace
 
 * [Pirátská netiketa][netiketa] – základní zásady pro dobrou atmosféru
-* Na první kontakt doporučeme přijít na **krajskou schůzi** nebo na **Pirátské úterý**, viz [kalendář][kal]
+* Na první kontakt doporučujeme přijít na **krajskou schůzi** nebo na **Pirátské úterý**, viz [kalendář][kal]
 
 [prirucka]: https://redmine.pirati.cz/projects/po/wiki
 [netiketa]: https://redmine.pirati.cz/projects/po/wiki/Pir%C3%A1tsk%C3%A1_netiketa

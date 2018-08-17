@@ -6,6 +6,8 @@ campaignGroupUid: volby-2018  # identifier of the group, to be used in program p
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant: ondrej.profant
 relatives:
+perex: >
+  Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně s neprůhlednými městskými firmami, které hospodaří s desítkami miliard korun ročně.  Občané a protikorupční analytici musí mít k dispozici dostatek informací, aby mohli politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě.
 ---
 
 *Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně
@@ -44,7 +46,7 @@ obchodní tajemství. Už se nebudou účelově vyhýbat zveřejňování smluv.
 
 ### Participace – spoluúčast občanů na rozhodování
 * **Agenda občanských podnětů.** Občanské podněty nezůstanou bez odpovědi.
-Veřejné vedení agendy umožní i ostatním občanům vidět všechny podněty včetnějejich řešení. Zásadní podněty budou zařazovány na jednání výborů, komisí i
+Veřejné vedení agendy umožní i ostatním občanům vidět všechny podněty včetně jejich řešení. Zásadní podněty budou zařazovány na jednání výborů, komisí i
 zastupitelstva.
 * **Ankety.** Ankety a dotazníky umožní analyzovat skutečné potřeby občanů města.
 * **Veřejné besedy.** K aktuálním problémům nebo záměrům metropole budeme pořádat

@@ -51,7 +51,7 @@ trvale zde ovšem nikdo není, je třeba si najít akci v [kalendáři][cal]
   zlepšit ve své městské části.
 
 Budeme rádi, pokud se ozvete! Na konkrétní spolupráci se domluvte
-telefonicky s naším krajským koordinatorem [Michalem Jokešem][jokes].
+telefonicky s naším krajským koordinátorem [Michalem Jokešem][jokes].
 
 [cal]: {{'pripoj-se/kalendar/#praha' | relative_url}}
 [jokes]: {{'/lide/tobias-esner/' | relative_url}}

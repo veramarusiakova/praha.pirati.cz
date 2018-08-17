@@ -5,6 +5,8 @@ img: doprava.svg
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=42511
 garant: vit.mahrik 
+perex: >
+  Zvýšíme plynulost dopravy podporou kapacitních a nejméně prostorově náročných druhů dopravy, zejména metra, vlaků a tramvají. Chceme MHD dostupnější, pohodlnější a jednoduše použitelnou nejen pro Pražany, ale i pro návštěvníky Prahy.  V oblasti automobilové dopravy zlepšíme veřejnou kontrolu investic a oprav infrastruktury.
 ---
 
 *Zvýšíme plynulost dopravy podporou kapacitních a nejméně prostorově náročných
@@ -49,7 +51,8 @@ Prahy byla dobře propojena s kapacitní hromadnou dopravou.
 využití parkovacích míst. To umožní tvořit aplikace, která uživatele snadno navede
 na volné parkovací místo.
 * **Zaparkuje u vás návštěva i řemeslník**. Rezidenti získají každý rok určitý počet
-hodin parkování zdarma pro návštěvy ve vybrané oblasti. Nebudete tedy muset platitdrahé parkování řemeslníkovi nebo složitě vymýšlet, kam poslat zaparkovat
+hodin parkování zdarma pro návštěvy ve vybrané oblasti. Nebudete tedy muset platit drahé
+parkování řemeslníkovi nebo složitě vymýšlet, kam poslat zaparkovat
 návštěvu.
 
 ### Investice do silniční infrastruktury budou pokračovat
