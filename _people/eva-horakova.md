@@ -4,7 +4,7 @@ name:     Eva Horáková  	# běžně používáné jméno
 fullname: Mgr. Eva Horáková 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
-img: people/eva-horáková.jpg   # 165 x 220
+img: people/eva-horakova.jpg   # 165 x 220
 description:  Aktivistka, Pirátka    	# kratký popis, max 160 znaků
 mail:
 - eva.horakova@pirati.cz
