@@ -6,6 +6,11 @@ leader:
   uid: zdenek.hrib
   age: 37
   profession: manažer a informatik
+  description: "<ul><li>pochází z rodiny architektů, sám se však rozhodl pro lékařskou dráhu</li>
+ </li><li> po vystudování na lékařské fakultě v Praze se začal věnovat výzkumu kvality a efektivity veřejných služeb
+ </li><li> byl členem několika pracovních skupin k tématu informatiky a kvality služeb na úrovni ministerstva, Světové zdravotnické organizace a EU </li><li> je ředitelem obecně prospěšné společnosti Institut pro aplikovaný výzkum, edukaci a řízení ve zdravotnictví </li><li> je ženatý, má tři děti </li>
+</ul>
+"
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: adam.zabransky
@@ -17,22 +22,22 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: viktor.mahrik
     age: 36
     profession: specialista internetových výzkumů a zastupitel hlavního města Prahy
+  - uid: vit.simral
+    age: 32
+    profession: vysokoškolský učitel a skaut
+    party: Piráti
+  - uid: michaela.krausova
+    age: 25
+    profession: koordinátor dobrovolníků
+    party: Piráti
+  - uid: eva.horakova
+    age: 38
+    profession: medicínská konzultantka
+    party: Piráti
 
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - name: PhDr. et Mgr. Vít Šimral, PhD.
-    age: 32
-    profession: vysokoškolský učitel a skaut
-    party: Piráti
-  - name: Michaela Krausová
-    age: 25
-    profession: koordinátor dobrovolníků
-    party: Piráti
-  - name: Mgr. Eva Horáková
-    age: 38
-    profession: medicínská konzultantka
-    party: Piráti
   - name: Tomáš Murňák
     age: 38
     profession: softwarový operátor, zastupitel MČ Praha 13

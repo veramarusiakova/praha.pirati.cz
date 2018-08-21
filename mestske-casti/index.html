@@ -1,83 +1,59 @@
 ---
 layout: default
 ---
+<!DOCTYPE html>
+<html lang="cs" dir="ltr" itemtype="http://schema.org/WebPage" itemscope="">
+    <body>
 
-<div align="center">
-<table>
-<tr>
-<td> <img src="/assets/img/people/pavel-nazarsky.jpg" alt="Pavel Nazarský"> </td>
-<td> <img src="/assets/img/people/jaroslav-nemec.jpg" alt="Jaroslav Němec"> </td>
-<td> <img src="/assets/img/people/stepan-strebl.jpg" alt="Štěpán Štrébl"> </td>
-<td> <img src="/assets/img/people/tibor-vansa.jpg" alt="Tibor Vansa"> </td>
-<td> <img src="/assets/img/people/daniel-mazur.jpg" alt="Daniel Mazur"> </td>
-<td> <img src="/assets/img/people/ondrej-chrast.jpg" alt="Ondřej Chrást"> </td>
-<td> <img src="/assets/img/people/pavel-tauer.jpg" alt="Pavel Tauer"> </td>
-</tr>
-<tr>
-<td> <a href="{{ '/lide/pavel-nazarsky/'  }}">Pavel Nazarský</a> </td>
-<td> Jaroslav Neměc</td>
-<td> Štěpán Štrébl</td>
-<td> Tibor Vansa</td>
-<td> <a href="{{ '/lide/daniel-mazur/'  }}">Daniel Mazur</a> </td>
-<td> Ondřej Chrást</td>
-<td> Pavel Tauer</td>
-</tr>
-<tr>
-<td> lídr Pirátů na <b>Praze 1</b> </td>
-<td> lídr Pirátů na <b>Praze 2</b> </td>
-<td> lídr Pirátů na <b>Praze 3</b> </td>
-<td> lídr Pirátů na <b>Praze 4</b> </td>
-<td> lídr Pirátů na <b>Praze 5</b> </td>
-<td> lídr Pirátů na <b>Praze 6</b> </td>
-<td> lídr Pirátů na <b>Praze 7</b> </td>
-</tr>
-<tr>
-<td> pavel.nazarsky@pirati.cz </td>
-<td> jaroslav.nemec@pirati.cz </td>
-<td> stepan.strebl@pirati.cz </td>
-<td> tibor.vansa@pirati.cz </td>
-<td> daniel.mazur@pirati.cz </td>
-<td> ondrej.chrast@pirati.cz </td>
-<td> pavel.tauer@pirati.cz </td>
-</tr>
-<tr>
-<td> <img src="/assets/img/people/alice-hamalova.jpg" alt="Alice Hamalová"> </td>
-<td> <img src="/assets/img/people/kornelia-gottmanova.jpg" alt="Kornélia Gottmanová"> </td>
-<td> <img src="/assets/img/people/jana-komrskova.jpg" alt="Jana Komrsková"> </td>
-<td> <img src="/assets/img/people/jiri-dohnal.jpg" alt="Jiří Dohnal"> </td>
-<td> <img src="/assets/img/people/lukas-findeis.jpg" alt="Lukáš Findeis"> </td>
-<td> <img src="/assets/img/people/tomas-murnak.jpg" alt="Tomáš Murňák"> </td>
-<td> <img src="/assets/img/people/michal-prager.jpg" alt="Michal Prager"> </td>
-</tr>
-<tr>
-<td> Alice Hamalová </td>
-<td> Nela Gottmanová </td>
-<td> Jana Komrsková </td>
-<td> Jiří Dohnal </td>
-<td> <a href="{{ '/lide/lukas-findeis/'  }}">Lukáš Findeis</a> </td>
-<td> <a href="{{ '/lide/tomas-murnak/'  }}">Tomáš Murňák</a> </td>
-<td> Michal Prager </td>
-</tr>
-<tr>
-<td> lídr Pirátů na <b>Praze 8</b> </td>
-<td> lídr Pirátů na <b>Praze 9</b> </td>
-<td> lídr Pirátů na <b>Praze 10</b> </td>
-<td> lídr Pirátů na <b>Praze 11</b> </td>
-<td> lídr Pirátů na <b>Praze 12</b> </td>
-<td> lídr Pirátů na <b>Praze 13</b> </td>
-<td> lídr Pirátů na <b>Praze 14</b> </td>
-</tr>
-<tr>
-<td> alice.hamalova@pirati.cz </td>
-<td> kornelia.gottmanova<br/>@pirati.cz </td>
-<td> jana.komrskova@pirati.cz </td>
-<td> jiri.dohnal@pirati.cz </td>
-<td> lukas.findeis@pirati.cz </td>
-<td> tomas.murnak@pirati.cz </td>
-<td> michal.prager@pirati.cz </td>
-</tr>
-</table>
-</div>
+      <section id='regions-map'>
+    <div class="row" style="background-color: lightgray;">
+
+        <div class="large-12 columns" style="margin-bottom: 20px;">
+              <div id="regions-map-paper" class="hide-for-medium-only hide-for-small-only text-center"></div>
+        </div>
+        <!--<div class="large-5 columns" style="margin-top: 40px;">
+            <article class="c-BlogPosting" style="background-color: white; margin-top: 40px; margin-right: 20px">
+                <div class="row c-BlogPosting-content">
+                    <h3 style="margin-left: 45px">Místní sdružení</h3>
+                    <div class="columns small-6">
+                        <ul id="regions-list" style="margin-left: 25px">
+                        </ul>
+                    </div>
+                    <div class="columns small-6">
+                        <ul id="regions-list-2">
+                        </ul>
+                    </div>
+                </div>
+            </article>
+        </div>>-->
+
+    </div>
+    </section>
+    <br />
+    <div class="row" style="display: flex;justify-content: center;flex-wrap: wrap;">
+      {% assign regions = site.data.regions | sort: 'rank' %}
+      {% for region in regions %}
+      {% if region.kontakt_id %}
+        {% assign kontakt = site.people | where: "uid", region.kontakt_id | first %}
+        {% assign cislo = region.full_name | split: 'Praha ' %}
+        {% assign content = kontakt.content | strip_newlines %}
+        <div style="width:227px;height:400px;align-self:flex-start;text-align:center">
+        <h3 id={{ region.uid}}>Městská část {{ region.full_name}}</h3>
+          <img src=/assets/img/{{kontakt.img}} alt=kontakt.full_name style="height:220px"><br />
+            <p><b>{% if content == ""  %}{{kontakt.name}}{% else %}<a href='{{kontakt.url}}'>{{kontakt.name}}</a>{% endif %}</b><br />
+            Lídr Pirátů na Praze {{cislo[1]}}<br />
+            <a href="mailto:{{kontakt.mail}}">{{kontakt.mail}}</a></p>
+            <p>
+            {% if region.link %}<i class="fa fa-globe"></i><a href={{region.link}}>Piráti {{region.full_name}}</a><br />{% endif %}
+            {% if region.facebook %}<i class="fa fa-facebook-square"></i><a href={{region.facebook}}>Piráti {{region.full_name}}</a>{% endif %}
+              </p>
+    </div>
+    {% endif %}
+    {% endfor %}
+    </div>
+
+
+
 
 <!--
 <div class="row">
@@ -217,5 +193,3 @@ layout: default
   </div>
 </div>
 -->
-
-<b>
