@@ -38,6 +38,8 @@ collections:
     teams:
     output: true
     permalink: /pripoj-se/mc/:title/
+  candidatelists:
+    output: false
 
 defaults:   # defaults values for collection scope
   -
