@@ -36,7 +36,7 @@ tail: # zbytek kandidatky
  party: Česká pirátská strana
   - name: Miroslav Kodada
  age: 36
- profession: pilot PPL  -H
+ profession: pilot PPL-H
  party: Česká pirátská strana
   - name: Radek Zykan
  age: 43
