@@ -39,7 +39,8 @@ collections:
     output: true
     permalink: /pripoj-se/mc/:title/
   candidatelists:
-    output: false
+    output: true
+    permalink: /kandidatka/:title/
 
 defaults:   # defaults values for collection scope
   -
