@@ -1,6 +1,7 @@
 ---
 title: Kandidátka na radnici Prahy 2
-uid: praha-2
+uid: praha2
+candidateListUid: praha2
 number: 4
 leader:
   - uid: jaroslav.nemec
