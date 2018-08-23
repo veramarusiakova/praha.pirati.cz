@@ -2,7 +2,6 @@
 title: Kandidátka na radnici Prahy 2
 uid: praha-2
 number: 4
-leader: 
 leader:
   - uid: jaroslav.nemec
     age: 39
