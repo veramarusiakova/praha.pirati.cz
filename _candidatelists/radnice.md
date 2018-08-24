@@ -1,7 +1,6 @@
 ---
-title: Kandidátka na magistrát
-uid: magistrat
-candidateListUid: magistrat
+title: Kandidátka na radnici
+uid: radnice
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: zdenek.hrib
@@ -218,11 +217,11 @@ tail: # zbytek kandidatky
   - name: Mgr. Martin Muzikant, Ph.D.
     age: 47
     profession: Manažer kvality
-    party: bez politické příslušnosti
+    party: bez politické příslušnosti 
   - name: JUDr. Bc. Matej Sandor, Ph.D.
     age: 34
     profession: právník a manažer
-    party: bez politické příslušnosti
+    party: bez politické příslušnosti 
   - name: Adam Kopetzký
     age: 20
     profession: student
@@ -238,11 +237,11 @@ tail: # zbytek kandidatky
   - name: Tomáš Dvořák
     age: 41
     profession: programátor
-    party: bez politické příslušnosti
+    party: bez politické příslušnosti 
   - name: Ing. Petr Kovář
     age: 26
     profession: programátor
-    party: bez politické příslušnosti
+    party: bez politické příslušnosti 
   - name: Mgr. Zuzana Ujhelyiová
     age: 35
     profession: na rodičovské dovolené
