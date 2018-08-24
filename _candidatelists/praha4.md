@@ -1,16 +1,16 @@
+# Jakmile mi někdo poradíte regex, který prohodí jméno a příjmení, prohodím je i zde.
 ---
 title: Kandidátka na radnici Prahy 4
-uid: praha4
-candidateListUid: praha4
+uid: praha-4
 # number: 8 odkomentujte prosím až bude zveřejněno
-leader:
+leader: 
   uid: jan.hora
   age: 34
   profession: profesor a programátor
   description: "Vystudoval aplikovanou informatiku na VŠE a povoláním je analytik/programátor. Postupně pracoval pro několik menších i větších firem a v průběhu té doby se zajímal o politické dění a občas se do něj i aktivně zapojoval.
 "
 
-head: # čelo kandidátky (bez leadera)  lidé kteří mají fotku a people/jmeno.md
+head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: petra.rejchrtova
     age: 49
     profession: učitelka

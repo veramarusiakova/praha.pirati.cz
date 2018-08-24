@@ -1,13 +1,13 @@
 ---
 title: Kandidátka na radnici Prahy 2
-uid: praha2
-candidateListUid: praha2
+uid: praha-2
 number: 4
-leader:
-  - uid: jaroslav.nemec
-    age: 39
-    profession: kurátor architektonických výstav
-    description: "Je kurátorem Kabinetu architektury, který je jediným členem ICAM (Mezinárodní konfederace architektonických muzeí / International Confederation of Architectural Museums) v České republice."
+leader: 
+  uid: jaroslav.nemec
+  age: 39
+  profession: kurátor architektonických výstav
+  description: "Je kurátorem Kabinetu architektury, který je jediným členem ICAM (Mezinárodní konfederace architektonických muzeí / International Confederation of Architectural Museums) v České republice.
+"
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: magdalena.valdmanova

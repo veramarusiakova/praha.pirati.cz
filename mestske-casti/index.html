@@ -37,17 +37,15 @@ layout: default
         {% assign kontakt = site.people | where: "uid", region.kontakt_id | first %}
         {% assign cislo = region.full_name | split: 'Praha ' %}
         {% assign content = kontakt.content | strip_newlines %}
-        {% assign candidates = site.candidatelists | where: "uid", region.uid | first  %}
-        <div style="width:227px;height:420px;align-self:flex-start;text-align:center">
+        <div style="width:227px;height:400px;align-self:flex-start;text-align:center">
         <h3 id={{ region.uid}}>Městská část {{ region.full_name}}</h3>
           <img src=/assets/img/{{kontakt.img}} alt=kontakt.full_name style="height:220px"><br />
             <p><b>{% if content == ""  %}{{kontakt.name}}{% else %}<a href='{{kontakt.url}}'>{{kontakt.name}}</a>{% endif %}</b><br />
             Lídr Pirátů na Praze {{cislo[1]}}<br />
             <a href="mailto:{{kontakt.mail}}">{{kontakt.mail}}</a></p>
             <p>
-            {% if region.link %}<i class="fa fa-globe"></i><a href={{region.link}}>Web Piráti {{region.full_name}}</a><br />{% endif %}
-            {% if region.facebook %}<i class="fa fa-facebook-square"></i><a href={{region.facebook}}>FB Piráti {{region.full_name}}</a><br />{% endif %}
-            {% if candidates %}<i class="fa fa-users"></i><a href="{{candidates.url}}/">Kandidátka {{region.full_name}}</a><br />{% endif %}
+            {% if region.link %}<i class="fa fa-globe"></i><a href={{region.link}}>Piráti {{region.full_name}}</a><br />{% endif %}
+            {% if region.facebook %}<i class="fa fa-facebook-square"></i><a href={{region.facebook}}>Piráti {{region.full_name}}</a>{% endif %}
               </p>
     </div>
     {% endif %}

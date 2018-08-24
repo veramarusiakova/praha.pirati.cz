@@ -39,8 +39,7 @@ collections:
     output: true
     permalink: /pripoj-se/mc/:title/
   candidatelists:
-    output: true
-    permalink: /kandidatka/:title/
+    output: false
 
 defaults:   # defaults values for collection scope
   -
@@ -67,14 +66,6 @@ defaults:   # defaults values for collection scope
       rbar:
       #         - garant
          - program
-  -
-    scope:
-      path: "_candidatelists"
-    values:
-      layout: "communal-elections"
-      #rbar:
-      #         - garant
-      #   - program
 
 calendar:
 fb: https://www.facebook.com/CeskaPiratskaStranaPraha/
