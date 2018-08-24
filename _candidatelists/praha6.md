@@ -10,15 +10,15 @@ leader:
 "
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: vikor.mahrik
-   age: 36
-   profession: zastupitel hl. m. Prahy, specialista internetových výzkumů
-  - uid: jana.kabelova
-   age: 59
-   profession: stavařka, koordinátorka veřejných zakázek
-  - uid: milos.vlach
-   age: 34
-   profession: podnikatel a vývojář uživatelské přívětivosti
+   - uid: vikor.mahrik
+     age: 36
+     profession: zastupitel hl. m. Prahy, specialista internetových výzkumů
+   - uid: jana.kabelova
+     age: 59
+     profession: stavařka, koordinátorka veřejných zakázek
+   - uid: milos.vlach
+     age: 34
+     profession: podnikatel a vývojář uživatelské přívětivosti
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
