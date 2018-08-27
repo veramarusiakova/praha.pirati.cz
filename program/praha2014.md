@@ -2,6 +2,7 @@
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 campaignCategoryUid: praha2014
 title: Program pro pražský Magistrát
+layout: "program-post"
 ---
 
 
