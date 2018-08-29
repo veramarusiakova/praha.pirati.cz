@@ -47,7 +47,7 @@ zastoupení rodičů v nich.
 
 ### Zajistíme dostatečné kapacity
 * **Podpoříme zajišťování kapacit mateřských škol a ve zřizování dětských skupin
-k péči pro předškolní děti**. Kromě toho zlepšíme kapacity i kvalitu služeb školních●
+k péči pro předškolní děti**. Kromě toho zlepšíme kapacity i kvalitu služeb školních
 kuchyní, jídelen a družin. Ve spolupráci s městskými částmi se pokusíme zajistit, aby
 provozní doba školek odpovídala potřebám rodičů v místě.
 * **Pražské střední školy pracují i pro regiony**. Praha má zastropovanou kapacitu
