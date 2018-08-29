@@ -18,7 +18,7 @@ Nyní Piráti objevili, že též při privatizaci bytů se neměří stejným m
 
 Výhody, které aktuální vládnoucí strana TOP 09 na Praze 1 svým členům poskytuje, jsou nemalé. Piráti prostřednictvím Bodečka již v březnu letošního roku upozornili jak tajemníka úřadu, tak také radního pro majetek Tomáše Macháčka (TOP 09) na neadekvátní zásah do kupní smlouvy Kateřiny Hamr a dali podnět k jejímu prošetření. Kateřina Hamr tímto způsobem mohla získat neoprávněnou výhodu oproti jiným, „běžným“ občanům Prahy 1. Do dnešního dne záležitost nebyla tajemníkem ani radním Macháčkem objasněna.
 
-### Odkazy 
+### Kupní smlouvy 
 
 * [https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/assets/pdf/kb.pdf](Převod vlastnictví z Prahy 1)
 * [https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/assets/pdf/ka.pdf](Kupní smlouva p. Hamr na prodej bytu)
