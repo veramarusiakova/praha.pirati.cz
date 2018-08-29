@@ -20,7 +20,7 @@ Výhody, které aktuální vládnoucí strana TOP 09 na Praze 1 svým členům p
 
 ### Kupní smlouvy 
 
-* [Převod vlastnictví z Prahy 1](https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/assets/pdf/kb.pdf)
-* [Kupní smlouva p. Hamr na prodej bytu](https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/assets/pdf/ka.pdf)
+* [Převod vlastnictví z Prahy 1](https://github.com/pirati-web/praha.pirati.cz/raw/gh-pages/assets/pdf/kb.pdf)
+* [Kupní smlouva p. Hamr na prodej bytu](https://github.com/pirati-web/praha.pirati.cz/raw/gh-pages/assets/pdf/ka.pdf)
 
 
