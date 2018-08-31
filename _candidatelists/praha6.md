@@ -10,7 +10,7 @@ leader:
 "
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-   - uid: vikor.mahrik
+   - uid: viktor.mahrik
      age: 36
      profession: zastupitel hl. m. Prahy, specialista internetových výzkumů
    - uid: jana.kabelova
