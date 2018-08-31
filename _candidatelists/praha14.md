@@ -12,7 +12,7 @@ leader:
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: petr.hukal
     age: 38
-    profession: zastupitelka na Praze 13, sociální ekoložka
+    profession: informatik a ekonom
   - uid: adam.palat
     age: 22
     profession: datový analytik
