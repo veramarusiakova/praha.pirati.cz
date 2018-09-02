@@ -1,7 +1,7 @@
 ---
 title: Kandidátka na radnici Prahy 11
 uid: praha-11
-# number: 8 odkomentujte prosím až bude zveřejněno
+# number: 8 # odkomentujte prosím až bude zveřejněno
 leader: 
   uid: jiri.dohnal
   age: 41
@@ -19,6 +19,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: ladislav.kos
     age: 32
     profession: konzultant online marketingu
+
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
@@ -188,3 +189,4 @@ tail: # zbytek kandidatky
      profession: v domácnosti
      party: Bez politické příslušnosti
 ---
+
