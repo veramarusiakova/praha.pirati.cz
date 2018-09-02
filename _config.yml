@@ -34,10 +34,7 @@ collections:
     permalink: /lide/:path/
   program:
     output: true
-    permalink: /program/:path/
-    teams:
-    output: true
-    permalink: /program/:title/
+    permalink: /program/2018/:path/
   candidatelists:
     output: false
 
