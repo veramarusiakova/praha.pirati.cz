@@ -37,7 +37,7 @@ rbar:
 **20. 9.  Krajská schůze** - 14 dní do voleb, poslední instrukce, hecování se do superintenzivní kontaktní kampaně  
 **11. 10. Povolební schůze** - představování novopečených zastupitelů, hodnocení výsledků voleb 
 
-## Vyvětste Pirátskou plachutu.
+## Vyvětste Pirátskou plachtu.
 
 Vyvěste si plachtu s pirátským heslem na plot nebo z okna. Plachty rozdáváme zdarma a v několika různých motivech. Pomozte nám být před volbami vidět! Registujte si plachtu přes [formulař](https://docs.google.com/forms/d/e/1FAIpQLSdtOrv8J1W_eKMGDQc5Sl9dSrbVDR7NMBSHYFPRSZvAqhyXKA/viewform).
 
