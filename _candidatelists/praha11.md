@@ -1,6 +1,5 @@
 ---
 title: Kandidátka na radnici Prahy 11
-uid: praha-11
 # number: 8 # odkomentujte prosím až bude zveřejněno
 leader: 
   uid: jiri.dohnal
@@ -23,7 +22,6 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-     party: Piráti
    - name: Michal Kovařík
      age: 30
      profession: nakladatelský pracovník a publicista
