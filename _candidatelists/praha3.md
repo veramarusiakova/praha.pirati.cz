@@ -13,19 +13,15 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: martin.arden
     age: 51
     profession: pastorační pracovník
-  - uid: martin.konvicka
-    age: 58
-    profession: podnikatel
   - uid: jiri.svrcek
     age: 26
     profession: dendrolog
+  - uid: jana.belecova
+    age: 41
+    profession: OSVČ
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - name: Jana Belecová
-    age: 40 
-    profession: OSVČ
-    party: Piráti
   - name: Jan Bartko
     age: 28 
     profession: Analytik
