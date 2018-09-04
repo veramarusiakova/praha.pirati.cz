@@ -31,8 +31,6 @@ rbar:
 
 ## Kraské schůze
 
-**19. 7. Krajská schůze v Pracovně** - bude se natáčet kousek promovidea se Zdeňkem, tak s tím počítejte  
-**2. 8. Pirátské grilování ve Výletné** - užijeme si pohodový společný čas vejpůl prázdniny  
 **30. 8. Krajská schůze** - příprava na start horké fáze kampaně, fasování nových pirátských listů  
 **20. 9.  Krajská schůze** - 14 dní do voleb, poslední instrukce, hecování se do superintenzivní kontaktní kampaně  
 **11. 10. Povolební schůze** - představování novopečených zastupitelů, hodnocení výsledků voleb 
@@ -41,7 +39,7 @@ rbar:
 
 Vyvěste si plachtu s pirátským heslem na plot nebo z okna. Plachty rozdáváme zdarma a v několika různých motivech. Pomozte nám být před volbami vidět! Registujte si plachtu přes [formulař](https://docs.google.com/forms/d/e/1FAIpQLSdtOrv8J1W_eKMGDQc5Sl9dSrbVDR7NMBSHYFPRSZvAqhyXKA/viewform).
 
-### Další užitečné informace
+## Další užitečné informace
 
 * [Pirátská netiketa][netiketa] – základní zásady pro dobrou atmosféru
 * Na první kontakt doporučujeme přijít na **krajskou schůzi** nebo na **Pirátské úterý**, viz [kalendář][kal].
