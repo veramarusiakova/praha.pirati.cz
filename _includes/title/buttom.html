@@ -8,7 +8,7 @@
             <i class="{{include.box.icon}}" aria-hidden="true"></i>
         {% endif %}
         {% if include.box.img %}
-            <img class="program-icon" src="{{ include.box.img | prepend: 'assets/img/' | relative_url}}" alt="{{item.title}}" width="80" />
+            <img class="program-icon" src="{{ include.box.img | prepend: 'assets/img/' | relative_url}}" alt="{{include.box.text}}" width="80" />
         {% endif %}
     </div>
     </div>
