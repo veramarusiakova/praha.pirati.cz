@@ -1,7 +1,7 @@
 ---
 date:         2017-01-19
 category:     blog
-tags:         praha kauzy Škodův-palác
+tags:         praha kauzy skoduv-palac
 layout:       post
 title:        "Bafuňář Jansta vs Piráti: Zastrašit se nedáme" 
 image:        jansta.jpg

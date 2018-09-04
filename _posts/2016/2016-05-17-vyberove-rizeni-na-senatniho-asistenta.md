@@ -51,7 +51,8 @@ V nabídce nám prosím zašli v jednom PDF dokumentu následující materiály:
 
 [plan]: https://redmine.pirati.cz/projects/senat/roadmap
 
-Pokud máš nedejbože záznam v trestním rejstříku, popiš ho a zdůvodni. Podrobnosti o výběrovém řízení si přečti v [pravidlech výběrového řízení](pravidla.md). Pokud máš zájem o upřesnění informací, kontaktuj zveřejňovače zastupitelského klubu Jana Loužka prostřednictvím níže uvedeného e-mailu.
+Pokud máš nedejbože záznam v trestním rejstříku, popiš ho a zdůvodni. Podrobnosti o výběrovém řízení si přečti v [pravidlech výběrového řízení](https://github.com/pirati-cz/KlubPraha/blob/master/vyberka/asistent-senatora/zadani/pravidla.md).
+Pokud máš zájem o upřesnění informací, kontaktuj zveřejňovače zastupitelského klubu Jana Loužka prostřednictvím níže uvedeného e-mailu.
 
 Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md) s vykazováním v systémů [redmine][redmine].
 
