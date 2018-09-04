@@ -14,7 +14,7 @@ Před komunálními volbami slíbily všechny politické strany, že budou smlou
 
 Většina stran totiž **slíbila, že smlouvy zveřejňovány budou**. K tomu skutečně dochází – ano, hlavní město Praha smlouvy *zveřejňuje*. Je však otázkou, jak toto zveřejňování vypadá. Setkáváme se s naskenovanými obrázky, neúplnými smlouvami, nemožností tyto dokumenty správně číst, vyhodnocovat a strojově zpracovávat. Mnohdy je provedené plnění u smlouvy zobrazené ve výši 0 Kč. Přitom ve smlouvě samotné je naskenovaná hodnota přes pět milionů korun. Naproti tomu **městské organizace zveřejňují však zcela chaoticky anebo vůbec**. Navzdory tomu, že přes ně probíhá většina hospodaření.
 
-![Programy politických stran](/assets/img/articles/programy-zverejnovani.png "Programy politických stran Trojkoalice, ČSSD a ANO")
+![Programy politických stran](/assets/img/posts/programy-zverejnovani.png "Programy politických stran Trojkoalice, ČSSD a ANO")
 
 Piráti připravili [návrh usnesení o zveřejňování smluv](/assets/pdf/3110.pdf). Na jeho přípravě se podíleli všichni členové klubu, většinu sepsal předseda klubu Pirátů Jakub Michálek.
 
@@ -25,7 +25,7 @@ Piráti připravili [návrh usnesení o zveřejňování smluv](/assets/pdf/3110
 
 Koalice ANO, ČSSD a Trojkoalice však ani **nepřipustila, aby zastupitelstvo o návrhu diskutovalo**. Zastupitelstvo se při hlasování jasně rozdělilo na koalici a opozici. Mocenské rozdělení se ukázalo být hlavním faktorem. Zatímco zastupitelé TOP 09, kteří proti návrhu Pirátů poměrně výrazně vystupovali, nakonec hlasovali pro zařazení bodu na program jednání. Koalice se hlasování jako jeden muž zdržela, což na zamítnutí návrhu stačilo. 
 
-![Výsledky hlasování](/assets/img/articles/hlasovani-zverejnovani.jpg "Výsledky hlasování o tom, zda bude zveřejňování smluv na programu jednání")
+![Výsledky hlasování](/assets/img/posts/hlasovani-zverejnovani.jpg "Výsledky hlasování o tom, zda bude zveřejňování smluv na programu jednání")
 
 Je jasné, že zveřejňování smluv zůstává na pořadu dne. I v současné době běží v poslanecké sněmovně diskuze ohledně registru smluv, která trvá již velmi dlouho. I přes dnešní rozhodnutí koalice vítáme příslib projednat náš návrh na prvním lednovém zasedání nyní již [Výboru pro legislativu, veřejnou správu, protikorupční opatření a informatiku](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=30109). Doufáme, že bude předložen v co nejbližší době zpět zastupitelstvu.
 
