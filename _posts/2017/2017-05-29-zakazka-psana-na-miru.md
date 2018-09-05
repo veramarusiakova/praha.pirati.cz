@@ -8,7 +8,7 @@ image:        dc04.jpg
 author:      Ondřej Profant
 ---
 
-Pražský magistrát (MHMP) vypsal zakázku[^1] v hodnotě 38 000 000 Kč na vybavení datového centra[^2], jejíž parametry jsou tak podivné, že vzbuzují pochybnosti o faktické otevřenosti soutěže. Hlavní problémy soutěže dle Pirátů:
+Pražský magistrát (MHMP) vypsal zakázku v hodnotě 38 000 000 Kč na vybavení datového centra, jejíž parametry jsou tak podivné, že vzbuzují pochybnosti o faktické otevřenosti soutěže. Hlavní problémy soutěže dle Pirátů:
 
 * Uchazeči měli na podání nabídek pouze 11 pracovních dnů.
 * Některé specifikace jsou převzaty z marketingových letáků konkrétních dodavatelů (Hewlett-Packard, Cisco).

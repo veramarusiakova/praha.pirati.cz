@@ -144,4 +144,5 @@ assets:
     - assets/fonts
     - assets/video
     - assets/img
+    - assets/snippet
     - _sass
