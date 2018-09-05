@@ -16,7 +16,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: martin.duska
     age: 26
     profession: politolog
-  - uid: ladislav.kos
+  - uid: ladislav.kos2
     age: 32
     profession: konzultant online marketingu
 
