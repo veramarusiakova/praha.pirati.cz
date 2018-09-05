@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Jan Loužek, Mikuláš Ferjenčík
 image:	palac-zapad.jpg
-tags:	kauzy Škodův-palác kontrolní-výbor
+tags:	kauzy skoduv-palac kontrolní-výbor
 date:	2015-05-13
 ---
 

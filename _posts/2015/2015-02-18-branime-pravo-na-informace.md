@@ -11,9 +11,9 @@ date:	2015-02-18
 Zastupitelský klub Pirátů v hl. m. Praze razantně vystoupil proti cenzuře
 opozičních zastupitelů na Praze 10. Kočkopes ANO, ODS, ČSSD a Zelení, vedený 
 Radmilou Kleslovou odřízl 
-opozičním zastupitelům přístup k informacím. Na [příkaz tajemníka](/assets/static/poskytovani-informaci/praha10/prikaz.pdf)
+opozičním zastupitelům přístup k informacím. Na příkaz tajemníka
 tajemníka Martina Slavíka
-a nezákonné [zásady odpírání informací zastupitelům](/assets/static/poskytovani-informaci/praha10/zasady.docx)
+a nezákonné zásady odpírání informací zastupitelům
 upozornila zastupitelka za Piráty na Městské části Praha 10 Olga Richterová.
 
 > Osobně nesnáším, když se úředníci vydávají na první pohled protizákonná rozhodnutí, 
