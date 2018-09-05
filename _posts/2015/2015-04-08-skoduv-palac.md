@@ -4,7 +4,7 @@ layout:	post
 category:	blog
 author:	Mikuláš Ferjenčík
 image:	kaceri.jpg
-tags:	kauzy Škodův-palác
+tags:	kauzy skoduv-palac
 date:	2015-04-08
 ---
 

@@ -16,9 +16,5 @@ Piráti navrhli do Strategického plánu zařadit několik nových opatření, j
 
 „Každopádně podle nás je lepší dobré věci rovnou prostě udělat a nečekat na to, než je budeme mít napsané v nějaké strategii. Například existuje mnoho protikorupčních opatření, které Rada už mohla dávno udělat, ale asi čekají na to, než si schválí protikorupční strategii, jejíž příprava se zbytečně vleče,“ zakončuje zastupitel Adam Zábranský, který se zabývá transparencí.
 
-## Přílohy
-
-* [Připomínky Pirátů v podobě, jaká byla zaslána Institutu plánování a rozvoje](/assets/static/pripominky-pirati.docx)
-
 
 

@@ -76,9 +76,6 @@ pořadí, případně nějaká drobná úprava délky funkčního období.
 
 Děkuji za pozornost a za podporu tohoto návrhu. 
 
-* [Návrh usnesení k rotaci předsedy kontrolního výboru s důvodovou zprávou (tisk Z-3217)](/assets/static/Z-3217/usneseni.doc) 
-* [Jmenovité hlasování zastupitelů](/assets/static/Z-3217/hlasovani.pdf)
-
 * * *
 
 **Dovětek**: Jak koalice, tak zbytek opozice se postavily proti rotaci předsedy 
