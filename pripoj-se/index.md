@@ -4,13 +4,13 @@ article-boxes:
   - title: "Rozdávání Pirátských listů"
     image: /assets/img/pripoj-se/noviny.jpg
     button:  Hledáme rozdavače a rozvoz autem!
-    url: piratske-listy-offline
+    url: piratske-listy-offline.html
     description:  >
               Šíříme informace o skutečném fungování státu a města. Díky vám se dostanou i k lidem, kteří se s Internetem nekamarádí.
   - title: Zastupitelé na Magistrátu
     image: /assets/img/pripoj-se/zastupko.jpg
     button: Hledáme odborníky a stážisty!
-    url: prazsti-zastupitele
+    url: prazsti-zastupitele.html
     description:  >
               Kritizujeme politické trafiky, nevýhodné záměry developerů a další desítky kauz.
               Chceme moderní město s průhledným hospodařením!  
@@ -18,7 +18,7 @@ article-boxes:
   - title: Krajské předsednictvo
     image:  /assets/img/pripoj-se/krajske-forum.jpg
     button: Hledáme nové členy a příznivce!
-    url: predsednictvo
+    url: predsednictvo.html
     description:  >
               Krajské předsednictvo vede sdružení, přijímá nové členy,
               organizuje akce, koordinuje dobrovolníky a hospodaří

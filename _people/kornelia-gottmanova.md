@@ -4,7 +4,7 @@ name:     Kornélia Gottmanová  	# běžně používáné jméno
 fullname: Ing. Kornélia Gottmanová 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
-img: people/kornelia-gottmanova.jpg   # 165 x 220
+img: people/kornelia-gottmannova.jpg   # 165 x 220
 description:      	# kratký popis, max 160 znaků
 mail:
 - kornelia.gottmanova@pirati.cz

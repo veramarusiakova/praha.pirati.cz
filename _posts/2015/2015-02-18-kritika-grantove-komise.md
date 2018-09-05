@@ -8,7 +8,7 @@ tags:	granty
 date:	2015-02-18
 ---
 
-Předsedou grantové komise pro sport a tělovýchovu se má podle radní Novákové stát Karel Březina. Sekundovat mu pak bude Radmila Kleslová. [Tento návrh](/assets/static/navrh-komise.pdf) nás jako zastupitelský klub Pirátů znepokojuje. Zastupitel za ČSSD Karel Březina byl před čtyřmi měsíci pravomocně odsouzen za trestný čin podvodu. Nominantka Radmila Kleslová je bývalou spolupracovnicí Státní bezpečnosti, není členskou zastupitelstva a dle nám dostupných informací postrádá odbornost v oblasti sportu (kromě toho, že je profesionální politickou přeběhlicí).
+Předsedou grantové komise pro sport a tělovýchovu se má podle radní Novákové stát Karel Březina. Sekundovat mu pak bude Radmila Kleslová. Tento návrh nás jako zastupitelský klub Pirátů znepokojuje. Zastupitel za ČSSD Karel Březina byl před čtyřmi měsíci pravomocně odsouzen za trestný čin podvodu. Nominantka Radmila Kleslová je bývalou spolupracovnicí Státní bezpečnosti, není členskou zastupitelstva a dle nám dostupných informací postrádá odbornost v oblasti sportu (kromě toho, že je profesionální politickou přeběhlicí).
 
 Tito dva členové jsou ale jen špičkou ledovce. Grantové komise by dle našeho názoru obecně měly být složeny z nepolitických odborníků na dané téma, aby tvořili jakousi protiváhu reprezentace politické. Politici by v takových případech měli mít spíše korektivní funkci. Třeba složení grantové komise pro kulturu je diametrálně odlišné - téměř všichni členové komise jsou externisté ([jejich odbornost můžete posoudit sami](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/rada/komise_rady/index.html?commissionId=28682)). Na kulturní granty přitom Praha vyčleňuje méně peněz než na granty sportovní (zhruba 300 milionů korun ročně).
 

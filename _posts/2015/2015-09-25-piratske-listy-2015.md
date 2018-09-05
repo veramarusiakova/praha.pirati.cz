@@ -20,7 +20,6 @@ Protože nevlastníme žádná média, vytiskli jsme si vlastní noviny v nákla
 Kdo vydělá na změnách územního plánu, jaké příjmy mají pražští politici anebo
 jak Bém v roce 2006 podváděl, aby prosadil Opencard.
 
-wzxhzdk:0
 
 Distrubuční síť
 ---------------
@@ -46,8 +45,6 @@ my vám balíky dovezeme!**
 
 Budeme rádi, pokud pár výtisků umístíte i do 
 čekárny, kavárny nebo na jiné místo.
-
-<a href="/assets/pdf/plisty/letak-noviny.pdf" class="button success expand">Návod na rozdávání</a>
 
 
 

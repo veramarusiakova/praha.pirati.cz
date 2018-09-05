@@ -51,7 +51,7 @@ Základní dokumenty:
 **Klub Pirátů v Zastupitelstvu hl. m. Prahy**
 Nová radnice, Mariánské nám. 2, Praha 1, místnost č. 40 v přízemí
 
-![Mapa Platnéřská, Magistrát hl. m. Prahy, Nová radnice](/assets/img/zapoj-se/mapka-klub.png)
+![Mapa Platnéřská, Magistrát hl. m. Prahy, Nová radnice](/assets/img/pripoj-se/mapka-klub.png)
 
 Většinou jsme v kanceláři od 10.00 do 18.00 hodin. Pokecat si s námi
 můžete i přes otevřené okno z Platnéřské ulice. Chcete-li jít na jisto,

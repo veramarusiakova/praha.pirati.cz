@@ -17,9 +17,3 @@ Mikuláš Ferjenčík, zastupitel Pirátů, který zařazení bodu navrhl, ke sc
 Zastupitelstvo svým rozhodnutím vyhovělo požadavkům starostů z desítek městských částí, a to zejména těch menších. Rada hlavního města Prahy musí do prosincového jednání Zastupitelstva předložit návrh rozpočtu, který bude dodržovat schválenou výši prostředků pro městské části. 
 
 Návrh byl jednou z desítek variant řešení finančních vztahů a na Zastupitelstvu ho za skupinu starostů městských částí uvedla starostka Prahy 3 Hujová (původně jako přílepek k návrhu na rozdělení zisků z loterií). Návrh podpořili kromě Pirátů i všichni zastupitelé Trojkoalice, TOP09, ODS a KSČM, proti návrhu hlasovali zastupitelé ANO a ČSSD. Usnesení bylo přijato 36 hlasy. 
-
-### Odkazy
-
-* [Schválený návrh dotačních vztahů na rok 2016](/assets/static/mestske-casti.xls)
-
-

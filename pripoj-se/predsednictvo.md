@@ -54,7 +54,7 @@ Budeme rádi, pokud se ozvete! Na konkrétní spolupráci se domluvte
 telefonicky s naším krajským koordinátorem [Michalem Jokešem][jokes].
 
 [cal]: {{'pripoj-se/kalendar/#praha' | relative_url}}
-[jokes]: {{'/lide/tobias-esner/' | relative_url}}
+[jokes]: {{'/lide/michal-jokes/' | relative_url}}
 [clen]: http://www.pirati.cz/ao/clen
 [org]: https://redmine.pirati.cz/projects/kspraha/issues?query_id=42
 [plan]: https://redmine.pirati.cz/projects/kspraha/roadmap
