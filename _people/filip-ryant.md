@@ -1,0 +1,19 @@
+---
+uid: filip.ryant
+name:     Filip Ryant  	# běžně používáné jméno
+fullname: Mgr. Filip Ryant	# jméno s tituly etc.
+category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- praha
+img: people/filip-ryant.jpg   # 165 x 220
+description:     	# kratký popis, max 160 znaků
+mail:
+- filip.ryant@gmail.com
+mob:
+profiles:
+  github:       
+  facebook: https://www.facebook.com/filip.ryant
+  twitter: 		  
+  flickr:		  
+---
+
+**Filip Ryant** (* 1984) kandiduje do zastupitelstva městské části Praha 13 pod společnou vlajkou Pirátů a Zelených. Sám je členem Strany zelených. Povoláním je web developer.

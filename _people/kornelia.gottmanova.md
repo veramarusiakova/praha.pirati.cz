@@ -1,5 +1,5 @@
 ---
-uid: nela.gottmanova
+uid: kornelia.gottmanova
 name: Nela Gottmannová	# běžně používáné jméno
 fullname: 		Nela Gottmanová # jméno s tituly etc.
 img: 		people/kornelia-gottmannova.jpg    # 165 x 220
