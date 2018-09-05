@@ -13,7 +13,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: zuzana.drhova
     age: 55
     profession: zastupitelka na Praze 13, sociální ekoložka
-  - uid: vaclav.jedlicka
+  - uid: vaclav.hrdlicka
     age: 38
     profession: manažer v telekomunikační společnosti
   - uid: filip.ryant
