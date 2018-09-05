@@ -1,7 +1,7 @@
 ---
 title: Kandidátka na radnici Prahy 11
 uid: praha-11
-# number: 8 # odkomentujte prosím až bude zveřejněno
+number: 
 leader: 
   uid: jiri.dohnal
   age: 41

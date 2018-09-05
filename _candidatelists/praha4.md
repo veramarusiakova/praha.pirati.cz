@@ -1,4 +1,3 @@
-# Jakmile mi někdo poradíte regex, který prohodí jméno a příjmení, prohodím je i zde.
 ---
 title: Kandidátka na radnici Prahy 4
 uid: praha-4
