@@ -3,7 +3,7 @@ date:         2018-09-07
 category:     blog
 tags:         praha-1
 layout:       post
-title:        "Piráti chystají netradiční rozloučení s vládnoucí garniturou na Praze 1. Lidem rozdají přes sto melounů"
+title:        "Chystáme netradiční rozloučení s vládnoucí garniturou na Praze 1. Lidem rozdají přes sto melounů"
 image:        zofin.jpg
 author:       David Bodeček
 ---
