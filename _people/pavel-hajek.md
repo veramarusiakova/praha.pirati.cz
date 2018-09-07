@@ -8,7 +8,7 @@ img: people/pavel-hajek.jpg   # 165 x 220
 description:      	# kratký popis, max 160 znaků
 mail:
 - pavel.hajek@pirati.cz
-mob:
+mob: +420 604 579 018
 profiles:
   github:       
   facebook:    

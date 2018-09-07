@@ -5,7 +5,7 @@ fullname: 			Magdalena Valdmanová # jméno s tituly etc.
 img: 		people/magdalena-valdmanova.jpg    # 165 x 220
 description:            	        			# kratký popis, max 160 znaků
 mail:
-- magdalena.valdmanova@pirati.cz
+- magdalena.valdman@gmail.com
 mob:			  
 profiles:
   github:     

@@ -15,7 +15,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
      profession: IT specialista
    - uid: sarka.hanzlikova
      age: 34
-     profession: účetní manažer a moderátor portálu plastické chirurgue
+     profession: účetní manažer a moderátor portálu plastické chirurgie
    - uid: roman.kucera
      age: 54
      profession: servisní textnik a expert na odhalování falešných expertů

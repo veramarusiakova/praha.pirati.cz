@@ -1,0 +1,19 @@
+---
+uid: michal.koci
+name:     Michal Kočí  	# běžně používáné jméno
+fullname: Michal Kočí 	# jméno s tituly etc.
+category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- praha
+img: people/michal-koci.jpg   # 165 x 220
+description:      	# kratký popis, max 160 znaků
+mail:
+- michal.koci@pirati.cz
+mob: +420 735 045 046
+profiles:
+  github:       
+  facebook:  
+  twitter: 		  
+  flickr:		  
+---
+
+**Michal Kočí** je místopředseda Pirátů na Praze 10 a kandidát do zastupitelstva této městské části.
