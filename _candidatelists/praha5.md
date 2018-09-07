@@ -13,12 +13,15 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: karel.bauer
     age: 57
     profession: podnikatel, účetní předseda SNOP 5
+    party: SNOP 5
   - uid: eva.horakova
     age: 38
     profession: medicínská konzultantka
+    party: Piráti
   - uid: petr.bervid
     age: 48
     profession: projektový manažer, člen SNOP 5
+    party: SNOP 5
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb

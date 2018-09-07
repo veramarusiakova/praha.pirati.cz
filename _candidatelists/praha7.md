@@ -13,12 +13,15 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
    - uid: pavel.tauer
      age: 49
      profession: IT specialista
+     party: Piráti
    - uid: sarka.hanzlikova
      age: 34
      profession: účetní manažer a moderátor portálu plastické chirurgie
+     party: Zelení
    - uid: roman.kucera
      age: 54
      profession: servisní textnik a expert na odhalování falešných expertů
+     party: Piráti
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
