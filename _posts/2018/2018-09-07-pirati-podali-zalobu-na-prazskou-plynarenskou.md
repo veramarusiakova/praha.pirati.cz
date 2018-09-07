@@ -17,3 +17,9 @@ Předseda pirátského klubu v pražském zastupitelstvu Adam Zábranský si od 
 Pražská plynárenská mu ale odmítla informace poskytnout s odůvodněním, že se na ní dle jejího názoru zákon o svobodném přístupu nevztahuje. Přitom v dubnu tohoto roku dal Ústavní soud za pravdu Pirátům a rozhodl, že poskytovat informace musí dceřiná firma Pražské plynárenské. 
 
 > „Z nálezu Ústavního soudu zcela jednoznačně vyplývá, že povinnost poskytovat informace se vztahuje i na Pražskou plynárenskou. Je absurdní, že městské firmy si dělají, co chtějí a nerespektují dokonce ani nejvýznamnější soudní instituci v Česku. Současnému vedení Prahy očividně na transparentnosti moc nezáleží,“ dodává Zábranský.
+
+### Odkazy 
+
+* [Žádost o informace Pirátů](/assets/pdf/01main.pdf)
+* [Zamítnutí žádosti Pirátů ze strany Pražské plynárenské](/assets/pdf/01zamitnuti.pdf)
+* [Žaloba Pirátů na Pražskou plynárenskou](/assets/pdf/01zaloba.pdf)
