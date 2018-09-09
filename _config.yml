@@ -96,9 +96,10 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_people"
     values:
-      layout: "page"
+      layout: "person"
       rbar:
         - foto
+        - personContact
         - people
   -
     scope:
