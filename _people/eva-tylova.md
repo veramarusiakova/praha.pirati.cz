@@ -1,7 +1,9 @@
 ---
 uid: eva.tylova
 name:     Eva Tylová  	# běžně používáné jméno
-fullname: Eva Tylová 	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/eva-tylova.jpg   # 165 x 220

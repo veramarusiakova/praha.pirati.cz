@@ -1,7 +1,9 @@
 ---
 uid: zdenek.hrib
 name:    Zdeňek Hřib
-fullname:  MUDr. Zdeněk Hřib
+titles:
+  before: MUDr. 
+  after:
 category:                 
 - praha
 img: people/zdenek-hrib.jpg  # 165 x 220

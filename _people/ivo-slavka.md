@@ -1,7 +1,9 @@
 ---
 uid: ivo.slavka
 name:     Ivo Slávka  	# běžně používáné jméno
-fullname: Ivo Slávka	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/ivo-slavka.jpg   # 165 x 220
