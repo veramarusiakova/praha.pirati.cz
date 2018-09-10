@@ -1,7 +1,9 @@
 ---
 uid: ivan.bartos
 name:     Ivan Bartoš      # běžně používáné jméno
-fullname: PhDr. Ivan Bartoš, Ph.D.  # jméno s tituly etc.
+titles:
+  before: PhDr. 
+  after: Ph.D
 category:                  # kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 - ga

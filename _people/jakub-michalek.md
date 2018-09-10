@@ -1,7 +1,9 @@
 ---
 uid: jakub.michalek
 name:                           Jakub Michálek  	# běžně používáné jméno
-fullname: 			Mgr. et Mgr. Jakub Michálek  # jméno s tituly etc.
+titles:
+  before: Mgr. et Mgr. 
+  after:
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - rp

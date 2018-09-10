@@ -1,7 +1,6 @@
 ---
 uid: david.bodecek
 name:     David Bodeček  	# běžně používáné jméno
-fullname: David Bodeček	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/david-bodecek.jpg   # 165 x 220

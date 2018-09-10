@@ -60,7 +60,6 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Category", name: "category", widget: "hidden", default: ""}
       - {label: "Name", name: "name", widget: "string", tagname: "h1", required: true}
-      - {label: "Fullname", name: "fullname", widget: "string", required: true}
       - {label: "Mob", name: "mob", widget: "string", required: true}
       - {label: "mail", name: "mail", widget: "text", required: true}
       - {label: "Obrázek", name: "img", widget: "image", required: false, tagname: ""}

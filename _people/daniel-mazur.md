@@ -1,7 +1,9 @@
 ---
 uid: daniel.mazur
 name:     Daniel Mazur  	# běžně používáné jméno
-fullname: RNDr. Daniel Mazur, Ph.D.  	# jméno s tituly etc.
+titles:
+  before: RNDr.
+  after: Ph.D.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 - praha

@@ -1,7 +1,6 @@
 ---
 uid: jana.belecova
 name:     Jana Belecova  	# běžně používáné jméno
-fullname: Jana Belecova	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jana-belecova.jpg   # 165 x 220

@@ -1,7 +1,6 @@
 ---
 uid: jana.kabelova
 name:     Jana Kabelová  	# běžně používáné jméno
-fullname: Jana Kabelová 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jana-kabelova.jpg   # 165 x 220

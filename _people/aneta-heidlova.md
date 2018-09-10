@@ -1,7 +1,9 @@
 ---
 uid: aneta.heidlova
 name:     Aneta Heidlová  	# běžně používáné jméno
-fullname: Bc. Aneta Heidlová 	# jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/aneta-heidlova.jpg   # 165 x 220

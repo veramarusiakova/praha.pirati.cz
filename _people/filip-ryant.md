@@ -1,7 +1,9 @@
 ---
 uid: filip.ryant
 name:     Filip Ryant  	# běžně používáné jméno
-fullname: Mgr. Filip Ryant	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/filip-ryant.jpg   # 165 x 220

@@ -1,7 +1,9 @@
 ---
 uid: dana.balcarova
 name:     Dana Balcarová  	# běžně používáné jméno
-fullname: Dana Balcarová  	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - praha
