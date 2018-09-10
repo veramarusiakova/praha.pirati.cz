@@ -1,7 +1,7 @@
 ---
 uid: jiri.svrcek
 name:     Jiří Svrček  	# běžně používáné jméno
-fullname: Jiří Svrček 	# jméno s tituly etc.
+fullname: Bc. Jiří Svrček 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jiri-svrcek.jpg   # 165 x 220

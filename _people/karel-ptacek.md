@@ -1,7 +1,7 @@
 ---
 uid: karel.ptacek
 name:     Karel Ptáček  	# běžně používáné jméno
-fullname: Karel Ptáček	# jméno s tituly etc.
+fullname: Karel Ptáček, DiS.	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/karel-ptacek.jpg   # 165 x 220

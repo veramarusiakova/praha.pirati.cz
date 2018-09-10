@@ -1,7 +1,7 @@
 ---
 uid: pavel.nazarsky
 name:     Pavel Nazarský  	# běžně používáné jméno
-fullname: Pavel Nazarský  	# jméno s tituly etc.
+fullname: Mgr. Pavel Nazarský  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mc

@@ -1,6 +1,7 @@
 ---
 uid: adam.palat
 name:     Adam Palát  	# běžně používáné jméno
+fullname: Bc. Adam Palát
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/adam-palat.jpg   # 165 x 220

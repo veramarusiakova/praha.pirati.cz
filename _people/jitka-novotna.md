@@ -1,7 +1,7 @@
 ---
 uid: jitka.novotna
 name:     Jitka Novotná  	# běžně používáné jméno
-fullname: Jitka Novotná	# jméno s tituly etc.
+fullname: Mgr. Jitka Novotná	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jitka-novotna.jpg   # 165 x 220

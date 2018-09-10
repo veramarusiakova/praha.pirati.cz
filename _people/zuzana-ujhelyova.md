@@ -1,7 +1,7 @@
 ---
 uid: zuzana.ujhelyiova
 name:     Zuzana Ujhelyiová  	# běžně používáné jméno
-fullname: Zuzana Ujhelyiová 	# jméno s tituly etc.
+fullname: Mgr. Zuzana Ujhelyiová 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/zuzana-ujhelyiova.jpg   # 165 x 220

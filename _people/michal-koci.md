@@ -1,7 +1,7 @@
 ---
 uid: michal.koci
 name:     Michal Kočí  	# běžně používáné jméno
-fullname: Michal Kočí 	# jméno s tituly etc.
+fullname: Mgr. Michal Kočí 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/michal-koci.jpg   # 165 x 220

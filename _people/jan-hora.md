@@ -1,6 +1,7 @@
 ---
 uid: jan.hora
 name:     Jan Hora  	# běžně používáné jméno
+fullname: Ing. Jan Hora
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jan-hora.jpg   # 165 x 220

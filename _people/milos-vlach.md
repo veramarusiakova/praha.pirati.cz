@@ -1,7 +1,7 @@
 ---
 uid: milos.vlach
 name:     Miloš Vlach  	# běžně používáné jméno
-fullname: Miloš Vlach 	# jméno s tituly etc.
+fullname: Ing. Miloš Vlach 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/milos-vlach.jpg   # 165 x 220
@@ -16,4 +16,4 @@ profiles:
   flickr:		  
 ---
 
-Miloš Vlach se věnuje Pirátům, Audio-vizuální tvorbě, hře Magic the Gathering, kryptoměnám a jiným spekulacím, a pro “ajťáka” z Prahy celkem překvapivě i zemědělství.
+**Miloš Vlach** se věnuje Pirátům, Audio-vizuální tvorbě, hře Magic the Gathering, kryptoměnám a jiným spekulacím, a pro “ajťáka” z Prahy celkem překvapivě i zemědělství.

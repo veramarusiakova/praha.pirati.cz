@@ -1,6 +1,7 @@
 ---
 uid: jan.adamec
 name:     Jan Adamec  	# běžně používáné jméno
+fullname: Mgr. Jan Adamec
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jan-adamec.jpg   # 165 x 220

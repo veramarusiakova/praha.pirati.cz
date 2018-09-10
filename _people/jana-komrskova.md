@@ -1,6 +1,6 @@
 ---
 uid: jana.komrskova
-fullname: 	Jana Komrsková # jméno s tituly etc.
+fullname: Ing. Jana Komrsková # jméno s tituly etc.
 titles:
   before: Ing. 
   after:

@@ -1,7 +1,7 @@
 ---
 uid: martin.duska
 name:     Martin Duška  	# běžně používáné jméno
-fullname: Martin Duška 	# jméno s tituly etc.
+fullname: Mgr. Martin Duška 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/martin-duska.jpg   # 165 x 220
