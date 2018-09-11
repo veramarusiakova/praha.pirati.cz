@@ -9,6 +9,12 @@ img: 		people/alice-hamalova.jpg    # 165 x 220
 description:            	        			# kratký popis, max 160 znaků
 mail:
 - alice.hamalova@pirati.cz
+mob:			  
+profiles:
+  github:                 
+  facebook: 		  https://www.facebook.com/alice.hamalova
+  twitter: 		  
+  flickr:     		  https://www.flickr.com/search/?text=alice%20hamalova
 ---
 
 **Alice Hamalová** (* 2. května 1990) je lídryní Pirátů v komunálních volbách na Praze 8. 

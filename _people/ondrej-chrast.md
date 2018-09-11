@@ -9,6 +9,12 @@ img: 		people/ondrej-chrast.jpg    # 165 x 220
 description:            	        			# kratký popis, max 160 znaků
 mail:
 - ondrej.chrast@pirati.cz
+mob:			  
+profiles:
+  github:                 
+  facebook: 		  https://www.facebook.com/ondrej.chrast
+  twitter: 		  
+  flickr:     		  https://www.flickr.com/search/?text=ondrej%20chrast
 ---
 
 **Ondřej Chrást** (* 7. července 1980) je členem Pirátské strany, lídrem Pirátů v komunálních volbách 2018 na Praze 6. Pochází z Františkových Lázní a již téměř 20 let žije v Praze.
