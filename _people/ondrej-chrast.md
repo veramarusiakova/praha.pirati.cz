@@ -2,6 +2,9 @@
 uid: ondrej.chrast
 name: Ondřej Chrást  	# běžně používáné jméno
 fullname: Mgr. Ondřej Chrást 		Ondřej Chrást # jméno s tituly etc.
+category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- praha
+- mc
 img: 		people/ondrej-chrast.jpg    # 165 x 220
 description:            	        			# kratký popis, max 160 znaků
 mail:
