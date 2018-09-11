@@ -47,7 +47,7 @@ Prosadíme, aby se stavělo více bytů a méně kanceláří. Městské byty ne
 {% for region in regions %}
     {% if region.kontakt_id %}
         {% assign candidates = site.candidatelists | where: "uid", region.uid | first  %}
-        <a href="/mestcke-casti/{{region.uid}}.html">
+        <a href="/mestske-casti/{{region.uid}}.html">
             {{ region.full_name }} 
         </a>
         &ensp;

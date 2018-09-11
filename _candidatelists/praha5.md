@@ -6,6 +6,7 @@ leader:
   uid: daniel.mazur
   age: 40
   profession: fyzik a vědec
+  party: Piráti
   description: "Vzděláním je experimentální fyzik s praxí zejména v základnímu výzkumu elektronických vlastností inovativních materiálů na pražské Matematicko-fyzikální fakultě Univerzity Karlovy i jinde. Během studií se věnoval práci s mládeží v pražských Domech dětí a mládeže. Pracovní zkušenosti pak nabíral ve Spojených státech (Illinois Institute of Technology, Argonne National Laboratory), frankofonním Švýcarsku (Université de Genève) a v severní Itálii (synchrotron Elettra v Terstu).
 "
 
@@ -13,7 +14,6 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: karel.bauer
     age: 57
     profession: podnikatel, účetní předseda SNOP 5
-    party: SNOP 5
   - uid: eva.horakova
     age: 38
     profession: medicínská konzultantka
@@ -21,7 +21,6 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: petr.bervid
     age: 48
     profession: projektový manažer, člen SNOP 5
-    party: SNOP 5
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
