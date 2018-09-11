@@ -1,5 +1,6 @@
 ---
 uid: jana.komrskova
+name: Jana Komrsková
 fullname: Ing. Jana Komrsková # jméno s tituly etc.
 titles:
   before: Ing. 
@@ -10,3 +11,5 @@ mail:
 - jana.komrskova@pirati.cz
 mob: +420 605 205 770
 ---
+
+**Jana Komrsková** kandiduje za Piráty jako lídr na radnici městské části Praha 10. 
