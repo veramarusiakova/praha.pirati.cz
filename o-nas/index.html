@@ -1,93 +1,36 @@
 ---
-layout: default
+layout: blank-article
+article-boxes:
+  - image: /assets/img/o-nas/tym.jpg
+    title: Týmy
+    description: Poznej nás a zjisti, kdo prosazuje pirátské myšlenky v Praze.
+  - image: /assets/img/o-nas/mestske-casti.jpg
+    title: Městské části 
+    description: Zastoupení máme v různých městských částech.
+  - image: /assets/img/pripoj-se/prirucka.jpg
+    title: Příručka Piráta
+    description: Snažíme se, aby již nikdo nemusel znovu vynalézat kolo, proto sdílíme zkušenosti.
 ---
 
-<br>
+{% assign otevrenost = site.pages | where:"url","/otevrenost/" | first %}
+{% for article-box in otevrenost.article-boxes %}
+  {% capture thecycle %}{% cycle 'first', 'second', 'third' %}{% endcapture %}
+  {% if thecycle == 'first' %}
+    <div class="row">
+  {% endif %}
 
-<div class="row">
-  <div class="medium-6 large-4 columns">
-    <a href="{{ '/lide/' }}">
-      <article class="article-card">
-        <img src="{{"/assets/img/o-nas/tym.jpg" }}" alt="Náš tým">
-        <div class="card-content">
-          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" }}" alt="P">
-          <h4 class="post-author">Tým</h4>
-          <p>Poznej nás a zjisti, kdo prosazuje pirátské myšlenky v Praze.</p>
-        </div>
-      </article>
-    </a>
-  </div>
-
-  <div class="medium-6 large-4 columns">
-    <a href="{{ '/mestske-casti/'  }}">
-      <article class="article-card">
-        <img src="{{"/assets/img/o-nas/mestske-casti.jpg" }}" alt="Městské části">
-        <div class="card-content">
-          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" }}" alt="P">
-          <h4 class="post-author">Městské části</h4>
-          <p>Zastoupení máme v různých městských částech.</p>
-        </div>
-      </article>
-    </a>
-  </div>
-
-  <div class="medium-6 large-4 end columns">
-    <a href="{{ '/program/'  }}" >
-      <article class="article-card">
-        <img src="{{"/assets/img/o-nas/program.jpg"}}" alt="Program">
-        <div class="card-content">
-          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" }}" alt="P">
-          <h4 class="post-author">Program</h4>
-          <p>Přečti si víc o našich nápadech jak změnit Prahu v živé a moderní město.</p>
-        </div>
-      </article>
-    </a>
-  </div>
-</div>
-
-<br />
-
-<div class="row">
-  <div class="medium-6 large-4 columns">
-    <a href="{{"/pripoj-se/" }}">
-      <article class="article-card">
-        <img src="{{"/assets/img/pripoj-se/projekty.png"}}" alt='Naše aktivity'>
-        <div class="card-content">
-          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" }}" alt="P">
-          <h4 class="post-author">Aktivity</h4>
-          <p>Magistrát, krajské akce, debatní klub, svobodná hudba, TTIP, Pirátské listy, Videotým... Pomoz konkrétní věci!</p>
-        </div>
-      </article>
-    </a>
-  </div>
-
-  <div class="medium-6 large-4 end columns">
-    <a href="https://redmine.pirati.cz/projects/po/wiki">
-      <article class="article-card">
-        <img src="{{"/assets/img/pripoj-se/prirucka.jpg" }}" alt="Příručka Piráta">
-        <div class="card-content">
-          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" }}" alt="P">
-          <h4 class="post-author">Příručka Piráta</h4>
-          <p>Snažíme se, aby již nikdo nemusel znovu vynalézat kolo, proto sdílíme zkušenosti. </p>
-        </div>
-      </article>
-    </a>
-  </div>
-  <!-- / ROW -->
-
-  <div class="medium-6 large-4 columns">
-    <a href="#podporuji">
-      <article class="article-card">
-        <img src="{{"/assets/img/o-nas/podporuji.jpg" }}" alt="Podporují nás">
-        <div class="card-content">
-          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" }}" alt="P">
-          <h4 class="post-author">Podporují</h4>
-          <p>Komu přijde práce Pirátů v Praze důležitá a proč?</p>
-        </div>
-      </article>
-    </a>
-  </div>
-</div>
+  {% include article-box.html
+  url=article-box.url
+  image=article-box.image
+  title=article-box.title
+  description=article-box.description
+  button=article-box.button
+  %}
+  {% if thecycle == 'third' or forloop.last %}
+    </div>
+  {% endif %}
+{% endfor %}
+{{otevrenost.content}}
 
 <hr />
 

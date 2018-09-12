@@ -6,7 +6,8 @@ leader:
   uid: ondrej.mirovsky
   age: 39
   profession: místostarosta Prahy 7
-  description: "
+  party: Zelení
+  description: "Absolvoval Přírodovědeckou fakultu Univerzity Karlovy v Praze, obor ochrana a tvorba životního prostředí. Dále vystudoval postgraduální kurz environmentálního managementu v Amsterdamu a pracoval pro několik mezinárodních environmentálních organizací v Evropě (Friends of the Earth Europe, UNEP). Specializoval se na problematiku vlivu fondů Evropské unie na životní prostředí. Zastával také pozici národního kontaktu pro rámcové programy pro vědu a výzkum EU v oblasti kosmonautiky v Technologickém centru Akademie věd ČR.
 "
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md

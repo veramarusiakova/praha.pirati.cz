@@ -267,6 +267,7 @@ tail: # zbytek kandidatky
     profession: stavař
     party: Piráti
   - name: Lukáš Findeis
+    uid: lukas.findeis
     age: 32
     profession: běžecký trenér
     party: Piráti
