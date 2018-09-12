@@ -39,45 +39,45 @@ tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
   - name: Tomáš Murňák
+    uid: tomas.murnak
     age: 38
     profession: softwarový operátor, zastupitel MČ Praha 13
     party: Piráti
-    url: /lide/tomas-murnak/
   - name: Mgr. Tibor Vansa
+    uid: tibor.vansa
     age: 33
     profession: analytik finančních rizik
     party: Piráti
-    url: /lide/tibor-vansa/
   - name: Ing. Pavel Hájek
+    uid: pavel.hajek
     age: 33
     profession: učitel na základní škole a předseda SVJ ve Vršovicích
     party: Piráti
-    url: /lide/pavel-hajek/
   - name: Mgr. Ing. Jaromír Beránek
+    uid: jaromir.beranek
     age: 32
     profession: finanční manažer
     party: Piráti
-    url: /lide/jaromir-beranek/
   - name: Jiří Dohnal
+    uid: jiri.dohnal
     age: 41
     profession: projektový manažer
     party: Piráti
-    url: /lide/jiri-dohnal/
   - name: Ondřej Kallasch
+    uid: ondrej.kallasch
     age: 27
     profession: aplikační specialista
     party: Piráti
-    url: /lide/ondrej-kallasch/
   - name: Ing. Ladislav Kos
+    uid: ladislav.kos2
     age: 32
     profession: konzultant online marketingu
     party: Piráti
-    url: /lide/ladislav-kos2/
   - name: Martin Arden
+    uid: martin.arden
     age: 51
     profession: pastorační pracovník
     party: Piráti
-    url: /lide/martin-arden/
   - name: Bc. Aneta Heidlová
     age: 30
     profession: software tester
@@ -314,19 +314,18 @@ tail: # zbytek kandidatky
     party: Piráti
     url: /lide/lukas-funk/
   - name: Ing. Miloš Vlach
+    uid: milos.vlach
     age: 34
     profession: podnikatel a vývojář uživatelské přívětivosti
     party: Piráti
-    url: /lide/milos-vlach/
   - name: Mgr. Miroslav Kodada
+    uid: miroslav.kodada
     age: 36
     profession: stavař
     party: Piráti
-    url: /lide/miroslav-kodada/
   - name: Lukáš Findeis
     uid: lukas.findeis
     age: 32
     profession: běžecký trenér
     party: Piráti
-    url: /lide/lukas-findeis/
 ---
