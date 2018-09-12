@@ -5,7 +5,7 @@ tags:         praha kampaň
 layout:       post
 title:        "Reklamní plochy pro politickou kampaň jsou rozdělovány nespravedlivě."
 image:        sololit.jpg
-author:       Adam Zábranský
+author:       Zdeněk Hřib
 ---
 
 Praha, 11. září 2018 – Městská firma nastavila taková pravidla pro přidělování reklamních ploch na sloupech veřejného osvětlení, že bohaté strany mohou zaplevelit celou Prahu a strany, které si požádaly o přiměřený počet reklamních ploch, jsou za to v podstatě trestány. Podle Pirátů jsou pravidla v rozporu s požadavkem na spravedlivé podmínky pro všechny.
