@@ -99,7 +99,6 @@ tail: # zbytek kandidatky
     profession: informatička
     party: Piráti
   - name: Ing. Jiří Hoskovec
-    uid: jiri.hoskovec
     age: 26
     profession: forenzní specialista na finanční zločin
     party: Piráti
@@ -109,12 +108,10 @@ tail: # zbytek kandidatky
     profession: manažer
     party: Piráti
   - name: Mgr. David Bodeček
-    uid: david.bodecek
     age: 38
     profession: pedagog a procesní analytik
     party: Piráti
   - name: Ing. Kornélia Gottmannová
-    uid: kornelia.gottmanova
     age: 46
     profession: právnička
     party: Piráti
@@ -294,7 +291,7 @@ tail: # zbytek kandidatky
     party: bez politické příslušnosti
     url: /lide/petr-kovar/
   - name: Mgr. Zuzana Ujhelyiová
-    uid: zuzana.ujhelyova
+    uid: zuzana.ujhelyiova
     age: 35
     profession: na rodičovské dovolené
     party: Piráti
