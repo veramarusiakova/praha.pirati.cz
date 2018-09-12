@@ -79,55 +79,55 @@ tail: # zbytek kandidatky
     profession: pastorační pracovník
     party: Piráti
   - name: Bc. Aneta Heidlová
+    uid: aneta.heidlova
     age: 30
     profession: software tester
     party: Piráti
-    url: /lide/aneta-heidlova/
   - name: Ing. Jana Komrsková
+    uid: jana.komrskova
     age: 40
     profession: ministerský rada
     party: Piráti
-    url: /lide/jana-komrskova/
   - name: Jan Hora
+    uid: jan.hora
     age: 34
     profession: programátor a analytik
     party: Piráti
-    url: /lide/jan-hora/
   - name: Mgr. Jitka Novotná
+    uid: jitka.novotna
     age: 28
     profession: informatička
     party: Piráti
-    url: /lide/jitka-novotna/
   - name: Ing. Jiří Hoskovec
+    uid: jiri.hoskovec
     age: 26
     profession: forenzní specialista na finanční zločin
     party: Piráti
-    url: /lide/jiri-hoskovec/
   - name: Štěpán Štrébl
+    uid: stepan.strebl
     age: 27
     profession: manažer
     party: Piráti
-    url: /lide/stepan-strebl/
   - name: Mgr. David Bodeček
+    uid: david.bodecek
     age: 38
     profession: pedagog a procesní analytik
     party: Piráti
-    url: /lide/david-bodecek/
   - name: Ing. Kornélia Gottmannová
+    uid: kornelia.gottmanova
     age: 46
     profession: právnička
     party: Piráti
-    url: /lide/kornelia-gottmanova/
   - name: Marek Paris, M.A.
+    uid: marek.paris
     age: 26
     profession: analytik ve zdravotnictví
     party: Piráti
-    url: /lide/marek-paris/
   - name: Bc. Martin Duška
+    uid: martin.duska
     age: 26
     profession: politolog
     party: Piráti
-    url: /lide/martin-duska/
   - name: Michal Novák, M.B.A.
     age: 46
     profession: obchodní poradce
@@ -144,10 +144,10 @@ tail: # zbytek kandidatky
     party: Piráti
     url: /lide/jiri-koudelka/
   - name: Mgr. Petr Daubner
+    uid: petr.daubner
     age: 45
     profession: učitel
     party: Piráti
-    url: /lide/petr-daubner/
   - name: Jaroslava Vatay
     age: 38
     profession: produkční a invalidní důchodce
@@ -174,10 +174,10 @@ tail: # zbytek kandidatky
     party: Piráti
     url: /lide/ladislav-koubek/
   - name: Ingr. Ivan Mikoláš
+    uid: ivan.mikolas
     age: 53
     profession: technik
     party: Piráti
-    url: /lide/ivan-mikolas/
   - name: Bc. Karel Nejedlík
     age: 32
     profession: IT specialista
@@ -244,15 +244,15 @@ tail: # zbytek kandidatky
     party: bez politické příslušnosti
     url: /lide/jiri-gebert/
   - name: Bc. Michal Prager, M.B.A.
+    uid: michal.prager
     age: 37
     profession: ředitel neziskové organizace
     party: Piráti
-    url: /lide/michal-prager/
   - name: Mgr. Ondřej Chrást
+    uid: ondrej.chrast
     age: 38
     profession: projektový manažer
     party: Piráti
-    url: /lide/ondrej-chrast/
   - name: Jiří Brůžek
     age: 41
     profession: konzultant a podnikatel
@@ -294,20 +294,20 @@ tail: # zbytek kandidatky
     party: bez politické příslušnosti
     url: /lide/petr-kovar/
   - name: Mgr. Zuzana Ujhelyiová
+    uid: zuzana.ujhelyova
     age: 35
     profession: na rodičovské dovolené
     party: Piráti
-    url: /lide/zuzana-ujhelyova/
   - name: Bc. Filip Smoljak
     age: 52
     profession: ředitel sociální služby
     party: Piráti
     url: /lide/filip-smoljak/
   - name: Václav Vislous
+    uid: vaclav.vislous
     age: 30
     profession: manažer
     party: bez politické příslušnosti
-    url: /lide/vaclav-vislous/
   - name: Mgr. Lukáš Funk, Ph.D.
     age: 36
     profession: archeolog
@@ -319,7 +319,6 @@ tail: # zbytek kandidatky
     profession: podnikatel a vývojář uživatelské přívětivosti
     party: Piráti
   - name: Mgr. Miroslav Kodada
-    uid: miroslav.kodada
     age: 36
     profession: stavař
     party: Piráti
