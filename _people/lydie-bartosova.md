@@ -1,7 +1,6 @@
 ---
 uid: lydie.bartosova
 name: Lydie Franka Bartošová  	# běžně používáné jméno
-fullname: 			Lydie Franka Bartošová # jméno s tituly etc.
 img: 		people/lydie-bartosova.jpg    # 165 x 220
 description:            	        			# kratký popis, max 160 znaků
 mail:

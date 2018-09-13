@@ -1,7 +1,9 @@
 ---
 uid: martin.arden
 name:     Martin Arden  	# běžně používáné jméno
-fullname: Martin Arden	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/martin-arden.jpg   # 165 x 220

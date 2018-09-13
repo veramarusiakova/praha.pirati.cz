@@ -1,7 +1,9 @@
 ---
 uid: michal.jokes
-name:     Michal Jokeš  	# běžně používáné jméno
-fullname: Michal Jokeš 	# jméno s tituly etc.
+name:    Michal Jokeš
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/michal-jokes.jpg   # 165 x 220

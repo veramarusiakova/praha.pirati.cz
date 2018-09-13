@@ -1,7 +1,9 @@
 ---
 uid: petr.hukal
-name:     Petr Hukal  	# běžně používáné jméno
-fullname: Ing. Petr Hukal, DiS. 	# jméno s tituly etc.
+name:    Petr Hukal
+titles:
+  before: Ing. 
+  after: DiS.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/petr-hukal.jpg   # 165 x 220

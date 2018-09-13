@@ -1,7 +1,9 @@
 ---
 uid: sarka.hanzlikova
 name:     Šárka Hanzlíková  	# běžně používáné jméno
-fullname: Šárka Hanzlíková	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/sarka-hanzlikova.jpg   # 165 x 220

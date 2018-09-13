@@ -1,7 +1,9 @@
 ---
 uid: jaroslav.verner
-name:     Jaroslav Verner  	# běžně používáné jméno
-fullname: Jaroslav Verner 	# jméno s tituly etc.
+name:    Jaroslav Verner
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jaroslav-verner.jpg   # 165 x 220

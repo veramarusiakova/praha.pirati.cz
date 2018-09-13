@@ -1,7 +1,9 @@
 ---
 uid: petr.daubner
 name:     Petr Daubner  	# běžně používáné jméno
-fullname: Mgr. Petr Daubner 	# jméno s tituly etc.
+titles:
+  before: Mgr. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/petr-daubner.jpg   # 165 x 220

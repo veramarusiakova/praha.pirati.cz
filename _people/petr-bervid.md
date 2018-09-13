@@ -1,7 +1,9 @@
 ---
 uid: petr.bervid
 name:     Petr Bervid  	# běžně používáné jméno
-fullname: Ing. Petr Bervid, MBA	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/petr-bervid.jpg   # 165 x 220

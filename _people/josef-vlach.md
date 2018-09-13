@@ -1,7 +1,6 @@
 ---
 uid: josef.vlach
 name:     Josef Vlach  	# běžně používáné jméno
-fullname: Josef Vlach 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/josef-vlach.jpg   # 165 x 220

@@ -1,7 +1,9 @@
 ---
 uid: michaela.krausova
 name:     Michaela Krausová  	# běžně používáné jméno
-fullname: Michaela Krausová 	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/michaela-krausova.jpg   # 165 x 220

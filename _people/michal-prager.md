@@ -1,7 +1,9 @@
 ---
 uid: michal.prager
-name: Michal Prager	# běžně používáné jméno
-fullname: Bc. Michal Prager, MBA # jméno s tituly etc.
+name:     Michal Prager  	# běžně používáné jméno
+titles:
+  before: Bc. 
+  after:  MBA
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mc

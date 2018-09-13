@@ -1,7 +1,9 @@
 ---
 uid: vit.simral
 name:     Vít Šimral  	# běžně používáné jméno
-fullname: Vít Šimral  	# jméno s tituly etc.
+titles:
+  before: PhDr. Mgr.
+  after: LL.B (Hons)
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - ga

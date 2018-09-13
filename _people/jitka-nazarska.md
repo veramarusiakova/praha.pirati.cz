@@ -1,7 +1,6 @@
 ---
 uid: jitka.nazarska
 name:     Jitka Nazarská  	# běžně používáné jméno
-fullname: Jitka Nazarská	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jitka-nazarska.jpg   # 165 x 220

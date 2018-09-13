@@ -1,7 +1,9 @@
 ---
 uid: olga.sklenarova
 name:     Olga Sklenářová  	# běžně používáné jméno
-fullname: PhDr. Olga Sklenářová	# jméno s tituly etc.
+titles:
+  before: PhDr. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/olga-sklenarova.jpg   # 165 x 220

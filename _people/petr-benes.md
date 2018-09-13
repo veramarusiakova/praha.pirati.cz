@@ -1,7 +1,9 @@
 ---
 uid: petr.benes
 name:     Petr Beneš  	# běžně používáné jméno
-fullname: Ing. Petr Beneš	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/unknown-pirate.svg  # people/petr-benes.jpg   # 165 x 220

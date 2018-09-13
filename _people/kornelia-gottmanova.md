@@ -1,7 +1,9 @@
 ---
 uid: kornelia.gottmannova
 name:     Kornélia Gottmanová  	# běžně používáné jméno
-fullname: Ing. Kornélia Gottmanová 	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/kornelia-gottmannova.jpg   # 165 x 220

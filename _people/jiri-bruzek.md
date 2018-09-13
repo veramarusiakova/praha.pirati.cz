@@ -1,7 +1,9 @@
 ---
 uid: jiri.bruzek
-name:     Jiří Brůžek  	# běžně používáné jméno
-fullname: Jiří Brůžek 	# jméno s tituly etc.
+name:    Jiří Brůžek
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jiri-bruzek.jpg   # 165 x 220

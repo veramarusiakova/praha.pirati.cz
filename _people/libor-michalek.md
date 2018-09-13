@@ -1,7 +1,9 @@
 ---
 uid: libor.michalek
-name:     Libor Michálek  	# běžně používáné jméno
-fullname: Mgr. Libor Michálek, MPA  	# jméno s tituly etc.
+name:    Libor Michálek
+titles:
+  before: Mgr. 
+  after: MPA
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - senat
 img: people/libor-michalek.jpg # 165 x 220

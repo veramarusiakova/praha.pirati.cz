@@ -1,7 +1,9 @@
 ---
 uid: vaclav.vislous
 name:     Václav Vislous  	# běžně používáné jméno
-fullname: Václav Vislous, MSc. 	# jméno s tituly etc.
+titles:
+  before: 
+  after: MSc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/vaclav-vislous.jpg   # 165 x 220

@@ -1,7 +1,9 @@
 ---
 uid: milos.vlach
-name:     Miloš Vlach  	# běžně používáné jméno
-fullname: Ing. Miloš Vlach 	# jméno s tituly etc.
+name:    Miloš Vlach
+titles:
+  before: Ing. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/milos-vlach.jpg   # 165 x 220

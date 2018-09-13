@@ -1,7 +1,9 @@
 ---
 uid: roman.kucera
 name:     Roman Kučera  	# běžně používáné jméno
-fullname: Mgr. Roman Kučera 	# jméno s tituly etc.
+titles:
+  before: Ing. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/roman-kucera.jpg   # 165 x 220

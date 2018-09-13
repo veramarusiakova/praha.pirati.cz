@@ -1,6 +1,9 @@
 ---
 uid: david.bodecek
-name:     Mgr. David Bodeček  	# běžně používáné jméno
+name:     David Bodeček  	# běžně používáné jméno
+titles:
+  before: Mgr. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/david-bodecek.jpg   # 165 x 220

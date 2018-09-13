@@ -1,7 +1,9 @@
 ---
 uid: lukas.findeis
 name:     Lukáš Findeis  	# běžně používáné jméno
-fullname: Lukáš Findeis  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mc

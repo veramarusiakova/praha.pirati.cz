@@ -1,7 +1,9 @@
 ---
 uid: michal.novak
-name: Michal Novák
-fullname: Michal Novák
+name:     Michal Novák  	# běžně používáné jméno
+titles:
+  before: 
+  after:
 category: 
     - pms
 img: people/michal-novak.jpg  

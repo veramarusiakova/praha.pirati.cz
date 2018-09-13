@@ -1,7 +1,6 @@
 ---
 uid: robert.veverka
 name:     Robert Veverka  	# běžně používáné jméno
-fullname: Robert Veverka	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/robert-veverka.jpg   # 165 x 220

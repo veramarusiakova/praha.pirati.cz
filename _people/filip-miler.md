@@ -1,6 +1,9 @@
 ---
 uid: filip.miler
-name:     Filip Miler  	# běžně používáné jméno
+name:     Filip Miller  	# běžně používáné jméno
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mc

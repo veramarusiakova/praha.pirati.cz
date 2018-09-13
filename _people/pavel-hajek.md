@@ -1,7 +1,9 @@
 ---
 uid: pavel.hajek
-name:     Pavel Hájek  	# běžně používáné jméno
-fullname: Ing. Pavel Hájek	# jméno s tituly etc.
+name:    Pavel Hájek
+titles:
+  before: Ing. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/pavel-hajek.jpg   # 165 x 220

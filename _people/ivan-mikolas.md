@@ -1,6 +1,9 @@
 ---
 uid: ivan.mikolas
 name:     Ivan Mikoláš  	# běžně používáné jméno
+titles:
+  before: Ingr. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp

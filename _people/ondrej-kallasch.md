@@ -1,7 +1,9 @@
 ---
 uid: ondrej.kallasch
-name:                           Ondřej Kallasch  	# běžně používáné jméno
-fullname: 			Ondřej Kallasch  # jméno s tituly etc.
+name:     Ondřej Kallasch  	# běžně používáné jméno
+titles:
+  before:
+  after:
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp

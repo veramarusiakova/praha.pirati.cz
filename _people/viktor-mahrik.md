@@ -1,7 +1,9 @@
 ---
 uid: viktor.mahrik
-name:                           Viktor Mahrik  	# běžně používáné jméno
-fullname: 			Viktor Mahrik  # jméno s tituly etc.
+name:     Viktor Mahrik  	# běžně používáné jméno
+titles:
+  before: 
+  after:
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp

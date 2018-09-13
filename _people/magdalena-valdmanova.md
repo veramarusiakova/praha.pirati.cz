@@ -1,7 +1,9 @@
 ---
 uid: magdalena.valdmanova
-name: Magdalena Valdmanová  	# běžně používáné jméno
-fullname: 			Magdalena Valdmanová # jméno s tituly etc.
+name:     Magdalena Valdmanová  	# běžně používáné jméno
+titles:
+  before:
+  after:
 img: 		people/magdalena-valdmanova.jpg    # 165 x 220
 description:            	        			# kratký popis, max 160 znaků
 mail:

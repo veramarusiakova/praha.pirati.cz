@@ -1,7 +1,9 @@
 ---
 uid: mikulas.ferjencik
 name:     Mikuláš Ferjenčík  	# běžně používáné jméno
-fullname: Mikuláš Ferjenčík  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/mikulas-ferjencik.jpg   # 165 x 220

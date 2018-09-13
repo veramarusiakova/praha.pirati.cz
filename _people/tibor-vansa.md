@@ -1,7 +1,9 @@
 ---
 uid: tibor.vansa
-name: Tibor Vansa  	# běžně používáné jméno
-fullname: Mgr. Tibor Vansa		Tibor Vansa # jméno s tituly etc.
+name:     Tibor Vansa  	# běžně používáné jméno
+titles:
+  before: Mgr. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mc

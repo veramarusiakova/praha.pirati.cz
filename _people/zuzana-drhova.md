@@ -1,7 +1,9 @@
 ---
 uid: zuzana.drhova
-name:     Zuzana Drhová  	# běžně používáné jméno
-fullname: Ing. Zuzana Drhová, PhD.	# jméno s tituly etc.
+name:    Zuzana Drhová
+titles:
+  before: Ing. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/zuzana-drhova.jpg   # 165 x 220
