@@ -49,9 +49,21 @@ tail: # zbytek kandidatky
      age: 45 let
      profession: analytička reportů
      party: bez politické příslušnosti
+   - name: Ing. Veronika Šmejkalová
+     age: 48 let,
+     profession: manažerka správy majetků
+     party: bez politické příslušnosti
+   - name: Milan Kincl
+     age: 46 let
+     profession: zámečník
+     party: bez politické příslušnosti
    - name: Ing. Hana Hačecká
      age: 59 let
      profession: projektantka
+     party: bez politické příslušnosti
+   - name: Ing. Renata Reilová
+     age: 34 let
+     profession: ekonomka
      party: bez politické příslušnosti
    - name: MUDr. Gabriela Hauserová
      age: 47 let,
@@ -77,14 +89,6 @@ tail: # zbytek kandidatky
      age: 29 let
      profession: programátor
      party: bez politické příslušnosti
-   - name: Ing. Veronika Šmejkalová
-     age: 48 let,
-     profession: manažerka správy majetků
-     party: bez politické příslušnosti
-   - name: Ing. Renata Reilová
-     age: 34 let
-     profession: ekonomka
-     party: bez politické příslušnosti
    - name: Alexej Sevruk
      age: 35 let
      profession: redaktor
@@ -100,10 +104,6 @@ tail: # zbytek kandidatky
    - name: Šárka Jiříková
      age: 49 let
      profession: účetní
-     party: bez politické příslušnosti
-   - name: Milan Kincl
-     age: 46 let
-     profession: zámečník
      party: bez politické příslušnosti
    - name: Margita Kinclová
      age: 45 let
