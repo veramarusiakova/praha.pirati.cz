@@ -10,12 +10,12 @@ leader:
 "
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: aneta.heidlova
-    age: 30
-    profession: IT tester
   - uid: petr.daubner
     age: 45
     profession: učitel na gymnáziu
+  - uid: aneta.heidlova
+    age: 30
+    profession: IT tester
   - uid: vaclav.vislous
     age: 30
     profession: manažer
