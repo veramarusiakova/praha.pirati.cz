@@ -4,9 +4,9 @@ uid: praha-9
 # number: 8 odkomentujte prosím až bude zveřejněno
 leader: 
   uid: kornelia.gottmannova
-  age: 26
+  age: 46
   profession: inženýrka chemie a lektorka
-  description: "Během své desetileté manažerské praxe pracovala na různých úrovních řízení: od vedoucího malého týmu po úroveň B-1. Má zkušenosti z managementu provozních i obchodních týmů v různých oborech průmyslu a obchodu (olejářský průmysl, logistika, odpadové hospodářství). Od roku 2006 pracuje v oblasti rozvoje lidí jako lektor, kouč a konzultant. Žije se svým partnerem a dvěma dcerami ve Vysočanech, Praha 9..
+  description: "Během své desetileté manažerské praxe pracovala na různých úrovních řízení: od vedoucího malého týmu po úroveň B-1. Má zkušenosti z managementu provozních i obchodních týmů v různých oborech průmyslu a obchodu (olejářský průmysl, logistika, odpadové hospodářství). Od roku 2006 pracuje v oblasti rozvoje lidí jako lektor, kouč a konzultant. Žije se svým partnerem a dvěma dcerami ve Vysočanech, Praha 9.
 "
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
@@ -14,7 +14,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 30
     profession: IT tester
   - uid: petr.daubner
-    age: 34
+    age: 45
     profession: učitel na gymnáziu
   - uid: vaclav.vislous
     age: 30
