@@ -22,9 +22,28 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
+   - name: Ing. Petr Karel
+     age: 54 let
+     profession: technický konzultant
+     party: Piráti
+   - name: Bc. Kamila Viktorinová
+     age: 40 let
+     profession: učitelka a zástupkyně v MŠ
+   - name: Bc. Jan Zhouf
+     age: 22 let
+     profession: student
+     party: bez politické příslušnosti
    - name: Ing. Ondřej Kališ
      age: 29 let
      profession: dopravní inženýr
+     party: bez politické příslušnosti
+   - name: Petr Pomykal
+     age: 55 let
+     profession: správce nemovitostí
+     party: bez politické příslušnosti
+   - name: Mgr. Ilona Chromová
+     age: 43 let
+     profession: pracovnice MP Praha
      party: bez politické příslušnosti
    - name: Ing. Hana Erbanová
      age: 45 let
@@ -58,14 +77,6 @@ tail: # zbytek kandidatky
      age: 29 let
      profession: programátor
      party: bez politické příslušnosti
-   - name: Petr Pomykal
-     age: 55 let
-     profession: správce nemovitostí
-     party: bez politické příslušnosti
-   - name: Bc. Jan Zhouf
-     age: 22 let
-     profession: student
-     party: bez politické příslušnosti
    - name: Ing. Veronika Šmejkalová
      age: 48 let,
      profession: manažerka správy majetků
@@ -89,18 +100,6 @@ tail: # zbytek kandidatky
    - name: Šárka Jiříková
      age: 49 let
      profession: účetní
-     party: bez politické příslušnosti
-   - name: Ing. Petr Karel
-     age: 54 let
-     profession: technický konzultant
-     party: Piráti
-   - name: Bc. Kamila Viktorinová
-     age: 40 let
-     profession: učitelka a zástupkyně v MŠ
-     party: bez politické příslušnosti
-   - name: Mgr. Ilona Chromová
-     age: 43 let
-     profession: pracovnice MP Praha
      party: bez politické příslušnosti
    - name: Milan Kincl
      age: 46 let
