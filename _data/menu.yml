@@ -38,15 +38,15 @@ bottom:
     links:
       - link: /kontakt/
         name: Dej nám vědět
+      - link: /download/
+        name: Ke stažení
   - class: small-12 medium-3
     title: Makáme
     links:
-      - link: /lide/
-        name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
       - link: /aktuality/
         name: Aktuality
+      - link: /pripoj-se/kalendar/
+        name: Kalendář
   - class: small-12 medium-3
     title: Otevřenost
     links:

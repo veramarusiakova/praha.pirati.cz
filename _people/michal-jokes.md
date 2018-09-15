@@ -7,6 +7,8 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - kodo
+- kontaktni_osoba
+contactType: Dobrovolníci
 img: people/michal-jokes.jpg   # 165 x 220
 description:  Koordinátor dobrovolníků    	# kratký popis, max 160 znaků
 mail:

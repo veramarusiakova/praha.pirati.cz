@@ -6,6 +6,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mhmp
 - carousel
 - pks
+- kontaktni_osoba
+contactType: Média
 img: people/adam-zabransky.jpg   # 165 x 220
 description: Předseda zastupitelského klubu Pirátů v zastupitelstvu hl. m. Prahy, 1. místopředseda krajského sdružení Pirátů v Praze             	# kratký popis, max 160 znaků
 mail:
