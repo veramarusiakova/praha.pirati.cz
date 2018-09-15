@@ -1,5 +1,5 @@
 ---
-layout: blank-article
+layout: page
 article-boxes:
   - image: /assets/img/o-nas/tym.jpg
     title: Týmy
@@ -10,9 +10,27 @@ article-boxes:
   - image: /assets/img/pripoj-se/prirucka.jpg
     title: Příručka Piráta
     description: Snažíme se, aby již nikdo nemusel znovu vynalézat kolo, proto sdílíme zkušenosti.
+  - image: /assets/img/otevrenost/transparentni-ucet.jpg
+    title: Transparentní účet
+    description: Každý se může podívat na naše účty a&nbsp;porovnat je s naším účetnictvím.
+  - image: /assets/img/otevrenost/blanik.jpg
+    title: Evidence lobbistů
+    description: Zapisujeme a krátce reportujeme každou schůzku s lobbisty.
+  - image: /assets/img/otevrenost/registr-smluv.jpg
+    title: Registr smluv
+    description: Každá smlouva včetně dodatků je v našem veřejném registru.
+  - image: /assets/img/otevrenost/technicke-systemy.png
+    title: Technické systémy
+    description: Snažíme se, aby již nikdo nemusel znovu vynalézat kolo, proto sdílíme zkušenosti. 
+  - image: /assets/img/pripoj-se/staze-2b.jpg
+    title: Udělali jsme pro vás
+    description: Každou vykázanou minutu najdeš v našich výkazech práce.
+  - image: /assets/img/otevrenost/otevrena-setkani.jpg
+    title: Otevřená setkání
+    url: /pripoj-se/kalendar
+    description: Neztrácíme kontakt s realitou. O důležitých rozhodnutích se vždy radíme veřejně.
 ---
 
-{% include article-boxes.html article-boxes=page.article-boxes %}
 {% assign otevrenost = site.pages | where:"url","/otevrenost/" | first %}
 {{otevrenost.content}}
 
