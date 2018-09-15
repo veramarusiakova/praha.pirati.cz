@@ -1,5 +1,21 @@
 ---
 layout: default
+viewMode: grouped # or alltogether
+groups:
+  - name: Zastupitelé z magistrátu
+    category: mhmp
+    sort: ordpraha
+  - name: Krajské předsednictvo
+    category: pks
+    sort: ordpks
+  - name: Zastupitelé z městských části
+    category: mc 
+  - name: Pirátští poslanci
+    category: pos 
+    sort: ordpos
+  - name: Senátoři s podporou Pirátů
+    category: senat
+    sort: ordsenat
 ---
 {% include submenu.html %}
 <div class="row o-section-block o-section-block--divided">
