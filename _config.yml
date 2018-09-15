@@ -31,7 +31,7 @@ calendar:
 
 facebook:
   loadSDK: true
-  profilePage: "https://www.facebook.com/piratipraha8/"
+  profilePage: "https://www.facebook.com/CeskaPiratskaStranaPraha/"
   appId: 1526197851008996
 markdown: kramdown
 
@@ -52,7 +52,7 @@ forum:
   page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/praha8.pirati.cz/
+  url: https://github.com/pirati-web/praha.pirati.cz/
   branch: master
 
 plugins:
