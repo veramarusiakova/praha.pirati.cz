@@ -1,4 +1,3 @@
-{% if page.kodo %}
 <div class="o-section-block--spaceBot">
   <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
     <li class="c-widget-accordion-item is-active" data-accordion-item="">
@@ -10,14 +9,13 @@
       </a>
 
       <div class="c-widget-accordion-content" data-tab-content="" id="toc">
-      {% for person in page.kodo %}
-        {% assign garant = site.people | where:"uid", person | first %}
-        {% include people/profile-badge.html item=garant style='card' viewMode='single' showDescription=false %}
+      {% assign kodos = site.people | where_exp: "item","item.categories contains 'kodo'" | sort:"ordkodo" %}
+      {% for person in kodos %}
+        {% include people/profile-badge.html item=person style='card' viewMode='single' showDescription=false %}
       {% endfor %}
       </div>
 
     </li>
   </ul>
 </div>
-{% endif %}
 
