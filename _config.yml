@@ -59,6 +59,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
