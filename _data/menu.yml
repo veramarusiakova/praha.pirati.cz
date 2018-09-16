@@ -13,12 +13,21 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  - link: /lide/
+  - link: /program/
+    name: Program
+    match: program
+  - link: /kandidatka/
+    name: Kandidátka
+    match: kandaditka
+  - link: /pripoj-se/ 
+    name: Připoj se
+    match: pripoj-se
+  - link: /mestske-casti/
+    name: Městckské části
+    match: mestske-casti
+  - link: /o-nas/
     name: O nás
-    match: lide
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
+    match: o-nas
   - link: /kontakt/
     name: Kontakt
     match: kontakt
