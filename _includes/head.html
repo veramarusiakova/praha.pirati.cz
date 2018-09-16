@@ -36,8 +36,6 @@
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="{{ title }}" />
     <meta property="og:description"   content="{{ description }}" />
-    
-    
     {% if page.layout == 'post' %}
     {% capture img_path %}{% asset '{{ page.image }}' @path %}{% endcapture %}
     <meta property="og:image"         content="{{ img_path | absolute_url }}" />
@@ -47,12 +45,17 @@
     {% else %}
     <meta property="og:image"         content="{{ 'assets/img/brand/logo-round.png' | absolute_url }}" />
     {% endif %}
-    
-    {% feed_meta %}
     <!-- Fonts -->
     {% if page.layout != 'blank' %}
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin-ext" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300i,400,500,700&subset=latin-ext" rel="stylesheet">
-    <link href="{{'assets/css/main.css' | relative_url }}" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+     <link href="{{'assets/css/main.css' | relative_url }}" rel="stylesheet">
     {% endif %}
+    {% if page.mapycz_api %}
+    <script type="text/javascript" src="https://api.mapy.cz/loader.js"></script>
+    <script type="text/javascript">Loader.load({% if page.mapycz_api=='mini-api' %}null, {api:"simple"}{% endif %})</script>
+    <style>.smap img { max-width: none !important; transform: none;}</style>
+	  {% endif %}
+
+    {% comment %}You can add your own content in _includes/head-custom.html and it will get appended to the page head{% endcomment %}
+    {% include head-custom.html %}
 </head>
