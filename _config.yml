@@ -9,7 +9,7 @@ administrator:
 
 
 organization:
-  name: Pirátká strana Praha
+  name: Pirátská strana Praha
   shortName: Piráti Praha
   contactUid: michal.jokes
   email: kodo-praha@pirati.cz
@@ -42,14 +42,11 @@ twitter:
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
 
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
-
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/
+  page: https://forum.pirati.cz/viewforum.php?f=78&sid=44b065968620303e7f4058202f146b94  i
 
 github:
   url: https://github.com/pirati-web/praha.pirati.cz/
