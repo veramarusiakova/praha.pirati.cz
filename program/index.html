@@ -20,11 +20,15 @@ priorities:
 <h1>Prosazujeme</h1>
 {% include program/priorities.html priorities=page.priorities %}
 
-<hr>
-
 <h1>Podrobný program</h1>
 {% assign program = site.program | where: "campaignCategoryUid","praha2018" %}
 {% include program/list.html program=program %}
+
+<hr>
+
+Při povolebních vyjednáváních se budeme řídit 
+<a href=assets/pdf/povolebni-strategie-zhmp.pdf>povolební strategií</a>, 
+kterou schválilo krajské fórum Pirátů.
 
 <hr>
                   <div itemprop="description" class="c-content-block c-emphasized-text">

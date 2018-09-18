@@ -1,6 +1,6 @@
 ---
 uid: vaclav.laska
-name:     Václav Lácka  	# běžně používáné jméno
+name:     Václav Láska  	# běžně používáné jméno
 titles:
   before: Mgr. 
   after:
