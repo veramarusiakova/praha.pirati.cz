@@ -13,7 +13,7 @@ perex: >
 
 ### Improve accessibility and quality of public transport
 * **Support the development of new tram lines in all Prague city areas**. 
-Our priority is the construction of new tram tracks in the city centre. We will bring trams back on
+Our priority is the construction of new tram tracks in the city centre. We will bring the trams back on
 Wenceslas Square. We will also complete the tram circuit outlining the city centre. New tram routes do 
 not reduce parking space.
 * **New city train tracks**. Namely direct transport links connecting Prague to the 
@@ -38,8 +38,8 @@ the monthly and yearly pass is ridiculous. Disadvantaged citizens aren't always 
 The biggest issue in many areas is the shortage of resident parking spaces, and as such it requires attention.
 * **More P+R parking spots for short-term and long-term use**. These parking places (both
 in Prague and in Central Bohemia) must be interlinked smoothly with the public transport network.
-* **Easy parking. Simpler zones.** The data on current usage of parking spaces will
-be made public. This will allow everyone to make apps for drivers looking for a free
+* **Easy parking. Simpler zones.** Current parking usage data will
+be available online. This will allow everyone to make apps for drivers looking for a free
 parking spot. 
 * **Your guests and the plumber can park outside your house**. Every resident will get a number
 of free parking hours that can be used for their guests. No more expensive parking
