@@ -42,22 +42,14 @@ tail: # zbytek kandidatky
     age: 19 
     profession: Student
     party: Bez politické příslušnosti
-  - name: Mgr. Nikol Marhounová
-    age: 28 
-    profession: Sociální prac.
-    party: Piráti.
   - name: Martin Sumerauer
-    age: 52 
-    profession: Skladník
+    age: 49 
+    profession: skladník
     party: Piráti
   - name: Ing. Iveta Pospíšilová
     age: 46 
     profession: Ekonomka
     party: Piráti
-  - name: Martin Karel Světlík
-    age: 44 
-    profession: Učitel
-    party: Bez politické příslušnosti
   - name: František Pudil
     age: 57 
     profession: OSVČ
@@ -90,26 +82,18 @@ tail: # zbytek kandidatky
     age: 54 
     profession: Programátor
     party: Piráti
-  - name: Bc. Markéta Světlíková
-    age: 47 
-    profession: Průvodkyně
-    party: Bez politické příslušnosti
-  - name: Jakub Konvička
-    age: 18 
-    profession: Student
-    party: Bez politické příslušnosti
   - name: Adam Pospíšil
-    age: 28 
+    age: 28
     profession: Student
-    party: Bez politické příslušnosti
+    party: Piráti
   - name: Jack Vachata
     age: 18 
     profession: Student
     party: Bez politické příslušnosti
-  - name: Matouš Lébr
-    age: 24 
-    profession: Podnikatel
-    party: Bez politické příslušnosti
+  - name: Ing. Ana Tirdea
+    age: 26
+    profession: Finanční analytik
+    party: Piráti
   - name: Mgr. Ondřej Prcín
     age: 46 
     profession: Web developer
@@ -122,10 +106,6 @@ tail: # zbytek kandidatky
     age: 40 
     profession: Animátor
     party: Bez politické příslušnosti
-  - name: Bohuslav Chalupecký
-    age: 57 
-    profession: Manažer
-    party: Bez politické příslušnosti
   - name: Martin Zvelebil
     age: 36 
     profession: Kavárník
@@ -134,6 +114,26 @@ tail: # zbytek kandidatky
     age: 52 
     profession: Vizážistka
     party: Bez politické příslušnosti
+  - name: Bohuslav Chalupecký
+    age: 57 
+    profession: Manažer
+    party: Bez politické příslušnosti
+  - name: Martina Tesařová
+    age: 54 
+    profession: Výtvarnice
+    party: Piráti
+  - name: Vojtěch Stolbenko
+    age: 23
+    profession: Umělec
+    party: Piráti
+  - name: Lea Bradáčová
+    age: 33
+    profession: IT specialista
+    party: Piráti
+  - name: Tomáš Brychta
+    age: 45
+    profession: OSVČ
+    party: Piráti
   - name: Mikoláš Belec
     age: 25 
     profession: SW architekt
