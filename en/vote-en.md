@@ -4,7 +4,7 @@ category:     blog
 tags:         
 layout:       post
 title:        "As an EU citizen, you CAN vote in the municipal elections!" 
-image:        ??
+image:        brand/logo.png
 author:       Marek Förster
 ---
 
