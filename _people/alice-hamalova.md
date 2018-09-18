@@ -4,7 +4,6 @@ name: Alice Hamalová	# běžně používáné jméno
 fullname: Alice Hamalová
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
-- mc
 img: 		people/alice-hamalova.jpg    # 165 x 220
 description:            	        			# kratký popis, max 160 znaků
 mail:
