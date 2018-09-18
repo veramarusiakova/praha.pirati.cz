@@ -10,9 +10,6 @@ leader:
 "
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: martin.arden
-    age: 51
-    profession: pastorační pracovník
   - uid: jiri.svrcek
     age: 26
     profession: dendrolog
