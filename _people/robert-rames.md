@@ -1,16 +1,16 @@
 ---
-uid: pavel.nazarsky
-name:     Pavel Nazarský  	# běžně používáné jméno
+uid: robert.rames
+name:     Robert Rameš  	# běžně používáné jméno
 titles:
-  before: Ing. 
+  before:  
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mc
-img: people/pavel-nazarsky.jpg   # 165 x 220
+#img: people/pavel-nazarsky.jpg  
 description:             	# kratký popis, max 160 znaků
 mail:
-- pavel.nazarsky@pirati.cz
+- robert.rames@pirati.cz
 mob:			  +420 735 076 699
 profiles:
   github:                 

@@ -164,12 +164,12 @@ tail: # zbytek kandidatky
     profession: inženýr
     party: Piráti
     url: /lide/michal-stepan/
-  - name: Ingr. Ladislav Koubek
+  - name: Ing. Ladislav Koubek
     age: 39
     profession: expert OSN na rozvojovou pomoc a projektový manažer
     party: Piráti
     url: /lide/ladislav-koubek/
-  - name: Ingr. Ivan Mikoláš
+  - name: Ing. Ivan Mikoláš
     uid: ivan.mikolas
     age: 53
     profession: technik
@@ -189,7 +189,7 @@ tail: # zbytek kandidatky
     profession: ministerský rada na MV
     party: Piráti
     url: /lide/michal-koci/
-  - name: Ingr. Gabriela Lněničková, M.B.A.
+  - name: Ing. Gabriela Lněničková, M.B.A.
     age: 39
     profession: projektová manažerka
     party: Piráti
