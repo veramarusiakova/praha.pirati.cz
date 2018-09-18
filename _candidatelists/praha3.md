@@ -10,22 +10,18 @@ leader:
 "
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: martin.arden
-    age: 51
-    profession: pastorační pracovník
   - uid: jiri.svrcek
     age: 26
     profession: dendrolog
   - uid: jana.belecova
     age: 41
     profession: OSVČ
+  - uid: jan.bartko
+    age: 28
+    profession: analytik
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - name: Jan Bartko
-    age: 28 
-    profession: Analytik
-    party: Piráti
   - name: JUDr. Pavel Musil
     age: 45 
     profession: Advokát
