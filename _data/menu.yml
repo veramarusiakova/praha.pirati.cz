@@ -23,7 +23,7 @@ main:
     name: Připoj se
     match: pripoj-se
   - link: /mestske-casti/
-    name: Městckské části
+    name: Městské části
     match: mestske-casti
   - link: /o-nas/
     name: O nás
