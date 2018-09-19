@@ -78,6 +78,10 @@ tail: # zbytek kandidatky
     age: 33 
     profession: Uklízečka
     party: Bez politické příslušnosti
+  - name: Mgr. Nikol Marhounová
+    age: 28 
+    profession: sociální prac.
+    party: Piráti   
   - name: Ing. Roman Nováček
     age: 54 
     profession: Programátor
