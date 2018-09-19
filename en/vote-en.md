@@ -8,6 +8,17 @@ image:        brand/logo.png
 author:       Marek Förster
 ---
 
+**Pirate Party program in English!**
+
+* [Transportation](/en/program/doprava.html)
+* [Culture and Tourism](/en/program/kultura-a-cestovni-ruch.html)
+* [Modern City](/en/program/moderni-mesto.html)
+* [Open City Hall](/en/program/otevrena-radnice.html)
+* [Education, Sport and Leisure](/en/program/skolstvi-sport-a-volny-cas.html)
+* [Urban development, housing, social services](/en/program/uzemni-rozvoj-bydleni-socialni-sluzby.html)
+* [Health and Security](/en/program/zdravi-a-bezpecnost.html)
+* [Environment](/en/program/zivotni-prostredi.html)
+
 If you are over 18 years old on at least on the second day of the elections and **an EU citizen with temporary or permanent residence in Prague**, you can! You can vote for the City assembly and also for your district assembly.
 
 # How to register
@@ -50,12 +61,7 @@ You have as many votes as there are members of the council that are being electe
 
 If you want to support the whole list of a **single party**, you just mark a large cross in the heading of the column that has the name of the party. That is the best support to the whole party and we recommend this.
 
-In Prague, we, Pirates, have loted number 11 for the city assembly
-
-<div style="text-align:center">
-<img src="https://jihomoravsky.pirati.cz/assets/img/posts/ballot.jpg" style="max-width:100%">
-</div>
-
+In Prague, we, Pirates, have loted number 11 for the city assembly.
 
 You can also spread your votes to candidates from **different parties** across the ballot paper by marking small crosses beside the names of the candidates. However you must not mark more people than are the seats available for the assembly you vote for. If you mark more than this, your vote will be invalid. 
 

@@ -1,5 +1,5 @@
 ---
-title: Urban planning, living and social services
+title: Urban planning, housing and social services
 campaignCategoryUid: praha2018-en
 img: program/psp2017/mistni-rozvoj.svg
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41531
@@ -7,12 +7,12 @@ campaignGroupUid: volby-2018-en # identifier of the group, to be used in program
 garant: vit.simral
 relatives: []
 perex: >
-  The general public is currently facing an unprecedented growth of rent or aparments costs. This trend is a result of failures both political and administrative in housing policy. It is caused by the central government, the local authority as well as city districts. We will initiate steps to stop this trend in the 2018–2022 term. 
+  The general public is currently facing an unprecedented growth of rent or housing costs. This trend is a result of failures both political and administrative in housing policy. It is caused by the central government, the local authority as well as city districts. We will initiate steps to stop this trend in the 2018–2022 term. 
 ---
 
-# Living available for all
+# Housing available for all
 
-*The general public is currently facing an unprecedented growth of rent or aparments costs. This trend is a result of failures both political and administrative in housing policy. It is caused by the central government, the local authority as well as city districts. We will initiate steps to stop this trend in the 2018–2022 term.*
+*The general public is currently facing an unprecedented growth of rent or housing costs. This trend is a result of failures both political and administrative in housing policy. It is caused by the central government, the local authority as well as city districts. We will initiate steps to stop this trend in the 2018–2022 term.*
 
 ### The city and its people define the course
 * **We will plan a long-term strategy for city development**, that will last for more
@@ -39,7 +39,7 @@ will be minimal. Most of the steps should be doable over the Internet.
 When a new part of the city is build, the real estate developer gets all the profits
 and takes no part in managing the externalities he created. Changes in the urban plan must be done in the name of the
 interest of the local people. 
-* **We'll support cooperates, baugruppes and further alternatives for commercial apartment construction**.
+* **We'll support cooperates, baugruppes and further alternatives for commercial housing**.
 The Pirates think that other approaches than just building for profit are possible.
 Prague offers enough land for small construction projects, where big companies can't 
 make any profit. The city should help cooperatives and other groups to facilitate
