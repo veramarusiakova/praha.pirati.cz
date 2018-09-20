@@ -31,7 +31,7 @@ rbar:
 ## Kraské schůze
 
 **30. 8. Krajská schůze** - příprava na start horké fáze kampaně, fasování nových pirátských listů  
-**20. 9.  Krajská schůze** - 14 dní do voleb, poslední instrukce, hecování se do superintenzivní kontaktní kampaně  
+~~**20. 9.  Krajská schůze** - 14 dní do voleb, poslední instrukce, hecování se do superintenzivní kontaktní kampaně~~ Nebude. Plánovalo se to v době , kdy nebyly v úterý volební štáby.  
 **11. 10. Povolební schůze** - představování novopečených zastupitelů, hodnocení výsledků voleb 
 
 ## Vyvětste Pirátskou plachtu.
