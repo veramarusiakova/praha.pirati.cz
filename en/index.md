@@ -1,11 +1,10 @@
 ---
-date:         2018-09-17
-category:     blog
-tags:         
-layout:       post
+layout:       page
 title:        "As an EU citizen, you CAN vote in the municipal elections!" 
-image:        brand/logo.png
-author:       Marek Förster
+img: miscellaneous/volebni-rozcestnik.png
+campaignGroupUid: volby-2018-en  # identifier of the group, to be used in program point
+rbar:
+  - program
 ---
 
 **Pirate Party program in English!**

@@ -1,5 +1,6 @@
 ---
 layout: page
+img: miscellaneous/volebni-rozcestnik.png
 article-boxes:
   - title: "Rozdávání Pirátských listů"
     image: /assets/img/pripoj-se/noviny.jpg
