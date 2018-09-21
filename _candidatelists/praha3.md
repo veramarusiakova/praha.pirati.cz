@@ -78,6 +78,10 @@ tail: # zbytek kandidatky
     age: 33 
     profession: Uklízečka
     party: Bez politické příslušnosti
+  - name: Mgr. Nikol Marhounová
+    age: 28 
+    profession: sociální prac.
+    party: Piráti   
   - name: Ing. Roman Nováček
     age: 54 
     profession: Programátor
@@ -85,7 +89,7 @@ tail: # zbytek kandidatky
   - name: Adam Pospíšil
     age: 28
     profession: Student
-    party: Piráti
+    party: Bez politické příslušnosti
   - name: Jack Vachata
     age: 18 
     profession: Student
@@ -93,7 +97,7 @@ tail: # zbytek kandidatky
   - name: Ing. Ana Tirdea
     age: 26
     profession: Finanční analytik
-    party: Piráti
+    party: Bez politické příslušnosti
   - name: Mgr. Ondřej Prcín
     age: 46 
     profession: Web developer
@@ -121,19 +125,19 @@ tail: # zbytek kandidatky
   - name: Martina Tesařová
     age: 54 
     profession: Výtvarnice
-    party: Piráti
+    party: Bez politické přílslušnosti
   - name: Vojtěch Stolbenko
     age: 23
     profession: Umělec
-    party: Piráti
+    party: Bez politické příslušnosti
   - name: Lea Bradáčová
     age: 33
     profession: IT specialista
-    party: Piráti
+    party: Bez politické příslušnosti
   - name: Tomáš Brychta
     age: 45
     profession: OSVČ
-    party: Piráti
+    party: Bez politické příslušnosti
   - name: Mikoláš Belec
     age: 25 
     profession: SW architekt

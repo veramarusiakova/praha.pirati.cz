@@ -1,6 +1,6 @@
 ---
 uid: zdenek.hrib
-name:    Zdeňek Hřib
+name:    Zdeněk Hřib
 titles:
   before: MUDr. 
   after:
