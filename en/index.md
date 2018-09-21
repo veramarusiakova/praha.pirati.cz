@@ -9,14 +9,14 @@ rbar:
 
 **Pirate Party program in English!**
 
-* [Transportation](/en/program/doprava)
-* [Culture and Tourism](/en/program/kultura-a-cestovni-ruch)
-* [Modern City](/en/program/moderni-mesto)
-* [Open City Hall](/en/program/otevrena-radnice)
-* [Education, Sport and Leisure](/en/program/skolstvi-sport-a-volny-cas)
-* [Urban development, housing, social services](/en/program/uzemni-rozvoj-bydleni-socialni-sluzby)
-* [Health and Security](/en/program/zdravi-a-bezpecnost)
-* [Environment](/en/program/zivotni-prostredi)
+* [Transportation](/_program/english2018/doprava)
+* [Culture and Tourism](/_program/english2018/kultura-a-cestovni-ruch)
+* [Modern City](/_program/english2018/moderni-mesto)
+* [Open City Hall](/_program/english2018/otevrena-radnice)
+* [Education, Sport and Leisure](/_program/english2018/skolstvi-sport-a-volny-cas)
+* [Urban development, housing, social services](/_program/english2018/uzemni-rozvoj-bydleni-socialni-sluzby)
+* [Health and Security](/_program/english2018/zdravi-a-bezpecnost)
+* [Environment](/_program/english2018/zivotni-prostredi)
 
 If you are over 18 years old on at least on the second day of the elections and **an EU citizen with temporary or permanent residence in Prague**, you can! You can vote for the City assembly and also for your district assembly.
 
