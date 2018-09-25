@@ -24,11 +24,11 @@ tail: # zbytek kandidatky
       # věk se uvádí k poslednímu dni voleb
   - name: JUDr. Pavel Musil
     age: 45 
-    profession: Advokát
+    profession: advokát
     party: Bez politické příslušnosti
   - name: DiS. Margita Brychtová
     age: 35 
-    profession: Rodičovská dov.
+    profession: rodičovská dov.
     party: Piráti
   - name: Mgr. František Doseděl
     age: 31
@@ -36,11 +36,11 @@ tail: # zbytek kandidatky
     party: Piráti
   - name: Anna Kratochvílová
     age: 28 
-    profession: Polit. konzultantka 
+    profession: polit. konzultantka 
     party: Piráti
   - name: Martin Chour
     age: 19 
-    profession: Student
+    profession: student
     party: Bez politické příslušnosti
   - name: Martin Sumerauer
     age: 49 
@@ -48,7 +48,7 @@ tail: # zbytek kandidatky
     party: Piráti
   - name: Ing. Iveta Pospíšilová
     age: 46 
-    profession: Ekonomka
+    profession: ekonomka
     party: Piráti
   - name: František Pudil
     age: 57 
@@ -56,27 +56,27 @@ tail: # zbytek kandidatky
     party: Bez politické příslušnosti
   - name: Ing. Zdeněk Řeřicha
     age: 67 
-    profession: Technik
+    profession: technik
     party: Bez politické příslušnosti
   - name: MgA. Ondřej Elfmark
     age: 33 
-    profession: Designér
+    profession: designér
     party: Bez politické příslušnosti
   - name: Jan Maryško
     age: 23 
-    profession: Student
+    profession: student
     party: Bez politické příslušnosti
   - name: Jana Pudilová
     age: 60 
-    profession: Vrátná
+    profession: vrátná
     party: Bez politické příslušnosti
   - name: JUDr. Jaroslav Procházka
     age: 63 
-    profession: Advokát
+    profession: advokát
     party: Bez politické příslušnosti
   - name: Barbora Zubčeková
     age: 33 
-    profession: Uklízečka
+    profession: uklízečka
     party: Bez politické příslušnosti
   - name: Mgr. Nikol Marhounová
     age: 28 
@@ -84,51 +84,51 @@ tail: # zbytek kandidatky
     party: Piráti   
   - name: Ing. Roman Nováček
     age: 54 
-    profession: Programátor
+    profession: programátor
     party: Piráti
   - name: Adam Pospíšil
     age: 28
-    profession: Student
+    profession: student
     party: Bez politické příslušnosti
   - name: Jack Vachata
     age: 18 
-    profession: Student
+    profession: student
     party: Bez politické příslušnosti
   - name: Ing. Ana Tirdea
     age: 26
-    profession: Finanční analytik
+    profession: finanční analytik
     party: Bez politické příslušnosti
   - name: Mgr. Ondřej Prcín
     age: 46 
-    profession: Web developer
+    profession: web developer
     party: Bez politické příslušnosti
   - name: David Hathor Doseděl
     age: 51 
-    profession: Lektor osobního rozvoje
+    profession: lektor osobního rozvoje
     party: Bez politické příslušnosti
   - name: MgA. Zdeněk Durdil
     age: 40 
-    profession: Animátor
+    profession: animátor
     party: Bez politické příslušnosti
   - name: Martin Zvelebil
     age: 36 
-    profession: Kavárník
+    profession: kavárník
     party: Bez politické příslušnosti
   - name: Ing. Simona Bártová
     age: 52 
-    profession: Vizážistka
+    profession: vizážistka
     party: Bez politické příslušnosti
   - name: Bohuslav Chalupecký
     age: 57 
-    profession: Manažer
+    profession: manažer
     party: Bez politické příslušnosti
   - name: Martina Tesařová
     age: 54 
-    profession: Výtvarnice
+    profession: výtvarnice
     party: Bez politické přílslušnosti
   - name: Vojtěch Stolbenko
     age: 23
-    profession: Umělec
+    profession: umělec
     party: Bez politické příslušnosti
   - name: Lea Bradáčová
     age: 33
