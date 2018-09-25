@@ -11,7 +11,7 @@ perex: >
 
 * We will support culture and events initiated by and for the community, without the usual red tape. As Pirates we value our cultural heritage. Renovation over demolition.*
 
-### Culture by the community and in public spaces
+### Community culture and public space activities
 * **Support cultural and neighborhood-related events orchestrated by the community**.
 Simplify the bureaucracy that currently goes with the use of a public space for a limited time. Small community-related events will get our support. 
 * **Public spaces will be cultivated with art installations**.
