@@ -102,6 +102,7 @@ tail: # zbytek kandidatky
     age: 26
     profession: forenzní specialista na finanční zločin
     party: Piráti
+    uid: jiri.hoskovec
   - name: Štěpán Štrébl
     uid: stepan.strebl
     age: 27
