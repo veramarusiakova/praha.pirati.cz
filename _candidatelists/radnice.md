@@ -117,6 +117,7 @@ tail: # zbytek kandidatky
     profession: právnička
     party: Piráti
   - name: Marek Paris, M.A.
+    uid: marek.paris
     age: 26
     profession: analytik ve zdravotnictví
     party: Piráti
