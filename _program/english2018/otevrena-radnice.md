@@ -15,7 +15,7 @@ Today our capital is facing an issue of completely untransparent city companies
  managing tens of billions of CZK a year. Citizens as well as anti-corruption 
 activists must have an anccess to the necessary amount of information so that 
 they could check what the politicians are doing. We will bring citizens to 
-the the process of decisionmaking in the city. *
+the the process of decisionmaking in the city.*
 
 ### Everyting will be published
 * **We will show the data to general public** Lists of invoices, rent contracts, analyses the

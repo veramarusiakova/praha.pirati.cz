@@ -29,7 +29,7 @@ will be replaced by firm and decent ones.
 * We will provide subsidies for **green roofs and vertical gardens, grass and flower lines.**
 * We will support **drinking fountains, regular fountains, creeks and bodies of water** that belong to the city. 
 
-### No more smog throttling
+### No more throttling by snow
 
 * **Modern technologies** will be used for further monitoring of air quality.
 * **Individual car transportation** will be regulated during smog alerts.

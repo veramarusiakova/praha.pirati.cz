@@ -9,10 +9,10 @@ perex: >
   We will support cultural and other events done by the people and with an accent on community-related events, without unnecessary bureaucracy. As Pirates we value our monuments and cultural heritage. We want to renovate more and demolish less. 
 ---
 
-*  We will support cultural and other events done by the people and with 
+* We will support cultural and other events done by the people and with 
 an accent on community-related events, without unnecessary bureaucracy. 
 As Pirates we value our monuments and cultural heritage. 
-We want to renovate more and demolish less. *
+We want to renovate more and demolish less.*
 
 ### Culture by the people in public space
 * **We will support arranging cultural and neighborhood-related events by the people**.
