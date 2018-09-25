@@ -1,5 +1,5 @@
 ---
-layout:       page
+layout:       blank-article
 title:        "As an EU citizen, you CAN vote in the municipal elections!" 
 img: miscellaneous/volebni-rozcestnik.png
 campaignGroupUid: volby-2018-en  # identifier of the group, to be used in program point
