@@ -8,7 +8,7 @@ leader:
   profession: manažer a informatik
   description: "<ul><li>pochází z rodiny architektů, sám se však rozhodl pro lékařskou dráhu</li>
  </li><li> po vystudování na lékařské fakultě v Praze se začal věnovat výzkumu kvality a efektivity veřejných služeb
- </li><li> byl členem několika pracovních skupin k tématu informatiky a kvality služeb na úrovni ministerstva, Světové zdravotnické organizace a EU </li><li> je ředitelem obecně prospěšné společnosti Institut pro aplikovaný výzkum, edukaci a řízení ve zdravotnictví </li><li> je ženatý, má tři děti </li>
+ </li><li> byl členem několika pracovních skupin k tématu informatiky a kvality služeb na úrovni ministerstva, Světové zdravotnické organizace a EU </li><li> je ženatý, má tři děti </li>
 </ul>
 "
 

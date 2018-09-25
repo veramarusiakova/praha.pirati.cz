@@ -6,7 +6,7 @@ leader:
   uid: pavel.nazarsky
   age: 56
   profession: učitel na prvním stupni základní školy
-  description: "Je kurátorem Kabinetu architektury, který je jediným členem ICAM (Mezinárodní konfederace architektonických muzeí / International Confederation of Architectural Museums) v České republice.
+  description: "Je učitelem na základní škole Na Chodovci na Praze 4.
 "
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
