@@ -13,4 +13,4 @@ Bugy
 
 - drobné překlepy, špatné odkazy atd rovnou opravujte / vyrábějte pull requesty připadně napište Honzovy Loužkovy
 - strukturálný chyby u kterých je jasné že jde o thema dávejte do [issues](https://github.com/pirati-web/jekyll-theme-pirati/issues) thematu
-- ostaní do [podatelny to](https://redmine.pirati.cz/projects/ps/wiki/Podatelna)
+- ostaní do [podatelny TO](https://redmine.pirati.cz/projects/ps/wiki/Podatelna)
