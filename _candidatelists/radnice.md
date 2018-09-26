@@ -109,10 +109,12 @@ tail: # zbytek kandidatky
     profession: manažer
     party: Piráti
   - name: Mgr. David Bodeček
+    uid: david.bodecek
     age: 38
     profession: pedagog a procesní analytik
     party: Piráti
   - name: Ing. Kornélia Gottmannová
+    uid: kornelia.gottmanova
     age: 46
     profession: právnička
     party: Piráti
@@ -127,16 +129,18 @@ tail: # zbytek kandidatky
     profession: politolog
     party: Piráti
   - name: Michal Novák, M.B.A.
+    uid: michal.novak
     age: 46
     profession: obchodní poradce
     party: Piráti
     url: /lide/michal-novak/
   - name: Mgr. David Satke
+    uid: david.satke
     age: 35
     profession: advokát
     party: Piráti
-    url: /lide/david-satke/
   - name: Bc. Jiří Koudelka
+    uid: jiri.koudelka
     age: 37
     profession: programátor
     party: Piráti

@@ -1,5 +1,5 @@
 ---
-uid: kornelia.gottmannova
+uid: kornelia.gottmanova
 name:     Kornélia Gottmanová  	# běžně používáné jméno
 titles:
   before: Ing. 
