@@ -48,7 +48,9 @@ layout: default
               {% if candidates %}<i class="fa fa-users"></i><a href="{{candidates.url}}">Kandidátka {{region.full_name}}</a><br />{% endif %}
             {% if region.link %}<i class="fa fa-globe"></i><a href={{region.link}}>Web Piráti {{region.full_name}}</a><br />{% endif %}
             {% if region.facebook %}<i class="fa fa-facebook-square"></i><a href={{region.facebook}}>FB Piráti {{region.full_name}}</a><br />{% endif %}
-              </p>
+            <i class="fa fa-address-book"></i><a href=praha{{cislo}}.html>Kandidátní listina</a><br />
+
+	    </p>
     </div>
     {% endif %}
     {% endfor %}
