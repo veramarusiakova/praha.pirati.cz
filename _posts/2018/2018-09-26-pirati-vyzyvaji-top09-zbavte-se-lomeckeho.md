@@ -16,4 +16,6 @@ Zdeněk Hřib se rozhodl Jiřího Pospíšila otevřeným dopisem oslovit proto,
 
 > „Jednání starosty Lomeckého zcela jistě není souladu s [Hodnotovým desaterem TOP 09](https://www.top09.cz/proc-nas-volit/hodnotove-desatero/). Věřím, že učinit jeho praktikám přítrž musíte především Vy v rámci Vaší strany,“ píše v dopise pirátský kandidát na primátora.
 
+### Odkazy 
 
+* [Text otevřeného dopisu](https://github.com/pirati-web/praha.pirati.cz/blob/master/assets/pdf/otevreny-dopis-pospisilovi.pdf)
