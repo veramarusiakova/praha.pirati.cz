@@ -48,7 +48,7 @@ Vyvěste si plachtu s pirátským heslem na plot nebo z okna. Plachty rozdávám
 * Na první kontakt doporučujeme přijít na **krajskou schůzi** nebo na **Pirátské úterý**, viz [kalendář](kalendar/#praha).
 
 
-## Datazník
+## Dotazník
 <div>
 	<a href="https://docs.google.com/forms/d/17MEmWfP4hyHO8On9V_PUTuWNDtS89bdhfomnyMfHoqY/viewform?edit_requested=true">
 		<img src="{{"/assets/img/pripoj-se/dotaznik.png" }}" style="margin-top:10px;width:100%" alt="Pirátský dotazník"/>
@@ -59,8 +59,7 @@ Vyvěste si plachtu s pirátským heslem na plot nebo z okna. Plachty rozdávám
 </div>
 
 ## Kalendář akcí
-{% assign kalendar = site.pages | where:"url","/kalendar/" | first %}
-{{kalendar.content}}
+
 <iframe 
 	src="{{site.calendar.page}}"
 	style="border-width:0" 
