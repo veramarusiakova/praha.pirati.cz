@@ -3,10 +3,10 @@ title: Kandidátka na radnici Prahy 4
 uid: praha-4
 # number: 8 odkomentujte prosím až bude zveřejněno
 leader: 
-   - uid: tibor.vansa
-    age: 34
-    profession: analytik finančních rizik v bankovnictví
-    description: "Předseda Pirátů na Praze 4, kandidát na starostu. Ve straně působí 2 roky, je odborným garantem celostátního programového bodu finance.
+  uid: tibor.vansa
+  age: 34
+  profession: analytik finančních rizik v bankovnictví
+  description: "Předseda Pirátů na Praze 4, kandidát na starostu. Ve straně působí 2 roky, je odborným garantem celostátního programového bodu finance.
 "
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
@@ -25,7 +25,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-   - name:  Šandor Matej JUDr., Ph.D.
+   - name: Šandor Matej JUDr. Ph.D.
      age: 34
      party: Piráti
      profession: právník a manažer
@@ -184,5 +184,5 @@ tail: # zbytek kandidatky
    - name: Kučerová Lenka Mgr.
      age: 64
      party: Bez politické příslušnosti
-     profession: meteorolog
+   - profession: meteorolog
 ---

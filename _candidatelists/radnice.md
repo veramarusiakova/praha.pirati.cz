@@ -151,10 +151,10 @@ tail: # zbytek kandidatky
     profession: učitel
     party: Piráti
   - name: Jaroslava Vatay
+    uid: jaroslava.vatay
     age: 38
     profession: produkční a invalidní důchodce
     party: Piráti
-    url: /lide/jaroslava-vatay/
   - name: Jaroslav Němec
     age: 40
     profession: výtvarník a kurátor architektonických výstav
