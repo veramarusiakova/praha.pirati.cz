@@ -2,7 +2,7 @@
 uid: petra.rejchrtova
 name:     Petra Rejchrtová  	# běžně používáné jméno
 titles:
-  before: Mgr. 
+  before: Ing. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
