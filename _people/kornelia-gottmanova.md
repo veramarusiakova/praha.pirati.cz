@@ -1,6 +1,6 @@
 ---
-uid: kornelia.gottmanova
-name:     Kornélia Gottmanová  	# běžně používáné jméno
+uid: kornelia.gottmannova
+name:     Kornélia Gottmannová  	# běžně používáné jméno
 titles:
   before: Ing. 
   after:
