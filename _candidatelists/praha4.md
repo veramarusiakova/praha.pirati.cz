@@ -12,9 +12,7 @@ leader:
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: jan.hora
     age: 34
-    profession: profesor a programátor
-    description: "Vystudoval aplikovanou informatiku na VŠE a povoláním je analytik/programátor. Postupně pracoval pro několik menších i větších firem a v průběhu té doby se zajímal o politické dění a občas se do něj i aktivně zapojoval.
-"
+    profession: programátor a analytik    
   - uid: petra.rejchrtova
     age: 49
     profession: učitelka
