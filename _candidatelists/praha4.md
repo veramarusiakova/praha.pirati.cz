@@ -12,7 +12,7 @@ leader:
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: jan.hora
     age: 34
-    profession: profesor a programátor
+    profession: programátor a analytik    
   - uid: petra.rejchrtova
     age: 49
     profession: učitelka
