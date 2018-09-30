@@ -184,5 +184,5 @@ tail: # zbytek kandidatky
    - name: Kučerová Lenka Mgr.
      age: 64
      party: Bez politické příslušnosti
-   - profession: meteorolog
+     profession: meteorolog
 ---
