@@ -20,10 +20,9 @@ date:         2016-07-07
 > aby byli důvěryhodnou alternativou k současné vládě zlodějů a podvodníků.
 > — Míša Krausová, koordinátorka pražských dobrovolníků
 
-Pirátské listy vychází nepravidelně dvakrát do roka - na jaře a v pondělí.
+Pirátské listy vychází nepravidelně dvakrát do roka – na jaře a na podzim.
 Noviny píší a rozdávají dobrovolníci a jako všechny Pirátské kampaně jsou
-i Pirátské listy nízkonákladovým projektem.
-
+i Pirátské listy nízkonákladovým projektem. Aktuálně [rozdáváme podzimní Pirátské listy](/assets/pdf/piratske-listy-2018-praha.pdf).
 
 Aktuálně je naším cílem:
 
