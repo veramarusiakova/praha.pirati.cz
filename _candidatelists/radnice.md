@@ -114,7 +114,7 @@ tail: # zbytek kandidatky
     profession: pedagog a procesní analytik
     party: Piráti
   - name: Ing. Kornélia Gottmannová
-    uid: kornelia.gottmanova
+    uid: kornelia.gottmannova
     age: 46
     profession: právnička
     party: Piráti
