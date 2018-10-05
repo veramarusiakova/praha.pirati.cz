@@ -18,4 +18,4 @@ Zdeněk Hřib se rozhodl Jiřího Pospíšila otevřeným dopisem oslovit proto,
 
 ### Odkazy 
 
-* [Text otevřeného dopisu](https://github.com/pirati-web/praha.pirati.cz/blob/master/assets/pdf/otevreny-dopis-pospisilovi.pdf)
+* [Text otevřeného dopisu](https://praha.pirati.cz/assets/pdf/otevreny-dopis-pospisilovi.pdf)
