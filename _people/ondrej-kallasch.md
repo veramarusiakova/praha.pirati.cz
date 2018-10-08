@@ -8,7 +8,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - mhmp
 img: 		people/ondrej-kallasch.jpg    # 165 x 220
-description: 			Zastupitel Pirátů v zastupitelstvu hlavního města Prahy se specializací na oblast informatiky, zastupitel na městské části Praha 22             	        			# kratký popis, max 160 znaků
+description: 			zastupitel hl. m. Prahy, zastupitel městské části Praha 22        	        			# kratký popis, max 160 znaků
 mail:
 - ondrej.kallasch@pirati.cz
 mob: 				+420 720 474 822
@@ -16,7 +16,7 @@ profiles:
   facebook: https://www.facebook.com/kallasch
   twitter: https://twitter.com/OndrejKallasch
   flickr: https://www.flickr.com/search/?text=ond%C5%99ej%20kallasch
-ordpraha: 2
+ordpraha: 13
 carousel:
   img: ondrej-kallasch.jpg
   text: |
@@ -27,4 +27,6 @@ Ondřej Kallasch (* 12. března 1991) je nastupující zastupitel Pirátů v Zas
 
 Vystudoval Střední průmyslovou školu na Proseku. V průběhu studia se specializoval na obnovitelné zdroje energie, třikrát se zúčastnil soutěže Enersol v které vypracovával seminární práce na téma obnovitelné zdroje energie. V roce 2010 úspěšně složil maturitní zkoušku. V letech 2011–2013 byl místopředsedou pražské krajské organizace Pirátské strany. V roce 2014 byl zvolen do zastupitelstva městské části Praha 22 a od té doby se věnuje komunální politice. V roce 2017 se jako druhý náhradník na kandidátní listině Pirátů stal pražským zastupitelem.
 
-Mezi zájmy Ondřeje Kallasche patří informační technologie, sport, tanec, práce s lidmi, byrokracie, administrativa. Jeho největší snem je prosadit transparentní politiku na celostátní úrovni.
+Svůj mandát v roce 2018 obhájil, byl zvolen z 13. místa kandidátní listiny Pirátů ve volbách do obecních zastupitelstev v říjnu 2018. Rovněž byl opětovně zvolen i do zastupitelstva městské části Praha 22 na třetím místě kandidátní listiny Praha 22 – naše město.
+
+Mezi zájmy Ondřeje Kallasche patří informační technologie, sport, tanec, práce s lidmi, byrokracie, administrativa. Jeho největší snem je prosadit transparentní politiku na celostátní úrovni. 

@@ -18,7 +18,7 @@ profiles:
   facebook: 		  https://www.facebook.com/adam.zabransky
   twitter: 		  https://twitter.com/adamzabransky
   flickr:     		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=adam%20z%C3%A1bransk%C3%BD
-ordpraha: 1
+ordpraha: 2
 ordpks: 2
 ordcar: 2
 carousel:

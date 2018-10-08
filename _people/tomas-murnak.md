@@ -3,10 +3,11 @@ uid: tomas.murnak
 name:     Tomáš Murňák  	# běžně používáné jméno
 fullname: Tomáš Murňák  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- mhmp
 - praha
 - mc
 img: people/tomas-murnak.jpg   # 165 x 220
-description: zastupitel městské části Praha 13 za Piráty             	# kratký popis, max 160 znaků
+description: zastupitel hl. m. Prahy a městské části Praha 13 za Piráty             	# kratký popis, max 160 znaků
 mail:
 - tomas.murnak@pirati.cz
 mob:			  +420 604 330 995
@@ -15,6 +16,7 @@ profiles:
   facebook: 		  https://www.facebook.com/tomas.murnak
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?text=Tom%C3%A1%C5%A1%20Mur%C5%88%C3%A1k
+ordpraha: 8
 ---
 
 <div style="color: #000000; text-transform: none; font-size: 14px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #ffffff; font-variant-ligatures: normal; -webkit-text-stroke-text-decoration-style: initial;" class="level1">
