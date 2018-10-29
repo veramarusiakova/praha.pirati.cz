@@ -16,9 +16,9 @@ main:
   - link: /program/
     name: Program
     match: program
-  - link: /kandidatka/
-    name: Kandidátka
-    match: kandidatka
+  - link: /lide/
+    name: Naši lidé
+    match: lide
   - link: /pripoj-se/ 
     name: Připoj se
     match: pripoj-se
