@@ -5,7 +5,6 @@ titles:
   before: Mgr. 
   after: MPA
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- senat
 img: people/libor-michalek.jpg # 165 x 220
 description: Senátor za volební obvod Praha 2, nominovaný Pirátskou stranou             	# kratký popis, max 160 znaků
 mail:
