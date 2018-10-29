@@ -33,7 +33,7 @@ Základní dokumenty:
 ## Kde nás najdete
 
 **Pirátské centrum**  
-Řehořova 19, Praha 3, dolů po schodech
+Na Moráni 3, Praha 2, nahoru po schodech
 
 trvale zde ovšem nikdo není, je třeba si najít akci v [kalendáři][cal]
 
