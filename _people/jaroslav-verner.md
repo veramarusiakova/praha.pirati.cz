@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jaroslav-verner.jpg   # 165 x 220
 description:      	# kratký popis, max 160 znaků
 mail:
-- jaroslav.verner@pirati.cz
+- verner@pirati14.cz
 mob:			 
 profiles:
   github:       
