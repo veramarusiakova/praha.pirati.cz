@@ -29,15 +29,9 @@ rbar:
 ---
 
 
-## Kraské schůze
+## Krajské schůze
 
-**30. 8. Krajská schůze** - příprava na start horké fáze kampaně, fasování nových pirátských listů  
-~~**20. 9.  Krajská schůze** - 14 dní do voleb, poslední instrukce, hecování se do superintenzivní kontaktní kampaně~~ Nebude. Plánovalo se to v době , kdy nebyly v úterý volební štáby.  
-**11. 10. Povolební schůze** - představování novopečených zastupitelů, hodnocení výsledků voleb 
-
-## Vyvětste Pirátskou plachtu.
-
-Vyvěste si plachtu s pirátským heslem na plot nebo z okna. Plachty rozdáváme zdarma a v několika různých motivech. Pomozte nám být před volbami vidět! Registujte si plachtu přes [formulař](https://docs.google.com/forms/d/e/1FAIpQLSdtOrv8J1W_eKMGDQc5Sl9dSrbVDR7NMBSHYFPRSZvAqhyXKA/viewform).
+**8. 11. Krajská schůze** - Dozvíte se zprávy se Sněmovny, z Magistrátu, z městských částí, představí se zájemci o členství a zájemci o spolupráci s námi vůbec. 
 
 ## Další užitečné informace
 
